@@ -1,4 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&family=Noto+Serif+SC:wght@500;600;700&display=swap');
+
 :root {
+	color-scheme: light;
+
+  --color-background: #F7F5EF;
+  --color-surface: #FFFFFF;
+  --color-text: #243238;
+  --color-text-muted: #617276;
+  --color-primary: #54877B;
+  --color-primary-contrast: #FFFFFF;
+  --color-border: #DFE9E2;
+  --color-accent: #C18A59;
+
+	--font-ui: 'Inter', sans-serif;
+  --font-hanzi: 'Noto Sans SC', sans-serif;
+  --font-brand: 'Noto Serif SC', serif;
+
+	/* TODO: remove these when deprecated from all components */
   --text: #6b6375;
   --text-h: #08060d;
   --bg: #fff;
@@ -20,6 +38,8 @@
   color-scheme: light dark;
   color: var(--text);
   background: var(--bg);
+
+	/* TODO: stop removal here */
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -30,6 +50,20 @@
   }
 }
 
+[data-theme="dark"] {
+  color-scheme: dark;
+
+  --color-background: #151E20;
+  --color-surface: #233033;
+  --color-text: #F1F3EE;
+  --color-text-muted: #B0C0BD;
+  --color-primary: #88BCAE;
+  --color-primary-contrast: #152521;
+  --color-border: #354548;
+  --color-accent: #D5A373;
+}
+
+/* TODO: adjust for mobile here */
 @media (prefers-color-scheme: dark) {
   :root {
     --text: #9ca3af;
