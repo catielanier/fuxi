@@ -52,6 +52,8 @@
 
 body {
   margin: 0;
+	background: url('/src/assets/wallpaper.png');
+	background-size: cover;
 }
 
 h1,
