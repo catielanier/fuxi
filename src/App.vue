@@ -1,8 +1,7 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
- import firebase from './utils/firebase'
+ import Main from './components/Main.vue'
 </script>
 
 <template>
-  <HelloWorld />
+  <Main />
 </template>
