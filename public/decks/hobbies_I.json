@@ -1,0 +1,839 @@
+{
+  "id": "hobbies_I",
+  "title": "Hobbies I",
+  "language": "zh-Hans",
+  "source": "previously generated PDF",
+  "card_count": 100,
+  "cards": [
+    {
+      "hanzi": "爱好",
+      "pinyin": "àihào",
+      "english_answers": [
+        "hobby",
+        "interest"
+      ],
+      "english_gloss": "hobby / interest"
+    },
+    {
+      "hanzi": "兴趣",
+      "pinyin": "xìngqù",
+      "english_answers": [
+        "interest"
+      ],
+      "english_gloss": "interest"
+    },
+    {
+      "hanzi": "业余时间",
+      "pinyin": "yèyú shíjiān",
+      "english_answers": [
+        "spare time"
+      ],
+      "english_gloss": "spare time"
+    },
+    {
+      "hanzi": "参加",
+      "pinyin": "cānjiā",
+      "english_answers": [
+        "participate",
+        "join"
+      ],
+      "english_gloss": "participate / join"
+    },
+    {
+      "hanzi": "社团",
+      "pinyin": "shètuán",
+      "english_answers": [
+        "club",
+        "association"
+      ],
+      "english_gloss": "club / association"
+    },
+    {
+      "hanzi": "聚会",
+      "pinyin": "jùhuì",
+      "english_answers": [
+        "gathering",
+        "get-together"
+      ],
+      "english_gloss": "gathering / get-together"
+    },
+    {
+      "hanzi": "交朋友",
+      "pinyin": "jiāo péngyou",
+      "english_answers": [
+        "make friends"
+      ],
+      "english_gloss": "make friends"
+    },
+    {
+      "hanzi": "电子游戏",
+      "pinyin": "diànzǐ yóuxì",
+      "english_answers": [
+        "video games"
+      ],
+      "english_gloss": "video games"
+    },
+    {
+      "hanzi": "格斗游戏",
+      "pinyin": "gédòu yóuxì",
+      "english_answers": [
+        "fighting games"
+      ],
+      "english_gloss": "fighting games"
+    },
+    {
+      "hanzi": "街机",
+      "pinyin": "jiējī",
+      "english_answers": [
+        "arcade machine",
+        "arcade gaming"
+      ],
+      "english_gloss": "arcade machine / arcade gaming"
+    },
+    {
+      "hanzi": "游戏机",
+      "pinyin": "yóuxìjī",
+      "english_answers": [
+        "game console"
+      ],
+      "english_gloss": "game console"
+    },
+    {
+      "hanzi": "手柄",
+      "pinyin": "shǒubǐng",
+      "english_answers": [
+        "game controller"
+      ],
+      "english_gloss": "game controller"
+    },
+    {
+      "hanzi": "摇杆",
+      "pinyin": "yáogǎn",
+      "english_answers": [
+        "joystick",
+        "arcade stick"
+      ],
+      "english_gloss": "joystick / arcade stick"
+    },
+    {
+      "hanzi": "角色",
+      "pinyin": "juésè",
+      "english_answers": [
+        "character",
+        "role"
+      ],
+      "english_gloss": "character / role"
+    },
+    {
+      "hanzi": "主力角色",
+      "pinyin": "zhǔlì juésè",
+      "english_answers": [
+        "main character (gaming)"
+      ],
+      "english_gloss": "main character (gaming)"
+    },
+    {
+      "hanzi": "对战",
+      "pinyin": "duìzhàn",
+      "english_answers": [
+        "versus match"
+      ],
+      "english_gloss": "versus match"
+    },
+    {
+      "hanzi": "比赛",
+      "pinyin": "bǐsài",
+      "english_answers": [
+        "match",
+        "competition"
+      ],
+      "english_gloss": "match / competition"
+    },
+    {
+      "hanzi": "锦标赛",
+      "pinyin": "jǐnbiāosài",
+      "english_answers": [
+        "tournament",
+        "championship"
+      ],
+      "english_gloss": "tournament / championship"
+    },
+    {
+      "hanzi": "线下赛",
+      "pinyin": "xiànxià sài",
+      "english_answers": [
+        "in-person tournament"
+      ],
+      "english_gloss": "in-person tournament"
+    },
+    {
+      "hanzi": "报名",
+      "pinyin": "bàomíng",
+      "english_answers": [
+        "sign up",
+        "register"
+      ],
+      "english_gloss": "sign up / register"
+    },
+    {
+      "hanzi": "选手",
+      "pinyin": "xuǎnshǒu",
+      "english_answers": [
+        "competitor",
+        "player"
+      ],
+      "english_gloss": "competitor / player"
+    },
+    {
+      "hanzi": "淘汰赛",
+      "pinyin": "táotàisài",
+      "english_answers": [
+        "elimination tournament"
+      ],
+      "english_gloss": "elimination tournament"
+    },
+    {
+      "hanzi": "双败淘汰",
+      "pinyin": "shuāngbài táotài",
+      "english_answers": [
+        "double elimination"
+      ],
+      "english_gloss": "double elimination"
+    },
+    {
+      "hanzi": "半决赛",
+      "pinyin": "bànjuésài",
+      "english_answers": [
+        "semifinals"
+      ],
+      "english_gloss": "semifinals"
+    },
+    {
+      "hanzi": "决赛",
+      "pinyin": "juésài",
+      "english_answers": [
+        "finals"
+      ],
+      "english_gloss": "finals"
+    },
+    {
+      "hanzi": "冠军",
+      "pinyin": "guànjūn",
+      "english_answers": [
+        "champion"
+      ],
+      "english_gloss": "champion"
+    },
+    {
+      "hanzi": "连招",
+      "pinyin": "liánzhāo",
+      "english_answers": [
+        "combo (fighting games)"
+      ],
+      "english_gloss": "combo (fighting games)"
+    },
+    {
+      "hanzi": "必杀技",
+      "pinyin": "bìshājì",
+      "english_answers": [
+        "special move"
+      ],
+      "english_gloss": "special move"
+    },
+    {
+      "hanzi": "判定",
+      "pinyin": "pàndìng",
+      "english_answers": [
+        "hit detection",
+        "move judgment"
+      ],
+      "english_gloss": "hit detection / move judgment"
+    },
+    {
+      "hanzi": "帧数",
+      "pinyin": "zhēnshù",
+      "english_answers": [
+        "frame count"
+      ],
+      "english_gloss": "frame count"
+    },
+    {
+      "hanzi": "防御",
+      "pinyin": "fángyù",
+      "english_answers": [
+        "defend",
+        "block"
+      ],
+      "english_gloss": "defend / block"
+    },
+    {
+      "hanzi": "反击",
+      "pinyin": "fǎnjī",
+      "english_answers": [
+        "counterattack"
+      ],
+      "english_gloss": "counterattack"
+    },
+    {
+      "hanzi": "练习模式",
+      "pinyin": "liànxí móshì",
+      "english_answers": [
+        "training mode"
+      ],
+      "english_gloss": "training mode"
+    },
+    {
+      "hanzi": "复古游戏",
+      "pinyin": "fùgǔ yóuxì",
+      "english_answers": [
+        "retro video games"
+      ],
+      "english_gloss": "retro video games"
+    },
+    {
+      "hanzi": "动漫",
+      "pinyin": "dòngmàn",
+      "english_answers": [
+        "anime",
+        "comics"
+      ],
+      "english_gloss": "anime / comics"
+    },
+    {
+      "hanzi": "漫画",
+      "pinyin": "mànhuà",
+      "english_answers": [
+        "comics",
+        "manga"
+      ],
+      "english_gloss": "comics / manga"
+    },
+    {
+      "hanzi": "角色扮演",
+      "pinyin": "juésè bànyǎn",
+      "english_answers": [
+        "cosplay",
+        "role-playing"
+      ],
+      "english_gloss": "cosplay / role-playing"
+    },
+    {
+      "hanzi": "跳舞",
+      "pinyin": "tiàowǔ",
+      "english_answers": [
+        "dance"
+      ],
+      "english_gloss": "dance"
+    },
+    {
+      "hanzi": "舞蹈",
+      "pinyin": "wǔdǎo",
+      "english_answers": [
+        "dance",
+        "dancing"
+      ],
+      "english_gloss": "dance / dancing"
+    },
+    {
+      "hanzi": "芭蕾舞",
+      "pinyin": "bālěiwǔ",
+      "english_answers": [
+        "ballet"
+      ],
+      "english_gloss": "ballet"
+    },
+    {
+      "hanzi": "芭蕾舞课",
+      "pinyin": "bālěiwǔ kè",
+      "english_answers": [
+        "ballet class"
+      ],
+      "english_gloss": "ballet class"
+    },
+    {
+      "hanzi": "成人芭蕾",
+      "pinyin": "chéngrén bālěi",
+      "english_answers": [
+        "adult ballet"
+      ],
+      "english_gloss": "adult ballet"
+    },
+    {
+      "hanzi": "舞蹈教室",
+      "pinyin": "wǔdǎo jiàoshì",
+      "english_answers": [
+        "dance studio",
+        "classroom"
+      ],
+      "english_gloss": "dance studio / classroom"
+    },
+    {
+      "hanzi": "舞蹈老师",
+      "pinyin": "wǔdǎo lǎoshī",
+      "english_answers": [
+        "dance teacher"
+      ],
+      "english_gloss": "dance teacher"
+    },
+    {
+      "hanzi": "舞鞋",
+      "pinyin": "wǔxié",
+      "english_answers": [
+        "dance shoes"
+      ],
+      "english_gloss": "dance shoes"
+    },
+    {
+      "hanzi": "芭蕾舞鞋",
+      "pinyin": "bālěiwǔxié",
+      "english_answers": [
+        "ballet slippers"
+      ],
+      "english_gloss": "ballet slippers"
+    },
+    {
+      "hanzi": "足尖鞋",
+      "pinyin": "zújiānxié",
+      "english_answers": [
+        "pointe shoes"
+      ],
+      "english_gloss": "pointe shoes"
+    },
+    {
+      "hanzi": "把杆",
+      "pinyin": "bǎgān",
+      "english_answers": [
+        "ballet barre"
+      ],
+      "english_gloss": "ballet barre"
+    },
+    {
+      "hanzi": "扶把练习",
+      "pinyin": "fúbǎ liànxí",
+      "english_answers": [
+        "barre exercises"
+      ],
+      "english_gloss": "barre exercises"
+    },
+    {
+      "hanzi": "地面练习",
+      "pinyin": "dìmiàn liànxí",
+      "english_answers": [
+        "floor exercises"
+      ],
+      "english_gloss": "floor exercises"
+    },
+    {
+      "hanzi": "脚尖",
+      "pinyin": "jiǎojiān",
+      "english_answers": [
+        "tip of the toes"
+      ],
+      "english_gloss": "tip of the toes"
+    },
+    {
+      "hanzi": "绷脚",
+      "pinyin": "běngjiǎo",
+      "english_answers": [
+        "point the feet"
+      ],
+      "english_gloss": "point the feet"
+    },
+    {
+      "hanzi": "勾脚",
+      "pinyin": "gōujiǎo",
+      "english_answers": [
+        "flex the feet"
+      ],
+      "english_gloss": "flex the feet"
+    },
+    {
+      "hanzi": "踮脚",
+      "pinyin": "diǎnjiǎo",
+      "english_answers": [
+        "rise onto tiptoes"
+      ],
+      "english_gloss": "rise onto tiptoes"
+    },
+    {
+      "hanzi": "转圈",
+      "pinyin": "zhuànquān",
+      "english_answers": [
+        "spin",
+        "turn around"
+      ],
+      "english_gloss": "spin / turn around"
+    },
+    {
+      "hanzi": "旋转",
+      "pinyin": "xuánzhuǎn",
+      "english_answers": [
+        "rotation",
+        "turn"
+      ],
+      "english_gloss": "rotation / turn"
+    },
+    {
+      "hanzi": "跳跃",
+      "pinyin": "tiàoyuè",
+      "english_answers": [
+        "jump",
+        "leap"
+      ],
+      "english_gloss": "jump / leap"
+    },
+    {
+      "hanzi": "柔韧性",
+      "pinyin": "róurènxìng",
+      "english_answers": [
+        "flexibility"
+      ],
+      "english_gloss": "flexibility"
+    },
+    {
+      "hanzi": "平衡",
+      "pinyin": "pínghéng",
+      "english_answers": [
+        "balance"
+      ],
+      "english_gloss": "balance"
+    },
+    {
+      "hanzi": "姿势",
+      "pinyin": "zīshì",
+      "english_answers": [
+        "posture",
+        "position"
+      ],
+      "english_gloss": "posture / position"
+    },
+    {
+      "hanzi": "热身",
+      "pinyin": "rèshēn",
+      "english_answers": [
+        "warm up"
+      ],
+      "english_gloss": "warm up"
+    },
+    {
+      "hanzi": "拉伸",
+      "pinyin": "lāshēn",
+      "english_answers": [
+        "stretch"
+      ],
+      "english_gloss": "stretch"
+    },
+    {
+      "hanzi": "瑜伽",
+      "pinyin": "yújiā",
+      "english_answers": [
+        "yoga"
+      ],
+      "english_gloss": "yoga"
+    },
+    {
+      "hanzi": "瑜伽课",
+      "pinyin": "yújiā kè",
+      "english_answers": [
+        "yoga class"
+      ],
+      "english_gloss": "yoga class"
+    },
+    {
+      "hanzi": "瑜伽垫",
+      "pinyin": "yújiā diàn",
+      "english_answers": [
+        "yoga mat"
+      ],
+      "english_gloss": "yoga mat"
+    },
+    {
+      "hanzi": "体式",
+      "pinyin": "tǐshì",
+      "english_answers": [
+        "yoga pose",
+        "asana"
+      ],
+      "english_gloss": "yoga pose / asana"
+    },
+    {
+      "hanzi": "呼吸",
+      "pinyin": "hūxī",
+      "english_answers": [
+        "breathing",
+        "breathe"
+      ],
+      "english_gloss": "breathing / breathe"
+    },
+    {
+      "hanzi": "深呼吸",
+      "pinyin": "shēn hūxī",
+      "english_answers": [
+        "breathe deeply"
+      ],
+      "english_gloss": "breathe deeply"
+    },
+    {
+      "hanzi": "冥想",
+      "pinyin": "míngxiǎng",
+      "english_answers": [
+        "meditation"
+      ],
+      "english_gloss": "meditation"
+    },
+    {
+      "hanzi": "放松",
+      "pinyin": "fàngsōng",
+      "english_answers": [
+        "relax"
+      ],
+      "english_gloss": "relax"
+    },
+    {
+      "hanzi": "核心力量",
+      "pinyin": "héxīn lìliàng",
+      "english_answers": [
+        "core strength"
+      ],
+      "english_gloss": "core strength"
+    },
+    {
+      "hanzi": "夜店",
+      "pinyin": "yèdiàn",
+      "english_answers": [
+        "nightclub"
+      ],
+      "english_gloss": "nightclub"
+    },
+    {
+      "hanzi": "蹦迪",
+      "pinyin": "bèngdí",
+      "english_answers": [
+        "go clubbing"
+      ],
+      "english_gloss": "go clubbing"
+    },
+    {
+      "hanzi": "舞池",
+      "pinyin": "wǔchí",
+      "english_answers": [
+        "dance floor"
+      ],
+      "english_gloss": "dance floor"
+    },
+    {
+      "hanzi": "酒吧",
+      "pinyin": "jiǔbā",
+      "english_answers": [
+        "bar"
+      ],
+      "english_gloss": "bar"
+    },
+    {
+      "hanzi": "卡拉OK",
+      "pinyin": "kǎlā OK",
+      "english_answers": [
+        "karaoke"
+      ],
+      "english_gloss": "karaoke"
+    },
+    {
+      "hanzi": "扑克",
+      "pinyin": "pūkè",
+      "english_answers": [
+        "playing cards",
+        "poker"
+      ],
+      "english_gloss": "playing cards / poker"
+    },
+    {
+      "hanzi": "德州扑克",
+      "pinyin": "Dézhōu pūkè",
+      "english_answers": [
+        "Texas Hold'em"
+      ],
+      "english_gloss": "Texas Hold'em"
+    },
+    {
+      "hanzi": "筹码",
+      "pinyin": "chóumǎ",
+      "english_answers": [
+        "poker chips"
+      ],
+      "english_gloss": "poker chips"
+    },
+    {
+      "hanzi": "下注",
+      "pinyin": "xiàzhù",
+      "english_answers": [
+        "place a bet"
+      ],
+      "english_gloss": "place a bet"
+    },
+    {
+      "hanzi": "全押",
+      "pinyin": "quányā",
+      "english_answers": [
+        "all-in"
+      ],
+      "english_gloss": "all-in"
+    },
+    {
+      "hanzi": "冰球",
+      "pinyin": "bīngqiú",
+      "english_answers": [
+        "ice hockey"
+      ],
+      "english_gloss": "ice hockey"
+    },
+    {
+      "hanzi": "球员",
+      "pinyin": "qiúyuán",
+      "english_answers": [
+        "player (sports)"
+      ],
+      "english_gloss": "player (sports)"
+    },
+    {
+      "hanzi": "守门员",
+      "pinyin": "shǒuményuán",
+      "english_answers": [
+        "goalkeeper",
+        "goalie"
+      ],
+      "english_gloss": "goalkeeper / goalie"
+    },
+    {
+      "hanzi": "摄影",
+      "pinyin": "shèyǐng",
+      "english_answers": [
+        "photography"
+      ],
+      "english_gloss": "photography"
+    },
+    {
+      "hanzi": "拍照",
+      "pinyin": "pāizhào",
+      "english_answers": [
+        "take photographs"
+      ],
+      "english_gloss": "take photographs"
+    },
+    {
+      "hanzi": "旅行",
+      "pinyin": "lǚxíng",
+      "english_answers": [
+        "travel"
+      ],
+      "english_gloss": "travel"
+    },
+    {
+      "hanzi": "徒步",
+      "pinyin": "túbù",
+      "english_answers": [
+        "hiking",
+        "trekking"
+      ],
+      "english_gloss": "hiking / trekking"
+    },
+    {
+      "hanzi": "露营",
+      "pinyin": "lùyíng",
+      "english_answers": [
+        "camping"
+      ],
+      "english_gloss": "camping"
+    },
+    {
+      "hanzi": "骑自行车",
+      "pinyin": "qí zìxíngchē",
+      "english_answers": [
+        "ride a bicycle"
+      ],
+      "english_gloss": "ride a bicycle"
+    },
+    {
+      "hanzi": "游泳",
+      "pinyin": "yóuyǒng",
+      "english_answers": [
+        "swimming"
+      ],
+      "english_gloss": "swimming"
+    },
+    {
+      "hanzi": "跑步",
+      "pinyin": "pǎobù",
+      "english_answers": [
+        "running",
+        "jogging"
+      ],
+      "english_gloss": "running / jogging"
+    },
+    {
+      "hanzi": "健身",
+      "pinyin": "jiànshēn",
+      "english_answers": [
+        "fitness",
+        "working out"
+      ],
+      "english_gloss": "fitness / working out"
+    },
+    {
+      "hanzi": "读书",
+      "pinyin": "dúshū",
+      "english_answers": [
+        "reading books"
+      ],
+      "english_gloss": "reading books"
+    },
+    {
+      "hanzi": "看电影",
+      "pinyin": "kàn diànyǐng",
+      "english_answers": [
+        "watch movies"
+      ],
+      "english_gloss": "watch movies"
+    },
+    {
+      "hanzi": "下棋",
+      "pinyin": "xiàqí",
+      "english_answers": [
+        "play board games such as chess"
+      ],
+      "english_gloss": "play board games such as chess"
+    },
+    {
+      "hanzi": "绘画",
+      "pinyin": "huìhuà",
+      "english_answers": [
+        "painting",
+        "drawing"
+      ],
+      "english_gloss": "painting / drawing"
+    },
+    {
+      "hanzi": "做手工",
+      "pinyin": "zuò shǒugōng",
+      "english_answers": [
+        "do arts and crafts"
+      ],
+      "english_gloss": "do arts and crafts"
+    },
+    {
+      "hanzi": "钓鱼",
+      "pinyin": "diàoyú",
+      "english_answers": [
+        "fishing"
+      ],
+      "english_gloss": "fishing"
+    },
+    {
+      "hanzi": "园艺",
+      "pinyin": "yuányì",
+      "english_answers": [
+        "gardening"
+      ],
+      "english_gloss": "gardening"
+    }
+  ]
+}

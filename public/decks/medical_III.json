@@ -1,0 +1,828 @@
+{
+  "id": "medical_III",
+  "title": "Medical Iii",
+  "language": "zh-Hans",
+  "source": "previously generated PDF",
+  "card_count": 100,
+  "cards": [
+    {
+      "hanzi": "预约",
+      "pinyin": "yùyuē",
+      "english_answers": [
+        "book an appointment"
+      ],
+      "english_gloss": "book an appointment"
+    },
+    {
+      "hanzi": "挂号",
+      "pinyin": "guàhào",
+      "english_answers": [
+        "register for a medical visit"
+      ],
+      "english_gloss": "register for a medical visit"
+    },
+    {
+      "hanzi": "门诊",
+      "pinyin": "ménzhěn",
+      "english_answers": [
+        "outpatient clinic"
+      ],
+      "english_gloss": "outpatient clinic"
+    },
+    {
+      "hanzi": "急诊",
+      "pinyin": "jízhěn",
+      "english_answers": [
+        "emergency department"
+      ],
+      "english_gloss": "emergency department"
+    },
+    {
+      "hanzi": "住院",
+      "pinyin": "zhùyuàn",
+      "english_answers": [
+        "be admitted to hospital"
+      ],
+      "english_gloss": "be admitted to hospital"
+    },
+    {
+      "hanzi": "出院",
+      "pinyin": "chūyuàn",
+      "english_answers": [
+        "be discharged from hospital"
+      ],
+      "english_gloss": "be discharged from hospital"
+    },
+    {
+      "hanzi": "病房",
+      "pinyin": "bìngfáng",
+      "english_answers": [
+        "hospital ward",
+        "patient room"
+      ],
+      "english_gloss": "hospital ward / patient room"
+    },
+    {
+      "hanzi": "候诊",
+      "pinyin": "hòuzhěn",
+      "english_answers": [
+        "wait to see the doctor"
+      ],
+      "english_gloss": "wait to see the doctor"
+    },
+    {
+      "hanzi": "排队",
+      "pinyin": "páiduì",
+      "english_answers": [
+        "wait in line"
+      ],
+      "english_gloss": "wait in line"
+    },
+    {
+      "hanzi": "叫号",
+      "pinyin": "jiàohào",
+      "english_answers": [
+        "call the next queue number"
+      ],
+      "english_gloss": "call the next queue number"
+    },
+    {
+      "hanzi": "导诊台",
+      "pinyin": "dǎozhěntái",
+      "english_answers": [
+        "patient information",
+        "triage desk"
+      ],
+      "english_gloss": "patient information / triage desk"
+    },
+    {
+      "hanzi": "医生",
+      "pinyin": "yīshēng",
+      "english_answers": [
+        "doctor"
+      ],
+      "english_gloss": "doctor"
+    },
+    {
+      "hanzi": "护士",
+      "pinyin": "hùshi",
+      "english_answers": [
+        "nurse"
+      ],
+      "english_gloss": "nurse"
+    },
+    {
+      "hanzi": "专科医生",
+      "pinyin": "zhuānkē yīshēng",
+      "english_answers": [
+        "specialist doctor"
+      ],
+      "english_gloss": "specialist doctor"
+    },
+    {
+      "hanzi": "全科医生",
+      "pinyin": "quánkē yīshēng",
+      "english_answers": [
+        "general practitioner"
+      ],
+      "english_gloss": "general practitioner"
+    },
+    {
+      "hanzi": "家庭医生",
+      "pinyin": "jiātíng yīshēng",
+      "english_answers": [
+        "family doctor"
+      ],
+      "english_gloss": "family doctor"
+    },
+    {
+      "hanzi": "内科",
+      "pinyin": "nèikē",
+      "english_answers": [
+        "internal medicine"
+      ],
+      "english_gloss": "internal medicine"
+    },
+    {
+      "hanzi": "外科",
+      "pinyin": "wàikē",
+      "english_answers": [
+        "surgery department"
+      ],
+      "english_gloss": "surgery department"
+    },
+    {
+      "hanzi": "妇科",
+      "pinyin": "fùkē",
+      "english_answers": [
+        "gynecology"
+      ],
+      "english_gloss": "gynecology"
+    },
+    {
+      "hanzi": "皮肤科",
+      "pinyin": "pífūkē",
+      "english_answers": [
+        "dermatology"
+      ],
+      "english_gloss": "dermatology"
+    },
+    {
+      "hanzi": "精神科",
+      "pinyin": "jīngshénkē",
+      "english_answers": [
+        "psychiatry"
+      ],
+      "english_gloss": "psychiatry"
+    },
+    {
+      "hanzi": "耳鼻喉科",
+      "pinyin": "ěrbíhóukē",
+      "english_answers": [
+        "ear nose and throat (ENT)"
+      ],
+      "english_gloss": "ear nose and throat (ENT)"
+    },
+    {
+      "hanzi": "牙科",
+      "pinyin": "yákē",
+      "english_answers": [
+        "dentistry"
+      ],
+      "english_gloss": "dentistry"
+    },
+    {
+      "hanzi": "眼科",
+      "pinyin": "yǎnkē",
+      "english_answers": [
+        "ophthalmology"
+      ],
+      "english_gloss": "ophthalmology"
+    },
+    {
+      "hanzi": "检查",
+      "pinyin": "jiǎnchá",
+      "english_answers": [
+        "medical examination",
+        "check"
+      ],
+      "english_gloss": "medical examination / check"
+    },
+    {
+      "hanzi": "体检",
+      "pinyin": "tǐjiǎn",
+      "english_answers": [
+        "routine physical examination"
+      ],
+      "english_gloss": "routine physical examination"
+    },
+    {
+      "hanzi": "测血压",
+      "pinyin": "cè xuèyā",
+      "english_answers": [
+        "measure blood pressure"
+      ],
+      "english_gloss": "measure blood pressure"
+    },
+    {
+      "hanzi": "量体温",
+      "pinyin": "liáng tǐwēn",
+      "english_answers": [
+        "take temperature"
+      ],
+      "english_gloss": "take temperature"
+    },
+    {
+      "hanzi": "测心率",
+      "pinyin": "cè xīnlǜ",
+      "english_answers": [
+        "measure heart rate"
+      ],
+      "english_gloss": "measure heart rate"
+    },
+    {
+      "hanzi": "听诊",
+      "pinyin": "tīngzhěn",
+      "english_answers": [
+        "listen with a stethoscope"
+      ],
+      "english_gloss": "listen with a stethoscope"
+    },
+    {
+      "hanzi": "抽血",
+      "pinyin": "chōuxuè",
+      "english_answers": [
+        "draw blood"
+      ],
+      "english_gloss": "draw blood"
+    },
+    {
+      "hanzi": "验血",
+      "pinyin": "yànxuè",
+      "english_answers": [
+        "blood test"
+      ],
+      "english_gloss": "blood test"
+    },
+    {
+      "hanzi": "验尿",
+      "pinyin": "yànniào",
+      "english_answers": [
+        "urine test"
+      ],
+      "english_gloss": "urine test"
+    },
+    {
+      "hanzi": "血常规",
+      "pinyin": "xuè chángguī",
+      "english_answers": [
+        "complete blood count (CBC)"
+      ],
+      "english_gloss": "complete blood count (CBC)"
+    },
+    {
+      "hanzi": "血糖",
+      "pinyin": "xuètáng",
+      "english_answers": [
+        "blood sugar",
+        "glucose"
+      ],
+      "english_gloss": "blood sugar / glucose"
+    },
+    {
+      "hanzi": "胆固醇",
+      "pinyin": "dǎngùchún",
+      "english_answers": [
+        "cholesterol"
+      ],
+      "english_gloss": "cholesterol"
+    },
+    {
+      "hanzi": "肝功能",
+      "pinyin": "gān gōngnéng",
+      "english_answers": [
+        "liver function"
+      ],
+      "english_gloss": "liver function"
+    },
+    {
+      "hanzi": "肾功能",
+      "pinyin": "shèn gōngnéng",
+      "english_answers": [
+        "kidney function"
+      ],
+      "english_gloss": "kidney function"
+    },
+    {
+      "hanzi": "化验",
+      "pinyin": "huàyàn",
+      "english_answers": [
+        "laboratory test"
+      ],
+      "english_gloss": "laboratory test"
+    },
+    {
+      "hanzi": "化验单",
+      "pinyin": "huàyàndān",
+      "english_answers": [
+        "lab test form",
+        "results sheet"
+      ],
+      "english_gloss": "lab test form / results sheet"
+    },
+    {
+      "hanzi": "结果",
+      "pinyin": "jiéguǒ",
+      "english_answers": [
+        "result"
+      ],
+      "english_gloss": "result"
+    },
+    {
+      "hanzi": "指标",
+      "pinyin": "zhǐbiāo",
+      "english_answers": [
+        "test indicator",
+        "measurement"
+      ],
+      "english_gloss": "test indicator / measurement"
+    },
+    {
+      "hanzi": "正常范围",
+      "pinyin": "zhèngcháng fànwéi",
+      "english_answers": [
+        "normal reference range"
+      ],
+      "english_gloss": "normal reference range"
+    },
+    {
+      "hanzi": "异常",
+      "pinyin": "yìcháng",
+      "english_answers": [
+        "abnormal"
+      ],
+      "english_gloss": "abnormal"
+    },
+    {
+      "hanzi": "阳性",
+      "pinyin": "yángxìng",
+      "english_answers": [
+        "positive test result"
+      ],
+      "english_gloss": "positive test result"
+    },
+    {
+      "hanzi": "阴性",
+      "pinyin": "yīnxìng",
+      "english_answers": [
+        "negative test result"
+      ],
+      "english_gloss": "negative test result"
+    },
+    {
+      "hanzi": "超声",
+      "pinyin": "chāoshēng",
+      "english_answers": [
+        "ultrasound"
+      ],
+      "english_gloss": "ultrasound"
+    },
+    {
+      "hanzi": "B超",
+      "pinyin": "B chāo",
+      "english_answers": [
+        "ultrasound scan (colloquial)"
+      ],
+      "english_gloss": "ultrasound scan (colloquial)"
+    },
+    {
+      "hanzi": "X光",
+      "pinyin": "X guāng",
+      "english_answers": [
+        "X-ray"
+      ],
+      "english_gloss": "X-ray"
+    },
+    {
+      "hanzi": "CT检查",
+      "pinyin": "CT jiǎnchá",
+      "english_answers": [
+        "CT scan"
+      ],
+      "english_gloss": "CT scan"
+    },
+    {
+      "hanzi": "核磁共振",
+      "pinyin": "hécí gòngzhèn",
+      "english_answers": [
+        "MRI scan"
+      ],
+      "english_gloss": "MRI scan"
+    },
+    {
+      "hanzi": "心电图",
+      "pinyin": "xīndiàntú",
+      "english_answers": [
+        "electrocardiogram (ECG)"
+      ],
+      "english_gloss": "electrocardiogram (ECG)"
+    },
+    {
+      "hanzi": "诊断",
+      "pinyin": "zhěnduàn",
+      "english_answers": [
+        "diagnosis",
+        "diagnose"
+      ],
+      "english_gloss": "diagnosis / diagnose"
+    },
+    {
+      "hanzi": "确诊",
+      "pinyin": "quèzhěn",
+      "english_answers": [
+        "confirm a diagnosis"
+      ],
+      "english_gloss": "confirm a diagnosis"
+    },
+    {
+      "hanzi": "误诊",
+      "pinyin": "wùzhěn",
+      "english_answers": [
+        "misdiagnosis"
+      ],
+      "english_gloss": "misdiagnosis"
+    },
+    {
+      "hanzi": "复查",
+      "pinyin": "fùchá",
+      "english_answers": [
+        "repeat a test",
+        "recheck"
+      ],
+      "english_gloss": "repeat a test / recheck"
+    },
+    {
+      "hanzi": "随访",
+      "pinyin": "suífǎng",
+      "english_answers": [
+        "follow-up care"
+      ],
+      "english_gloss": "follow-up care"
+    },
+    {
+      "hanzi": "转诊",
+      "pinyin": "zhuǎnzhěn",
+      "english_answers": [
+        "refer to another doctor"
+      ],
+      "english_gloss": "refer to another doctor"
+    },
+    {
+      "hanzi": "病历",
+      "pinyin": "bìnglì",
+      "english_answers": [
+        "medical record"
+      ],
+      "english_gloss": "medical record"
+    },
+    {
+      "hanzi": "报告",
+      "pinyin": "bàogào",
+      "english_answers": [
+        "medical report"
+      ],
+      "english_gloss": "medical report"
+    },
+    {
+      "hanzi": "处方",
+      "pinyin": "chǔfāng",
+      "english_answers": [
+        "prescription"
+      ],
+      "english_gloss": "prescription"
+    },
+    {
+      "hanzi": "处方药",
+      "pinyin": "chǔfāngyào",
+      "english_answers": [
+        "prescription medication"
+      ],
+      "english_gloss": "prescription medication"
+    },
+    {
+      "hanzi": "非处方药",
+      "pinyin": "fēi chǔfāng yào",
+      "english_answers": [
+        "over-the-counter medication"
+      ],
+      "english_gloss": "over-the-counter medication"
+    },
+    {
+      "hanzi": "药物",
+      "pinyin": "yàowù",
+      "english_answers": [
+        "medication",
+        "drug"
+      ],
+      "english_gloss": "medication / drug"
+    },
+    {
+      "hanzi": "药片",
+      "pinyin": "yàopiàn",
+      "english_answers": [
+        "tablet",
+        "pill"
+      ],
+      "english_gloss": "tablet / pill"
+    },
+    {
+      "hanzi": "胶囊",
+      "pinyin": "jiāonáng",
+      "english_answers": [
+        "capsule"
+      ],
+      "english_gloss": "capsule"
+    },
+    {
+      "hanzi": "药水",
+      "pinyin": "yàoshuǐ",
+      "english_answers": [
+        "liquid medicine"
+      ],
+      "english_gloss": "liquid medicine"
+    },
+    {
+      "hanzi": "药膏",
+      "pinyin": "yàogāo",
+      "english_answers": [
+        "medicated ointment",
+        "cream"
+      ],
+      "english_gloss": "medicated ointment / cream"
+    },
+    {
+      "hanzi": "滴眼液",
+      "pinyin": "dīyǎnyè",
+      "english_answers": [
+        "eye drops"
+      ],
+      "english_gloss": "eye drops"
+    },
+    {
+      "hanzi": "剂量",
+      "pinyin": "jìliàng",
+      "english_answers": [
+        "dosage",
+        "dose"
+      ],
+      "english_gloss": "dosage / dose"
+    },
+    {
+      "hanzi": "服药",
+      "pinyin": "fúyào",
+      "english_answers": [
+        "take medication"
+      ],
+      "english_gloss": "take medication"
+    },
+    {
+      "hanzi": "口服",
+      "pinyin": "kǒufú",
+      "english_answers": [
+        "take orally"
+      ],
+      "english_gloss": "take orally"
+    },
+    {
+      "hanzi": "饭前服用",
+      "pinyin": "fànqián fúyòng",
+      "english_answers": [
+        "take before meals"
+      ],
+      "english_gloss": "take before meals"
+    },
+    {
+      "hanzi": "饭后服用",
+      "pinyin": "fànhòu fúyòng",
+      "english_answers": [
+        "take after meals"
+      ],
+      "english_gloss": "take after meals"
+    },
+    {
+      "hanzi": "每天一次",
+      "pinyin": "měitiān yí cì",
+      "english_answers": [
+        "once per day"
+      ],
+      "english_gloss": "once per day"
+    },
+    {
+      "hanzi": "每天两次",
+      "pinyin": "měitiān liǎng cì",
+      "english_answers": [
+        "twice per day"
+      ],
+      "english_gloss": "twice per day"
+    },
+    {
+      "hanzi": "按时服药",
+      "pinyin": "ànshí fúyào",
+      "english_answers": [
+        "take medication on schedule"
+      ],
+      "english_gloss": "take medication on schedule"
+    },
+    {
+      "hanzi": "漏服",
+      "pinyin": "lòufú",
+      "english_answers": [
+        "miss a medication dose"
+      ],
+      "english_gloss": "miss a medication dose"
+    },
+    {
+      "hanzi": "停药",
+      "pinyin": "tíngyào",
+      "english_answers": [
+        "stop taking medication"
+      ],
+      "english_gloss": "stop taking medication"
+    },
+    {
+      "hanzi": "药物过敏",
+      "pinyin": "yàowù guòmǐn",
+      "english_answers": [
+        "drug allergy"
+      ],
+      "english_gloss": "drug allergy"
+    },
+    {
+      "hanzi": "禁忌症",
+      "pinyin": "jìnjìzhèng",
+      "english_answers": [
+        "contraindication"
+      ],
+      "english_gloss": "contraindication"
+    },
+    {
+      "hanzi": "治疗",
+      "pinyin": "zhìliáo",
+      "english_answers": [
+        "medical treatment"
+      ],
+      "english_gloss": "medical treatment"
+    },
+    {
+      "hanzi": "手术",
+      "pinyin": "shǒushù",
+      "english_answers": [
+        "surgery",
+        "operation"
+      ],
+      "english_gloss": "surgery / operation"
+    },
+    {
+      "hanzi": "麻醉",
+      "pinyin": "mázuì",
+      "english_answers": [
+        "anesthesia"
+      ],
+      "english_gloss": "anesthesia"
+    },
+    {
+      "hanzi": "局部麻醉",
+      "pinyin": "júbù mázuì",
+      "english_answers": [
+        "local anesthesia"
+      ],
+      "english_gloss": "local anesthesia"
+    },
+    {
+      "hanzi": "注射",
+      "pinyin": "zhùshè",
+      "english_answers": [
+        "injection"
+      ],
+      "english_gloss": "injection"
+    },
+    {
+      "hanzi": "打针",
+      "pinyin": "dǎzhēn",
+      "english_answers": [
+        "get an injection (colloquial)"
+      ],
+      "english_gloss": "get an injection (colloquial)"
+    },
+    {
+      "hanzi": "输液",
+      "pinyin": "shūyè",
+      "english_answers": [
+        "intravenous infusion",
+        "IV drip"
+      ],
+      "english_gloss": "intravenous infusion / IV drip"
+    },
+    {
+      "hanzi": "输血",
+      "pinyin": "shūxuè",
+      "english_answers": [
+        "blood transfusion"
+      ],
+      "english_gloss": "blood transfusion"
+    },
+    {
+      "hanzi": "缝针",
+      "pinyin": "féngzhēn",
+      "english_answers": [
+        "stitches",
+        "sutures (colloquial)"
+      ],
+      "english_gloss": "stitches / sutures (colloquial)"
+    },
+    {
+      "hanzi": "换药",
+      "pinyin": "huànyào",
+      "english_answers": [
+        "change a wound dressing"
+      ],
+      "english_gloss": "change a wound dressing"
+    },
+    {
+      "hanzi": "康复",
+      "pinyin": "kāngfù",
+      "english_answers": [
+        "rehabilitation",
+        "recovery"
+      ],
+      "english_gloss": "rehabilitation / recovery"
+    },
+    {
+      "hanzi": "理疗",
+      "pinyin": "lǐliáo",
+      "english_answers": [
+        "physical therapy",
+        "physiotherapy"
+      ],
+      "english_gloss": "physical therapy / physiotherapy"
+    },
+    {
+      "hanzi": "救护车",
+      "pinyin": "jiùhùchē",
+      "english_answers": [
+        "ambulance"
+      ],
+      "english_gloss": "ambulance"
+    },
+    {
+      "hanzi": "急救",
+      "pinyin": "jíjiù",
+      "english_answers": [
+        "first aid",
+        "emergency treatment"
+      ],
+      "english_gloss": "first aid / emergency treatment"
+    },
+    {
+      "hanzi": "保险",
+      "pinyin": "bǎoxiǎn",
+      "english_answers": [
+        "insurance"
+      ],
+      "english_gloss": "insurance"
+    },
+    {
+      "hanzi": "医保",
+      "pinyin": "yībǎo",
+      "english_answers": [
+        "medical insurance"
+      ],
+      "english_gloss": "medical insurance"
+    },
+    {
+      "hanzi": "自费",
+      "pinyin": "zìfèi",
+      "english_answers": [
+        "pay out of pocket"
+      ],
+      "english_gloss": "pay out of pocket"
+    },
+    {
+      "hanzi": "费用",
+      "pinyin": "fèiyòng",
+      "english_answers": [
+        "cost",
+        "fee"
+      ],
+      "english_gloss": "cost / fee"
+    },
+    {
+      "hanzi": "缴费",
+      "pinyin": "jiǎofèi",
+      "english_answers": [
+        "pay a medical fee"
+      ],
+      "english_gloss": "pay a medical fee"
+    }
+  ]
+}

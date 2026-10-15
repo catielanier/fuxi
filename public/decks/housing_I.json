@@ -1,0 +1,834 @@
+{
+  "id": "housing_I",
+  "title": "Housing I",
+  "language": "zh-Hans",
+  "source": "previously generated PDF",
+  "card_count": 100,
+  "cards": [
+    {
+      "hanzi": "住房",
+      "pinyin": "zhùfáng",
+      "english_answers": [
+        "housing",
+        "accommodation"
+      ],
+      "english_gloss": "housing / accommodation"
+    },
+    {
+      "hanzi": "租房",
+      "pinyin": "zūfáng",
+      "english_answers": [
+        "rent a home"
+      ],
+      "english_gloss": "rent a home"
+    },
+    {
+      "hanzi": "房子",
+      "pinyin": "fángzi",
+      "english_answers": [
+        "house",
+        "home"
+      ],
+      "english_gloss": "house / home"
+    },
+    {
+      "hanzi": "出租屋",
+      "pinyin": "chūzūwū",
+      "english_answers": [
+        "rental property",
+        "rented dwelling"
+      ],
+      "english_gloss": "rental property / rented dwelling"
+    },
+    {
+      "hanzi": "单元楼",
+      "pinyin": "dānyuánlóu",
+      "english_answers": [
+        "apartment block divided into units"
+      ],
+      "english_gloss": "apartment block divided into units"
+    },
+    {
+      "hanzi": "独栋住宅",
+      "pinyin": "dúdòng zhùzhái",
+      "english_answers": [
+        "detached house"
+      ],
+      "english_gloss": "detached house"
+    },
+    {
+      "hanzi": "别墅",
+      "pinyin": "biéshù",
+      "english_answers": [
+        "villa",
+        "detached luxury home"
+      ],
+      "english_gloss": "villa / detached luxury home"
+    },
+    {
+      "hanzi": "合租",
+      "pinyin": "hézū",
+      "english_answers": [
+        "share a rental with roommates"
+      ],
+      "english_gloss": "share a rental with roommates"
+    },
+    {
+      "hanzi": "整租",
+      "pinyin": "zhěngzū",
+      "english_answers": [
+        "rent an entire property"
+      ],
+      "english_gloss": "rent an entire property"
+    },
+    {
+      "hanzi": "房源",
+      "pinyin": "fángyuán",
+      "english_answers": [
+        "available rental",
+        "property listing"
+      ],
+      "english_gloss": "available rental / property listing"
+    },
+    {
+      "hanzi": "看房",
+      "pinyin": "kànfáng",
+      "english_answers": [
+        "view a property"
+      ],
+      "english_gloss": "view a property"
+    },
+    {
+      "hanzi": "房东",
+      "pinyin": "fángdōng",
+      "english_answers": [
+        "landlord"
+      ],
+      "english_gloss": "landlord"
+    },
+    {
+      "hanzi": "租客",
+      "pinyin": "zūkè",
+      "english_answers": [
+        "tenant"
+      ],
+      "english_gloss": "tenant"
+    },
+    {
+      "hanzi": "室友",
+      "pinyin": "shìyǒu",
+      "english_answers": [
+        "roommate"
+      ],
+      "english_gloss": "roommate"
+    },
+    {
+      "hanzi": "中介费",
+      "pinyin": "zhōngjièfèi",
+      "english_answers": [
+        "agency fee"
+      ],
+      "english_gloss": "agency fee"
+    },
+    {
+      "hanzi": "租金",
+      "pinyin": "zūjīn",
+      "english_answers": [
+        "rent"
+      ],
+      "english_gloss": "rent"
+    },
+    {
+      "hanzi": "押金",
+      "pinyin": "yājīn",
+      "english_answers": [
+        "security deposit"
+      ],
+      "english_gloss": "security deposit"
+    },
+    {
+      "hanzi": "租约",
+      "pinyin": "zūyuē",
+      "english_answers": [
+        "rental agreement",
+        "lease"
+      ],
+      "english_gloss": "rental agreement / lease"
+    },
+    {
+      "hanzi": "租期",
+      "pinyin": "zūqī",
+      "english_answers": [
+        "rental term"
+      ],
+      "english_gloss": "rental term"
+    },
+    {
+      "hanzi": "入住",
+      "pinyin": "rùzhù",
+      "english_answers": [
+        "move in",
+        "check in"
+      ],
+      "english_gloss": "move in / check in"
+    },
+    {
+      "hanzi": "客厅",
+      "pinyin": "kètīng",
+      "english_answers": [
+        "living room"
+      ],
+      "english_gloss": "living room"
+    },
+    {
+      "hanzi": "卧室",
+      "pinyin": "wòshì",
+      "english_answers": [
+        "bedroom"
+      ],
+      "english_gloss": "bedroom"
+    },
+    {
+      "hanzi": "主卧",
+      "pinyin": "zhǔwò",
+      "english_answers": [
+        "primary bedroom"
+      ],
+      "english_gloss": "primary bedroom"
+    },
+    {
+      "hanzi": "次卧",
+      "pinyin": "cìwò",
+      "english_answers": [
+        "secondary bedroom"
+      ],
+      "english_gloss": "secondary bedroom"
+    },
+    {
+      "hanzi": "厨房",
+      "pinyin": "chúfáng",
+      "english_answers": [
+        "kitchen"
+      ],
+      "english_gloss": "kitchen"
+    },
+    {
+      "hanzi": "卫生间",
+      "pinyin": "wèishēngjiān",
+      "english_answers": [
+        "bathroom",
+        "restroom"
+      ],
+      "english_gloss": "bathroom / restroom"
+    },
+    {
+      "hanzi": "浴室",
+      "pinyin": "yùshì",
+      "english_answers": [
+        "bathroom",
+        "shower room"
+      ],
+      "english_gloss": "bathroom / shower room"
+    },
+    {
+      "hanzi": "阳台",
+      "pinyin": "yángtái",
+      "english_answers": [
+        "balcony"
+      ],
+      "english_gloss": "balcony"
+    },
+    {
+      "hanzi": "书房",
+      "pinyin": "shūfáng",
+      "english_answers": [
+        "study",
+        "home office"
+      ],
+      "english_gloss": "study / home office"
+    },
+    {
+      "hanzi": "餐厅",
+      "pinyin": "cāntīng",
+      "english_answers": [
+        "dining room",
+        "restaurant (by context)"
+      ],
+      "english_gloss": "dining room / restaurant (by context)"
+    },
+    {
+      "hanzi": "玄关",
+      "pinyin": "xuánguān",
+      "english_answers": [
+        "entryway",
+        "foyer"
+      ],
+      "english_gloss": "entryway / foyer"
+    },
+    {
+      "hanzi": "走廊",
+      "pinyin": "zǒuláng",
+      "english_answers": [
+        "corridor",
+        "hallway"
+      ],
+      "english_gloss": "corridor / hallway"
+    },
+    {
+      "hanzi": "楼梯",
+      "pinyin": "lóutī",
+      "english_answers": [
+        "stairs"
+      ],
+      "english_gloss": "stairs"
+    },
+    {
+      "hanzi": "电梯",
+      "pinyin": "diàntī",
+      "english_answers": [
+        "elevator"
+      ],
+      "english_gloss": "elevator"
+    },
+    {
+      "hanzi": "地下室",
+      "pinyin": "dìxiàshì",
+      "english_answers": [
+        "basement"
+      ],
+      "english_gloss": "basement"
+    },
+    {
+      "hanzi": "阁楼",
+      "pinyin": "gélóu",
+      "english_answers": [
+        "attic",
+        "loft"
+      ],
+      "english_gloss": "attic / loft"
+    },
+    {
+      "hanzi": "天花板",
+      "pinyin": "tiānhuābǎn",
+      "english_answers": [
+        "ceiling"
+      ],
+      "english_gloss": "ceiling"
+    },
+    {
+      "hanzi": "地板",
+      "pinyin": "dìbǎn",
+      "english_answers": [
+        "floor",
+        "flooring"
+      ],
+      "english_gloss": "floor / flooring"
+    },
+    {
+      "hanzi": "墙壁",
+      "pinyin": "qiángbì",
+      "english_answers": [
+        "wall"
+      ],
+      "english_gloss": "wall"
+    },
+    {
+      "hanzi": "窗户",
+      "pinyin": "chuānghu",
+      "english_answers": [
+        "window"
+      ],
+      "english_gloss": "window"
+    },
+    {
+      "hanzi": "家具",
+      "pinyin": "jiājù",
+      "english_answers": [
+        "furniture"
+      ],
+      "english_gloss": "furniture"
+    },
+    {
+      "hanzi": "沙发",
+      "pinyin": "shāfā",
+      "english_answers": [
+        "sofa"
+      ],
+      "english_gloss": "sofa"
+    },
+    {
+      "hanzi": "茶几",
+      "pinyin": "chájī",
+      "english_answers": [
+        "coffee table"
+      ],
+      "english_gloss": "coffee table"
+    },
+    {
+      "hanzi": "餐桌",
+      "pinyin": "cānzhuō",
+      "english_answers": [
+        "dining table"
+      ],
+      "english_gloss": "dining table"
+    },
+    {
+      "hanzi": "椅子",
+      "pinyin": "yǐzi",
+      "english_answers": [
+        "chair"
+      ],
+      "english_gloss": "chair"
+    },
+    {
+      "hanzi": "凳子",
+      "pinyin": "dèngzi",
+      "english_answers": [
+        "stool"
+      ],
+      "english_gloss": "stool"
+    },
+    {
+      "hanzi": "书桌",
+      "pinyin": "shūzhuō",
+      "english_answers": [
+        "desk"
+      ],
+      "english_gloss": "desk"
+    },
+    {
+      "hanzi": "书架",
+      "pinyin": "shūjià",
+      "english_answers": [
+        "bookshelf"
+      ],
+      "english_gloss": "bookshelf"
+    },
+    {
+      "hanzi": "衣柜",
+      "pinyin": "yīguì",
+      "english_answers": [
+        "wardrobe",
+        "closet"
+      ],
+      "english_gloss": "wardrobe / closet"
+    },
+    {
+      "hanzi": "抽屉",
+      "pinyin": "chōuti",
+      "english_answers": [
+        "drawer"
+      ],
+      "english_gloss": "drawer"
+    },
+    {
+      "hanzi": "柜子",
+      "pinyin": "guìzi",
+      "english_answers": [
+        "cabinet"
+      ],
+      "english_gloss": "cabinet"
+    },
+    {
+      "hanzi": "床",
+      "pinyin": "chuáng",
+      "english_answers": [
+        "bed"
+      ],
+      "english_gloss": "bed"
+    },
+    {
+      "hanzi": "床垫",
+      "pinyin": "chuángdiàn",
+      "english_answers": [
+        "mattress"
+      ],
+      "english_gloss": "mattress"
+    },
+    {
+      "hanzi": "枕头",
+      "pinyin": "zhěntou",
+      "english_answers": [
+        "pillow"
+      ],
+      "english_gloss": "pillow"
+    },
+    {
+      "hanzi": "被子",
+      "pinyin": "bèizi",
+      "english_answers": [
+        "quilt",
+        "comforter"
+      ],
+      "english_gloss": "quilt / comforter"
+    },
+    {
+      "hanzi": "床单",
+      "pinyin": "chuángdān",
+      "english_answers": [
+        "bedsheet"
+      ],
+      "english_gloss": "bedsheet"
+    },
+    {
+      "hanzi": "窗帘",
+      "pinyin": "chuānglián",
+      "english_answers": [
+        "curtains"
+      ],
+      "english_gloss": "curtains"
+    },
+    {
+      "hanzi": "镜子",
+      "pinyin": "jìngzi",
+      "english_answers": [
+        "mirror"
+      ],
+      "english_gloss": "mirror"
+    },
+    {
+      "hanzi": "地毯",
+      "pinyin": "dìtǎn",
+      "english_answers": [
+        "rug",
+        "carpet"
+      ],
+      "english_gloss": "rug / carpet"
+    },
+    {
+      "hanzi": "台灯",
+      "pinyin": "táidēng",
+      "english_answers": [
+        "desk lamp"
+      ],
+      "english_gloss": "desk lamp"
+    },
+    {
+      "hanzi": "家电",
+      "pinyin": "jiādiàn",
+      "english_answers": [
+        "household appliances"
+      ],
+      "english_gloss": "household appliances"
+    },
+    {
+      "hanzi": "冰箱",
+      "pinyin": "bīngxiāng",
+      "english_answers": [
+        "refrigerator"
+      ],
+      "english_gloss": "refrigerator"
+    },
+    {
+      "hanzi": "冰柜",
+      "pinyin": "bīngguì",
+      "english_answers": [
+        "freezer"
+      ],
+      "english_gloss": "freezer"
+    },
+    {
+      "hanzi": "洗衣机",
+      "pinyin": "xǐyījī",
+      "english_answers": [
+        "washing machine"
+      ],
+      "english_gloss": "washing machine"
+    },
+    {
+      "hanzi": "烘干机",
+      "pinyin": "hōnggānjī",
+      "english_answers": [
+        "clothes dryer"
+      ],
+      "english_gloss": "clothes dryer"
+    },
+    {
+      "hanzi": "空调",
+      "pinyin": "kōngtiáo",
+      "english_answers": [
+        "air conditioning"
+      ],
+      "english_gloss": "air conditioning"
+    },
+    {
+      "hanzi": "暖气",
+      "pinyin": "nuǎnqì",
+      "english_answers": [
+        "heating",
+        "radiator"
+      ],
+      "english_gloss": "heating / radiator"
+    },
+    {
+      "hanzi": "热水器",
+      "pinyin": "rèshuǐqì",
+      "english_answers": [
+        "water heater"
+      ],
+      "english_gloss": "water heater"
+    },
+    {
+      "hanzi": "微波炉",
+      "pinyin": "wēibōlú",
+      "english_answers": [
+        "microwave oven"
+      ],
+      "english_gloss": "microwave oven"
+    },
+    {
+      "hanzi": "烤箱",
+      "pinyin": "kǎoxiāng",
+      "english_answers": [
+        "oven"
+      ],
+      "english_gloss": "oven"
+    },
+    {
+      "hanzi": "电饭煲",
+      "pinyin": "diànfànbāo",
+      "english_answers": [
+        "rice cooker"
+      ],
+      "english_gloss": "rice cooker"
+    },
+    {
+      "hanzi": "电磁炉",
+      "pinyin": "diàncílú",
+      "english_answers": [
+        "induction cooktop"
+      ],
+      "english_gloss": "induction cooktop"
+    },
+    {
+      "hanzi": "抽油烟机",
+      "pinyin": "chōuyóuyānjī",
+      "english_answers": [
+        "range hood",
+        "extractor fan"
+      ],
+      "english_gloss": "range hood / extractor fan"
+    },
+    {
+      "hanzi": "洗碗机",
+      "pinyin": "xǐwǎnjī",
+      "english_answers": [
+        "dishwasher"
+      ],
+      "english_gloss": "dishwasher"
+    },
+    {
+      "hanzi": "电视机",
+      "pinyin": "diànshìjī",
+      "english_answers": [
+        "television set"
+      ],
+      "english_gloss": "television set"
+    },
+    {
+      "hanzi": "遥控器",
+      "pinyin": "yáokòngqì",
+      "english_answers": [
+        "remote control"
+      ],
+      "english_gloss": "remote control"
+    },
+    {
+      "hanzi": "插座",
+      "pinyin": "chāzuò",
+      "english_answers": [
+        "electrical outlet"
+      ],
+      "english_gloss": "electrical outlet"
+    },
+    {
+      "hanzi": "开关",
+      "pinyin": "kāiguān",
+      "english_answers": [
+        "switch"
+      ],
+      "english_gloss": "switch"
+    },
+    {
+      "hanzi": "门锁",
+      "pinyin": "ménsuǒ",
+      "english_answers": [
+        "door lock"
+      ],
+      "english_gloss": "door lock"
+    },
+    {
+      "hanzi": "钥匙",
+      "pinyin": "yàoshi",
+      "english_answers": [
+        "key"
+      ],
+      "english_gloss": "key"
+    },
+    {
+      "hanzi": "水电费",
+      "pinyin": "shuǐdiànfèi",
+      "english_answers": [
+        "water and electricity bills"
+      ],
+      "english_gloss": "water and electricity bills"
+    },
+    {
+      "hanzi": "物业费",
+      "pinyin": "wùyèfèi",
+      "english_answers": [
+        "property management fee"
+      ],
+      "english_gloss": "property management fee"
+    },
+    {
+      "hanzi": "网费",
+      "pinyin": "wǎngfèi",
+      "english_answers": [
+        "internet service fee"
+      ],
+      "english_gloss": "internet service fee"
+    },
+    {
+      "hanzi": "燃气费",
+      "pinyin": "ránqìfèi",
+      "english_answers": [
+        "gas bill"
+      ],
+      "english_gloss": "gas bill"
+    },
+    {
+      "hanzi": "电费",
+      "pinyin": "diànfèi",
+      "english_answers": [
+        "electricity bill"
+      ],
+      "english_gloss": "electricity bill"
+    },
+    {
+      "hanzi": "水费",
+      "pinyin": "shuǐfèi",
+      "english_answers": [
+        "water bill"
+      ],
+      "english_gloss": "water bill"
+    },
+    {
+      "hanzi": "账单",
+      "pinyin": "zhàngdān",
+      "english_answers": [
+        "bill",
+        "statement"
+      ],
+      "english_gloss": "bill / statement"
+    },
+    {
+      "hanzi": "家具齐全",
+      "pinyin": "jiājù qíquán",
+      "english_answers": [
+        "fully furnished"
+      ],
+      "english_gloss": "fully furnished"
+    },
+    {
+      "hanzi": "精装修",
+      "pinyin": "jīngzhuāngxiū",
+      "english_answers": [
+        "high-standard",
+        "finished interior"
+      ],
+      "english_gloss": "high-standard / finished interior"
+    },
+    {
+      "hanzi": "毛坯房",
+      "pinyin": "máopīfáng",
+      "english_answers": [
+        "unfinished bare-shell property"
+      ],
+      "english_gloss": "unfinished bare-shell property"
+    },
+    {
+      "hanzi": "采光",
+      "pinyin": "cǎiguāng",
+      "english_answers": [
+        "natural lighting"
+      ],
+      "english_gloss": "natural lighting"
+    },
+    {
+      "hanzi": "朝南",
+      "pinyin": "cháonán",
+      "english_answers": [
+        "south-facing"
+      ],
+      "english_gloss": "south-facing"
+    },
+    {
+      "hanzi": "面积",
+      "pinyin": "miànjī",
+      "english_answers": [
+        "floor area",
+        "size"
+      ],
+      "english_gloss": "floor area / size"
+    },
+    {
+      "hanzi": "平方米",
+      "pinyin": "píngfāngmǐ",
+      "english_answers": [
+        "square meter"
+      ],
+      "english_gloss": "square meter"
+    },
+    {
+      "hanzi": "楼层",
+      "pinyin": "lóucéng",
+      "english_answers": [
+        "floor",
+        "story"
+      ],
+      "english_gloss": "floor / story"
+    },
+    {
+      "hanzi": "搬家",
+      "pinyin": "bānjiā",
+      "english_answers": [
+        "move house"
+      ],
+      "english_gloss": "move house"
+    },
+    {
+      "hanzi": "续租",
+      "pinyin": "xùzū",
+      "english_answers": [
+        "renew a lease"
+      ],
+      "english_gloss": "renew a lease"
+    },
+    {
+      "hanzi": "退租",
+      "pinyin": "tuìzū",
+      "english_answers": [
+        "end a tenancy",
+        "move out"
+      ],
+      "english_gloss": "end a tenancy / move out"
+    },
+    {
+      "hanzi": "转租",
+      "pinyin": "zhuǎnzū",
+      "english_answers": [
+        "sublet"
+      ],
+      "english_gloss": "sublet"
+    },
+    {
+      "hanzi": "租赁合同",
+      "pinyin": "zūlìn hétong",
+      "english_answers": [
+        "rental contract"
+      ],
+      "english_gloss": "rental contract"
+    }
+  ]
+}

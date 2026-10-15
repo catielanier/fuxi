@@ -1,0 +1,820 @@
+{
+  "id": "music_II",
+  "title": "Music Ii",
+  "language": "zh-Hans",
+  "source": "previously generated PDF",
+  "card_count": 100,
+  "cards": [
+    {
+      "hanzi": "琴身",
+      "pinyin": "qínshēn",
+      "english_answers": [
+        "instrument body"
+      ],
+      "english_gloss": "instrument body"
+    },
+    {
+      "hanzi": "琴颈",
+      "pinyin": "qínjǐng",
+      "english_answers": [
+        "neck of instrument"
+      ],
+      "english_gloss": "neck of instrument"
+    },
+    {
+      "hanzi": "琴头",
+      "pinyin": "qíntóu",
+      "english_answers": [
+        "headstock"
+      ],
+      "english_gloss": "headstock"
+    },
+    {
+      "hanzi": "指板",
+      "pinyin": "zhǐbǎn",
+      "english_answers": [
+        "fingerboard"
+      ],
+      "english_gloss": "fingerboard"
+    },
+    {
+      "hanzi": "品丝",
+      "pinyin": "pǐnsī",
+      "english_answers": [
+        "fret wire"
+      ],
+      "english_gloss": "fret wire"
+    },
+    {
+      "hanzi": "品位",
+      "pinyin": "pǐnwèi",
+      "english_answers": [
+        "fret position"
+      ],
+      "english_gloss": "fret position"
+    },
+    {
+      "hanzi": "琴弦",
+      "pinyin": "qínxián",
+      "english_answers": [
+        "string"
+      ],
+      "english_gloss": "string"
+    },
+    {
+      "hanzi": "四弦贝斯",
+      "pinyin": "sìxián bèisī",
+      "english_answers": [
+        "four-string bass"
+      ],
+      "english_gloss": "four-string bass"
+    },
+    {
+      "hanzi": "五弦贝斯",
+      "pinyin": "wǔxián bèisī",
+      "english_answers": [
+        "five-string bass"
+      ],
+      "english_gloss": "five-string bass"
+    },
+    {
+      "hanzi": "无品贝斯",
+      "pinyin": "wúpǐn bèisī",
+      "english_answers": [
+        "fretless bass"
+      ],
+      "english_gloss": "fretless bass"
+    },
+    {
+      "hanzi": "琴桥",
+      "pinyin": "qínqiáo",
+      "english_answers": [
+        "bridge"
+      ],
+      "english_gloss": "bridge"
+    },
+    {
+      "hanzi": "琴枕",
+      "pinyin": "qínzhěn",
+      "english_answers": [
+        "nut"
+      ],
+      "english_gloss": "nut"
+    },
+    {
+      "hanzi": "弦钮",
+      "pinyin": "xiánniǔ",
+      "english_answers": [
+        "tuning machine",
+        "tuner peg"
+      ],
+      "english_gloss": "tuning machine / tuner peg"
+    },
+    {
+      "hanzi": "拾音器",
+      "pinyin": "shíyīnqì",
+      "english_answers": [
+        "pickup"
+      ],
+      "english_gloss": "pickup"
+    },
+    {
+      "hanzi": "单线圈拾音器",
+      "pinyin": "dānxiànquān shíyīnqì",
+      "english_answers": [
+        "single-coil pickup"
+      ],
+      "english_gloss": "single-coil pickup"
+    },
+    {
+      "hanzi": "双线圈拾音器",
+      "pinyin": "shuāngxiànquān shíyīnqì",
+      "english_answers": [
+        "humbucker pickup"
+      ],
+      "english_gloss": "humbucker pickup"
+    },
+    {
+      "hanzi": "音量旋钮",
+      "pinyin": "yīnliàng xuánniǔ",
+      "english_answers": [
+        "volume knob"
+      ],
+      "english_gloss": "volume knob"
+    },
+    {
+      "hanzi": "音色旋钮",
+      "pinyin": "yīnsè xuánniǔ",
+      "english_answers": [
+        "tone knob"
+      ],
+      "english_gloss": "tone knob"
+    },
+    {
+      "hanzi": "琴带",
+      "pinyin": "qíndài",
+      "english_answers": [
+        "instrument strap"
+      ],
+      "english_gloss": "instrument strap"
+    },
+    {
+      "hanzi": "插孔",
+      "pinyin": "chākǒng",
+      "english_answers": [
+        "input/output jack"
+      ],
+      "english_gloss": "input/output jack"
+    },
+    {
+      "hanzi": "指弹",
+      "pinyin": "zhǐtán",
+      "english_answers": [
+        "fingerstyle playing"
+      ],
+      "english_gloss": "fingerstyle playing"
+    },
+    {
+      "hanzi": "拨片",
+      "pinyin": "bōpiàn",
+      "english_answers": [
+        "pick",
+        "plectrum"
+      ],
+      "english_gloss": "pick / plectrum"
+    },
+    {
+      "hanzi": "拨弦",
+      "pinyin": "bōxián",
+      "english_answers": [
+        "pluck a string"
+      ],
+      "english_gloss": "pluck a string"
+    },
+    {
+      "hanzi": "勾弦",
+      "pinyin": "gōuxián",
+      "english_answers": [
+        "pull-off"
+      ],
+      "english_gloss": "pull-off"
+    },
+    {
+      "hanzi": "击弦",
+      "pinyin": "jīxián",
+      "english_answers": [
+        "hammer-on"
+      ],
+      "english_gloss": "hammer-on"
+    },
+    {
+      "hanzi": "滑音",
+      "pinyin": "huáyīn",
+      "english_answers": [
+        "slide between notes"
+      ],
+      "english_gloss": "slide between notes"
+    },
+    {
+      "hanzi": "推弦",
+      "pinyin": "tuīxián",
+      "english_answers": [
+        "string bending"
+      ],
+      "english_gloss": "string bending"
+    },
+    {
+      "hanzi": "揉弦",
+      "pinyin": "róuxián",
+      "english_answers": [
+        "vibrato"
+      ],
+      "english_gloss": "vibrato"
+    },
+    {
+      "hanzi": "拍弦",
+      "pinyin": "pāixián",
+      "english_answers": [
+        "slap bass"
+      ],
+      "english_gloss": "slap bass"
+    },
+    {
+      "hanzi": "勾弦技巧",
+      "pinyin": "gōuxián jìqiǎo",
+      "english_answers": [
+        "pop technique (slap bass)"
+      ],
+      "english_gloss": "pop technique (slap bass)"
+    },
+    {
+      "hanzi": "闷音",
+      "pinyin": "mènyīn",
+      "english_answers": [
+        "muting",
+        "muted notes"
+      ],
+      "english_gloss": "muting / muted notes"
+    },
+    {
+      "hanzi": "左手消音",
+      "pinyin": "zuǒshǒu xiāoyīn",
+      "english_answers": [
+        "left-hand muting"
+      ],
+      "english_gloss": "left-hand muting"
+    },
+    {
+      "hanzi": "右手消音",
+      "pinyin": "yòushǒu xiāoyīn",
+      "english_answers": [
+        "right-hand muting"
+      ],
+      "english_gloss": "right-hand muting"
+    },
+    {
+      "hanzi": "泛音",
+      "pinyin": "fànyīn",
+      "english_answers": [
+        "harmonics"
+      ],
+      "english_gloss": "harmonics"
+    },
+    {
+      "hanzi": "自然泛音",
+      "pinyin": "zìrán fànyīn",
+      "english_answers": [
+        "natural harmonics"
+      ],
+      "english_gloss": "natural harmonics"
+    },
+    {
+      "hanzi": "八度音",
+      "pinyin": "bādùyīn",
+      "english_answers": [
+        "octave note"
+      ],
+      "english_gloss": "octave note"
+    },
+    {
+      "hanzi": "根音",
+      "pinyin": "gēnyīn",
+      "english_answers": [
+        "root note"
+      ],
+      "english_gloss": "root note"
+    },
+    {
+      "hanzi": "低音线",
+      "pinyin": "dīyīnxiàn",
+      "english_answers": [
+        "bass line"
+      ],
+      "english_gloss": "bass line"
+    },
+    {
+      "hanzi": "律动",
+      "pinyin": "lǜdòng",
+      "english_answers": [
+        "groove",
+        "rhythmic feel"
+      ],
+      "english_gloss": "groove / rhythmic feel"
+    },
+    {
+      "hanzi": "切分音",
+      "pinyin": "qiēfēnyīn",
+      "english_answers": [
+        "syncopation"
+      ],
+      "english_gloss": "syncopation"
+    },
+    {
+      "hanzi": "调音",
+      "pinyin": "tiáoyīn",
+      "english_answers": [
+        "tune an instrument"
+      ],
+      "english_gloss": "tune an instrument"
+    },
+    {
+      "hanzi": "调音器",
+      "pinyin": "tiáoyīnqì",
+      "english_answers": [
+        "instrument tuner"
+      ],
+      "english_gloss": "instrument tuner"
+    },
+    {
+      "hanzi": "标准调弦",
+      "pinyin": "biāozhǔn tiáoxián",
+      "english_answers": [
+        "standard tuning"
+      ],
+      "english_gloss": "standard tuning"
+    },
+    {
+      "hanzi": "降调",
+      "pinyin": "jiàngdiào",
+      "english_answers": [
+        "down-tuning"
+      ],
+      "english_gloss": "down-tuning"
+    },
+    {
+      "hanzi": "换弦",
+      "pinyin": "huànxián",
+      "english_answers": [
+        "change strings"
+      ],
+      "english_gloss": "change strings"
+    },
+    {
+      "hanzi": "弦距",
+      "pinyin": "xiánjù",
+      "english_answers": [
+        "string action",
+        "string height"
+      ],
+      "english_gloss": "string action / string height"
+    },
+    {
+      "hanzi": "八度音准",
+      "pinyin": "bādù yīnzhǔn",
+      "english_answers": [
+        "intonation at the octave"
+      ],
+      "english_gloss": "intonation at the octave"
+    },
+    {
+      "hanzi": "琴颈弯曲",
+      "pinyin": "qínjǐng wānqū",
+      "english_answers": [
+        "neck relief",
+        "bow"
+      ],
+      "english_gloss": "neck relief / bow"
+    },
+    {
+      "hanzi": "琴颈调节杆",
+      "pinyin": "qínjǐng tiáojiégǎn",
+      "english_answers": [
+        "truss rod"
+      ],
+      "english_gloss": "truss rod"
+    },
+    {
+      "hanzi": "打品",
+      "pinyin": "dǎpǐn",
+      "english_answers": [
+        "fret buzz"
+      ],
+      "english_gloss": "fret buzz"
+    },
+    {
+      "hanzi": "琴弦生锈",
+      "pinyin": "qínxián shēngxiù",
+      "english_answers": [
+        "strings becoming rusty"
+      ],
+      "english_gloss": "strings becoming rusty"
+    },
+    {
+      "hanzi": "琴弦张力",
+      "pinyin": "qínxián zhānglì",
+      "english_answers": [
+        "string tension"
+      ],
+      "english_gloss": "string tension"
+    },
+    {
+      "hanzi": "清洁指板",
+      "pinyin": "qīngjié zhǐbǎn",
+      "english_answers": [
+        "clean the fingerboard"
+      ],
+      "english_gloss": "clean the fingerboard"
+    },
+    {
+      "hanzi": "电池仓",
+      "pinyin": "diànchícāng",
+      "english_answers": [
+        "battery compartment"
+      ],
+      "english_gloss": "battery compartment"
+    },
+    {
+      "hanzi": "主动拾音器",
+      "pinyin": "zhǔdòng shíyīnqì",
+      "english_answers": [
+        "active pickup"
+      ],
+      "english_gloss": "active pickup"
+    },
+    {
+      "hanzi": "被动拾音器",
+      "pinyin": "bèidòng shíyīnqì",
+      "english_answers": [
+        "passive pickup"
+      ],
+      "english_gloss": "passive pickup"
+    },
+    {
+      "hanzi": "琴盒",
+      "pinyin": "qínhé",
+      "english_answers": [
+        "instrument case"
+      ],
+      "english_gloss": "instrument case"
+    },
+    {
+      "hanzi": "琴架",
+      "pinyin": "qínjià",
+      "english_answers": [
+        "instrument stand"
+      ],
+      "english_gloss": "instrument stand"
+    },
+    {
+      "hanzi": "音准",
+      "pinyin": "yīnzhǔn",
+      "english_answers": [
+        "pitch accuracy",
+        "intonation"
+      ],
+      "english_gloss": "pitch accuracy / intonation"
+    },
+    {
+      "hanzi": "弦径",
+      "pinyin": "xiánjìng",
+      "english_answers": [
+        "string gauge"
+      ],
+      "english_gloss": "string gauge"
+    },
+    {
+      "hanzi": "贝斯音箱",
+      "pinyin": "bèisī yīnxiāng",
+      "english_answers": [
+        "bass amplifier",
+        "bass cab"
+      ],
+      "english_gloss": "bass amplifier / bass cab"
+    },
+    {
+      "hanzi": "放大器",
+      "pinyin": "fàngdàqì",
+      "english_answers": [
+        "amplifier"
+      ],
+      "english_gloss": "amplifier"
+    },
+    {
+      "hanzi": "音箱头",
+      "pinyin": "yīnxiāngtóu",
+      "english_answers": [
+        "amplifier head"
+      ],
+      "english_gloss": "amplifier head"
+    },
+    {
+      "hanzi": "箱体",
+      "pinyin": "xiāngtǐ",
+      "english_answers": [
+        "speaker cabinet"
+      ],
+      "english_gloss": "speaker cabinet"
+    },
+    {
+      "hanzi": "前级",
+      "pinyin": "qiánjí",
+      "english_answers": [
+        "preamp"
+      ],
+      "english_gloss": "preamp"
+    },
+    {
+      "hanzi": "后级",
+      "pinyin": "hòují",
+      "english_answers": [
+        "power amp stage"
+      ],
+      "english_gloss": "power amp stage"
+    },
+    {
+      "hanzi": "增益",
+      "pinyin": "zēngyì",
+      "english_answers": [
+        "gain"
+      ],
+      "english_gloss": "gain"
+    },
+    {
+      "hanzi": "均衡器",
+      "pinyin": "jūnhéngqì",
+      "english_answers": [
+        "equalizer",
+        "EQ"
+      ],
+      "english_gloss": "equalizer / EQ"
+    },
+    {
+      "hanzi": "低频",
+      "pinyin": "dīpín",
+      "english_answers": [
+        "low frequencies"
+      ],
+      "english_gloss": "low frequencies"
+    },
+    {
+      "hanzi": "中频",
+      "pinyin": "zhōngpín",
+      "english_answers": [
+        "mid frequencies"
+      ],
+      "english_gloss": "mid frequencies"
+    },
+    {
+      "hanzi": "高频",
+      "pinyin": "gāopín",
+      "english_answers": [
+        "high frequencies"
+      ],
+      "english_gloss": "high frequencies"
+    },
+    {
+      "hanzi": "削减中频",
+      "pinyin": "xuējiǎn zhōngpín",
+      "english_answers": [
+        "scoop",
+        "cut the mids"
+      ],
+      "english_gloss": "scoop / cut the mids"
+    },
+    {
+      "hanzi": "低频增强",
+      "pinyin": "dīpín zēngqiáng",
+      "english_answers": [
+        "bass boost"
+      ],
+      "english_gloss": "bass boost"
+    },
+    {
+      "hanzi": "线路输出",
+      "pinyin": "xiànlù shūchū",
+      "english_answers": [
+        "line output"
+      ],
+      "english_gloss": "line output"
+    },
+    {
+      "hanzi": "直通盒",
+      "pinyin": "zhítōnghé",
+      "english_answers": [
+        "DI box"
+      ],
+      "english_gloss": "DI box"
+    },
+    {
+      "hanzi": "信号链",
+      "pinyin": "xìnhào liàn",
+      "english_answers": [
+        "signal chain"
+      ],
+      "english_gloss": "signal chain"
+    },
+    {
+      "hanzi": "串联",
+      "pinyin": "chuànlián",
+      "english_answers": [
+        "connect in series"
+      ],
+      "english_gloss": "connect in series"
+    },
+    {
+      "hanzi": "电源适配器",
+      "pinyin": "diànyuán shìpèiqì",
+      "english_answers": [
+        "power adapter"
+      ],
+      "english_gloss": "power adapter"
+    },
+    {
+      "hanzi": "供电",
+      "pinyin": "gōngdiàn",
+      "english_answers": [
+        "power supply"
+      ],
+      "english_gloss": "power supply"
+    },
+    {
+      "hanzi": "噪声门",
+      "pinyin": "zàoshēngmén",
+      "english_answers": [
+        "noise gate"
+      ],
+      "english_gloss": "noise gate"
+    },
+    {
+      "hanzi": "效果器踏板",
+      "pinyin": "xiàoguǒqì tàbǎn",
+      "english_answers": [
+        "effects pedal"
+      ],
+      "english_gloss": "effects pedal"
+    },
+    {
+      "hanzi": "单块效果器",
+      "pinyin": "dānkuài xiàoguǒqì",
+      "english_answers": [
+        "stompbox",
+        "individual effects pedal"
+      ],
+      "english_gloss": "stompbox / individual effects pedal"
+    },
+    {
+      "hanzi": "效果器板",
+      "pinyin": "xiàoguǒqì bǎn",
+      "english_answers": [
+        "pedalboard"
+      ],
+      "english_gloss": "pedalboard"
+    },
+    {
+      "hanzi": "压缩效果器",
+      "pinyin": "yāsuō xiàoguǒqì",
+      "english_answers": [
+        "compressor pedal"
+      ],
+      "english_gloss": "compressor pedal"
+    },
+    {
+      "hanzi": "压缩比",
+      "pinyin": "yāsuōbǐ",
+      "english_answers": [
+        "compression ratio"
+      ],
+      "english_gloss": "compression ratio"
+    },
+    {
+      "hanzi": "过载",
+      "pinyin": "guòzài",
+      "english_answers": [
+        "overdrive"
+      ],
+      "english_gloss": "overdrive"
+    },
+    {
+      "hanzi": "失真效果器",
+      "pinyin": "shīzhēn xiàoguǒqì",
+      "english_answers": [
+        "distortion pedal"
+      ],
+      "english_gloss": "distortion pedal"
+    },
+    {
+      "hanzi": "法兹效果",
+      "pinyin": "fǎzī xiàoguǒ",
+      "english_answers": [
+        "fuzz effect"
+      ],
+      "english_gloss": "fuzz effect"
+    },
+    {
+      "hanzi": "合唱效果器",
+      "pinyin": "héchàng xiàoguǒqì",
+      "english_answers": [
+        "chorus pedal"
+      ],
+      "english_gloss": "chorus pedal"
+    },
+    {
+      "hanzi": "镶边效果器",
+      "pinyin": "xiāngbiān xiàoguǒqì",
+      "english_answers": [
+        "flanger pedal"
+      ],
+      "english_gloss": "flanger pedal"
+    },
+    {
+      "hanzi": "延迟效果器",
+      "pinyin": "yánchí xiàoguǒqì",
+      "english_answers": [
+        "delay pedal"
+      ],
+      "english_gloss": "delay pedal"
+    },
+    {
+      "hanzi": "回声",
+      "pinyin": "huíshēng",
+      "english_answers": [
+        "echo"
+      ],
+      "english_gloss": "echo"
+    },
+    {
+      "hanzi": "混响",
+      "pinyin": "hùnxiǎng",
+      "english_answers": [
+        "reverb"
+      ],
+      "english_gloss": "reverb"
+    },
+    {
+      "hanzi": "颤音效果器",
+      "pinyin": "chànyīn xiàoguǒqì",
+      "english_answers": [
+        "tremolo effect pedal"
+      ],
+      "english_gloss": "tremolo effect pedal"
+    },
+    {
+      "hanzi": "八度效果器",
+      "pinyin": "bādù xiàoguǒqì",
+      "english_answers": [
+        "octave pedal"
+      ],
+      "english_gloss": "octave pedal"
+    },
+    {
+      "hanzi": "比特破碎效果",
+      "pinyin": "bǐtè pòsuì xiàoguǒ",
+      "english_answers": [
+        "bitcrushing effect"
+      ],
+      "english_gloss": "bitcrushing effect"
+    },
+    {
+      "hanzi": "音高移位",
+      "pinyin": "yīngāo yíwèi",
+      "english_answers": [
+        "pitch shifting"
+      ],
+      "english_gloss": "pitch shifting"
+    },
+    {
+      "hanzi": "干湿比",
+      "pinyin": "gānshībǐ",
+      "english_answers": [
+        "dry/wet mix"
+      ],
+      "english_gloss": "dry/wet mix"
+    },
+    {
+      "hanzi": "反馈",
+      "pinyin": "fǎnkuì",
+      "english_answers": [
+        "feedback (delay/effects)"
+      ],
+      "english_gloss": "feedback (delay/effects)"
+    },
+    {
+      "hanzi": "旁通",
+      "pinyin": "pángtōng",
+      "english_answers": [
+        "bypass"
+      ],
+      "english_gloss": "bypass"
+    }
+  ]
+}

@@ -1,0 +1,819 @@
+{
+  "id": "software_I",
+  "title": "Software I",
+  "language": "zh-Hans",
+  "source": "previously generated PDF",
+  "card_count": 100,
+  "cards": [
+    {
+      "hanzi": "软件开发",
+      "pinyin": "ruǎnjiàn kāifā",
+      "english_answers": [
+        "software development"
+      ],
+      "english_gloss": "software development"
+    },
+    {
+      "hanzi": "程序员",
+      "pinyin": "chéngxùyuán",
+      "english_answers": [
+        "programmer"
+      ],
+      "english_gloss": "programmer"
+    },
+    {
+      "hanzi": "开发者",
+      "pinyin": "kāifāzhě",
+      "english_answers": [
+        "developer"
+      ],
+      "english_gloss": "developer"
+    },
+    {
+      "hanzi": "编程",
+      "pinyin": "biānchéng",
+      "english_answers": [
+        "programming"
+      ],
+      "english_gloss": "programming"
+    },
+    {
+      "hanzi": "代码",
+      "pinyin": "dàimǎ",
+      "english_answers": [
+        "code"
+      ],
+      "english_gloss": "code"
+    },
+    {
+      "hanzi": "源代码",
+      "pinyin": "yuán dàimǎ",
+      "english_answers": [
+        "source code"
+      ],
+      "english_gloss": "source code"
+    },
+    {
+      "hanzi": "编程语言",
+      "pinyin": "biānchéng yǔyán",
+      "english_answers": [
+        "programming language"
+      ],
+      "english_gloss": "programming language"
+    },
+    {
+      "hanzi": "变量",
+      "pinyin": "biànliàng",
+      "english_answers": [
+        "variable"
+      ],
+      "english_gloss": "variable"
+    },
+    {
+      "hanzi": "常量",
+      "pinyin": "chángliàng",
+      "english_answers": [
+        "constant"
+      ],
+      "english_gloss": "constant"
+    },
+    {
+      "hanzi": "函数",
+      "pinyin": "hánshù",
+      "english_answers": [
+        "function"
+      ],
+      "english_gloss": "function"
+    },
+    {
+      "hanzi": "参数",
+      "pinyin": "cānshù",
+      "english_answers": [
+        "parameter"
+      ],
+      "english_gloss": "parameter"
+    },
+    {
+      "hanzi": "返回值",
+      "pinyin": "fǎnhuí zhí",
+      "english_answers": [
+        "return value"
+      ],
+      "english_gloss": "return value"
+    },
+    {
+      "hanzi": "数据类型",
+      "pinyin": "shùjù lèixíng",
+      "english_answers": [
+        "data type"
+      ],
+      "english_gloss": "data type"
+    },
+    {
+      "hanzi": "字符串",
+      "pinyin": "zìfúchuàn",
+      "english_answers": [
+        "string"
+      ],
+      "english_gloss": "string"
+    },
+    {
+      "hanzi": "数组",
+      "pinyin": "shùzǔ",
+      "english_answers": [
+        "array"
+      ],
+      "english_gloss": "array"
+    },
+    {
+      "hanzi": "对象",
+      "pinyin": "duìxiàng",
+      "english_answers": [
+        "object"
+      ],
+      "english_gloss": "object"
+    },
+    {
+      "hanzi": "条件判断",
+      "pinyin": "tiáojiàn pànduàn",
+      "english_answers": [
+        "conditional logic"
+      ],
+      "english_gloss": "conditional logic"
+    },
+    {
+      "hanzi": "循环",
+      "pinyin": "xúnhuán",
+      "english_answers": [
+        "loop"
+      ],
+      "english_gloss": "loop"
+    },
+    {
+      "hanzi": "异常",
+      "pinyin": "yìcháng",
+      "english_answers": [
+        "exception"
+      ],
+      "english_gloss": "exception"
+    },
+    {
+      "hanzi": "算法",
+      "pinyin": "suànfǎ",
+      "english_answers": [
+        "algorithm"
+      ],
+      "english_gloss": "algorithm"
+    },
+    {
+      "hanzi": "网页",
+      "pinyin": "wǎngyè",
+      "english_answers": [
+        "webpage"
+      ],
+      "english_gloss": "webpage"
+    },
+    {
+      "hanzi": "网站",
+      "pinyin": "wǎngzhàn",
+      "english_answers": [
+        "website"
+      ],
+      "english_gloss": "website"
+    },
+    {
+      "hanzi": "浏览器",
+      "pinyin": "liúlǎnqì",
+      "english_answers": [
+        "browser"
+      ],
+      "english_gloss": "browser"
+    },
+    {
+      "hanzi": "前端",
+      "pinyin": "qiánduān",
+      "english_answers": [
+        "frontend"
+      ],
+      "english_gloss": "frontend"
+    },
+    {
+      "hanzi": "后端",
+      "pinyin": "hòuduān",
+      "english_answers": [
+        "backend"
+      ],
+      "english_gloss": "backend"
+    },
+    {
+      "hanzi": "全栈",
+      "pinyin": "quánzhàn",
+      "english_answers": [
+        "full stack"
+      ],
+      "english_gloss": "full stack"
+    },
+    {
+      "hanzi": "用户界面",
+      "pinyin": "yònghù jièmiàn",
+      "english_answers": [
+        "user interface"
+      ],
+      "english_gloss": "user interface"
+    },
+    {
+      "hanzi": "用户体验",
+      "pinyin": "yònghù tǐyàn",
+      "english_answers": [
+        "user experience"
+      ],
+      "english_gloss": "user experience"
+    },
+    {
+      "hanzi": "组件",
+      "pinyin": "zǔjiàn",
+      "english_answers": [
+        "component"
+      ],
+      "english_gloss": "component"
+    },
+    {
+      "hanzi": "属性",
+      "pinyin": "shǔxìng",
+      "english_answers": [
+        "property",
+        "prop"
+      ],
+      "english_gloss": "property / prop"
+    },
+    {
+      "hanzi": "状态管理",
+      "pinyin": "zhuàngtài guǎnlǐ",
+      "english_answers": [
+        "state management"
+      ],
+      "english_gloss": "state management"
+    },
+    {
+      "hanzi": "响应式",
+      "pinyin": "xiǎngyìngshì",
+      "english_answers": [
+        "reactive",
+        "responsive (by context)"
+      ],
+      "english_gloss": "reactive / responsive (by context)"
+    },
+    {
+      "hanzi": "布局",
+      "pinyin": "bùjú",
+      "english_answers": [
+        "layout"
+      ],
+      "english_gloss": "layout"
+    },
+    {
+      "hanzi": "样式",
+      "pinyin": "yàngshì",
+      "english_answers": [
+        "style",
+        "styling"
+      ],
+      "english_gloss": "style / styling"
+    },
+    {
+      "hanzi": "样式表",
+      "pinyin": "yàngshìbiǎo",
+      "english_answers": [
+        "stylesheet"
+      ],
+      "english_gloss": "stylesheet"
+    },
+    {
+      "hanzi": "断点",
+      "pinyin": "duàndiǎn",
+      "english_answers": [
+        "breakpoint"
+      ],
+      "english_gloss": "breakpoint"
+    },
+    {
+      "hanzi": "事件监听",
+      "pinyin": "shìjiàn jiāntīng",
+      "english_answers": [
+        "event listening"
+      ],
+      "english_gloss": "event listening"
+    },
+    {
+      "hanzi": "表单",
+      "pinyin": "biǎodān",
+      "english_answers": [
+        "form"
+      ],
+      "english_gloss": "form"
+    },
+    {
+      "hanzi": "输入框",
+      "pinyin": "shūrùkuàng",
+      "english_answers": [
+        "input field"
+      ],
+      "english_gloss": "input field"
+    },
+    {
+      "hanzi": "路由",
+      "pinyin": "lùyóu",
+      "english_answers": [
+        "routing"
+      ],
+      "english_gloss": "routing"
+    },
+    {
+      "hanzi": "服务器",
+      "pinyin": "fúwùqì",
+      "english_answers": [
+        "server"
+      ],
+      "english_gloss": "server"
+    },
+    {
+      "hanzi": "客户端",
+      "pinyin": "kèhùduān",
+      "english_answers": [
+        "client"
+      ],
+      "english_gloss": "client"
+    },
+    {
+      "hanzi": "接口",
+      "pinyin": "jiēkǒu",
+      "english_answers": [
+        "interface",
+        "API endpoint"
+      ],
+      "english_gloss": "interface / API endpoint"
+    },
+    {
+      "hanzi": "应用程序接口",
+      "pinyin": "yìngyòng chéngxù jiēkǒu",
+      "english_answers": [
+        "application programming interface"
+      ],
+      "english_gloss": "application programming interface"
+    },
+    {
+      "hanzi": "请求",
+      "pinyin": "qǐngqiú",
+      "english_answers": [
+        "request"
+      ],
+      "english_gloss": "request"
+    },
+    {
+      "hanzi": "响应",
+      "pinyin": "xiǎngyìng",
+      "english_answers": [
+        "response"
+      ],
+      "english_gloss": "response"
+    },
+    {
+      "hanzi": "数据传输",
+      "pinyin": "shùjù chuánshū",
+      "english_answers": [
+        "data transfer"
+      ],
+      "english_gloss": "data transfer"
+    },
+    {
+      "hanzi": "身份验证",
+      "pinyin": "shēnfèn yànzhèng",
+      "english_answers": [
+        "authentication"
+      ],
+      "english_gloss": "authentication"
+    },
+    {
+      "hanzi": "权限",
+      "pinyin": "quánxiàn",
+      "english_answers": [
+        "permissions",
+        "authorization"
+      ],
+      "english_gloss": "permissions / authorization"
+    },
+    {
+      "hanzi": "会话",
+      "pinyin": "huìhuà",
+      "english_answers": [
+        "session"
+      ],
+      "english_gloss": "session"
+    },
+    {
+      "hanzi": "缓存",
+      "pinyin": "huǎncún",
+      "english_answers": [
+        "cache"
+      ],
+      "english_gloss": "cache"
+    },
+    {
+      "hanzi": "中间件",
+      "pinyin": "zhōngjiānjiàn",
+      "english_answers": [
+        "middleware"
+      ],
+      "english_gloss": "middleware"
+    },
+    {
+      "hanzi": "异步",
+      "pinyin": "yìbù",
+      "english_answers": [
+        "asynchronous"
+      ],
+      "english_gloss": "asynchronous"
+    },
+    {
+      "hanzi": "并发",
+      "pinyin": "bìngfā",
+      "english_answers": [
+        "concurrency"
+      ],
+      "english_gloss": "concurrency"
+    },
+    {
+      "hanzi": "数据库",
+      "pinyin": "shùjùkù",
+      "english_answers": [
+        "database"
+      ],
+      "english_gloss": "database"
+    },
+    {
+      "hanzi": "数据表",
+      "pinyin": "shùjùbiǎo",
+      "english_answers": [
+        "database table"
+      ],
+      "english_gloss": "database table"
+    },
+    {
+      "hanzi": "查询",
+      "pinyin": "cháxún",
+      "english_answers": [
+        "query"
+      ],
+      "english_gloss": "query"
+    },
+    {
+      "hanzi": "索引",
+      "pinyin": "suǒyǐn",
+      "english_answers": [
+        "index"
+      ],
+      "english_gloss": "index"
+    },
+    {
+      "hanzi": "主键",
+      "pinyin": "zhǔjiàn",
+      "english_answers": [
+        "primary key"
+      ],
+      "english_gloss": "primary key"
+    },
+    {
+      "hanzi": "事务",
+      "pinyin": "shìwù",
+      "english_answers": [
+        "transaction"
+      ],
+      "english_gloss": "transaction"
+    },
+    {
+      "hanzi": "版本控制",
+      "pinyin": "bǎnběn kòngzhì",
+      "english_answers": [
+        "version control"
+      ],
+      "english_gloss": "version control"
+    },
+    {
+      "hanzi": "代码仓库",
+      "pinyin": "dàimǎ cāngkù",
+      "english_answers": [
+        "code repository"
+      ],
+      "english_gloss": "code repository"
+    },
+    {
+      "hanzi": "分支",
+      "pinyin": "fēnzhī",
+      "english_answers": [
+        "branch"
+      ],
+      "english_gloss": "branch"
+    },
+    {
+      "hanzi": "提交",
+      "pinyin": "tíjiāo",
+      "english_answers": [
+        "commit",
+        "submit"
+      ],
+      "english_gloss": "commit / submit"
+    },
+    {
+      "hanzi": "合并",
+      "pinyin": "hébìng",
+      "english_answers": [
+        "merge"
+      ],
+      "english_gloss": "merge"
+    },
+    {
+      "hanzi": "合并冲突",
+      "pinyin": "hébìng chōngtū",
+      "english_answers": [
+        "merge conflict"
+      ],
+      "english_gloss": "merge conflict"
+    },
+    {
+      "hanzi": "拉取请求",
+      "pinyin": "lāqǔ qǐngqiú",
+      "english_answers": [
+        "pull request (translated term)"
+      ],
+      "english_gloss": "pull request (translated term)"
+    },
+    {
+      "hanzi": "代码审查",
+      "pinyin": "dàimǎ shěnchá",
+      "english_answers": [
+        "code review"
+      ],
+      "english_gloss": "code review"
+    },
+    {
+      "hanzi": "错误",
+      "pinyin": "cuòwù",
+      "english_answers": [
+        "error"
+      ],
+      "english_gloss": "error"
+    },
+    {
+      "hanzi": "漏洞",
+      "pinyin": "lòudòng",
+      "english_answers": [
+        "vulnerability",
+        "security flaw"
+      ],
+      "english_gloss": "vulnerability / security flaw"
+    },
+    {
+      "hanzi": "缺陷",
+      "pinyin": "quēxiàn",
+      "english_answers": [
+        "defect",
+        "bug"
+      ],
+      "english_gloss": "defect / bug"
+    },
+    {
+      "hanzi": "调试",
+      "pinyin": "tiáoshì",
+      "english_answers": [
+        "debug"
+      ],
+      "english_gloss": "debug"
+    },
+    {
+      "hanzi": "断言",
+      "pinyin": "duànyán",
+      "english_answers": [
+        "assertion"
+      ],
+      "english_gloss": "assertion"
+    },
+    {
+      "hanzi": "日志",
+      "pinyin": "rìzhì",
+      "english_answers": [
+        "log"
+      ],
+      "english_gloss": "log"
+    },
+    {
+      "hanzi": "单元测试",
+      "pinyin": "dānyuán cèshì",
+      "english_answers": [
+        "unit test"
+      ],
+      "english_gloss": "unit test"
+    },
+    {
+      "hanzi": "集成测试",
+      "pinyin": "jíchéng cèshì",
+      "english_answers": [
+        "integration test"
+      ],
+      "english_gloss": "integration test"
+    },
+    {
+      "hanzi": "测试覆盖率",
+      "pinyin": "cèshì fùgàilǜ",
+      "english_answers": [
+        "test coverage"
+      ],
+      "english_gloss": "test coverage"
+    },
+    {
+      "hanzi": "重构",
+      "pinyin": "chónggòu",
+      "english_answers": [
+        "refactor"
+      ],
+      "english_gloss": "refactor"
+    },
+    {
+      "hanzi": "性能优化",
+      "pinyin": "xìngnéng yōuhuà",
+      "english_answers": [
+        "performance optimization"
+      ],
+      "english_gloss": "performance optimization"
+    },
+    {
+      "hanzi": "代码规范",
+      "pinyin": "dàimǎ guīfàn",
+      "english_answers": [
+        "coding standards"
+      ],
+      "english_gloss": "coding standards"
+    },
+    {
+      "hanzi": "开发环境",
+      "pinyin": "kāifā huánjìng",
+      "english_answers": [
+        "development environment"
+      ],
+      "english_gloss": "development environment"
+    },
+    {
+      "hanzi": "生产环境",
+      "pinyin": "shēngchǎn huánjìng",
+      "english_answers": [
+        "production environment"
+      ],
+      "english_gloss": "production environment"
+    },
+    {
+      "hanzi": "构建",
+      "pinyin": "gòujiàn",
+      "english_answers": [
+        "build (software)"
+      ],
+      "english_gloss": "build (software)"
+    },
+    {
+      "hanzi": "编译",
+      "pinyin": "biānyì",
+      "english_answers": [
+        "compile"
+      ],
+      "english_gloss": "compile"
+    },
+    {
+      "hanzi": "依赖项",
+      "pinyin": "yīlàixiàng",
+      "english_answers": [
+        "dependency"
+      ],
+      "english_gloss": "dependency"
+    },
+    {
+      "hanzi": "软件包",
+      "pinyin": "ruǎnjiànbāo",
+      "english_answers": [
+        "software package"
+      ],
+      "english_gloss": "software package"
+    },
+    {
+      "hanzi": "容器",
+      "pinyin": "róngqì",
+      "english_answers": [
+        "container"
+      ],
+      "english_gloss": "container"
+    },
+    {
+      "hanzi": "镜像",
+      "pinyin": "jìngxiàng",
+      "english_answers": [
+        "container image",
+        "image"
+      ],
+      "english_gloss": "container image / image"
+    },
+    {
+      "hanzi": "部署",
+      "pinyin": "bùshǔ",
+      "english_answers": [
+        "deploy"
+      ],
+      "english_gloss": "deploy"
+    },
+    {
+      "hanzi": "持续集成",
+      "pinyin": "chíxù jíchéng",
+      "english_answers": [
+        "continuous integration"
+      ],
+      "english_gloss": "continuous integration"
+    },
+    {
+      "hanzi": "持续交付",
+      "pinyin": "chíxù jiāofù",
+      "english_answers": [
+        "continuous delivery"
+      ],
+      "english_gloss": "continuous delivery"
+    },
+    {
+      "hanzi": "回滚",
+      "pinyin": "huígǔn",
+      "english_answers": [
+        "rollback"
+      ],
+      "english_gloss": "rollback"
+    },
+    {
+      "hanzi": "监控",
+      "pinyin": "jiānkòng",
+      "english_answers": [
+        "monitoring"
+      ],
+      "english_gloss": "monitoring"
+    },
+    {
+      "hanzi": "故障排查",
+      "pinyin": "gùzhàng páichá",
+      "english_answers": [
+        "troubleshooting"
+      ],
+      "english_gloss": "troubleshooting"
+    },
+    {
+      "hanzi": "上线",
+      "pinyin": "shàngxiàn",
+      "english_answers": [
+        "launch",
+        "go live"
+      ],
+      "english_gloss": "launch / go live"
+    },
+    {
+      "hanzi": "命令行",
+      "pinyin": "mìnglìngháng",
+      "english_answers": [
+        "command line"
+      ],
+      "english_gloss": "command line"
+    },
+    {
+      "hanzi": "终端",
+      "pinyin": "zhōngduān",
+      "english_answers": [
+        "terminal"
+      ],
+      "english_gloss": "terminal"
+    },
+    {
+      "hanzi": "框架",
+      "pinyin": "kuàngjià",
+      "english_answers": [
+        "framework"
+      ],
+      "english_gloss": "framework"
+    },
+    {
+      "hanzi": "开源",
+      "pinyin": "kāiyuán",
+      "english_answers": [
+        "open source"
+      ],
+      "english_gloss": "open source"
+    },
+    {
+      "hanzi": "文档",
+      "pinyin": "wéndàng",
+      "english_answers": [
+        "documentation"
+      ],
+      "english_gloss": "documentation"
+    }
+  ]
+}

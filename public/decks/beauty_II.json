@@ -1,0 +1,831 @@
+{
+  "id": "beauty_II",
+  "title": "Beauty Ii",
+  "language": "zh-Hans",
+  "source": "original saved flashcards",
+  "card_count": 100,
+  "cards": [
+    {
+      "hanzi": "化妆刷",
+      "pinyin": "huàzhuāngshuā",
+      "english_answers": [
+        "makeup brush"
+      ],
+      "english_gloss": "makeup brush"
+    },
+    {
+      "hanzi": "美妆蛋",
+      "pinyin": "měizhuāngdàn",
+      "english_answers": [
+        "makeup sponge",
+        "beauty blender"
+      ],
+      "english_gloss": "makeup sponge / beauty blender"
+    },
+    {
+      "hanzi": "粉扑",
+      "pinyin": "fěnpū",
+      "english_answers": [
+        "powder puff",
+        "cushion puff"
+      ],
+      "english_gloss": "powder puff / cushion puff"
+    },
+    {
+      "hanzi": "化妆棉",
+      "pinyin": "huàzhuāngmián",
+      "english_answers": [
+        "cotton pad"
+      ],
+      "english_gloss": "cotton pad"
+    },
+    {
+      "hanzi": "棉签",
+      "pinyin": "miánqiān",
+      "english_answers": [
+        "cotton swab"
+      ],
+      "english_gloss": "cotton swab"
+    },
+    {
+      "hanzi": "镜子",
+      "pinyin": "jìngzi",
+      "english_answers": [
+        "mirror"
+      ],
+      "english_gloss": "mirror"
+    },
+    {
+      "hanzi": "头发",
+      "pinyin": "tóufa",
+      "english_answers": [
+        "hair"
+      ],
+      "english_gloss": "hair"
+    },
+    {
+      "hanzi": "发型",
+      "pinyin": "fàxíng",
+      "english_answers": [
+        "hairstyle"
+      ],
+      "english_gloss": "hairstyle"
+    },
+    {
+      "hanzi": "理发",
+      "pinyin": "lǐfà",
+      "english_answers": [
+        "get a haircut",
+        "cut hair"
+      ],
+      "english_gloss": "get a haircut / cut hair"
+    },
+    {
+      "hanzi": "剪头发",
+      "pinyin": "jiǎn tóufa",
+      "english_answers": [
+        "cut hair"
+      ],
+      "english_gloss": "cut hair"
+    },
+    {
+      "hanzi": "理发店",
+      "pinyin": "lǐfàdiàn",
+      "english_answers": [
+        "barbershop",
+        "hair salon"
+      ],
+      "english_gloss": "barbershop / hair salon"
+    },
+    {
+      "hanzi": "美发店",
+      "pinyin": "měifàdiàn",
+      "english_answers": [
+        "hair salon"
+      ],
+      "english_gloss": "hair salon"
+    },
+    {
+      "hanzi": "发型师",
+      "pinyin": "fàxíngshī",
+      "english_answers": [
+        "hairstylist"
+      ],
+      "english_gloss": "hairstylist"
+    },
+    {
+      "hanzi": "理发师",
+      "pinyin": "lǐfàshī",
+      "english_answers": [
+        "barber",
+        "hairdresser"
+      ],
+      "english_gloss": "barber / hairdresser"
+    },
+    {
+      "hanzi": "洗头",
+      "pinyin": "xǐtóu",
+      "english_answers": [
+        "wash hair"
+      ],
+      "english_gloss": "wash hair"
+    },
+    {
+      "hanzi": "吹头发",
+      "pinyin": "chuī tóufa",
+      "english_answers": [
+        "blow-dry hair"
+      ],
+      "english_gloss": "blow-dry hair"
+    },
+    {
+      "hanzi": "吹风机",
+      "pinyin": "chuīfēngjī",
+      "english_answers": [
+        "hair dryer"
+      ],
+      "english_gloss": "hair dryer"
+    },
+    {
+      "hanzi": "洗发水",
+      "pinyin": "xǐfàshuǐ",
+      "english_answers": [
+        "shampoo"
+      ],
+      "english_gloss": "shampoo"
+    },
+    {
+      "hanzi": "护发素",
+      "pinyin": "hùfàsù",
+      "english_answers": [
+        "conditioner"
+      ],
+      "english_gloss": "conditioner"
+    },
+    {
+      "hanzi": "发膜",
+      "pinyin": "fàmó",
+      "english_answers": [
+        "hair mask"
+      ],
+      "english_gloss": "hair mask"
+    },
+    {
+      "hanzi": "护发油",
+      "pinyin": "hùfàyóu",
+      "english_answers": [
+        "hair oil"
+      ],
+      "english_gloss": "hair oil"
+    },
+    {
+      "hanzi": "发胶",
+      "pinyin": "fàjiāo",
+      "english_answers": [
+        "hair gel"
+      ],
+      "english_gloss": "hair gel"
+    },
+    {
+      "hanzi": "发蜡",
+      "pinyin": "fàlà",
+      "english_answers": [
+        "hair wax"
+      ],
+      "english_gloss": "hair wax"
+    },
+    {
+      "hanzi": "定型喷雾",
+      "pinyin": "dìngxíng pēnwù",
+      "english_answers": [
+        "hairspray",
+        "styling spray"
+      ],
+      "english_gloss": "hairspray / styling spray"
+    },
+    {
+      "hanzi": "梳子",
+      "pinyin": "shūzi",
+      "english_answers": [
+        "comb"
+      ],
+      "english_gloss": "comb"
+    },
+    {
+      "hanzi": "发刷",
+      "pinyin": "fàshuā",
+      "english_answers": [
+        "hairbrush"
+      ],
+      "english_gloss": "hairbrush"
+    },
+    {
+      "hanzi": "直发器",
+      "pinyin": "zhífàqì",
+      "english_answers": [
+        "hair straightener"
+      ],
+      "english_gloss": "hair straightener"
+    },
+    {
+      "hanzi": "卷发棒",
+      "pinyin": "juǎnfàbàng",
+      "english_answers": [
+        "curling iron"
+      ],
+      "english_gloss": "curling iron"
+    },
+    {
+      "hanzi": "卷发",
+      "pinyin": "juǎnfà",
+      "english_answers": [
+        "curly hair",
+        "curl hair"
+      ],
+      "english_gloss": "curly hair / curl hair"
+    },
+    {
+      "hanzi": "直发",
+      "pinyin": "zhífà",
+      "english_answers": [
+        "straight hair",
+        "straighten hair"
+      ],
+      "english_gloss": "straight hair / straighten hair"
+    },
+    {
+      "hanzi": "烫发",
+      "pinyin": "tàngfà",
+      "english_answers": [
+        "perm hair"
+      ],
+      "english_gloss": "perm hair"
+    },
+    {
+      "hanzi": "染发",
+      "pinyin": "rǎnfà",
+      "english_answers": [
+        "dye hair"
+      ],
+      "english_gloss": "dye hair"
+    },
+    {
+      "hanzi": "染发剂",
+      "pinyin": "rǎnfàjì",
+      "english_answers": [
+        "hair dye"
+      ],
+      "english_gloss": "hair dye"
+    },
+    {
+      "hanzi": "发色",
+      "pinyin": "fàsè",
+      "english_answers": [
+        "hair color"
+      ],
+      "english_gloss": "hair color"
+    },
+    {
+      "hanzi": "黑发",
+      "pinyin": "hēifà",
+      "english_answers": [
+        "black hair"
+      ],
+      "english_gloss": "black hair"
+    },
+    {
+      "hanzi": "棕色头发",
+      "pinyin": "zōngsè tóufa",
+      "english_answers": [
+        "brown hair"
+      ],
+      "english_gloss": "brown hair"
+    },
+    {
+      "hanzi": "金发",
+      "pinyin": "jīnfà",
+      "english_answers": [
+        "blond hair"
+      ],
+      "english_gloss": "blond hair"
+    },
+    {
+      "hanzi": "红发",
+      "pinyin": "hóngfà",
+      "english_answers": [
+        "red hair"
+      ],
+      "english_gloss": "red hair"
+    },
+    {
+      "hanzi": "漂发",
+      "pinyin": "piǎofà",
+      "english_answers": [
+        "bleach hair"
+      ],
+      "english_gloss": "bleach hair"
+    },
+    {
+      "hanzi": "补染",
+      "pinyin": "bǔrǎn",
+      "english_answers": [
+        "touch up hair dye"
+      ],
+      "english_gloss": "touch up hair dye"
+    },
+    {
+      "hanzi": "发根",
+      "pinyin": "fàgēn",
+      "english_answers": [
+        "hair roots"
+      ],
+      "english_gloss": "hair roots"
+    },
+    {
+      "hanzi": "发梢",
+      "pinyin": "fàshāo",
+      "english_answers": [
+        "hair ends",
+        "tips"
+      ],
+      "english_gloss": "hair ends / tips"
+    },
+    {
+      "hanzi": "分叉",
+      "pinyin": "fēnchà",
+      "english_answers": [
+        "split ends"
+      ],
+      "english_gloss": "split ends"
+    },
+    {
+      "hanzi": "刘海",
+      "pinyin": "liúhǎi",
+      "english_answers": [
+        "bangs",
+        "fringe"
+      ],
+      "english_gloss": "bangs / fringe"
+    },
+    {
+      "hanzi": "齐刘海",
+      "pinyin": "qíliúhǎi",
+      "english_answers": [
+        "blunt",
+        "straight bangs"
+      ],
+      "english_gloss": "blunt / straight bangs"
+    },
+    {
+      "hanzi": "侧刘海",
+      "pinyin": "cèliúhǎi",
+      "english_answers": [
+        "side-swept bangs"
+      ],
+      "english_gloss": "side-swept bangs"
+    },
+    {
+      "hanzi": "层次",
+      "pinyin": "céngcì",
+      "english_answers": [
+        "layers"
+      ],
+      "english_gloss": "layers"
+    },
+    {
+      "hanzi": "长发",
+      "pinyin": "chángfà",
+      "english_answers": [
+        "long hair"
+      ],
+      "english_gloss": "long hair"
+    },
+    {
+      "hanzi": "短发",
+      "pinyin": "duǎnfà",
+      "english_answers": [
+        "short hair"
+      ],
+      "english_gloss": "short hair"
+    },
+    {
+      "hanzi": "中长发",
+      "pinyin": "zhōngchángfà",
+      "english_answers": [
+        "medium-length hair"
+      ],
+      "english_gloss": "medium-length hair"
+    },
+    {
+      "hanzi": "马尾",
+      "pinyin": "mǎwěi",
+      "english_answers": [
+        "ponytail"
+      ],
+      "english_gloss": "ponytail"
+    },
+    {
+      "hanzi": "辫子",
+      "pinyin": "biànzi",
+      "english_answers": [
+        "braid"
+      ],
+      "english_gloss": "braid"
+    },
+    {
+      "hanzi": "盘发",
+      "pinyin": "pánfà",
+      "english_answers": [
+        "updo",
+        "put hair up"
+      ],
+      "english_gloss": "updo / put hair up"
+    },
+    {
+      "hanzi": "发夹",
+      "pinyin": "fàjiā",
+      "english_answers": [
+        "hair clip"
+      ],
+      "english_gloss": "hair clip"
+    },
+    {
+      "hanzi": "发卡",
+      "pinyin": "fàqiǎ",
+      "english_answers": [
+        "hairpin",
+        "barrette"
+      ],
+      "english_gloss": "hairpin / barrette"
+    },
+    {
+      "hanzi": "发带",
+      "pinyin": "fàdài",
+      "english_answers": [
+        "headband",
+        "hairband"
+      ],
+      "english_gloss": "headband / hairband"
+    },
+    {
+      "hanzi": "皮筋",
+      "pinyin": "píjīn",
+      "english_answers": [
+        "hair tie",
+        "elastic band"
+      ],
+      "english_gloss": "hair tie / elastic band"
+    },
+    {
+      "hanzi": "修剪",
+      "pinyin": "xiūjiǎn",
+      "english_answers": [
+        "trim"
+      ],
+      "english_gloss": "trim"
+    },
+    {
+      "hanzi": "剪短一点",
+      "pinyin": "jiǎn duǎn yìdiǎn",
+      "english_answers": [
+        "cut it a little shorter"
+      ],
+      "english_gloss": "cut it a little shorter"
+    },
+    {
+      "hanzi": "不要太短",
+      "pinyin": "bú yào tài duǎn",
+      "english_answers": [
+        "not too short"
+      ],
+      "english_gloss": "not too short"
+    },
+    {
+      "hanzi": "留长一点",
+      "pinyin": "liú cháng yìdiǎn",
+      "english_answers": [
+        "leave it a little longer"
+      ],
+      "english_gloss": "leave it a little longer"
+    },
+    {
+      "hanzi": "两边",
+      "pinyin": "liǎngbiān",
+      "english_answers": [
+        "both sides"
+      ],
+      "english_gloss": "both sides"
+    },
+    {
+      "hanzi": "后面",
+      "pinyin": "hòumiàn",
+      "english_answers": [
+        "the back"
+      ],
+      "english_gloss": "the back"
+    },
+    {
+      "hanzi": "顶部",
+      "pinyin": "dǐngbù",
+      "english_answers": [
+        "the top"
+      ],
+      "english_gloss": "the top"
+    },
+    {
+      "hanzi": "打薄",
+      "pinyin": "dǎbáo",
+      "english_answers": [
+        "thin out the hair"
+      ],
+      "english_gloss": "thin out the hair"
+    },
+    {
+      "hanzi": "修刘海",
+      "pinyin": "xiū liúhǎi",
+      "english_answers": [
+        "trim the bangs"
+      ],
+      "english_gloss": "trim the bangs"
+    },
+    {
+      "hanzi": "洗剪吹",
+      "pinyin": "xǐ jiǎn chuī",
+      "english_answers": [
+        "wash, cut and blow-dry"
+      ],
+      "english_gloss": "wash, cut and blow-dry"
+    },
+    {
+      "hanzi": "美甲",
+      "pinyin": "měijiǎ",
+      "english_answers": [
+        "manicure",
+        "nail art"
+      ],
+      "english_gloss": "manicure / nail art"
+    },
+    {
+      "hanzi": "美甲店",
+      "pinyin": "měijiǎdiàn",
+      "english_answers": [
+        "nail salon"
+      ],
+      "english_gloss": "nail salon"
+    },
+    {
+      "hanzi": "指甲",
+      "pinyin": "zhǐjia",
+      "english_answers": [
+        "fingernail",
+        "nail"
+      ],
+      "english_gloss": "fingernail / nail"
+    },
+    {
+      "hanzi": "脚趾甲",
+      "pinyin": "jiǎozhǐjia",
+      "english_answers": [
+        "toenail"
+      ],
+      "english_gloss": "toenail"
+    },
+    {
+      "hanzi": "指甲油",
+      "pinyin": "zhǐjiǎyóu",
+      "english_answers": [
+        "nail polish"
+      ],
+      "english_gloss": "nail polish"
+    },
+    {
+      "hanzi": "甲油胶",
+      "pinyin": "jiǎyóujiāo",
+      "english_answers": [
+        "gel nail polish"
+      ],
+      "english_gloss": "gel nail polish"
+    },
+    {
+      "hanzi": "卸甲",
+      "pinyin": "xièjiǎ",
+      "english_answers": [
+        "remove nail polish",
+        "gel nails"
+      ],
+      "english_gloss": "remove nail polish / gel nails"
+    },
+    {
+      "hanzi": "修甲",
+      "pinyin": "xiūjiǎ",
+      "english_answers": [
+        "manicure",
+        "shape nails"
+      ],
+      "english_gloss": "manicure / shape nails"
+    },
+    {
+      "hanzi": "剪指甲",
+      "pinyin": "jiǎn zhǐjia",
+      "english_answers": [
+        "cut nails"
+      ],
+      "english_gloss": "cut nails"
+    },
+    {
+      "hanzi": "指甲剪",
+      "pinyin": "zhǐjiǎjiǎn",
+      "english_answers": [
+        "nail clippers"
+      ],
+      "english_gloss": "nail clippers"
+    },
+    {
+      "hanzi": "锉刀",
+      "pinyin": "cuòdāo",
+      "english_answers": [
+        "nail file"
+      ],
+      "english_gloss": "nail file"
+    },
+    {
+      "hanzi": "长一点",
+      "pinyin": "cháng yìdiǎn",
+      "english_answers": [
+        "a little longer"
+      ],
+      "english_gloss": "a little longer"
+    },
+    {
+      "hanzi": "短一点",
+      "pinyin": "duǎn yìdiǎn",
+      "english_answers": [
+        "a little shorter"
+      ],
+      "english_gloss": "a little shorter"
+    },
+    {
+      "hanzi": "圆形",
+      "pinyin": "yuánxíng",
+      "english_answers": [
+        "round shape"
+      ],
+      "english_gloss": "round shape"
+    },
+    {
+      "hanzi": "方形",
+      "pinyin": "fāngxíng",
+      "english_answers": [
+        "square shape"
+      ],
+      "english_gloss": "square shape"
+    },
+    {
+      "hanzi": "椭圆形",
+      "pinyin": "tuǒyuánxíng",
+      "english_answers": [
+        "oval shape"
+      ],
+      "english_gloss": "oval shape"
+    },
+    {
+      "hanzi": "法式美甲",
+      "pinyin": "fǎshì měijiǎ",
+      "english_answers": [
+        "French manicure"
+      ],
+      "english_gloss": "French manicure"
+    },
+    {
+      "hanzi": "亮片",
+      "pinyin": "liàngpiàn",
+      "english_answers": [
+        "glitter",
+        "sequins"
+      ],
+      "english_gloss": "glitter / sequins"
+    },
+    {
+      "hanzi": "除毛",
+      "pinyin": "chúmáo",
+      "english_answers": [
+        "hair removal"
+      ],
+      "english_gloss": "hair removal"
+    },
+    {
+      "hanzi": "脱毛",
+      "pinyin": "tuōmáo",
+      "english_answers": [
+        "depilation",
+        "hair removal"
+      ],
+      "english_gloss": "depilation / hair removal"
+    },
+    {
+      "hanzi": "脱毛膏",
+      "pinyin": "tuōmáogāo",
+      "english_answers": [
+        "depilatory cream"
+      ],
+      "english_gloss": "depilatory cream"
+    },
+    {
+      "hanzi": "蜜蜡脱毛",
+      "pinyin": "mìlà tuōmáo",
+      "english_answers": [
+        "waxing"
+      ],
+      "english_gloss": "waxing"
+    },
+    {
+      "hanzi": "刮毛",
+      "pinyin": "guāmáo",
+      "english_answers": [
+        "shave body hair"
+      ],
+      "english_gloss": "shave body hair"
+    },
+    {
+      "hanzi": "剃须刀",
+      "pinyin": "tìxūdāo",
+      "english_answers": [
+        "razor"
+      ],
+      "english_gloss": "razor"
+    },
+    {
+      "hanzi": "腋毛",
+      "pinyin": "yèmáo",
+      "english_answers": [
+        "underarm hair"
+      ],
+      "english_gloss": "underarm hair"
+    },
+    {
+      "hanzi": "腿毛",
+      "pinyin": "tuǐmáo",
+      "english_answers": [
+        "leg hair"
+      ],
+      "english_gloss": "leg hair"
+    },
+    {
+      "hanzi": "体毛",
+      "pinyin": "tǐmáo",
+      "english_answers": [
+        "body hair"
+      ],
+      "english_gloss": "body hair"
+    },
+    {
+      "hanzi": "身体乳",
+      "pinyin": "shēntǐrǔ",
+      "english_answers": [
+        "body lotion"
+      ],
+      "english_gloss": "body lotion"
+    },
+    {
+      "hanzi": "润肤露",
+      "pinyin": "rùnfūlù",
+      "english_answers": [
+        "moisturizing body lotion"
+      ],
+      "english_gloss": "moisturizing body lotion"
+    },
+    {
+      "hanzi": "护手霜",
+      "pinyin": "hùshǒushuāng",
+      "english_answers": [
+        "hand cream"
+      ],
+      "english_gloss": "hand cream"
+    },
+    {
+      "hanzi": "沐浴露",
+      "pinyin": "mùyùlù",
+      "english_answers": [
+        "body wash",
+        "shower gel"
+      ],
+      "english_gloss": "body wash / shower gel"
+    },
+    {
+      "hanzi": "香皂",
+      "pinyin": "xiāngzào",
+      "english_answers": [
+        "soap"
+      ],
+      "english_gloss": "soap"
+    },
+    {
+      "hanzi": "香水",
+      "pinyin": "xiāngshuǐ",
+      "english_answers": [
+        "perfume"
+      ],
+      "english_gloss": "perfume"
+    }
+  ]
+}

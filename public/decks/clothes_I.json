@@ -1,0 +1,835 @@
+{
+  "id": "clothes_I",
+  "title": "Clothes I",
+  "language": "zh-Hans",
+  "source": "original saved flashcards",
+  "card_count": 100,
+  "cards": [
+    {
+      "hanzi": "衣服",
+      "pinyin": "yīfu",
+      "english_answers": [
+        "clothes",
+        "clothing"
+      ],
+      "english_gloss": "clothes / clothing"
+    },
+    {
+      "hanzi": "上衣",
+      "pinyin": "shàngyī",
+      "english_answers": [
+        "top",
+        "upper garment"
+      ],
+      "english_gloss": "top / upper garment"
+    },
+    {
+      "hanzi": "裤子",
+      "pinyin": "kùzi",
+      "english_answers": [
+        "pants",
+        "trousers"
+      ],
+      "english_gloss": "pants / trousers"
+    },
+    {
+      "hanzi": "裙子",
+      "pinyin": "qúnzi",
+      "english_answers": [
+        "skirt"
+      ],
+      "english_gloss": "skirt"
+    },
+    {
+      "hanzi": "连衣裙",
+      "pinyin": "liányīqún",
+      "english_answers": [
+        "dress"
+      ],
+      "english_gloss": "dress"
+    },
+    {
+      "hanzi": "衬衫",
+      "pinyin": "chènshān",
+      "english_answers": [
+        "shirt",
+        "blouse"
+      ],
+      "english_gloss": "shirt / blouse"
+    },
+    {
+      "hanzi": "女衬衫",
+      "pinyin": "nǚ chènshān",
+      "english_answers": [
+        "women's blouse"
+      ],
+      "english_gloss": "women's blouse"
+    },
+    {
+      "hanzi": "T恤",
+      "pinyin": "T xù",
+      "english_answers": [
+        "T-shirt"
+      ],
+      "english_gloss": "T-shirt"
+    },
+    {
+      "hanzi": "背心",
+      "pinyin": "bèixīn",
+      "english_answers": [
+        "tank top",
+        "vest"
+      ],
+      "english_gloss": "tank top / vest"
+    },
+    {
+      "hanzi": "毛衣",
+      "pinyin": "máoyī",
+      "english_answers": [
+        "sweater"
+      ],
+      "english_gloss": "sweater"
+    },
+    {
+      "hanzi": "卫衣",
+      "pinyin": "wèiyī",
+      "english_answers": [
+        "sweatshirt",
+        "hoodie"
+      ],
+      "english_gloss": "sweatshirt / hoodie"
+    },
+    {
+      "hanzi": "帽衫",
+      "pinyin": "màoshān",
+      "english_answers": [
+        "hoodie"
+      ],
+      "english_gloss": "hoodie"
+    },
+    {
+      "hanzi": "外套",
+      "pinyin": "wàitào",
+      "english_answers": [
+        "coat",
+        "jacket"
+      ],
+      "english_gloss": "coat / jacket"
+    },
+    {
+      "hanzi": "夹克",
+      "pinyin": "jiákè",
+      "english_answers": [
+        "jacket"
+      ],
+      "english_gloss": "jacket"
+    },
+    {
+      "hanzi": "大衣",
+      "pinyin": "dàyī",
+      "english_answers": [
+        "overcoat"
+      ],
+      "english_gloss": "overcoat"
+    },
+    {
+      "hanzi": "风衣",
+      "pinyin": "fēngyī",
+      "english_answers": [
+        "trench coat",
+        "windbreaker"
+      ],
+      "english_gloss": "trench coat / windbreaker"
+    },
+    {
+      "hanzi": "羽绒服",
+      "pinyin": "yǔróngfú",
+      "english_answers": [
+        "down jacket"
+      ],
+      "english_gloss": "down jacket"
+    },
+    {
+      "hanzi": "西装",
+      "pinyin": "xīzhuāng",
+      "english_answers": [
+        "suit"
+      ],
+      "english_gloss": "suit"
+    },
+    {
+      "hanzi": "西装外套",
+      "pinyin": "xīzhuāng wàitào",
+      "english_answers": [
+        "blazer",
+        "suit jacket"
+      ],
+      "english_gloss": "blazer / suit jacket"
+    },
+    {
+      "hanzi": "短裤",
+      "pinyin": "duǎnkù",
+      "english_answers": [
+        "shorts"
+      ],
+      "english_gloss": "shorts"
+    },
+    {
+      "hanzi": "牛仔裤",
+      "pinyin": "niúzǎikù",
+      "english_answers": [
+        "jeans"
+      ],
+      "english_gloss": "jeans"
+    },
+    {
+      "hanzi": "紧身裤",
+      "pinyin": "jǐnshēnkù",
+      "english_answers": [
+        "leggings",
+        "tight pants"
+      ],
+      "english_gloss": "leggings / tight pants"
+    },
+    {
+      "hanzi": "运动裤",
+      "pinyin": "yùndòngkù",
+      "english_answers": [
+        "sweatpants",
+        "athletic pants"
+      ],
+      "english_gloss": "sweatpants / athletic pants"
+    },
+    {
+      "hanzi": "睡衣",
+      "pinyin": "shuìyī",
+      "english_answers": [
+        "pajamas"
+      ],
+      "english_gloss": "pajamas"
+    },
+    {
+      "hanzi": "睡裙",
+      "pinyin": "shuìqún",
+      "english_answers": [
+        "nightgown"
+      ],
+      "english_gloss": "nightgown"
+    },
+    {
+      "hanzi": "内衣",
+      "pinyin": "nèiyī",
+      "english_answers": [
+        "underwear",
+        "undergarments"
+      ],
+      "english_gloss": "underwear / undergarments"
+    },
+    {
+      "hanzi": "内裤",
+      "pinyin": "nèikù",
+      "english_answers": [
+        "underwear",
+        "panties"
+      ],
+      "english_gloss": "underwear / panties"
+    },
+    {
+      "hanzi": "胸罩",
+      "pinyin": "xiōngzhào",
+      "english_answers": [
+        "bra"
+      ],
+      "english_gloss": "bra"
+    },
+    {
+      "hanzi": "文胸",
+      "pinyin": "wénxiōng",
+      "english_answers": [
+        "bra"
+      ],
+      "english_gloss": "bra"
+    },
+    {
+      "hanzi": "运动内衣",
+      "pinyin": "yùndòng nèiyī",
+      "english_answers": [
+        "sports bra"
+      ],
+      "english_gloss": "sports bra"
+    },
+    {
+      "hanzi": "丝袜",
+      "pinyin": "sīwà",
+      "english_answers": [
+        "stockings",
+        "pantyhose"
+      ],
+      "english_gloss": "stockings / pantyhose"
+    },
+    {
+      "hanzi": "连裤袜",
+      "pinyin": "liánkùwà",
+      "english_answers": [
+        "tights",
+        "pantyhose"
+      ],
+      "english_gloss": "tights / pantyhose"
+    },
+    {
+      "hanzi": "袜子",
+      "pinyin": "wàzi",
+      "english_answers": [
+        "socks"
+      ],
+      "english_gloss": "socks"
+    },
+    {
+      "hanzi": "长袜",
+      "pinyin": "chángwà",
+      "english_answers": [
+        "long socks",
+        "stockings"
+      ],
+      "english_gloss": "long socks / stockings"
+    },
+    {
+      "hanzi": "鞋",
+      "pinyin": "xié",
+      "english_answers": [
+        "shoes"
+      ],
+      "english_gloss": "shoes"
+    },
+    {
+      "hanzi": "运动鞋",
+      "pinyin": "yùndòngxié",
+      "english_answers": [
+        "sneakers",
+        "athletic shoes"
+      ],
+      "english_gloss": "sneakers / athletic shoes"
+    },
+    {
+      "hanzi": "高跟鞋",
+      "pinyin": "gāogēnxié",
+      "english_answers": [
+        "high heels"
+      ],
+      "english_gloss": "high heels"
+    },
+    {
+      "hanzi": "平底鞋",
+      "pinyin": "píngdǐxié",
+      "english_answers": [
+        "flats"
+      ],
+      "english_gloss": "flats"
+    },
+    {
+      "hanzi": "凉鞋",
+      "pinyin": "liángxié",
+      "english_answers": [
+        "sandals"
+      ],
+      "english_gloss": "sandals"
+    },
+    {
+      "hanzi": "拖鞋",
+      "pinyin": "tuōxié",
+      "english_answers": [
+        "slippers",
+        "flip-flops"
+      ],
+      "english_gloss": "slippers / flip-flops"
+    },
+    {
+      "hanzi": "靴子",
+      "pinyin": "xuēzi",
+      "english_answers": [
+        "boots"
+      ],
+      "english_gloss": "boots"
+    },
+    {
+      "hanzi": "短靴",
+      "pinyin": "duǎnxuē",
+      "english_answers": [
+        "ankle boots"
+      ],
+      "english_gloss": "ankle boots"
+    },
+    {
+      "hanzi": "长靴",
+      "pinyin": "chángxuē",
+      "english_answers": [
+        "tall boots"
+      ],
+      "english_gloss": "tall boots"
+    },
+    {
+      "hanzi": "皮鞋",
+      "pinyin": "píxié",
+      "english_answers": [
+        "leather",
+        "dress shoes"
+      ],
+      "english_gloss": "leather / dress shoes"
+    },
+    {
+      "hanzi": "帽子",
+      "pinyin": "màozi",
+      "english_answers": [
+        "hat",
+        "cap"
+      ],
+      "english_gloss": "hat / cap"
+    },
+    {
+      "hanzi": "棒球帽",
+      "pinyin": "bàngqiúmào",
+      "english_answers": [
+        "baseball cap"
+      ],
+      "english_gloss": "baseball cap"
+    },
+    {
+      "hanzi": "围巾",
+      "pinyin": "wéijīn",
+      "english_answers": [
+        "scarf"
+      ],
+      "english_gloss": "scarf"
+    },
+    {
+      "hanzi": "手套",
+      "pinyin": "shǒutào",
+      "english_answers": [
+        "gloves"
+      ],
+      "english_gloss": "gloves"
+    },
+    {
+      "hanzi": "腰带",
+      "pinyin": "yāodài",
+      "english_answers": [
+        "belt"
+      ],
+      "english_gloss": "belt"
+    },
+    {
+      "hanzi": "皮带",
+      "pinyin": "pídài",
+      "english_answers": [
+        "belt",
+        "leather belt"
+      ],
+      "english_gloss": "belt / leather belt"
+    },
+    {
+      "hanzi": "包",
+      "pinyin": "bāo",
+      "english_answers": [
+        "bag"
+      ],
+      "english_gloss": "bag"
+    },
+    {
+      "hanzi": "手提包",
+      "pinyin": "shǒutíbāo",
+      "english_answers": [
+        "handbag"
+      ],
+      "english_gloss": "handbag"
+    },
+    {
+      "hanzi": "单肩包",
+      "pinyin": "dānjiānbāo",
+      "english_answers": [
+        "shoulder bag"
+      ],
+      "english_gloss": "shoulder bag"
+    },
+    {
+      "hanzi": "斜挎包",
+      "pinyin": "xiékuàbāo",
+      "english_answers": [
+        "crossbody bag"
+      ],
+      "english_gloss": "crossbody bag"
+    },
+    {
+      "hanzi": "背包",
+      "pinyin": "bēibāo",
+      "english_answers": [
+        "backpack"
+      ],
+      "english_gloss": "backpack"
+    },
+    {
+      "hanzi": "钱包",
+      "pinyin": "qiánbāo",
+      "english_answers": [
+        "wallet"
+      ],
+      "english_gloss": "wallet"
+    },
+    {
+      "hanzi": "太阳镜",
+      "pinyin": "tàiyángjìng",
+      "english_answers": [
+        "sunglasses"
+      ],
+      "english_gloss": "sunglasses"
+    },
+    {
+      "hanzi": "眼镜",
+      "pinyin": "yǎnjìng",
+      "english_answers": [
+        "glasses"
+      ],
+      "english_gloss": "glasses"
+    },
+    {
+      "hanzi": "首饰",
+      "pinyin": "shǒushì",
+      "english_answers": [
+        "jewelry"
+      ],
+      "english_gloss": "jewelry"
+    },
+    {
+      "hanzi": "项链",
+      "pinyin": "xiàngliàn",
+      "english_answers": [
+        "necklace"
+      ],
+      "english_gloss": "necklace"
+    },
+    {
+      "hanzi": "耳环",
+      "pinyin": "ěrhuán",
+      "english_answers": [
+        "earrings"
+      ],
+      "english_gloss": "earrings"
+    },
+    {
+      "hanzi": "耳钉",
+      "pinyin": "ěrdīng",
+      "english_answers": [
+        "stud earrings"
+      ],
+      "english_gloss": "stud earrings"
+    },
+    {
+      "hanzi": "戒指",
+      "pinyin": "jièzhi",
+      "english_answers": [
+        "ring"
+      ],
+      "english_gloss": "ring"
+    },
+    {
+      "hanzi": "手链",
+      "pinyin": "shǒuliàn",
+      "english_answers": [
+        "bracelet"
+      ],
+      "english_gloss": "bracelet"
+    },
+    {
+      "hanzi": "手表",
+      "pinyin": "shǒubiǎo",
+      "english_answers": [
+        "wristwatch"
+      ],
+      "english_gloss": "wristwatch"
+    },
+    {
+      "hanzi": "棉",
+      "pinyin": "mián",
+      "english_answers": [
+        "cotton"
+      ],
+      "english_gloss": "cotton"
+    },
+    {
+      "hanzi": "羊毛",
+      "pinyin": "yángmáo",
+      "english_answers": [
+        "wool"
+      ],
+      "english_gloss": "wool"
+    },
+    {
+      "hanzi": "丝绸",
+      "pinyin": "sīchóu",
+      "english_answers": [
+        "silk"
+      ],
+      "english_gloss": "silk"
+    },
+    {
+      "hanzi": "皮革",
+      "pinyin": "pígé",
+      "english_answers": [
+        "leather"
+      ],
+      "english_gloss": "leather"
+    },
+    {
+      "hanzi": "牛仔布",
+      "pinyin": "niúzǎibù",
+      "english_answers": [
+        "denim"
+      ],
+      "english_gloss": "denim"
+    },
+    {
+      "hanzi": "蕾丝",
+      "pinyin": "lěisī",
+      "english_answers": [
+        "lace"
+      ],
+      "english_gloss": "lace"
+    },
+    {
+      "hanzi": "尺码",
+      "pinyin": "chǐmǎ",
+      "english_answers": [
+        "clothing size"
+      ],
+      "english_gloss": "clothing size"
+    },
+    {
+      "hanzi": "号码",
+      "pinyin": "hàomǎ",
+      "english_answers": [
+        "size",
+        "number"
+      ],
+      "english_gloss": "size / number"
+    },
+    {
+      "hanzi": "小号",
+      "pinyin": "xiǎohào",
+      "english_answers": [
+        "small size"
+      ],
+      "english_gloss": "small size"
+    },
+    {
+      "hanzi": "中号",
+      "pinyin": "zhōnghào",
+      "english_answers": [
+        "medium size"
+      ],
+      "english_gloss": "medium size"
+    },
+    {
+      "hanzi": "大号",
+      "pinyin": "dàhào",
+      "english_answers": [
+        "large size"
+      ],
+      "english_gloss": "large size"
+    },
+    {
+      "hanzi": "合身",
+      "pinyin": "héshēn",
+      "english_answers": [
+        "fit well",
+        "well-fitting"
+      ],
+      "english_gloss": "fit well / well-fitting"
+    },
+    {
+      "hanzi": "宽松",
+      "pinyin": "kuānsōng",
+      "english_answers": [
+        "loose-fitting"
+      ],
+      "english_gloss": "loose-fitting"
+    },
+    {
+      "hanzi": "紧",
+      "pinyin": "jǐn",
+      "english_answers": [
+        "tight"
+      ],
+      "english_gloss": "tight"
+    },
+    {
+      "hanzi": "松",
+      "pinyin": "sōng",
+      "english_answers": [
+        "loose"
+      ],
+      "english_gloss": "loose"
+    },
+    {
+      "hanzi": "太大",
+      "pinyin": "tài dà",
+      "english_answers": [
+        "too big"
+      ],
+      "english_gloss": "too big"
+    },
+    {
+      "hanzi": "太小",
+      "pinyin": "tài xiǎo",
+      "english_answers": [
+        "too small"
+      ],
+      "english_gloss": "too small"
+    },
+    {
+      "hanzi": "太长",
+      "pinyin": "tài cháng",
+      "english_answers": [
+        "too long"
+      ],
+      "english_gloss": "too long"
+    },
+    {
+      "hanzi": "太短",
+      "pinyin": "tài duǎn",
+      "english_answers": [
+        "too short"
+      ],
+      "english_gloss": "too short"
+    },
+    {
+      "hanzi": "试穿",
+      "pinyin": "shìchuān",
+      "english_answers": [
+        "try on clothes"
+      ],
+      "english_gloss": "try on clothes"
+    },
+    {
+      "hanzi": "试衣间",
+      "pinyin": "shìyījiān",
+      "english_answers": [
+        "fitting room"
+      ],
+      "english_gloss": "fitting room"
+    },
+    {
+      "hanzi": "穿",
+      "pinyin": "chuān",
+      "english_answers": [
+        "wear",
+        "put on"
+      ],
+      "english_gloss": "wear / put on"
+    },
+    {
+      "hanzi": "脱",
+      "pinyin": "tuō",
+      "english_answers": [
+        "take off clothing"
+      ],
+      "english_gloss": "take off clothing"
+    },
+    {
+      "hanzi": "换衣服",
+      "pinyin": "huàn yīfu",
+      "english_answers": [
+        "change clothes"
+      ],
+      "english_gloss": "change clothes"
+    },
+    {
+      "hanzi": "搭配",
+      "pinyin": "dāpèi",
+      "english_answers": [
+        "coordinate",
+        "match an outfit"
+      ],
+      "english_gloss": "coordinate / match an outfit"
+    },
+    {
+      "hanzi": "款式",
+      "pinyin": "kuǎnshì",
+      "english_answers": [
+        "style",
+        "design"
+      ],
+      "english_gloss": "style / design"
+    },
+    {
+      "hanzi": "颜色",
+      "pinyin": "yánsè",
+      "english_answers": [
+        "color"
+      ],
+      "english_gloss": "color"
+    },
+    {
+      "hanzi": "黑色",
+      "pinyin": "hēisè",
+      "english_answers": [
+        "black"
+      ],
+      "english_gloss": "black"
+    },
+    {
+      "hanzi": "白色",
+      "pinyin": "báisè",
+      "english_answers": [
+        "white"
+      ],
+      "english_gloss": "white"
+    },
+    {
+      "hanzi": "红色",
+      "pinyin": "hóngsè",
+      "english_answers": [
+        "red"
+      ],
+      "english_gloss": "red"
+    },
+    {
+      "hanzi": "蓝色",
+      "pinyin": "lánsè",
+      "english_answers": [
+        "blue"
+      ],
+      "english_gloss": "blue"
+    },
+    {
+      "hanzi": "粉色",
+      "pinyin": "fěnsè",
+      "english_answers": [
+        "pink"
+      ],
+      "english_gloss": "pink"
+    },
+    {
+      "hanzi": "紫色",
+      "pinyin": "zǐsè",
+      "english_answers": [
+        "purple"
+      ],
+      "english_gloss": "purple"
+    },
+    {
+      "hanzi": "绿色",
+      "pinyin": "lǜsè",
+      "english_answers": [
+        "green"
+      ],
+      "english_gloss": "green"
+    },
+    {
+      "hanzi": "灰色",
+      "pinyin": "huīsè",
+      "english_answers": [
+        "gray"
+      ],
+      "english_gloss": "gray"
+    }
+  ]
+}

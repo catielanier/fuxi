@@ -1,0 +1,841 @@
+{
+  "id": "clothes_III",
+  "title": "Clothes Iii",
+  "language": "zh-Hans",
+  "source": "original saved flashcards",
+  "card_count": 100,
+  "cards": [
+    {
+      "hanzi": "三角内裤",
+      "pinyin": "sānjiǎo nèikù",
+      "english_answers": [
+        "briefs",
+        "bikini-cut underwear"
+      ],
+      "english_gloss": "briefs / bikini-cut underwear"
+    },
+    {
+      "hanzi": "比基尼内裤",
+      "pinyin": "bǐjīní nèikù",
+      "english_answers": [
+        "bikini panties"
+      ],
+      "english_gloss": "bikini panties"
+    },
+    {
+      "hanzi": "高腰内裤",
+      "pinyin": "gāoyāo nèikù",
+      "english_answers": [
+        "high-waisted panties"
+      ],
+      "english_gloss": "high-waisted panties"
+    },
+    {
+      "hanzi": "低腰内裤",
+      "pinyin": "dīyāo nèikù",
+      "english_answers": [
+        "low-rise panties"
+      ],
+      "english_gloss": "low-rise panties"
+    },
+    {
+      "hanzi": "中腰内裤",
+      "pinyin": "zhōngyāo nèikù",
+      "english_answers": [
+        "mid-rise panties"
+      ],
+      "english_gloss": "mid-rise panties"
+    },
+    {
+      "hanzi": "平角内裤",
+      "pinyin": "píngjiǎo nèikù",
+      "english_answers": [
+        "boyshorts",
+        "boxer-style underwear"
+      ],
+      "english_gloss": "boyshorts / boxer-style underwear"
+    },
+    {
+      "hanzi": "丁字裤",
+      "pinyin": "dīngzìkù",
+      "english_answers": [
+        "thong"
+      ],
+      "english_gloss": "thong"
+    },
+    {
+      "hanzi": "无痕内裤",
+      "pinyin": "wúhén nèikù",
+      "english_answers": [
+        "seamless panties"
+      ],
+      "english_gloss": "seamless panties"
+    },
+    {
+      "hanzi": "蕾丝内裤",
+      "pinyin": "lěisī nèikù",
+      "english_answers": [
+        "lace panties"
+      ],
+      "english_gloss": "lace panties"
+    },
+    {
+      "hanzi": "棉质内裤",
+      "pinyin": "miánzhì nèikù",
+      "english_answers": [
+        "cotton panties"
+      ],
+      "english_gloss": "cotton panties"
+    },
+    {
+      "hanzi": "性感内衣",
+      "pinyin": "xìnggǎn nèiyī",
+      "english_answers": [
+        "sexy lingerie"
+      ],
+      "english_gloss": "sexy lingerie"
+    },
+    {
+      "hanzi": "情趣内衣",
+      "pinyin": "qíngqù nèiyī",
+      "english_answers": [
+        "erotic lingerie"
+      ],
+      "english_gloss": "erotic lingerie"
+    },
+    {
+      "hanzi": "睡裙",
+      "pinyin": "shuìqún",
+      "english_answers": [
+        "nightgown"
+      ],
+      "english_gloss": "nightgown"
+    },
+    {
+      "hanzi": "吊带睡裙",
+      "pinyin": "diàodài shuìqún",
+      "english_answers": [
+        "slip nightdress"
+      ],
+      "english_gloss": "slip nightdress"
+    },
+    {
+      "hanzi": "睡袍",
+      "pinyin": "shuìpáo",
+      "english_answers": [
+        "robe",
+        "dressing gown"
+      ],
+      "english_gloss": "robe / dressing gown"
+    },
+    {
+      "hanzi": "浴袍",
+      "pinyin": "yùpáo",
+      "english_answers": [
+        "bathrobe"
+      ],
+      "english_gloss": "bathrobe"
+    },
+    {
+      "hanzi": "衬裙",
+      "pinyin": "chènqún",
+      "english_answers": [
+        "slip",
+        "underskirt"
+      ],
+      "english_gloss": "slip / underskirt"
+    },
+    {
+      "hanzi": "半身衬裙",
+      "pinyin": "bànshēn chènqún",
+      "english_answers": [
+        "half-slip"
+      ],
+      "english_gloss": "half-slip"
+    },
+    {
+      "hanzi": "吊带衬裙",
+      "pinyin": "diàodài chènqún",
+      "english_answers": [
+        "full slip"
+      ],
+      "english_gloss": "full slip"
+    },
+    {
+      "hanzi": "塑身裤",
+      "pinyin": "sùshēnkù",
+      "english_answers": [
+        "shaping shorts"
+      ],
+      "english_gloss": "shaping shorts"
+    },
+    {
+      "hanzi": "收腹裤",
+      "pinyin": "shōufùkù",
+      "english_answers": [
+        "tummy-control shorts"
+      ],
+      "english_gloss": "tummy-control shorts"
+    },
+    {
+      "hanzi": "束腰",
+      "pinyin": "shùyāo",
+      "english_answers": [
+        "waist cincher",
+        "corset"
+      ],
+      "english_gloss": "waist cincher / corset"
+    },
+    {
+      "hanzi": "束身衣",
+      "pinyin": "shùshēnyī",
+      "english_answers": [
+        "bodysuit shapewear"
+      ],
+      "english_gloss": "bodysuit shapewear"
+    },
+    {
+      "hanzi": "胸衣",
+      "pinyin": "xiōngyī",
+      "english_answers": [
+        "bustier",
+        "bodice"
+      ],
+      "english_gloss": "bustier / bodice"
+    },
+    {
+      "hanzi": "抹胸",
+      "pinyin": "mǒxiōng",
+      "english_answers": [
+        "bandeau top",
+        "strapless tube top"
+      ],
+      "english_gloss": "bandeau top / strapless tube top"
+    },
+    {
+      "hanzi": "裹胸",
+      "pinyin": "guǒxiōng",
+      "english_answers": [
+        "bandeau",
+        "chest wrap"
+      ],
+      "english_gloss": "bandeau / chest wrap"
+    },
+    {
+      "hanzi": "无肩带款",
+      "pinyin": "wú jiāndài kuǎn",
+      "english_answers": [
+        "strapless style"
+      ],
+      "english_gloss": "strapless style"
+    },
+    {
+      "hanzi": "无钢圈款",
+      "pinyin": "wú gāngquān kuǎn",
+      "english_answers": [
+        "wireless style"
+      ],
+      "english_gloss": "wireless style"
+    },
+    {
+      "hanzi": "钢圈款",
+      "pinyin": "gāngquān kuǎn",
+      "english_answers": [
+        "underwire style"
+      ],
+      "english_gloss": "underwire style"
+    },
+    {
+      "hanzi": "聚拢款",
+      "pinyin": "jùlǒng kuǎn",
+      "english_answers": [
+        "push-up style"
+      ],
+      "english_gloss": "push-up style"
+    },
+    {
+      "hanzi": "薄杯",
+      "pinyin": "báobēi",
+      "english_answers": [
+        "lightly padded cup"
+      ],
+      "english_gloss": "lightly padded cup"
+    },
+    {
+      "hanzi": "厚杯",
+      "pinyin": "hòubēi",
+      "english_answers": [
+        "heavily padded cup"
+      ],
+      "english_gloss": "heavily padded cup"
+    },
+    {
+      "hanzi": "半杯",
+      "pinyin": "bànbēi",
+      "english_answers": [
+        "demi-cup style"
+      ],
+      "english_gloss": "demi-cup style"
+    },
+    {
+      "hanzi": "四分之三杯",
+      "pinyin": "sìfēnzhīsān bēi",
+      "english_answers": [
+        "three-quarter cup"
+      ],
+      "english_gloss": "three-quarter cup"
+    },
+    {
+      "hanzi": "全罩杯",
+      "pinyin": "quánzhàobēi",
+      "english_answers": [
+        "full-coverage cup"
+      ],
+      "english_gloss": "full-coverage cup"
+    },
+    {
+      "hanzi": "低胸款",
+      "pinyin": "dīxiōng kuǎn",
+      "english_answers": [
+        "plunge",
+        "low-cut style"
+      ],
+      "english_gloss": "plunge / low-cut style"
+    },
+    {
+      "hanzi": "前扣",
+      "pinyin": "qiánkòu",
+      "english_answers": [
+        "front closure"
+      ],
+      "english_gloss": "front closure"
+    },
+    {
+      "hanzi": "后扣",
+      "pinyin": "hòukòu",
+      "english_answers": [
+        "back closure"
+      ],
+      "english_gloss": "back closure"
+    },
+    {
+      "hanzi": "肩带可调",
+      "pinyin": "jiāndài kě tiáo",
+      "english_answers": [
+        "adjustable straps"
+      ],
+      "english_gloss": "adjustable straps"
+    },
+    {
+      "hanzi": "可拆肩带",
+      "pinyin": "kěchāi jiāndài",
+      "english_answers": [
+        "detachable straps"
+      ],
+      "english_gloss": "detachable straps"
+    },
+    {
+      "hanzi": "杯型",
+      "pinyin": "bēixíng",
+      "english_answers": [
+        "cup shape"
+      ],
+      "english_gloss": "cup shape"
+    },
+    {
+      "hanzi": "罩杯",
+      "pinyin": "zhàobēi",
+      "english_answers": [
+        "bra cup size"
+      ],
+      "english_gloss": "bra cup size"
+    },
+    {
+      "hanzi": "下胸围",
+      "pinyin": "xiàxiōngwéi",
+      "english_answers": [
+        "underbust measurement"
+      ],
+      "english_gloss": "underbust measurement"
+    },
+    {
+      "hanzi": "上胸围",
+      "pinyin": "shàngxiōngwéi",
+      "english_answers": [
+        "bust measurement"
+      ],
+      "english_gloss": "bust measurement"
+    },
+    {
+      "hanzi": "丝袜",
+      "pinyin": "sīwà",
+      "english_answers": [
+        "stockings",
+        "pantyhose"
+      ],
+      "english_gloss": "stockings / pantyhose"
+    },
+    {
+      "hanzi": "连裤袜",
+      "pinyin": "liánkùwà",
+      "english_answers": [
+        "tights",
+        "pantyhose"
+      ],
+      "english_gloss": "tights / pantyhose"
+    },
+    {
+      "hanzi": "打底袜",
+      "pinyin": "dǎdǐwà",
+      "english_answers": [
+        "tights",
+        "leggings-style hosiery"
+      ],
+      "english_gloss": "tights / leggings-style hosiery"
+    },
+    {
+      "hanzi": "长筒袜",
+      "pinyin": "chángtǒngwà",
+      "english_answers": [
+        "knee-high stockings"
+      ],
+      "english_gloss": "knee-high stockings"
+    },
+    {
+      "hanzi": "过膝袜",
+      "pinyin": "guòxīwà",
+      "english_answers": [
+        "over-the-knee socks"
+      ],
+      "english_gloss": "over-the-knee socks"
+    },
+    {
+      "hanzi": "船袜",
+      "pinyin": "chuánwà",
+      "english_answers": [
+        "no-show socks"
+      ],
+      "english_gloss": "no-show socks"
+    },
+    {
+      "hanzi": "短袜",
+      "pinyin": "duǎnwà",
+      "english_answers": [
+        "ankle socks"
+      ],
+      "english_gloss": "ankle socks"
+    },
+    {
+      "hanzi": "网袜",
+      "pinyin": "wǎngwà",
+      "english_answers": [
+        "fishnet stockings"
+      ],
+      "english_gloss": "fishnet stockings"
+    },
+    {
+      "hanzi": "黑丝",
+      "pinyin": "hēisī",
+      "english_answers": [
+        "black stockings",
+        "black tights"
+      ],
+      "english_gloss": "black stockings / black tights"
+    },
+    {
+      "hanzi": "肉色丝袜",
+      "pinyin": "ròusè sīwà",
+      "english_answers": [
+        "nude-colored stockings"
+      ],
+      "english_gloss": "nude-colored stockings"
+    },
+    {
+      "hanzi": "吊袜带",
+      "pinyin": "diàowàdài",
+      "english_answers": [
+        "garter belt"
+      ],
+      "english_gloss": "garter belt"
+    },
+    {
+      "hanzi": "吊袜",
+      "pinyin": "diàowà",
+      "english_answers": [
+        "stockings worn with garters"
+      ],
+      "english_gloss": "stockings worn with garters"
+    },
+    {
+      "hanzi": "袜带",
+      "pinyin": "wàdài",
+      "english_answers": [
+        "garter"
+      ],
+      "english_gloss": "garter"
+    },
+    {
+      "hanzi": "连体衣",
+      "pinyin": "liántǐyī",
+      "english_answers": [
+        "bodysuit"
+      ],
+      "english_gloss": "bodysuit"
+    },
+    {
+      "hanzi": "紧身衣",
+      "pinyin": "jǐnshēnyī",
+      "english_answers": [
+        "leotard",
+        "tight bodysuit"
+      ],
+      "english_gloss": "leotard / tight bodysuit"
+    },
+    {
+      "hanzi": "打底衫",
+      "pinyin": "dǎdǐshān",
+      "english_answers": [
+        "base-layer top"
+      ],
+      "english_gloss": "base-layer top"
+    },
+    {
+      "hanzi": "打底衣",
+      "pinyin": "dǎdǐyī",
+      "english_answers": [
+        "base-layer clothing"
+      ],
+      "english_gloss": "base-layer clothing"
+    },
+    {
+      "hanzi": "罩衫",
+      "pinyin": "zhàoshān",
+      "english_answers": [
+        "cover-up",
+        "loose outer top"
+      ],
+      "english_gloss": "cover-up / loose outer top"
+    },
+    {
+      "hanzi": "披肩",
+      "pinyin": "pījiān",
+      "english_answers": [
+        "shawl"
+      ],
+      "english_gloss": "shawl"
+    },
+    {
+      "hanzi": "披风",
+      "pinyin": "pīfēng",
+      "english_answers": [
+        "cape",
+        "cloak"
+      ],
+      "english_gloss": "cape / cloak"
+    },
+    {
+      "hanzi": "小外套",
+      "pinyin": "xiǎo wàitào",
+      "english_answers": [
+        "light jacket",
+        "bolero-style jacket"
+      ],
+      "english_gloss": "light jacket / bolero-style jacket"
+    },
+    {
+      "hanzi": "短外套",
+      "pinyin": "duǎn wàitào",
+      "english_answers": [
+        "cropped jacket"
+      ],
+      "english_gloss": "cropped jacket"
+    },
+    {
+      "hanzi": "长款外套",
+      "pinyin": "chángkuǎn wàitào",
+      "english_answers": [
+        "long coat",
+        "long jacket"
+      ],
+      "english_gloss": "long coat / long jacket"
+    },
+    {
+      "hanzi": "毛呢大衣",
+      "pinyin": "máoní dàyī",
+      "english_answers": [
+        "wool coat"
+      ],
+      "english_gloss": "wool coat"
+    },
+    {
+      "hanzi": "皮草",
+      "pinyin": "pícǎo",
+      "english_answers": [
+        "fur",
+        "faux-fur garment"
+      ],
+      "english_gloss": "fur / faux-fur garment"
+    },
+    {
+      "hanzi": "针织裙",
+      "pinyin": "zhēnzhīqún",
+      "english_answers": [
+        "knitted dress",
+        "skirt"
+      ],
+      "english_gloss": "knitted dress / skirt"
+    },
+    {
+      "hanzi": "针织连衣裙",
+      "pinyin": "zhēnzhī liányīqún",
+      "english_answers": [
+        "knit dress"
+      ],
+      "english_gloss": "knit dress"
+    },
+    {
+      "hanzi": "包身裙",
+      "pinyin": "bāoshēnqún",
+      "english_answers": [
+        "bodycon dress",
+        "skirt"
+      ],
+      "english_gloss": "bodycon dress / skirt"
+    },
+    {
+      "hanzi": "鱼尾裙",
+      "pinyin": "yúwěiqún",
+      "english_answers": [
+        "mermaid skirt",
+        "dress"
+      ],
+      "english_gloss": "mermaid skirt / dress"
+    },
+    {
+      "hanzi": "伞裙",
+      "pinyin": "sǎnqún",
+      "english_answers": [
+        "full",
+        "flared skirt"
+      ],
+      "english_gloss": "full / flared skirt"
+    },
+    {
+      "hanzi": "蓬蓬裙",
+      "pinyin": "péngpengqún",
+      "english_answers": [
+        "poofy",
+        "tutu-style skirt"
+      ],
+      "english_gloss": "poofy / tutu-style skirt"
+    },
+    {
+      "hanzi": "不规则裙",
+      "pinyin": "bù guīzé qún",
+      "english_answers": [
+        "asymmetrical skirt"
+      ],
+      "english_gloss": "asymmetrical skirt"
+    },
+    {
+      "hanzi": "开叉裙",
+      "pinyin": "kāichāqún",
+      "english_answers": [
+        "slit skirt"
+      ],
+      "english_gloss": "slit skirt"
+    },
+    {
+      "hanzi": "露肩裙",
+      "pinyin": "lùjiānqún",
+      "english_answers": [
+        "off-shoulder dress"
+      ],
+      "english_gloss": "off-shoulder dress"
+    },
+    {
+      "hanzi": "抹胸裙",
+      "pinyin": "mǒxiōngqún",
+      "english_answers": [
+        "strapless dress"
+      ],
+      "english_gloss": "strapless dress"
+    },
+    {
+      "hanzi": "紧身裙",
+      "pinyin": "jǐnshēnqún",
+      "english_answers": [
+        "fitted",
+        "bodycon dress"
+      ],
+      "english_gloss": "fitted / bodycon dress"
+    },
+    {
+      "hanzi": "收腰",
+      "pinyin": "shōuyāo",
+      "english_answers": [
+        "cinched waist",
+        "fitted at waist"
+      ],
+      "english_gloss": "cinched waist / fitted at waist"
+    },
+    {
+      "hanzi": "腰线",
+      "pinyin": "yāoxiàn",
+      "english_answers": [
+        "waistline"
+      ],
+      "english_gloss": "waistline"
+    },
+    {
+      "hanzi": "裙摆",
+      "pinyin": "qúnbǎi",
+      "english_answers": [
+        "skirt hem",
+        "lower part of skirt"
+      ],
+      "english_gloss": "skirt hem / lower part of skirt"
+    },
+    {
+      "hanzi": "下摆",
+      "pinyin": "xiàbǎi",
+      "english_answers": [
+        "hem"
+      ],
+      "english_gloss": "hem"
+    },
+    {
+      "hanzi": "衣摆",
+      "pinyin": "yībǎi",
+      "english_answers": [
+        "garment hem"
+      ],
+      "english_gloss": "garment hem"
+    },
+    {
+      "hanzi": "开衩",
+      "pinyin": "kāichà",
+      "english_answers": [
+        "slit",
+        "vent"
+      ],
+      "english_gloss": "slit / vent"
+    },
+    {
+      "hanzi": "褶皱",
+      "pinyin": "zhězhòu",
+      "english_answers": [
+        "pleats",
+        "ruching"
+      ],
+      "english_gloss": "pleats / ruching"
+    },
+    {
+      "hanzi": "荷叶边",
+      "pinyin": "héyèbiān",
+      "english_answers": [
+        "ruffle"
+      ],
+      "english_gloss": "ruffle"
+    },
+    {
+      "hanzi": "木耳边",
+      "pinyin": "mù'ěrbiān",
+      "english_answers": [
+        "lettuce-edge ruffle"
+      ],
+      "english_gloss": "lettuce-edge ruffle"
+    },
+    {
+      "hanzi": "花边",
+      "pinyin": "huābiān",
+      "english_answers": [
+        "lace trim",
+        "decorative edging"
+      ],
+      "english_gloss": "lace trim / decorative edging"
+    },
+    {
+      "hanzi": "蝴蝶结",
+      "pinyin": "húdiéjié",
+      "english_answers": [
+        "bow"
+      ],
+      "english_gloss": "bow"
+    },
+    {
+      "hanzi": "亮片装饰",
+      "pinyin": "liàngpiàn zhuāngshì",
+      "english_answers": [
+        "sequin decoration"
+      ],
+      "english_gloss": "sequin decoration"
+    },
+    {
+      "hanzi": "刺绣",
+      "pinyin": "cìxiù",
+      "english_answers": [
+        "embroidery"
+      ],
+      "english_gloss": "embroidery"
+    },
+    {
+      "hanzi": "镂空",
+      "pinyin": "lòukōng",
+      "english_answers": [
+        "cutout",
+        "openwork"
+      ],
+      "english_gloss": "cutout / openwork"
+    },
+    {
+      "hanzi": "透视",
+      "pinyin": "tòushì",
+      "english_answers": [
+        "sheer",
+        "see-through style"
+      ],
+      "english_gloss": "sheer / see-through style"
+    },
+    {
+      "hanzi": "露腰",
+      "pinyin": "lùyāo",
+      "english_answers": [
+        "midriff-baring"
+      ],
+      "english_gloss": "midriff-baring"
+    },
+    {
+      "hanzi": "露腿",
+      "pinyin": "lùtuǐ",
+      "english_answers": [
+        "leg-baring"
+      ],
+      "english_gloss": "leg-baring"
+    },
+    {
+      "hanzi": "显身材",
+      "pinyin": "xiǎn shēncái",
+      "english_answers": [
+        "shows off the figure"
+      ],
+      "english_gloss": "shows off the figure"
+    },
+    {
+      "hanzi": "显胸",
+      "pinyin": "xiǎn xiōng",
+      "english_answers": [
+        "emphasizes the bust"
+      ],
+      "english_gloss": "emphasizes the bust"
+    },
+    {
+      "hanzi": "显腰",
+      "pinyin": "xiǎn yāo",
+      "english_answers": [
+        "emphasizes the waist"
+      ],
+      "english_gloss": "emphasizes the waist"
+    }
+  ]
+}

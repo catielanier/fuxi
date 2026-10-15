@@ -1,0 +1,867 @@
+{
+  "id": "general_IV",
+  "title": "General Iv",
+  "language": "zh-Hans",
+  "source": "original saved flashcards",
+  "card_count": 100,
+  "cards": [
+    {
+      "hanzi": "热",
+      "pinyin": "rè",
+      "english_answers": [
+        "hot"
+      ],
+      "english_gloss": "hot"
+    },
+    {
+      "hanzi": "只",
+      "pinyin": "zhī",
+      "english_answers": [
+        "measure word for animals",
+        "one of a pair"
+      ],
+      "english_gloss": "measure word for animals / one of a pair"
+    },
+    {
+      "hanzi": "辆",
+      "pinyin": "liàng",
+      "english_answers": [
+        "measure word for vehicles"
+      ],
+      "english_gloss": "measure word for vehicles"
+    },
+    {
+      "hanzi": "台",
+      "pinyin": "tái",
+      "english_answers": [
+        "measure word for machines",
+        "devices"
+      ],
+      "english_gloss": "measure word for machines / devices"
+    },
+    {
+      "hanzi": "部",
+      "pinyin": "bù",
+      "english_answers": [
+        "measure word for phones",
+        "films",
+        "works"
+      ],
+      "english_gloss": "measure word for phones / films / works"
+    },
+    {
+      "hanzi": "家",
+      "pinyin": "jiā",
+      "english_answers": [
+        "measure word for businesses",
+        "households"
+      ],
+      "english_gloss": "measure word for businesses / households"
+    },
+    {
+      "hanzi": "间",
+      "pinyin": "jiān",
+      "english_answers": [
+        "measure word for rooms"
+      ],
+      "english_gloss": "measure word for rooms"
+    },
+    {
+      "hanzi": "层",
+      "pinyin": "céng",
+      "english_answers": [
+        "floor",
+        "layer; measure word"
+      ],
+      "english_gloss": "floor / layer; measure word"
+    },
+    {
+      "hanzi": "楼",
+      "pinyin": "lóu",
+      "english_answers": [
+        "building",
+        "floor"
+      ],
+      "english_gloss": "building / floor"
+    },
+    {
+      "hanzi": "次",
+      "pinyin": "cì",
+      "english_answers": [
+        "time",
+        "occurrence"
+      ],
+      "english_gloss": "time / occurrence"
+    },
+    {
+      "hanzi": "遍",
+      "pinyin": "biàn",
+      "english_answers": [
+        "time through an action from start to finish"
+      ],
+      "english_gloss": "time through an action from start to finish"
+    },
+    {
+      "hanzi": "趟",
+      "pinyin": "tàng",
+      "english_answers": [
+        "trip",
+        "run"
+      ],
+      "english_gloss": "trip / run"
+    },
+    {
+      "hanzi": "回",
+      "pinyin": "huí",
+      "english_answers": [
+        "time",
+        "occasion"
+      ],
+      "english_gloss": "time / occasion"
+    },
+    {
+      "hanzi": "种",
+      "pinyin": "zhǒng",
+      "english_answers": [
+        "kind",
+        "type"
+      ],
+      "english_gloss": "kind / type"
+    },
+    {
+      "hanzi": "块",
+      "pinyin": "kuài",
+      "english_answers": [
+        "piece",
+        "chunk",
+        "colloquial yuan"
+      ],
+      "english_gloss": "piece / chunk / colloquial yuan"
+    },
+    {
+      "hanzi": "毛",
+      "pinyin": "máo",
+      "english_answers": [
+        "0.1 yuan",
+        "dime"
+      ],
+      "english_gloss": "0.1 yuan / dime"
+    },
+    {
+      "hanzi": "角",
+      "pinyin": "jiǎo",
+      "english_answers": [
+        "0.1 yuan"
+      ],
+      "english_gloss": "0.1 yuan"
+    },
+    {
+      "hanzi": "分",
+      "pinyin": "fēn",
+      "english_answers": [
+        "cent",
+        "minute",
+        "divide"
+      ],
+      "english_gloss": "cent / minute / divide"
+    },
+    {
+      "hanzi": "公里",
+      "pinyin": "gōnglǐ",
+      "english_answers": [
+        "kilometer"
+      ],
+      "english_gloss": "kilometer"
+    },
+    {
+      "hanzi": "米",
+      "pinyin": "mǐ",
+      "english_answers": [
+        "meter"
+      ],
+      "english_gloss": "meter"
+    },
+    {
+      "hanzi": "公斤",
+      "pinyin": "gōngjīn",
+      "english_answers": [
+        "kilogram"
+      ],
+      "english_gloss": "kilogram"
+    },
+    {
+      "hanzi": "斤",
+      "pinyin": "jīn",
+      "english_answers": [
+        "500 grams",
+        "catty"
+      ],
+      "english_gloss": "500 grams / catty"
+    },
+    {
+      "hanzi": "克",
+      "pinyin": "kè",
+      "english_answers": [
+        "gram"
+      ],
+      "english_gloss": "gram"
+    },
+    {
+      "hanzi": "公升",
+      "pinyin": "gōngshēng",
+      "english_answers": [
+        "liter"
+      ],
+      "english_gloss": "liter"
+    },
+    {
+      "hanzi": "厘米",
+      "pinyin": "límǐ",
+      "english_answers": [
+        "centimeter"
+      ],
+      "english_gloss": "centimeter"
+    },
+    {
+      "hanzi": "刚",
+      "pinyin": "gāng",
+      "english_answers": [
+        "just",
+        "only just"
+      ],
+      "english_gloss": "just / only just"
+    },
+    {
+      "hanzi": "刚刚",
+      "pinyin": "gānggāng",
+      "english_answers": [
+        "just now"
+      ],
+      "english_gloss": "just now"
+    },
+    {
+      "hanzi": "马上就",
+      "pinyin": "mǎshàng jiù",
+      "english_answers": [
+        "about to",
+        "very soon"
+      ],
+      "english_gloss": "about to / very soon"
+    },
+    {
+      "hanzi": "后来",
+      "pinyin": "hòulái",
+      "english_answers": [
+        "later",
+        "afterward"
+      ],
+      "english_gloss": "later / afterward"
+    },
+    {
+      "hanzi": "当时",
+      "pinyin": "dāngshí",
+      "english_answers": [
+        "at that time"
+      ],
+      "english_gloss": "at that time"
+    },
+    {
+      "hanzi": "平时",
+      "pinyin": "píngshí",
+      "english_answers": [
+        "ordinarily",
+        "usually"
+      ],
+      "english_gloss": "ordinarily / usually"
+    },
+    {
+      "hanzi": "同时",
+      "pinyin": "tóngshí",
+      "english_answers": [
+        "at the same time"
+      ],
+      "english_gloss": "at the same time"
+    },
+    {
+      "hanzi": "突然",
+      "pinyin": "tūrán",
+      "english_answers": [
+        "suddenly"
+      ],
+      "english_gloss": "suddenly"
+    },
+    {
+      "hanzi": "顺便",
+      "pinyin": "shùnbiàn",
+      "english_answers": [
+        "conveniently",
+        "while you're at it"
+      ],
+      "english_gloss": "conveniently / while you're at it"
+    },
+    {
+      "hanzi": "顺路",
+      "pinyin": "shùnlù",
+      "english_answers": [
+        "on the way",
+        "along the route"
+      ],
+      "english_gloss": "on the way / along the route"
+    },
+    {
+      "hanzi": "直接",
+      "pinyin": "zhíjiē",
+      "english_answers": [
+        "directly"
+      ],
+      "english_gloss": "directly"
+    },
+    {
+      "hanzi": "差点儿",
+      "pinyin": "chàdiǎnr",
+      "english_answers": [
+        "almost",
+        "nearly"
+      ],
+      "english_gloss": "almost / nearly"
+    },
+    {
+      "hanzi": "至少",
+      "pinyin": "zhìshǎo",
+      "english_answers": [
+        "at least"
+      ],
+      "english_gloss": "at least"
+    },
+    {
+      "hanzi": "至多",
+      "pinyin": "zhìduō",
+      "english_answers": [
+        "at most"
+      ],
+      "english_gloss": "at most"
+    },
+    {
+      "hanzi": "差别",
+      "pinyin": "chābié",
+      "english_answers": [
+        "difference"
+      ],
+      "english_gloss": "difference"
+    },
+    {
+      "hanzi": "大部分",
+      "pinyin": "dàbùfen",
+      "english_answers": [
+        "most",
+        "majority"
+      ],
+      "english_gloss": "most / majority"
+    },
+    {
+      "hanzi": "少数",
+      "pinyin": "shǎoshù",
+      "english_answers": [
+        "minority",
+        "small number"
+      ],
+      "english_gloss": "minority / small number"
+    },
+    {
+      "hanzi": "另外",
+      "pinyin": "lìngwài",
+      "english_answers": [
+        "additionally",
+        "another"
+      ],
+      "english_gloss": "additionally / another"
+    },
+    {
+      "hanzi": "其他",
+      "pinyin": "qítā",
+      "english_answers": [
+        "other",
+        "others"
+      ],
+      "english_gloss": "other / others"
+    },
+    {
+      "hanzi": "各",
+      "pinyin": "gè",
+      "english_answers": [
+        "each",
+        "various"
+      ],
+      "english_gloss": "each / various"
+    },
+    {
+      "hanzi": "每",
+      "pinyin": "měi",
+      "english_answers": [
+        "every",
+        "each"
+      ],
+      "english_gloss": "every / each"
+    },
+    {
+      "hanzi": "所有",
+      "pinyin": "suǒyǒu",
+      "english_answers": [
+        "all",
+        "every"
+      ],
+      "english_gloss": "all / every"
+    },
+    {
+      "hanzi": "任何",
+      "pinyin": "rènhé",
+      "english_answers": [
+        "any",
+        "whichever"
+      ],
+      "english_gloss": "any / whichever"
+    },
+    {
+      "hanzi": "某",
+      "pinyin": "mǒu",
+      "english_answers": [
+        "a certain",
+        "some"
+      ],
+      "english_gloss": "a certain / some"
+    },
+    {
+      "hanzi": "够不够",
+      "pinyin": "gòu bu gòu",
+      "english_answers": [
+        "is it enough?"
+      ],
+      "english_gloss": "is it enough?"
+    },
+    {
+      "hanzi": "能不能",
+      "pinyin": "néng bu néng",
+      "english_answers": [
+        "can or can't",
+        "is it possible?"
+      ],
+      "english_gloss": "can or can't / is it possible?"
+    },
+    {
+      "hanzi": "要不要",
+      "pinyin": "yào bu yào",
+      "english_answers": [
+        "want it or not?"
+      ],
+      "english_gloss": "want it or not?"
+    },
+    {
+      "hanzi": "有没有",
+      "pinyin": "yǒu méi yǒu",
+      "english_answers": [
+        "is there",
+        "do you have?"
+      ],
+      "english_gloss": "is there / do you have?"
+    },
+    {
+      "hanzi": "是不是",
+      "pinyin": "shì bu shì",
+      "english_answers": [
+        "is it or isn't it?"
+      ],
+      "english_gloss": "is it or isn't it?"
+    },
+    {
+      "hanzi": "对不对",
+      "pinyin": "duì bu duì",
+      "english_answers": [
+        "right or not?"
+      ],
+      "english_gloss": "right or not?"
+    },
+    {
+      "hanzi": "记住",
+      "pinyin": "jìzhù",
+      "english_answers": [
+        "remember",
+        "keep in mind"
+      ],
+      "english_gloss": "remember / keep in mind"
+    },
+    {
+      "hanzi": "忘了",
+      "pinyin": "wàng le",
+      "english_answers": [
+        "forgot"
+      ],
+      "english_gloss": "forgot"
+    },
+    {
+      "hanzi": "弄",
+      "pinyin": "nòng",
+      "english_answers": [
+        "do",
+        "handle",
+        "mess with"
+      ],
+      "english_gloss": "do / handle / mess with"
+    },
+    {
+      "hanzi": "弄好",
+      "pinyin": "nònghǎo",
+      "english_answers": [
+        "get something done",
+        "fixed"
+      ],
+      "english_gloss": "get something done / fixed"
+    },
+    {
+      "hanzi": "弄坏",
+      "pinyin": "nònghuài",
+      "english_answers": [
+        "break",
+        "mess something up"
+      ],
+      "english_gloss": "break / mess something up"
+    },
+    {
+      "hanzi": "打开",
+      "pinyin": "dǎkāi",
+      "english_answers": [
+        "open",
+        "turn on"
+      ],
+      "english_gloss": "open / turn on"
+    },
+    {
+      "hanzi": "关掉",
+      "pinyin": "guāndiào",
+      "english_answers": [
+        "turn off",
+        "shut down"
+      ],
+      "english_gloss": "turn off / shut down"
+    },
+    {
+      "hanzi": "关上",
+      "pinyin": "guānshàng",
+      "english_answers": [
+        "close",
+        "shut"
+      ],
+      "english_gloss": "close / shut"
+    },
+    {
+      "hanzi": "拿走",
+      "pinyin": "názǒu",
+      "english_answers": [
+        "take away"
+      ],
+      "english_gloss": "take away"
+    },
+    {
+      "hanzi": "拿来",
+      "pinyin": "nálái",
+      "english_answers": [
+        "bring here"
+      ],
+      "english_gloss": "bring here"
+    },
+    {
+      "hanzi": "带走",
+      "pinyin": "dàizǒu",
+      "english_answers": [
+        "take away",
+        "carry off"
+      ],
+      "english_gloss": "take away / carry off"
+    },
+    {
+      "hanzi": "带来",
+      "pinyin": "dàilái",
+      "english_answers": [
+        "bring"
+      ],
+      "english_gloss": "bring"
+    },
+    {
+      "hanzi": "放下",
+      "pinyin": "fàngxià",
+      "english_answers": [
+        "put down"
+      ],
+      "english_gloss": "put down"
+    },
+    {
+      "hanzi": "放回去",
+      "pinyin": "fàng huíqu",
+      "english_answers": [
+        "put back"
+      ],
+      "english_gloss": "put back"
+    },
+    {
+      "hanzi": "收起来",
+      "pinyin": "shōu qǐlái",
+      "english_answers": [
+        "put away",
+        "store"
+      ],
+      "english_gloss": "put away / store"
+    },
+    {
+      "hanzi": "扔掉",
+      "pinyin": "rēngdiào",
+      "english_answers": [
+        "throw away"
+      ],
+      "english_gloss": "throw away"
+    },
+    {
+      "hanzi": "借给",
+      "pinyin": "jiègěi",
+      "english_answers": [
+        "lend to"
+      ],
+      "english_gloss": "lend to"
+    },
+    {
+      "hanzi": "还给",
+      "pinyin": "huángěi",
+      "english_answers": [
+        "return to someone"
+      ],
+      "english_gloss": "return to someone"
+    },
+    {
+      "hanzi": "接",
+      "pinyin": "jiē",
+      "english_answers": [
+        "pick up",
+        "receive",
+        "answer"
+      ],
+      "english_gloss": "pick up / receive / answer"
+    },
+    {
+      "hanzi": "送",
+      "pinyin": "sòng",
+      "english_answers": [
+        "deliver",
+        "give",
+        "see someone off"
+      ],
+      "english_gloss": "deliver / give / see someone off"
+    },
+    {
+      "hanzi": "接人",
+      "pinyin": "jiērén",
+      "english_answers": [
+        "pick someone up"
+      ],
+      "english_gloss": "pick someone up"
+    },
+    {
+      "hanzi": "送人",
+      "pinyin": "sòngrén",
+      "english_answers": [
+        "see someone off",
+        "give to someone"
+      ],
+      "english_gloss": "see someone off / give to someone"
+    },
+    {
+      "hanzi": "经过",
+      "pinyin": "jīngguò",
+      "english_answers": [
+        "pass by",
+        "go through"
+      ],
+      "english_gloss": "pass by / go through"
+    },
+    {
+      "hanzi": "经过这里",
+      "pinyin": "jīngguò zhèlǐ",
+      "english_answers": [
+        "pass through here"
+      ],
+      "english_gloss": "pass through here"
+    },
+    {
+      "hanzi": "往",
+      "pinyin": "wǎng",
+      "english_answers": [
+        "toward",
+        "in the direction of"
+      ],
+      "english_gloss": "toward / in the direction of"
+    },
+    {
+      "hanzi": "直走",
+      "pinyin": "zhízǒu",
+      "english_answers": [
+        "go straight"
+      ],
+      "english_gloss": "go straight"
+    },
+    {
+      "hanzi": "左转",
+      "pinyin": "zuǒzhuǎn",
+      "english_answers": [
+        "turn left"
+      ],
+      "english_gloss": "turn left"
+    },
+    {
+      "hanzi": "右转",
+      "pinyin": "yòuzhuǎn",
+      "english_answers": [
+        "turn right"
+      ],
+      "english_gloss": "turn right"
+    },
+    {
+      "hanzi": "过马路",
+      "pinyin": "guò mǎlù",
+      "english_answers": [
+        "cross the street"
+      ],
+      "english_gloss": "cross the street"
+    },
+    {
+      "hanzi": "红绿灯",
+      "pinyin": "hónglǜdēng",
+      "english_answers": [
+        "traffic light"
+      ],
+      "english_gloss": "traffic light"
+    },
+    {
+      "hanzi": "人行道",
+      "pinyin": "rénxíngdào",
+      "english_answers": [
+        "sidewalk",
+        "pedestrian path"
+      ],
+      "english_gloss": "sidewalk / pedestrian path"
+    },
+    {
+      "hanzi": "斑马线",
+      "pinyin": "bānmǎxiàn",
+      "english_answers": [
+        "zebra crossing",
+        "crosswalk"
+      ],
+      "english_gloss": "zebra crossing / crosswalk"
+    },
+    {
+      "hanzi": "过站",
+      "pinyin": "guòzhàn",
+      "english_answers": [
+        "miss",
+        "pass one's stop"
+      ],
+      "english_gloss": "miss / pass one's stop"
+    },
+    {
+      "hanzi": "坐过站",
+      "pinyin": "zuò guòzhàn",
+      "english_answers": [
+        "ride past one's stop"
+      ],
+      "english_gloss": "ride past one's stop"
+    },
+    {
+      "hanzi": "等车",
+      "pinyin": "děngchē",
+      "english_answers": [
+        "wait for a vehicle"
+      ],
+      "english_gloss": "wait for a vehicle"
+    },
+    {
+      "hanzi": "赶车",
+      "pinyin": "gǎnchē",
+      "english_answers": [
+        "rush to catch a bus/train"
+      ],
+      "english_gloss": "rush to catch a bus/train"
+    },
+    {
+      "hanzi": "零钱",
+      "pinyin": "língqián",
+      "english_answers": [
+        "small change"
+      ],
+      "english_gloss": "small change"
+    },
+    {
+      "hanzi": "找钱",
+      "pinyin": "zhǎoqián",
+      "english_answers": [
+        "give change"
+      ],
+      "english_gloss": "give change"
+    },
+    {
+      "hanzi": "余额",
+      "pinyin": "yú'é",
+      "english_answers": [
+        "balance",
+        "remaining funds"
+      ],
+      "english_gloss": "balance / remaining funds"
+    },
+    {
+      "hanzi": "欠",
+      "pinyin": "qiàn",
+      "english_answers": [
+        "owe"
+      ],
+      "english_gloss": "owe"
+    },
+    {
+      "hanzi": "欠钱",
+      "pinyin": "qiànqián",
+      "english_answers": [
+        "owe money"
+      ],
+      "english_gloss": "owe money"
+    },
+    {
+      "hanzi": "交钱",
+      "pinyin": "jiāoqián",
+      "english_answers": [
+        "pay money",
+        "pay a fee"
+      ],
+      "english_gloss": "pay money / pay a fee"
+    },
+    {
+      "hanzi": "交费",
+      "pinyin": "jiāofèi",
+      "english_answers": [
+        "pay a fee",
+        "bill"
+      ],
+      "english_gloss": "pay a fee / bill"
+    },
+    {
+      "hanzi": "收费",
+      "pinyin": "shōufèi",
+      "english_answers": [
+        "charge a fee"
+      ],
+      "english_gloss": "charge a fee"
+    },
+    {
+      "hanzi": "免费",
+      "pinyin": "miǎnfèi",
+      "english_answers": [
+        "free of charge"
+      ],
+      "english_gloss": "free of charge"
+    }
+  ]
+}

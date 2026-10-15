@@ -1,0 +1,828 @@
+{
+  "id": "places_I",
+  "title": "Places I",
+  "language": "zh-Hans",
+  "source": "previously generated PDF",
+  "card_count": 100,
+  "cards": [
+    {
+      "hanzi": "城市",
+      "pinyin": "chéngshì",
+      "english_answers": [
+        "city"
+      ],
+      "english_gloss": "city"
+    },
+    {
+      "hanzi": "市中心",
+      "pinyin": "shì zhōngxīn",
+      "english_answers": [
+        "city center",
+        "downtown"
+      ],
+      "english_gloss": "city center / downtown"
+    },
+    {
+      "hanzi": "城区",
+      "pinyin": "chéngqū",
+      "english_answers": [
+        "urban district"
+      ],
+      "english_gloss": "urban district"
+    },
+    {
+      "hanzi": "郊区",
+      "pinyin": "jiāoqū",
+      "english_answers": [
+        "suburbs"
+      ],
+      "english_gloss": "suburbs"
+    },
+    {
+      "hanzi": "街道",
+      "pinyin": "jiēdào",
+      "english_answers": [
+        "street",
+        "neighborhood administrative office"
+      ],
+      "english_gloss": "street / neighborhood administrative office"
+    },
+    {
+      "hanzi": "小区",
+      "pinyin": "xiǎoqū",
+      "english_answers": [
+        "residential compound"
+      ],
+      "english_gloss": "residential compound"
+    },
+    {
+      "hanzi": "社区",
+      "pinyin": "shèqū",
+      "english_answers": [
+        "community",
+        "neighborhood"
+      ],
+      "english_gloss": "community / neighborhood"
+    },
+    {
+      "hanzi": "居民楼",
+      "pinyin": "jūmínlóu",
+      "english_answers": [
+        "residential apartment building"
+      ],
+      "english_gloss": "residential apartment building"
+    },
+    {
+      "hanzi": "公寓",
+      "pinyin": "gōngyù",
+      "english_answers": [
+        "apartment"
+      ],
+      "english_gloss": "apartment"
+    },
+    {
+      "hanzi": "住宅",
+      "pinyin": "zhùzhái",
+      "english_answers": [
+        "residence",
+        "dwelling"
+      ],
+      "english_gloss": "residence / dwelling"
+    },
+    {
+      "hanzi": "楼房",
+      "pinyin": "lóufáng",
+      "english_answers": [
+        "multistory building"
+      ],
+      "english_gloss": "multistory building"
+    },
+    {
+      "hanzi": "高楼",
+      "pinyin": "gāolóu",
+      "english_answers": [
+        "tall building"
+      ],
+      "english_gloss": "tall building"
+    },
+    {
+      "hanzi": "写字楼",
+      "pinyin": "xiězìlóu",
+      "english_answers": [
+        "office building"
+      ],
+      "english_gloss": "office building"
+    },
+    {
+      "hanzi": "办公楼",
+      "pinyin": "bàngōnglóu",
+      "english_answers": [
+        "office building"
+      ],
+      "english_gloss": "office building"
+    },
+    {
+      "hanzi": "大厦",
+      "pinyin": "dàshà",
+      "english_answers": [
+        "large multistory building"
+      ],
+      "english_gloss": "large multistory building"
+    },
+    {
+      "hanzi": "商住楼",
+      "pinyin": "shāngzhùlóu",
+      "english_answers": [
+        "mixed commercial-residential building"
+      ],
+      "english_gloss": "mixed commercial-residential building"
+    },
+    {
+      "hanzi": "老城区",
+      "pinyin": "lǎochéngqū",
+      "english_answers": [
+        "old urban district"
+      ],
+      "english_gloss": "old urban district"
+    },
+    {
+      "hanzi": "新城区",
+      "pinyin": "xīnchéngqū",
+      "english_answers": [
+        "new urban district"
+      ],
+      "english_gloss": "new urban district"
+    },
+    {
+      "hanzi": "商业区",
+      "pinyin": "shāngyèqū",
+      "english_answers": [
+        "commercial district"
+      ],
+      "english_gloss": "commercial district"
+    },
+    {
+      "hanzi": "工业区",
+      "pinyin": "gōngyèqū",
+      "english_answers": [
+        "industrial district"
+      ],
+      "english_gloss": "industrial district"
+    },
+    {
+      "hanzi": "商店",
+      "pinyin": "shāngdiàn",
+      "english_answers": [
+        "shop",
+        "store"
+      ],
+      "english_gloss": "shop / store"
+    },
+    {
+      "hanzi": "超市",
+      "pinyin": "chāoshì",
+      "english_answers": [
+        "supermarket"
+      ],
+      "english_gloss": "supermarket"
+    },
+    {
+      "hanzi": "便利店",
+      "pinyin": "biànlìdiàn",
+      "english_answers": [
+        "convenience store"
+      ],
+      "english_gloss": "convenience store"
+    },
+    {
+      "hanzi": "小卖部",
+      "pinyin": "xiǎomàibù",
+      "english_answers": [
+        "small neighborhood shop"
+      ],
+      "english_gloss": "small neighborhood shop"
+    },
+    {
+      "hanzi": "杂货店",
+      "pinyin": "záhuòdiàn",
+      "english_answers": [
+        "general store"
+      ],
+      "english_gloss": "general store"
+    },
+    {
+      "hanzi": "商场",
+      "pinyin": "shāngchǎng",
+      "english_answers": [
+        "shopping mall"
+      ],
+      "english_gloss": "shopping mall"
+    },
+    {
+      "hanzi": "购物中心",
+      "pinyin": "gòuwù zhōngxīn",
+      "english_answers": [
+        "shopping center"
+      ],
+      "english_gloss": "shopping center"
+    },
+    {
+      "hanzi": "百货商店",
+      "pinyin": "bǎihuò shāngdiàn",
+      "english_answers": [
+        "department store"
+      ],
+      "english_gloss": "department store"
+    },
+    {
+      "hanzi": "菜市场",
+      "pinyin": "càishìchǎng",
+      "english_answers": [
+        "fresh food market"
+      ],
+      "english_gloss": "fresh food market"
+    },
+    {
+      "hanzi": "农贸市场",
+      "pinyin": "nóngmào shìchǎng",
+      "english_answers": [
+        "farmers' market"
+      ],
+      "english_gloss": "farmers' market"
+    },
+    {
+      "hanzi": "水果店",
+      "pinyin": "shuǐguǒdiàn",
+      "english_answers": [
+        "fruit shop"
+      ],
+      "english_gloss": "fruit shop"
+    },
+    {
+      "hanzi": "肉店",
+      "pinyin": "ròudiàn",
+      "english_answers": [
+        "butcher shop"
+      ],
+      "english_gloss": "butcher shop"
+    },
+    {
+      "hanzi": "面包店",
+      "pinyin": "miànbāodiàn",
+      "english_answers": [
+        "bakery"
+      ],
+      "english_gloss": "bakery"
+    },
+    {
+      "hanzi": "花店",
+      "pinyin": "huādiàn",
+      "english_answers": [
+        "flower shop"
+      ],
+      "english_gloss": "flower shop"
+    },
+    {
+      "hanzi": "书店",
+      "pinyin": "shūdiàn",
+      "english_answers": [
+        "bookstore"
+      ],
+      "english_gloss": "bookstore"
+    },
+    {
+      "hanzi": "文具店",
+      "pinyin": "wénjùdiàn",
+      "english_answers": [
+        "stationery shop"
+      ],
+      "english_gloss": "stationery shop"
+    },
+    {
+      "hanzi": "眼镜店",
+      "pinyin": "yǎnjìngdiàn",
+      "english_answers": [
+        "optician",
+        "eyewear shop"
+      ],
+      "english_gloss": "optician / eyewear shop"
+    },
+    {
+      "hanzi": "手机店",
+      "pinyin": "shǒujīdiàn",
+      "english_answers": [
+        "mobile phone shop"
+      ],
+      "english_gloss": "mobile phone shop"
+    },
+    {
+      "hanzi": "五金店",
+      "pinyin": "wǔjīndiàn",
+      "english_answers": [
+        "hardware store"
+      ],
+      "english_gloss": "hardware store"
+    },
+    {
+      "hanzi": "批发市场",
+      "pinyin": "pīfā shìchǎng",
+      "english_answers": [
+        "wholesale market"
+      ],
+      "english_gloss": "wholesale market"
+    },
+    {
+      "hanzi": "饭馆",
+      "pinyin": "fànguǎn",
+      "english_answers": [
+        "restaurant",
+        "eatery"
+      ],
+      "english_gloss": "restaurant / eatery"
+    },
+    {
+      "hanzi": "餐厅",
+      "pinyin": "cāntīng",
+      "english_answers": [
+        "restaurant",
+        "dining hall"
+      ],
+      "english_gloss": "restaurant / dining hall"
+    },
+    {
+      "hanzi": "小吃店",
+      "pinyin": "xiǎochīdiàn",
+      "english_answers": [
+        "snack shop",
+        "small eatery"
+      ],
+      "english_gloss": "snack shop / small eatery"
+    },
+    {
+      "hanzi": "快餐店",
+      "pinyin": "kuàicāndiàn",
+      "english_answers": [
+        "fast-food restaurant"
+      ],
+      "english_gloss": "fast-food restaurant"
+    },
+    {
+      "hanzi": "咖啡馆",
+      "pinyin": "kāfēiguǎn",
+      "english_answers": [
+        "café"
+      ],
+      "english_gloss": "café"
+    },
+    {
+      "hanzi": "茶馆",
+      "pinyin": "cháguǎn",
+      "english_answers": [
+        "teahouse"
+      ],
+      "english_gloss": "teahouse"
+    },
+    {
+      "hanzi": "夜市",
+      "pinyin": "yèshì",
+      "english_answers": [
+        "night market"
+      ],
+      "english_gloss": "night market"
+    },
+    {
+      "hanzi": "美食街",
+      "pinyin": "měishíjiē",
+      "english_answers": [
+        "food street"
+      ],
+      "english_gloss": "food street"
+    },
+    {
+      "hanzi": "步行街",
+      "pinyin": "bùxíngjiē",
+      "english_answers": [
+        "pedestrian shopping street"
+      ],
+      "english_gloss": "pedestrian shopping street"
+    },
+    {
+      "hanzi": "广场",
+      "pinyin": "guǎngchǎng",
+      "english_answers": [
+        "public square",
+        "plaza"
+      ],
+      "english_gloss": "public square / plaza"
+    },
+    {
+      "hanzi": "公园",
+      "pinyin": "gōngyuán",
+      "english_answers": [
+        "park"
+      ],
+      "english_gloss": "park"
+    },
+    {
+      "hanzi": "游乐园",
+      "pinyin": "yóulèyuán",
+      "english_answers": [
+        "amusement park"
+      ],
+      "english_gloss": "amusement park"
+    },
+    {
+      "hanzi": "电影院",
+      "pinyin": "diànyǐngyuàn",
+      "english_answers": [
+        "cinema"
+      ],
+      "english_gloss": "cinema"
+    },
+    {
+      "hanzi": "剧院",
+      "pinyin": "jùyuàn",
+      "english_answers": [
+        "theater"
+      ],
+      "english_gloss": "theater"
+    },
+    {
+      "hanzi": "博物馆",
+      "pinyin": "bówùguǎn",
+      "english_answers": [
+        "museum"
+      ],
+      "english_gloss": "museum"
+    },
+    {
+      "hanzi": "美术馆",
+      "pinyin": "měishùguǎn",
+      "english_answers": [
+        "art museum",
+        "gallery"
+      ],
+      "english_gloss": "art museum / gallery"
+    },
+    {
+      "hanzi": "图书馆",
+      "pinyin": "túshūguǎn",
+      "english_answers": [
+        "library"
+      ],
+      "english_gloss": "library"
+    },
+    {
+      "hanzi": "体育馆",
+      "pinyin": "tǐyùguǎn",
+      "english_answers": [
+        "indoor sports arena"
+      ],
+      "english_gloss": "indoor sports arena"
+    },
+    {
+      "hanzi": "游泳馆",
+      "pinyin": "yóuyǒngguǎn",
+      "english_answers": [
+        "swimming facility"
+      ],
+      "english_gloss": "swimming facility"
+    },
+    {
+      "hanzi": "健身房",
+      "pinyin": "jiànshēnfáng",
+      "english_answers": [
+        "gym"
+      ],
+      "english_gloss": "gym"
+    },
+    {
+      "hanzi": "医院",
+      "pinyin": "yīyuàn",
+      "english_answers": [
+        "hospital"
+      ],
+      "english_gloss": "hospital"
+    },
+    {
+      "hanzi": "诊所",
+      "pinyin": "zhěnsuǒ",
+      "english_answers": [
+        "clinic"
+      ],
+      "english_gloss": "clinic"
+    },
+    {
+      "hanzi": "药店",
+      "pinyin": "yàodiàn",
+      "english_answers": [
+        "pharmacy"
+      ],
+      "english_gloss": "pharmacy"
+    },
+    {
+      "hanzi": "银行",
+      "pinyin": "yínháng",
+      "english_answers": [
+        "bank"
+      ],
+      "english_gloss": "bank"
+    },
+    {
+      "hanzi": "自动取款机",
+      "pinyin": "zìdòng qǔkuǎnjī",
+      "english_answers": [
+        "ATM"
+      ],
+      "english_gloss": "ATM"
+    },
+    {
+      "hanzi": "邮局",
+      "pinyin": "yóujú",
+      "english_answers": [
+        "post office"
+      ],
+      "english_gloss": "post office"
+    },
+    {
+      "hanzi": "派出所",
+      "pinyin": "pàichūsuǒ",
+      "english_answers": [
+        "local police station"
+      ],
+      "english_gloss": "local police station"
+    },
+    {
+      "hanzi": "公安局",
+      "pinyin": "gōng'ānjú",
+      "english_answers": [
+        "public security bureau"
+      ],
+      "english_gloss": "public security bureau"
+    },
+    {
+      "hanzi": "消防站",
+      "pinyin": "xiāofángzhàn",
+      "english_answers": [
+        "fire station"
+      ],
+      "english_gloss": "fire station"
+    },
+    {
+      "hanzi": "市政府",
+      "pinyin": "shì zhèngfǔ",
+      "english_answers": [
+        "municipal government"
+      ],
+      "english_gloss": "municipal government"
+    },
+    {
+      "hanzi": "居委会",
+      "pinyin": "jūwěihuì",
+      "english_answers": [
+        "neighborhood residents' committee"
+      ],
+      "english_gloss": "neighborhood residents' committee"
+    },
+    {
+      "hanzi": "办事处",
+      "pinyin": "bànshìchù",
+      "english_answers": [
+        "administrative",
+        "local service office"
+      ],
+      "english_gloss": "administrative / local service office"
+    },
+    {
+      "hanzi": "学校",
+      "pinyin": "xuéxiào",
+      "english_answers": [
+        "school"
+      ],
+      "english_gloss": "school"
+    },
+    {
+      "hanzi": "幼儿园",
+      "pinyin": "yòu'éryuán",
+      "english_answers": [
+        "kindergarten"
+      ],
+      "english_gloss": "kindergarten"
+    },
+    {
+      "hanzi": "小学",
+      "pinyin": "xiǎoxué",
+      "english_answers": [
+        "elementary school"
+      ],
+      "english_gloss": "elementary school"
+    },
+    {
+      "hanzi": "中学",
+      "pinyin": "zhōngxué",
+      "english_answers": [
+        "middle",
+        "secondary school"
+      ],
+      "english_gloss": "middle / secondary school"
+    },
+    {
+      "hanzi": "大学",
+      "pinyin": "dàxué",
+      "english_answers": [
+        "university"
+      ],
+      "english_gloss": "university"
+    },
+    {
+      "hanzi": "培训中心",
+      "pinyin": "péixùn zhōngxīn",
+      "english_answers": [
+        "training center"
+      ],
+      "english_gloss": "training center"
+    },
+    {
+      "hanzi": "领事馆",
+      "pinyin": "lǐngshìguǎn",
+      "english_answers": [
+        "consulate"
+      ],
+      "english_gloss": "consulate"
+    },
+    {
+      "hanzi": "大使馆",
+      "pinyin": "dàshǐguǎn",
+      "english_answers": [
+        "embassy"
+      ],
+      "english_gloss": "embassy"
+    },
+    {
+      "hanzi": "理发店",
+      "pinyin": "lǐfàdiàn",
+      "english_answers": [
+        "barbershop",
+        "hair salon"
+      ],
+      "english_gloss": "barbershop / hair salon"
+    },
+    {
+      "hanzi": "美容院",
+      "pinyin": "měiróngyuàn",
+      "english_answers": [
+        "beauty salon"
+      ],
+      "english_gloss": "beauty salon"
+    },
+    {
+      "hanzi": "美甲店",
+      "pinyin": "měijiǎdiàn",
+      "english_answers": [
+        "nail salon"
+      ],
+      "english_gloss": "nail salon"
+    },
+    {
+      "hanzi": "洗衣店",
+      "pinyin": "xǐyīdiàn",
+      "english_answers": [
+        "laundry",
+        "dry cleaner"
+      ],
+      "english_gloss": "laundry / dry cleaner"
+    },
+    {
+      "hanzi": "修理店",
+      "pinyin": "xiūlǐdiàn",
+      "english_answers": [
+        "repair shop"
+      ],
+      "english_gloss": "repair shop"
+    },
+    {
+      "hanzi": "打印店",
+      "pinyin": "dǎyìndiàn",
+      "english_answers": [
+        "print shop"
+      ],
+      "english_gloss": "print shop"
+    },
+    {
+      "hanzi": "快递站",
+      "pinyin": "kuàidìzhàn",
+      "english_answers": [
+        "parcel collection",
+        "courier station"
+      ],
+      "english_gloss": "parcel collection / courier station"
+    },
+    {
+      "hanzi": "物业管理处",
+      "pinyin": "wùyè guǎnlǐchù",
+      "english_answers": [
+        "property management office"
+      ],
+      "english_gloss": "property management office"
+    },
+    {
+      "hanzi": "售楼处",
+      "pinyin": "shòulóuchù",
+      "english_answers": [
+        "property sales office"
+      ],
+      "english_gloss": "property sales office"
+    },
+    {
+      "hanzi": "房产中介",
+      "pinyin": "fángchǎn zhōngjiè",
+      "english_answers": [
+        "real estate agency"
+      ],
+      "english_gloss": "real estate agency"
+    },
+    {
+      "hanzi": "停车场",
+      "pinyin": "tíngchēchǎng",
+      "english_answers": [
+        "parking lot",
+        "garage"
+      ],
+      "english_gloss": "parking lot / garage"
+    },
+    {
+      "hanzi": "加油站",
+      "pinyin": "jiāyóuzhàn",
+      "english_answers": [
+        "gas station"
+      ],
+      "english_gloss": "gas station"
+    },
+    {
+      "hanzi": "充电站",
+      "pinyin": "chōngdiànzhàn",
+      "english_answers": [
+        "charging station"
+      ],
+      "english_gloss": "charging station"
+    },
+    {
+      "hanzi": "公共厕所",
+      "pinyin": "gōnggòng cèsuǒ",
+      "english_answers": [
+        "public restroom"
+      ],
+      "english_gloss": "public restroom"
+    },
+    {
+      "hanzi": "垃圾站",
+      "pinyin": "lājīzhàn",
+      "english_answers": [
+        "waste collection station"
+      ],
+      "english_gloss": "waste collection station"
+    },
+    {
+      "hanzi": "回收站",
+      "pinyin": "huíshōuzhàn",
+      "english_answers": [
+        "recycling station"
+      ],
+      "english_gloss": "recycling station"
+    },
+    {
+      "hanzi": "宠物店",
+      "pinyin": "chǒngwùdiàn",
+      "english_answers": [
+        "pet shop"
+      ],
+      "english_gloss": "pet shop"
+    },
+    {
+      "hanzi": "宠物医院",
+      "pinyin": "chǒngwù yīyuàn",
+      "english_answers": [
+        "veterinary hospital"
+      ],
+      "english_gloss": "veterinary hospital"
+    },
+    {
+      "hanzi": "花鸟市场",
+      "pinyin": "huāniǎo shìchǎng",
+      "english_answers": [
+        "flower",
+        "bird",
+        "pet market"
+      ],
+      "english_gloss": "flower / bird / pet market"
+    },
+    {
+      "hanzi": "旧货市场",
+      "pinyin": "jiùhuò shìchǎng",
+      "english_answers": [
+        "secondhand goods market"
+      ],
+      "english_gloss": "secondhand goods market"
+    }
+  ]
+}

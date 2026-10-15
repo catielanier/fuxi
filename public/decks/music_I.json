@@ -1,0 +1,827 @@
+{
+  "id": "music_I",
+  "title": "Music I",
+  "language": "zh-Hans",
+  "source": "previously generated PDF",
+  "card_count": 100,
+  "cards": [
+    {
+      "hanzi": "乐器",
+      "pinyin": "yuèqì",
+      "english_answers": [
+        "musical instrument"
+      ],
+      "english_gloss": "musical instrument"
+    },
+    {
+      "hanzi": "弦乐器",
+      "pinyin": "xiányuèqì",
+      "english_answers": [
+        "string instrument"
+      ],
+      "english_gloss": "string instrument"
+    },
+    {
+      "hanzi": "管乐器",
+      "pinyin": "guǎnyuèqì",
+      "english_answers": [
+        "wind instrument"
+      ],
+      "english_gloss": "wind instrument"
+    },
+    {
+      "hanzi": "打击乐器",
+      "pinyin": "dǎjī yuèqì",
+      "english_answers": [
+        "percussion instrument"
+      ],
+      "english_gloss": "percussion instrument"
+    },
+    {
+      "hanzi": "键盘乐器",
+      "pinyin": "jiànpán yuèqì",
+      "english_answers": [
+        "keyboard instrument"
+      ],
+      "english_gloss": "keyboard instrument"
+    },
+    {
+      "hanzi": "木吉他",
+      "pinyin": "mù jítā",
+      "english_answers": [
+        "acoustic guitar"
+      ],
+      "english_gloss": "acoustic guitar"
+    },
+    {
+      "hanzi": "电吉他",
+      "pinyin": "diàn jítā",
+      "english_answers": [
+        "electric guitar"
+      ],
+      "english_gloss": "electric guitar"
+    },
+    {
+      "hanzi": "贝斯",
+      "pinyin": "bèisī",
+      "english_answers": [
+        "bass guitar"
+      ],
+      "english_gloss": "bass guitar"
+    },
+    {
+      "hanzi": "电贝斯",
+      "pinyin": "diàn bèisī",
+      "english_answers": [
+        "electric bass"
+      ],
+      "english_gloss": "electric bass"
+    },
+    {
+      "hanzi": "原声贝斯",
+      "pinyin": "yuánshēng bèisī",
+      "english_answers": [
+        "acoustic bass guitar"
+      ],
+      "english_gloss": "acoustic bass guitar"
+    },
+    {
+      "hanzi": "低音提琴",
+      "pinyin": "dīyīn tíqín",
+      "english_answers": [
+        "double bass",
+        "upright bass"
+      ],
+      "english_gloss": "double bass / upright bass"
+    },
+    {
+      "hanzi": "小提琴",
+      "pinyin": "xiǎotíqín",
+      "english_answers": [
+        "violin"
+      ],
+      "english_gloss": "violin"
+    },
+    {
+      "hanzi": "大提琴",
+      "pinyin": "dàtíqín",
+      "english_answers": [
+        "cello"
+      ],
+      "english_gloss": "cello"
+    },
+    {
+      "hanzi": "钢琴",
+      "pinyin": "gāngqín",
+      "english_answers": [
+        "piano"
+      ],
+      "english_gloss": "piano"
+    },
+    {
+      "hanzi": "电子琴",
+      "pinyin": "diànzǐqín",
+      "english_answers": [
+        "electronic keyboard"
+      ],
+      "english_gloss": "electronic keyboard"
+    },
+    {
+      "hanzi": "合成器",
+      "pinyin": "héchéngqì",
+      "english_answers": [
+        "synthesizer"
+      ],
+      "english_gloss": "synthesizer"
+    },
+    {
+      "hanzi": "架子鼓",
+      "pinyin": "jiàzigǔ",
+      "english_answers": [
+        "drum kit"
+      ],
+      "english_gloss": "drum kit"
+    },
+    {
+      "hanzi": "萨克斯",
+      "pinyin": "sàkèsī",
+      "english_answers": [
+        "saxophone"
+      ],
+      "english_gloss": "saxophone"
+    },
+    {
+      "hanzi": "小号",
+      "pinyin": "xiǎohào",
+      "english_answers": [
+        "trumpet"
+      ],
+      "english_gloss": "trumpet"
+    },
+    {
+      "hanzi": "长笛",
+      "pinyin": "chángdí",
+      "english_answers": [
+        "flute"
+      ],
+      "english_gloss": "flute"
+    },
+    {
+      "hanzi": "摇滚乐",
+      "pinyin": "yáogǔnyuè",
+      "english_answers": [
+        "rock music"
+      ],
+      "english_gloss": "rock music"
+    },
+    {
+      "hanzi": "重金属",
+      "pinyin": "zhòng jīnshǔ",
+      "english_answers": [
+        "heavy metal"
+      ],
+      "english_gloss": "heavy metal"
+    },
+    {
+      "hanzi": "新金属",
+      "pinyin": "xīn jīnshǔ",
+      "english_answers": [
+        "nu metal"
+      ],
+      "english_gloss": "nu metal"
+    },
+    {
+      "hanzi": "另类金属",
+      "pinyin": "lìnglèi jīnshǔ",
+      "english_answers": [
+        "alternative metal"
+      ],
+      "english_gloss": "alternative metal"
+    },
+    {
+      "hanzi": "另类摇滚",
+      "pinyin": "lìnglèi yáogǔn",
+      "english_answers": [
+        "alternative rock"
+      ],
+      "english_gloss": "alternative rock"
+    },
+    {
+      "hanzi": "工业金属",
+      "pinyin": "gōngyè jīnshǔ",
+      "english_answers": [
+        "industrial metal"
+      ],
+      "english_gloss": "industrial metal"
+    },
+    {
+      "hanzi": "工业摇滚",
+      "pinyin": "gōngyè yáogǔn",
+      "english_answers": [
+        "industrial rock"
+      ],
+      "english_gloss": "industrial rock"
+    },
+    {
+      "hanzi": "硬核朋克",
+      "pinyin": "yìnghé péngkè",
+      "english_answers": [
+        "hardcore punk"
+      ],
+      "english_gloss": "hardcore punk"
+    },
+    {
+      "hanzi": "朋克摇滚",
+      "pinyin": "péngkè yáogǔn",
+      "english_answers": [
+        "punk rock"
+      ],
+      "english_gloss": "punk rock"
+    },
+    {
+      "hanzi": "后硬核",
+      "pinyin": "hòu yìnghé",
+      "english_answers": [
+        "post-hardcore"
+      ],
+      "english_gloss": "post-hardcore"
+    },
+    {
+      "hanzi": "金属核",
+      "pinyin": "jīnshǔhé",
+      "english_answers": [
+        "metalcore"
+      ],
+      "english_gloss": "metalcore"
+    },
+    {
+      "hanzi": "说唱金属",
+      "pinyin": "shuōchàng jīnshǔ",
+      "english_answers": [
+        "rap metal"
+      ],
+      "english_gloss": "rap metal"
+    },
+    {
+      "hanzi": "电子音乐",
+      "pinyin": "diànzǐ yīnyuè",
+      "english_answers": [
+        "electronic music"
+      ],
+      "english_gloss": "electronic music"
+    },
+    {
+      "hanzi": "电子舞曲",
+      "pinyin": "diànzǐ wǔqǔ",
+      "english_answers": [
+        "electronic dance music",
+        "EDM"
+      ],
+      "english_gloss": "electronic dance music / EDM"
+    },
+    {
+      "hanzi": "回响贝斯",
+      "pinyin": "huíxiǎng bèisī",
+      "english_answers": [
+        "dubstep (often called Dubstep)"
+      ],
+      "english_gloss": "dubstep (often called Dubstep)"
+    },
+    {
+      "hanzi": "合成器流行",
+      "pinyin": "héchéngqì liúxíng",
+      "english_answers": [
+        "synth-pop"
+      ],
+      "english_gloss": "synth-pop"
+    },
+    {
+      "hanzi": "嘻哈",
+      "pinyin": "xīhā",
+      "english_answers": [
+        "hip-hop"
+      ],
+      "english_gloss": "hip-hop"
+    },
+    {
+      "hanzi": "放克",
+      "pinyin": "fàngkè",
+      "english_answers": [
+        "funk"
+      ],
+      "english_gloss": "funk"
+    },
+    {
+      "hanzi": "爵士乐",
+      "pinyin": "juéshìyuè",
+      "english_answers": [
+        "jazz"
+      ],
+      "english_gloss": "jazz"
+    },
+    {
+      "hanzi": "古典音乐",
+      "pinyin": "gǔdiǎn yīnyuè",
+      "english_answers": [
+        "classical music"
+      ],
+      "english_gloss": "classical music"
+    },
+    {
+      "hanzi": "主唱",
+      "pinyin": "zhǔchàng",
+      "english_answers": [
+        "lead vocalist"
+      ],
+      "english_gloss": "lead vocalist"
+    },
+    {
+      "hanzi": "歌手",
+      "pinyin": "gēshǒu",
+      "english_answers": [
+        "singer"
+      ],
+      "english_gloss": "singer"
+    },
+    {
+      "hanzi": "伴唱",
+      "pinyin": "bànchàng",
+      "english_answers": [
+        "backing vocalist"
+      ],
+      "english_gloss": "backing vocalist"
+    },
+    {
+      "hanzi": "和声歌手",
+      "pinyin": "héshēng gēshǒu",
+      "english_answers": [
+        "backing",
+        "harmony singer"
+      ],
+      "english_gloss": "backing / harmony singer"
+    },
+    {
+      "hanzi": "吉他手",
+      "pinyin": "jítāshǒu",
+      "english_answers": [
+        "guitarist"
+      ],
+      "english_gloss": "guitarist"
+    },
+    {
+      "hanzi": "贝斯手",
+      "pinyin": "bèisīshǒu",
+      "english_answers": [
+        "bassist"
+      ],
+      "english_gloss": "bassist"
+    },
+    {
+      "hanzi": "鼓手",
+      "pinyin": "gǔshǒu",
+      "english_answers": [
+        "drummer"
+      ],
+      "english_gloss": "drummer"
+    },
+    {
+      "hanzi": "键盘手",
+      "pinyin": "jiànpánshǒu",
+      "english_answers": [
+        "keyboardist"
+      ],
+      "english_gloss": "keyboardist"
+    },
+    {
+      "hanzi": "主音吉他手",
+      "pinyin": "zhǔyīn jítāshǒu",
+      "english_answers": [
+        "lead guitarist"
+      ],
+      "english_gloss": "lead guitarist"
+    },
+    {
+      "hanzi": "节奏吉他手",
+      "pinyin": "jiézòu jítāshǒu",
+      "english_answers": [
+        "rhythm guitarist"
+      ],
+      "english_gloss": "rhythm guitarist"
+    },
+    {
+      "hanzi": "乐队成员",
+      "pinyin": "yuèduì chéngyuán",
+      "english_answers": [
+        "band member"
+      ],
+      "english_gloss": "band member"
+    },
+    {
+      "hanzi": "乐队队长",
+      "pinyin": "yuèduì duìzhǎng",
+      "english_answers": [
+        "bandleader"
+      ],
+      "english_gloss": "bandleader"
+    },
+    {
+      "hanzi": "词曲作者",
+      "pinyin": "cíqǔ zuòzhě",
+      "english_answers": [
+        "songwriter",
+        "composer-lyricist"
+      ],
+      "english_gloss": "songwriter / composer-lyricist"
+    },
+    {
+      "hanzi": "作曲家",
+      "pinyin": "zuòqǔjiā",
+      "english_answers": [
+        "composer"
+      ],
+      "english_gloss": "composer"
+    },
+    {
+      "hanzi": "作词人",
+      "pinyin": "zuòcí rén",
+      "english_answers": [
+        "lyricist"
+      ],
+      "english_gloss": "lyricist"
+    },
+    {
+      "hanzi": "编曲",
+      "pinyin": "biānqǔ",
+      "english_answers": [
+        "arrange",
+        "arrangement"
+      ],
+      "english_gloss": "arrange / arrangement"
+    },
+    {
+      "hanzi": "音乐制作人",
+      "pinyin": "yīnyuè zhìzuòrén",
+      "english_answers": [
+        "music producer"
+      ],
+      "english_gloss": "music producer"
+    },
+    {
+      "hanzi": "录音师",
+      "pinyin": "lùyīnshī",
+      "english_answers": [
+        "recording engineer"
+      ],
+      "english_gloss": "recording engineer"
+    },
+    {
+      "hanzi": "调音师",
+      "pinyin": "tiáoyīnshī",
+      "english_answers": [
+        "sound engineer"
+      ],
+      "english_gloss": "sound engineer"
+    },
+    {
+      "hanzi": "经纪人",
+      "pinyin": "jīngjìrén",
+      "english_answers": [
+        "artist manager",
+        "agent"
+      ],
+      "english_gloss": "artist manager / agent"
+    },
+    {
+      "hanzi": "歌曲",
+      "pinyin": "gēqǔ",
+      "english_answers": [
+        "song"
+      ],
+      "english_gloss": "song"
+    },
+    {
+      "hanzi": "歌词",
+      "pinyin": "gēcí",
+      "english_answers": [
+        "song lyrics"
+      ],
+      "english_gloss": "song lyrics"
+    },
+    {
+      "hanzi": "曲调",
+      "pinyin": "qǔdiào",
+      "english_answers": [
+        "tune",
+        "melody"
+      ],
+      "english_gloss": "tune / melody"
+    },
+    {
+      "hanzi": "主歌",
+      "pinyin": "zhǔgē",
+      "english_answers": [
+        "verse"
+      ],
+      "english_gloss": "verse"
+    },
+    {
+      "hanzi": "副歌",
+      "pinyin": "fùgē",
+      "english_answers": [
+        "chorus",
+        "refrain"
+      ],
+      "english_gloss": "chorus / refrain"
+    },
+    {
+      "hanzi": "前奏",
+      "pinyin": "qiánzòu",
+      "english_answers": [
+        "intro (music)"
+      ],
+      "english_gloss": "intro (music)"
+    },
+    {
+      "hanzi": "间奏",
+      "pinyin": "jiānzòu",
+      "english_answers": [
+        "instrumental interlude"
+      ],
+      "english_gloss": "instrumental interlude"
+    },
+    {
+      "hanzi": "尾奏",
+      "pinyin": "wěizòu",
+      "english_answers": [
+        "outro (music)"
+      ],
+      "english_gloss": "outro (music)"
+    },
+    {
+      "hanzi": "桥段",
+      "pinyin": "qiáoduàn",
+      "english_answers": [
+        "bridge section (song)"
+      ],
+      "english_gloss": "bridge section (song)"
+    },
+    {
+      "hanzi": "即兴演奏",
+      "pinyin": "jíxìng yǎnzòu",
+      "english_answers": [
+        "improvisation",
+        "improvise"
+      ],
+      "english_gloss": "improvisation / improvise"
+    },
+    {
+      "hanzi": "独奏",
+      "pinyin": "dúzòu",
+      "english_answers": [
+        "solo performance"
+      ],
+      "english_gloss": "solo performance"
+    },
+    {
+      "hanzi": "合奏",
+      "pinyin": "hézòu",
+      "english_answers": [
+        "ensemble playing"
+      ],
+      "english_gloss": "ensemble playing"
+    },
+    {
+      "hanzi": "和声",
+      "pinyin": "héshēng",
+      "english_answers": [
+        "harmony"
+      ],
+      "english_gloss": "harmony"
+    },
+    {
+      "hanzi": "节拍",
+      "pinyin": "jiépāi",
+      "english_answers": [
+        "beat",
+        "meter"
+      ],
+      "english_gloss": "beat / meter"
+    },
+    {
+      "hanzi": "节奏型",
+      "pinyin": "jiézòuxíng",
+      "english_answers": [
+        "rhythmic pattern"
+      ],
+      "english_gloss": "rhythmic pattern"
+    },
+    {
+      "hanzi": "低音",
+      "pinyin": "dīyīn",
+      "english_answers": [
+        "bass",
+        "low frequencies"
+      ],
+      "english_gloss": "bass / low frequencies"
+    },
+    {
+      "hanzi": "高音",
+      "pinyin": "gāoyīn",
+      "english_answers": [
+        "high notes",
+        "treble"
+      ],
+      "english_gloss": "high notes / treble"
+    },
+    {
+      "hanzi": "音色",
+      "pinyin": "yīnsè",
+      "english_answers": [
+        "timbre",
+        "tone quality"
+      ],
+      "english_gloss": "timbre / tone quality"
+    },
+    {
+      "hanzi": "音量",
+      "pinyin": "yīnliàng",
+      "english_answers": [
+        "volume"
+      ],
+      "english_gloss": "volume"
+    },
+    {
+      "hanzi": "失真音色",
+      "pinyin": "shīzhēn yīnsè",
+      "english_answers": [
+        "distorted tone"
+      ],
+      "english_gloss": "distorted tone"
+    },
+    {
+      "hanzi": "组乐队",
+      "pinyin": "zǔ yuèduì",
+      "english_answers": [
+        "form a band"
+      ],
+      "english_gloss": "form a band"
+    },
+    {
+      "hanzi": "加入乐队",
+      "pinyin": "jiārù yuèduì",
+      "english_answers": [
+        "join a band"
+      ],
+      "english_gloss": "join a band"
+    },
+    {
+      "hanzi": "招募乐手",
+      "pinyin": "zhāomù yuèshǒu",
+      "english_answers": [
+        "recruit musicians"
+      ],
+      "english_gloss": "recruit musicians"
+    },
+    {
+      "hanzi": "排练室",
+      "pinyin": "páiliànshì",
+      "english_answers": [
+        "rehearsal room"
+      ],
+      "english_gloss": "rehearsal room"
+    },
+    {
+      "hanzi": "排练计划",
+      "pinyin": "páiliàn jìhuà",
+      "english_answers": [
+        "rehearsal schedule",
+        "plan"
+      ],
+      "english_gloss": "rehearsal schedule / plan"
+    },
+    {
+      "hanzi": "原创歌曲",
+      "pinyin": "yuánchuàng gēqǔ",
+      "english_answers": [
+        "original song"
+      ],
+      "english_gloss": "original song"
+    },
+    {
+      "hanzi": "翻唱",
+      "pinyin": "fānchàng",
+      "english_answers": [
+        "cover a song",
+        "cover version"
+      ],
+      "english_gloss": "cover a song / cover version"
+    },
+    {
+      "hanzi": "专辑",
+      "pinyin": "zhuānjí",
+      "english_answers": [
+        "album"
+      ],
+      "english_gloss": "album"
+    },
+    {
+      "hanzi": "单曲",
+      "pinyin": "dānqǔ",
+      "english_answers": [
+        "single"
+      ],
+      "english_gloss": "single"
+    },
+    {
+      "hanzi": "黑胶唱片",
+      "pinyin": "hēijiāo chàngpiàn",
+      "english_answers": [
+        "vinyl record"
+      ],
+      "english_gloss": "vinyl record"
+    },
+    {
+      "hanzi": "巡演",
+      "pinyin": "xúnyǎn",
+      "english_answers": [
+        "concert tour"
+      ],
+      "english_gloss": "concert tour"
+    },
+    {
+      "hanzi": "音乐节",
+      "pinyin": "yīnyuèjié",
+      "english_answers": [
+        "music festival"
+      ],
+      "english_gloss": "music festival"
+    },
+    {
+      "hanzi": "演出场地",
+      "pinyin": "yǎnchū chǎngdì",
+      "english_answers": [
+        "performance venue"
+      ],
+      "english_gloss": "performance venue"
+    },
+    {
+      "hanzi": "舞台",
+      "pinyin": "wǔtái",
+      "english_answers": [
+        "stage"
+      ],
+      "english_gloss": "stage"
+    },
+    {
+      "hanzi": "观众",
+      "pinyin": "guānzhòng",
+      "english_answers": [
+        "audience"
+      ],
+      "english_gloss": "audience"
+    },
+    {
+      "hanzi": "音响系统",
+      "pinyin": "yīnxiǎng xìtǒng",
+      "english_answers": [
+        "sound system",
+        "PA"
+      ],
+      "english_gloss": "sound system / PA"
+    },
+    {
+      "hanzi": "返听音箱",
+      "pinyin": "fǎntīng yīnxiāng",
+      "english_answers": [
+        "stage monitor speaker"
+      ],
+      "english_gloss": "stage monitor speaker"
+    },
+    {
+      "hanzi": "彩排",
+      "pinyin": "cǎipái",
+      "english_answers": [
+        "dress rehearsal",
+        "technical rehearsal"
+      ],
+      "english_gloss": "dress rehearsal / technical rehearsal"
+    },
+    {
+      "hanzi": "安可",
+      "pinyin": "ānkě",
+      "english_answers": [
+        "encore"
+      ],
+      "english_gloss": "encore"
+    },
+    {
+      "hanzi": "演出曲目",
+      "pinyin": "yǎnchū qǔmù",
+      "english_answers": [
+        "performance setlist",
+        "repertoire"
+      ],
+      "english_gloss": "performance setlist / repertoire"
+    }
+  ]
+}

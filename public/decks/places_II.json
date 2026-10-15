@@ -1,0 +1,842 @@
+{
+  "id": "places_II",
+  "title": "Places Ii",
+  "language": "zh-Hans",
+  "source": "previously generated PDF",
+  "card_count": 100,
+  "cards": [
+    {
+      "hanzi": "交通",
+      "pinyin": "jiāotōng",
+      "english_answers": [
+        "transportation",
+        "traffic"
+      ],
+      "english_gloss": "transportation / traffic"
+    },
+    {
+      "hanzi": "公共交通",
+      "pinyin": "gōnggòng jiāotōng",
+      "english_answers": [
+        "public transportation"
+      ],
+      "english_gloss": "public transportation"
+    },
+    {
+      "hanzi": "公交车",
+      "pinyin": "gōngjiāochē",
+      "english_answers": [
+        "city bus"
+      ],
+      "english_gloss": "city bus"
+    },
+    {
+      "hanzi": "出租车",
+      "pinyin": "chūzūchē",
+      "english_answers": [
+        "taxi"
+      ],
+      "english_gloss": "taxi"
+    },
+    {
+      "hanzi": "网约车",
+      "pinyin": "wǎngyuēchē",
+      "english_answers": [
+        "ride-hailing car"
+      ],
+      "english_gloss": "ride-hailing car"
+    },
+    {
+      "hanzi": "地铁",
+      "pinyin": "dìtiě",
+      "english_answers": [
+        "subway",
+        "metro"
+      ],
+      "english_gloss": "subway / metro"
+    },
+    {
+      "hanzi": "轻轨",
+      "pinyin": "qīngguǐ",
+      "english_answers": [
+        "light rail"
+      ],
+      "english_gloss": "light rail"
+    },
+    {
+      "hanzi": "火车",
+      "pinyin": "huǒchē",
+      "english_answers": [
+        "train"
+      ],
+      "english_gloss": "train"
+    },
+    {
+      "hanzi": "高铁",
+      "pinyin": "gāotiě",
+      "english_answers": [
+        "high-speed rail"
+      ],
+      "english_gloss": "high-speed rail"
+    },
+    {
+      "hanzi": "动车",
+      "pinyin": "dòngchē",
+      "english_answers": [
+        "high-speed",
+        "EMU train"
+      ],
+      "english_gloss": "high-speed / EMU train"
+    },
+    {
+      "hanzi": "长途汽车",
+      "pinyin": "chángtú qìchē",
+      "english_answers": [
+        "long-distance coach"
+      ],
+      "english_gloss": "long-distance coach"
+    },
+    {
+      "hanzi": "班车",
+      "pinyin": "bānchē",
+      "english_answers": [
+        "scheduled shuttle",
+        "commuter bus"
+      ],
+      "english_gloss": "scheduled shuttle / commuter bus"
+    },
+    {
+      "hanzi": "校车",
+      "pinyin": "xiàochē",
+      "english_answers": [
+        "school bus"
+      ],
+      "english_gloss": "school bus"
+    },
+    {
+      "hanzi": "摩托车",
+      "pinyin": "mótuōchē",
+      "english_answers": [
+        "motorcycle"
+      ],
+      "english_gloss": "motorcycle"
+    },
+    {
+      "hanzi": "电动车",
+      "pinyin": "diàndòngchē",
+      "english_answers": [
+        "electric vehicle",
+        "e-bike"
+      ],
+      "english_gloss": "electric vehicle / e-bike"
+    },
+    {
+      "hanzi": "自行车",
+      "pinyin": "zìxíngchē",
+      "english_answers": [
+        "bicycle"
+      ],
+      "english_gloss": "bicycle"
+    },
+    {
+      "hanzi": "共享单车",
+      "pinyin": "gòngxiǎng dānchē",
+      "english_answers": [
+        "shared bicycle"
+      ],
+      "english_gloss": "shared bicycle"
+    },
+    {
+      "hanzi": "私家车",
+      "pinyin": "sījiāchē",
+      "english_answers": [
+        "privately owned car"
+      ],
+      "english_gloss": "privately owned car"
+    },
+    {
+      "hanzi": "面包车",
+      "pinyin": "miànbāochē",
+      "english_answers": [
+        "van"
+      ],
+      "english_gloss": "van"
+    },
+    {
+      "hanzi": "三轮车",
+      "pinyin": "sānlúnchē",
+      "english_answers": [
+        "three-wheeled vehicle"
+      ],
+      "english_gloss": "three-wheeled vehicle"
+    },
+    {
+      "hanzi": "公交站",
+      "pinyin": "gōngjiāozhàn",
+      "english_answers": [
+        "bus stop"
+      ],
+      "english_gloss": "bus stop"
+    },
+    {
+      "hanzi": "车站",
+      "pinyin": "chēzhàn",
+      "english_answers": [
+        "station"
+      ],
+      "english_gloss": "station"
+    },
+    {
+      "hanzi": "火车站",
+      "pinyin": "huǒchēzhàn",
+      "english_answers": [
+        "railway station"
+      ],
+      "english_gloss": "railway station"
+    },
+    {
+      "hanzi": "地铁站",
+      "pinyin": "dìtiězhàn",
+      "english_answers": [
+        "metro station"
+      ],
+      "english_gloss": "metro station"
+    },
+    {
+      "hanzi": "汽车站",
+      "pinyin": "qìchēzhàn",
+      "english_answers": [
+        "bus terminal"
+      ],
+      "english_gloss": "bus terminal"
+    },
+    {
+      "hanzi": "机场",
+      "pinyin": "jīchǎng",
+      "english_answers": [
+        "airport"
+      ],
+      "english_gloss": "airport"
+    },
+    {
+      "hanzi": "航站楼",
+      "pinyin": "hángzhànlóu",
+      "english_answers": [
+        "airport terminal"
+      ],
+      "english_gloss": "airport terminal"
+    },
+    {
+      "hanzi": "站台",
+      "pinyin": "zhàntái",
+      "english_answers": [
+        "platform"
+      ],
+      "english_gloss": "platform"
+    },
+    {
+      "hanzi": "候车室",
+      "pinyin": "hòuchēshì",
+      "english_answers": [
+        "waiting room"
+      ],
+      "english_gloss": "waiting room"
+    },
+    {
+      "hanzi": "售票处",
+      "pinyin": "shòupiàochù",
+      "english_answers": [
+        "ticket office"
+      ],
+      "english_gloss": "ticket office"
+    },
+    {
+      "hanzi": "自动售票机",
+      "pinyin": "zìdòng shòupiàojī",
+      "english_answers": [
+        "ticket vending machine"
+      ],
+      "english_gloss": "ticket vending machine"
+    },
+    {
+      "hanzi": "车票",
+      "pinyin": "chēpiào",
+      "english_answers": [
+        "transport ticket"
+      ],
+      "english_gloss": "transport ticket"
+    },
+    {
+      "hanzi": "单程票",
+      "pinyin": "dānchéngpiào",
+      "english_answers": [
+        "one-way ticket"
+      ],
+      "english_gloss": "one-way ticket"
+    },
+    {
+      "hanzi": "往返票",
+      "pinyin": "wǎngfǎnpiào",
+      "english_answers": [
+        "round-trip ticket"
+      ],
+      "english_gloss": "round-trip ticket"
+    },
+    {
+      "hanzi": "交通卡",
+      "pinyin": "jiāotōngkǎ",
+      "english_answers": [
+        "transit card"
+      ],
+      "english_gloss": "transit card"
+    },
+    {
+      "hanzi": "刷卡",
+      "pinyin": "shuākǎ",
+      "english_answers": [
+        "tap",
+        "swipe a card"
+      ],
+      "english_gloss": "tap / swipe a card"
+    },
+    {
+      "hanzi": "扫码",
+      "pinyin": "sǎomǎ",
+      "english_answers": [
+        "scan a QR code"
+      ],
+      "english_gloss": "scan a QR code"
+    },
+    {
+      "hanzi": "上车",
+      "pinyin": "shàngchē",
+      "english_answers": [
+        "board",
+        "get in a vehicle"
+      ],
+      "english_gloss": "board / get in a vehicle"
+    },
+    {
+      "hanzi": "下车",
+      "pinyin": "xiàchē",
+      "english_answers": [
+        "get off",
+        "out of a vehicle"
+      ],
+      "english_gloss": "get off / out of a vehicle"
+    },
+    {
+      "hanzi": "换乘",
+      "pinyin": "huànchéng",
+      "english_answers": [
+        "transfer between transit services"
+      ],
+      "english_gloss": "transfer between transit services"
+    },
+    {
+      "hanzi": "方向",
+      "pinyin": "fāngxiàng",
+      "english_answers": [
+        "direction"
+      ],
+      "english_gloss": "direction"
+    },
+    {
+      "hanzi": "东边",
+      "pinyin": "dōngbian",
+      "english_answers": [
+        "east side"
+      ],
+      "english_gloss": "east side"
+    },
+    {
+      "hanzi": "西边",
+      "pinyin": "xībian",
+      "english_answers": [
+        "west side"
+      ],
+      "english_gloss": "west side"
+    },
+    {
+      "hanzi": "南边",
+      "pinyin": "nánbian",
+      "english_answers": [
+        "south side"
+      ],
+      "english_gloss": "south side"
+    },
+    {
+      "hanzi": "北边",
+      "pinyin": "běibian",
+      "english_answers": [
+        "north side"
+      ],
+      "english_gloss": "north side"
+    },
+    {
+      "hanzi": "左边",
+      "pinyin": "zuǒbian",
+      "english_answers": [
+        "left side"
+      ],
+      "english_gloss": "left side"
+    },
+    {
+      "hanzi": "右边",
+      "pinyin": "yòubian",
+      "english_answers": [
+        "right side"
+      ],
+      "english_gloss": "right side"
+    },
+    {
+      "hanzi": "前面",
+      "pinyin": "qiánmiàn",
+      "english_answers": [
+        "in front",
+        "ahead"
+      ],
+      "english_gloss": "in front / ahead"
+    },
+    {
+      "hanzi": "后面",
+      "pinyin": "hòumiàn",
+      "english_answers": [
+        "behind",
+        "at the back"
+      ],
+      "english_gloss": "behind / at the back"
+    },
+    {
+      "hanzi": "对面",
+      "pinyin": "duìmiàn",
+      "english_answers": [
+        "opposite",
+        "across from"
+      ],
+      "english_gloss": "opposite / across from"
+    },
+    {
+      "hanzi": "旁边",
+      "pinyin": "pángbiān",
+      "english_answers": [
+        "beside",
+        "next to"
+      ],
+      "english_gloss": "beside / next to"
+    },
+    {
+      "hanzi": "附近",
+      "pinyin": "fùjìn",
+      "english_answers": [
+        "nearby",
+        "vicinity"
+      ],
+      "english_gloss": "nearby / vicinity"
+    },
+    {
+      "hanzi": "一直走",
+      "pinyin": "yìzhí zǒu",
+      "english_answers": [
+        "go straight"
+      ],
+      "english_gloss": "go straight"
+    },
+    {
+      "hanzi": "左转",
+      "pinyin": "zuǒzhuǎn",
+      "english_answers": [
+        "turn left"
+      ],
+      "english_gloss": "turn left"
+    },
+    {
+      "hanzi": "右转",
+      "pinyin": "yòuzhuǎn",
+      "english_answers": [
+        "turn right"
+      ],
+      "english_gloss": "turn right"
+    },
+    {
+      "hanzi": "掉头",
+      "pinyin": "diàotóu",
+      "english_answers": [
+        "make a U-turn"
+      ],
+      "english_gloss": "make a U-turn"
+    },
+    {
+      "hanzi": "拐弯",
+      "pinyin": "guǎiwān",
+      "english_answers": [
+        "turn a corner"
+      ],
+      "english_gloss": "turn a corner"
+    },
+    {
+      "hanzi": "经过",
+      "pinyin": "jīngguò",
+      "english_answers": [
+        "pass by",
+        "go through"
+      ],
+      "english_gloss": "pass by / go through"
+    },
+    {
+      "hanzi": "路过",
+      "pinyin": "lùguò",
+      "english_answers": [
+        "pass by"
+      ],
+      "english_gloss": "pass by"
+    },
+    {
+      "hanzi": "迷路",
+      "pinyin": "mílù",
+      "english_answers": [
+        "get lost"
+      ],
+      "english_gloss": "get lost"
+    },
+    {
+      "hanzi": "马路",
+      "pinyin": "mǎlù",
+      "english_answers": [
+        "road",
+        "street"
+      ],
+      "english_gloss": "road / street"
+    },
+    {
+      "hanzi": "大街",
+      "pinyin": "dàjiē",
+      "english_answers": [
+        "main street",
+        "avenue"
+      ],
+      "english_gloss": "main street / avenue"
+    },
+    {
+      "hanzi": "小巷",
+      "pinyin": "xiǎoxiàng",
+      "english_answers": [
+        "alley",
+        "lane"
+      ],
+      "english_gloss": "alley / lane"
+    },
+    {
+      "hanzi": "十字路口",
+      "pinyin": "shízì lùkǒu",
+      "english_answers": [
+        "intersection",
+        "crossroads"
+      ],
+      "english_gloss": "intersection / crossroads"
+    },
+    {
+      "hanzi": "丁字路口",
+      "pinyin": "dīngzì lùkǒu",
+      "english_answers": [
+        "T-junction"
+      ],
+      "english_gloss": "T-junction"
+    },
+    {
+      "hanzi": "红绿灯",
+      "pinyin": "hónglǜdēng",
+      "english_answers": [
+        "traffic light"
+      ],
+      "english_gloss": "traffic light"
+    },
+    {
+      "hanzi": "斑马线",
+      "pinyin": "bānmǎxiàn",
+      "english_answers": [
+        "pedestrian crossing",
+        "zebra crossing"
+      ],
+      "english_gloss": "pedestrian crossing / zebra crossing"
+    },
+    {
+      "hanzi": "人行道",
+      "pinyin": "rénxíngdào",
+      "english_answers": [
+        "sidewalk"
+      ],
+      "english_gloss": "sidewalk"
+    },
+    {
+      "hanzi": "自行车道",
+      "pinyin": "zìxíngchēdào",
+      "english_answers": [
+        "bicycle lane"
+      ],
+      "english_gloss": "bicycle lane"
+    },
+    {
+      "hanzi": "机动车道",
+      "pinyin": "jīdòngchēdào",
+      "english_answers": [
+        "motor vehicle lane"
+      ],
+      "english_gloss": "motor vehicle lane"
+    },
+    {
+      "hanzi": "单行道",
+      "pinyin": "dānxíngdào",
+      "english_answers": [
+        "one-way street"
+      ],
+      "english_gloss": "one-way street"
+    },
+    {
+      "hanzi": "高架桥",
+      "pinyin": "gāojiàqiáo",
+      "english_answers": [
+        "elevated roadway",
+        "overpass"
+      ],
+      "english_gloss": "elevated roadway / overpass"
+    },
+    {
+      "hanzi": "立交桥",
+      "pinyin": "lìjiāoqiáo",
+      "english_answers": [
+        "highway interchange",
+        "overpass"
+      ],
+      "english_gloss": "highway interchange / overpass"
+    },
+    {
+      "hanzi": "隧道",
+      "pinyin": "suìdào",
+      "english_answers": [
+        "tunnel"
+      ],
+      "english_gloss": "tunnel"
+    },
+    {
+      "hanzi": "地下通道",
+      "pinyin": "dìxià tōngdào",
+      "english_answers": [
+        "pedestrian underpass"
+      ],
+      "english_gloss": "pedestrian underpass"
+    },
+    {
+      "hanzi": "天桥",
+      "pinyin": "tiānqiáo",
+      "english_answers": [
+        "pedestrian overpass"
+      ],
+      "english_gloss": "pedestrian overpass"
+    },
+    {
+      "hanzi": "高速公路",
+      "pinyin": "gāosù gōnglù",
+      "english_answers": [
+        "expressway",
+        "highway"
+      ],
+      "english_gloss": "expressway / highway"
+    },
+    {
+      "hanzi": "收费站",
+      "pinyin": "shōufèizhàn",
+      "english_answers": [
+        "toll station"
+      ],
+      "english_gloss": "toll station"
+    },
+    {
+      "hanzi": "堵车",
+      "pinyin": "dǔchē",
+      "english_answers": [
+        "traffic jam",
+        "be stuck in traffic"
+      ],
+      "english_gloss": "traffic jam / be stuck in traffic"
+    },
+    {
+      "hanzi": "绕路",
+      "pinyin": "ràolù",
+      "english_answers": [
+        "take a detour"
+      ],
+      "english_gloss": "take a detour"
+    },
+    {
+      "hanzi": "路线",
+      "pinyin": "lùxiàn",
+      "english_answers": [
+        "route"
+      ],
+      "english_gloss": "route"
+    },
+    {
+      "hanzi": "地图",
+      "pinyin": "dìtú",
+      "english_answers": [
+        "map"
+      ],
+      "english_gloss": "map"
+    },
+    {
+      "hanzi": "导航",
+      "pinyin": "dǎoháng",
+      "english_answers": [
+        "navigation",
+        "GPS directions"
+      ],
+      "english_gloss": "navigation / GPS directions"
+    },
+    {
+      "hanzi": "定位",
+      "pinyin": "dìngwèi",
+      "english_answers": [
+        "locate",
+        "location pin"
+      ],
+      "english_gloss": "locate / location pin"
+    },
+    {
+      "hanzi": "目的地",
+      "pinyin": "mùdìdì",
+      "english_answers": [
+        "destination"
+      ],
+      "english_gloss": "destination"
+    },
+    {
+      "hanzi": "出发",
+      "pinyin": "chūfā",
+      "english_answers": [
+        "depart",
+        "set off"
+      ],
+      "english_gloss": "depart / set off"
+    },
+    {
+      "hanzi": "到达",
+      "pinyin": "dàodá",
+      "english_answers": [
+        "arrive",
+        "reach"
+      ],
+      "english_gloss": "arrive / reach"
+    },
+    {
+      "hanzi": "终点站",
+      "pinyin": "zhōngdiǎnzhàn",
+      "english_answers": [
+        "terminal",
+        "last stop"
+      ],
+      "english_gloss": "terminal / last stop"
+    },
+    {
+      "hanzi": "下一站",
+      "pinyin": "xià yí zhàn",
+      "english_answers": [
+        "next stop"
+      ],
+      "english_gloss": "next stop"
+    },
+    {
+      "hanzi": "坐过站",
+      "pinyin": "zuò guò zhàn",
+      "english_answers": [
+        "miss one's stop"
+      ],
+      "english_gloss": "miss one's stop"
+    },
+    {
+      "hanzi": "末班车",
+      "pinyin": "mòbānchē",
+      "english_answers": [
+        "last bus",
+        "train of the day"
+      ],
+      "english_gloss": "last bus / train of the day"
+    },
+    {
+      "hanzi": "首班车",
+      "pinyin": "shǒubānchē",
+      "english_answers": [
+        "first bus",
+        "train of the day"
+      ],
+      "english_gloss": "first bus / train of the day"
+    },
+    {
+      "hanzi": "车费",
+      "pinyin": "chēfèi",
+      "english_answers": [
+        "fare"
+      ],
+      "english_gloss": "fare"
+    },
+    {
+      "hanzi": "打车",
+      "pinyin": "dǎchē",
+      "english_answers": [
+        "take",
+        "hail a taxi"
+      ],
+      "english_gloss": "take / hail a taxi"
+    },
+    {
+      "hanzi": "拼车",
+      "pinyin": "pīnchē",
+      "english_answers": [
+        "share a ride",
+        "carpool"
+      ],
+      "english_gloss": "share a ride / carpool"
+    },
+    {
+      "hanzi": "步行",
+      "pinyin": "bùxíng",
+      "english_answers": [
+        "travel on foot",
+        "walk"
+      ],
+      "english_gloss": "travel on foot / walk"
+    },
+    {
+      "hanzi": "距离",
+      "pinyin": "jùlí",
+      "english_answers": [
+        "distance"
+      ],
+      "english_gloss": "distance"
+    },
+    {
+      "hanzi": "远近",
+      "pinyin": "yuǎnjìn",
+      "english_answers": [
+        "how far or near"
+      ],
+      "english_gloss": "how far or near"
+    },
+    {
+      "hanzi": "交通拥堵",
+      "pinyin": "jiāotōng yōngdǔ",
+      "english_answers": [
+        "traffic congestion"
+      ],
+      "english_gloss": "traffic congestion"
+    },
+    {
+      "hanzi": "限速",
+      "pinyin": "xiànsù",
+      "english_answers": [
+        "speed limit"
+      ],
+      "english_gloss": "speed limit"
+    }
+  ]
+}

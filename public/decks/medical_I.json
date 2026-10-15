@@ -1,0 +1,822 @@
+{
+  "id": "medical_I",
+  "title": "Medical I",
+  "language": "zh-Hans",
+  "source": "previously generated PDF",
+  "card_count": 100,
+  "cards": [
+    {
+      "hanzi": "头",
+      "pinyin": "tóu",
+      "english_answers": [
+        "head"
+      ],
+      "english_gloss": "head"
+    },
+    {
+      "hanzi": "头发",
+      "pinyin": "tóufa",
+      "english_answers": [
+        "hair"
+      ],
+      "english_gloss": "hair"
+    },
+    {
+      "hanzi": "头皮",
+      "pinyin": "tóupí",
+      "english_answers": [
+        "scalp"
+      ],
+      "english_gloss": "scalp"
+    },
+    {
+      "hanzi": "额头",
+      "pinyin": "étóu",
+      "english_answers": [
+        "forehead"
+      ],
+      "english_gloss": "forehead"
+    },
+    {
+      "hanzi": "脸",
+      "pinyin": "liǎn",
+      "english_answers": [
+        "face"
+      ],
+      "english_gloss": "face"
+    },
+    {
+      "hanzi": "脸颊",
+      "pinyin": "liǎnjiá",
+      "english_answers": [
+        "cheek"
+      ],
+      "english_gloss": "cheek"
+    },
+    {
+      "hanzi": "眉毛",
+      "pinyin": "méimao",
+      "english_answers": [
+        "eyebrow"
+      ],
+      "english_gloss": "eyebrow"
+    },
+    {
+      "hanzi": "睫毛",
+      "pinyin": "jiémáo",
+      "english_answers": [
+        "eyelash"
+      ],
+      "english_gloss": "eyelash"
+    },
+    {
+      "hanzi": "眼睛",
+      "pinyin": "yǎnjing",
+      "english_answers": [
+        "eye"
+      ],
+      "english_gloss": "eye"
+    },
+    {
+      "hanzi": "眼皮",
+      "pinyin": "yǎnpí",
+      "english_answers": [
+        "eyelid"
+      ],
+      "english_gloss": "eyelid"
+    },
+    {
+      "hanzi": "瞳孔",
+      "pinyin": "tóngkǒng",
+      "english_answers": [
+        "pupil of the eye"
+      ],
+      "english_gloss": "pupil of the eye"
+    },
+    {
+      "hanzi": "耳朵",
+      "pinyin": "ěrduo",
+      "english_answers": [
+        "ear"
+      ],
+      "english_gloss": "ear"
+    },
+    {
+      "hanzi": "耳垂",
+      "pinyin": "ěrchuí",
+      "english_answers": [
+        "earlobe"
+      ],
+      "english_gloss": "earlobe"
+    },
+    {
+      "hanzi": "鼻子",
+      "pinyin": "bízi",
+      "english_answers": [
+        "nose"
+      ],
+      "english_gloss": "nose"
+    },
+    {
+      "hanzi": "鼻孔",
+      "pinyin": "bíkǒng",
+      "english_answers": [
+        "nostril"
+      ],
+      "english_gloss": "nostril"
+    },
+    {
+      "hanzi": "嘴巴",
+      "pinyin": "zuǐba",
+      "english_answers": [
+        "mouth"
+      ],
+      "english_gloss": "mouth"
+    },
+    {
+      "hanzi": "嘴唇",
+      "pinyin": "zuǐchún",
+      "english_answers": [
+        "lip"
+      ],
+      "english_gloss": "lip"
+    },
+    {
+      "hanzi": "舌头",
+      "pinyin": "shétou",
+      "english_answers": [
+        "tongue"
+      ],
+      "english_gloss": "tongue"
+    },
+    {
+      "hanzi": "牙齿",
+      "pinyin": "yáchǐ",
+      "english_answers": [
+        "teeth"
+      ],
+      "english_gloss": "teeth"
+    },
+    {
+      "hanzi": "下巴",
+      "pinyin": "xiàba",
+      "english_answers": [
+        "chin"
+      ],
+      "english_gloss": "chin"
+    },
+    {
+      "hanzi": "身体",
+      "pinyin": "shēntǐ",
+      "english_answers": [
+        "body"
+      ],
+      "english_gloss": "body"
+    },
+    {
+      "hanzi": "脖子",
+      "pinyin": "bózi",
+      "english_answers": [
+        "neck"
+      ],
+      "english_gloss": "neck"
+    },
+    {
+      "hanzi": "喉咙",
+      "pinyin": "hóulóng",
+      "english_answers": [
+        "throat"
+      ],
+      "english_gloss": "throat"
+    },
+    {
+      "hanzi": "肩膀",
+      "pinyin": "jiānbǎng",
+      "english_answers": [
+        "shoulder"
+      ],
+      "english_gloss": "shoulder"
+    },
+    {
+      "hanzi": "胸部",
+      "pinyin": "xiōngbù",
+      "english_answers": [
+        "chest",
+        "breast area"
+      ],
+      "english_gloss": "chest / breast area"
+    },
+    {
+      "hanzi": "乳房",
+      "pinyin": "rǔfáng",
+      "english_answers": [
+        "breast (anatomical)"
+      ],
+      "english_gloss": "breast (anatomical)"
+    },
+    {
+      "hanzi": "胸口",
+      "pinyin": "xiōngkǒu",
+      "english_answers": [
+        "front of chest"
+      ],
+      "english_gloss": "front of chest"
+    },
+    {
+      "hanzi": "乳头",
+      "pinyin": "rǔtóu",
+      "english_answers": [
+        "nipple"
+      ],
+      "english_gloss": "nipple"
+    },
+    {
+      "hanzi": "背部",
+      "pinyin": "bèibù",
+      "english_answers": [
+        "back"
+      ],
+      "english_gloss": "back"
+    },
+    {
+      "hanzi": "腰",
+      "pinyin": "yāo",
+      "english_answers": [
+        "waist",
+        "lower back"
+      ],
+      "english_gloss": "waist / lower back"
+    },
+    {
+      "hanzi": "腹部",
+      "pinyin": "fùbù",
+      "english_answers": [
+        "abdomen (formal)"
+      ],
+      "english_gloss": "abdomen (formal)"
+    },
+    {
+      "hanzi": "肚子",
+      "pinyin": "dùzi",
+      "english_answers": [
+        "belly",
+        "stomach area (everyday)"
+      ],
+      "english_gloss": "belly / stomach area (everyday)"
+    },
+    {
+      "hanzi": "肚脐",
+      "pinyin": "dùqí",
+      "english_answers": [
+        "belly button"
+      ],
+      "english_gloss": "belly button"
+    },
+    {
+      "hanzi": "臀部",
+      "pinyin": "túnbù",
+      "english_answers": [
+        "buttocks (anatomical",
+        "polite)"
+      ],
+      "english_gloss": "buttocks (anatomical / polite)"
+    },
+    {
+      "hanzi": "屁股",
+      "pinyin": "pìgu",
+      "english_answers": [
+        "butt",
+        "bottom (colloquial)"
+      ],
+      "english_gloss": "butt / bottom (colloquial)"
+    },
+    {
+      "hanzi": "皮肤",
+      "pinyin": "pífū",
+      "english_answers": [
+        "skin"
+      ],
+      "english_gloss": "skin"
+    },
+    {
+      "hanzi": "毛孔",
+      "pinyin": "máokǒng",
+      "english_answers": [
+        "skin pore"
+      ],
+      "english_gloss": "skin pore"
+    },
+    {
+      "hanzi": "体毛",
+      "pinyin": "tǐmáo",
+      "english_answers": [
+        "body hair"
+      ],
+      "english_gloss": "body hair"
+    },
+    {
+      "hanzi": "腋窝",
+      "pinyin": "yèwō",
+      "english_answers": [
+        "armpit (anatomical)"
+      ],
+      "english_gloss": "armpit (anatomical)"
+    },
+    {
+      "hanzi": "腋下",
+      "pinyin": "yèxià",
+      "english_answers": [
+        "underarm"
+      ],
+      "english_gloss": "underarm"
+    },
+    {
+      "hanzi": "手臂",
+      "pinyin": "shǒubì",
+      "english_answers": [
+        "arm"
+      ],
+      "english_gloss": "arm"
+    },
+    {
+      "hanzi": "上臂",
+      "pinyin": "shàngbì",
+      "english_answers": [
+        "upper arm"
+      ],
+      "english_gloss": "upper arm"
+    },
+    {
+      "hanzi": "前臂",
+      "pinyin": "qiánbì",
+      "english_answers": [
+        "forearm"
+      ],
+      "english_gloss": "forearm"
+    },
+    {
+      "hanzi": "胳膊肘",
+      "pinyin": "gēbozhǒu",
+      "english_answers": [
+        "elbow (everyday)"
+      ],
+      "english_gloss": "elbow (everyday)"
+    },
+    {
+      "hanzi": "手腕",
+      "pinyin": "shǒuwàn",
+      "english_answers": [
+        "wrist"
+      ],
+      "english_gloss": "wrist"
+    },
+    {
+      "hanzi": "手掌",
+      "pinyin": "shǒuzhǎng",
+      "english_answers": [
+        "palm"
+      ],
+      "english_gloss": "palm"
+    },
+    {
+      "hanzi": "手指",
+      "pinyin": "shǒuzhǐ",
+      "english_answers": [
+        "finger"
+      ],
+      "english_gloss": "finger"
+    },
+    {
+      "hanzi": "拇指",
+      "pinyin": "mǔzhǐ",
+      "english_answers": [
+        "thumb"
+      ],
+      "english_gloss": "thumb"
+    },
+    {
+      "hanzi": "指甲",
+      "pinyin": "zhǐjia",
+      "english_answers": [
+        "fingernail"
+      ],
+      "english_gloss": "fingernail"
+    },
+    {
+      "hanzi": "关节",
+      "pinyin": "guānjié",
+      "english_answers": [
+        "joint"
+      ],
+      "english_gloss": "joint"
+    },
+    {
+      "hanzi": "骨头",
+      "pinyin": "gǔtou",
+      "english_answers": [
+        "bone"
+      ],
+      "english_gloss": "bone"
+    },
+    {
+      "hanzi": "肌肉",
+      "pinyin": "jīròu",
+      "english_answers": [
+        "muscle"
+      ],
+      "english_gloss": "muscle"
+    },
+    {
+      "hanzi": "脊椎",
+      "pinyin": "jǐzhuī",
+      "english_answers": [
+        "spine",
+        "vertebral column"
+      ],
+      "english_gloss": "spine / vertebral column"
+    },
+    {
+      "hanzi": "腿",
+      "pinyin": "tuǐ",
+      "english_answers": [
+        "leg"
+      ],
+      "english_gloss": "leg"
+    },
+    {
+      "hanzi": "大腿",
+      "pinyin": "dàtuǐ",
+      "english_answers": [
+        "thigh"
+      ],
+      "english_gloss": "thigh"
+    },
+    {
+      "hanzi": "小腿",
+      "pinyin": "xiǎotuǐ",
+      "english_answers": [
+        "lower leg",
+        "calf area"
+      ],
+      "english_gloss": "lower leg / calf area"
+    },
+    {
+      "hanzi": "膝盖",
+      "pinyin": "xīgài",
+      "english_answers": [
+        "knee"
+      ],
+      "english_gloss": "knee"
+    },
+    {
+      "hanzi": "脚踝",
+      "pinyin": "jiǎohuái",
+      "english_answers": [
+        "ankle"
+      ],
+      "english_gloss": "ankle"
+    },
+    {
+      "hanzi": "脚后跟",
+      "pinyin": "jiǎohòugēn",
+      "english_answers": [
+        "heel"
+      ],
+      "english_gloss": "heel"
+    },
+    {
+      "hanzi": "脚趾",
+      "pinyin": "jiǎozhǐ",
+      "english_answers": [
+        "toe"
+      ],
+      "english_gloss": "toe"
+    },
+    {
+      "hanzi": "大脑",
+      "pinyin": "dànǎo",
+      "english_answers": [
+        "brain"
+      ],
+      "english_gloss": "brain"
+    },
+    {
+      "hanzi": "心脏",
+      "pinyin": "xīnzàng",
+      "english_answers": [
+        "heart (organ)"
+      ],
+      "english_gloss": "heart (organ)"
+    },
+    {
+      "hanzi": "肺",
+      "pinyin": "fèi",
+      "english_answers": [
+        "lung"
+      ],
+      "english_gloss": "lung"
+    },
+    {
+      "hanzi": "胃",
+      "pinyin": "wèi",
+      "english_answers": [
+        "stomach (organ)"
+      ],
+      "english_gloss": "stomach (organ)"
+    },
+    {
+      "hanzi": "肠道",
+      "pinyin": "chángdào",
+      "english_answers": [
+        "intestinal tract"
+      ],
+      "english_gloss": "intestinal tract"
+    },
+    {
+      "hanzi": "小肠",
+      "pinyin": "xiǎocháng",
+      "english_answers": [
+        "small intestine"
+      ],
+      "english_gloss": "small intestine"
+    },
+    {
+      "hanzi": "大肠",
+      "pinyin": "dàcháng",
+      "english_answers": [
+        "large intestine"
+      ],
+      "english_gloss": "large intestine"
+    },
+    {
+      "hanzi": "肝脏",
+      "pinyin": "gānzàng",
+      "english_answers": [
+        "liver"
+      ],
+      "english_gloss": "liver"
+    },
+    {
+      "hanzi": "肾脏",
+      "pinyin": "shènzàng",
+      "english_answers": [
+        "kidney"
+      ],
+      "english_gloss": "kidney"
+    },
+    {
+      "hanzi": "膀胱",
+      "pinyin": "pángguāng",
+      "english_answers": [
+        "urinary bladder"
+      ],
+      "english_gloss": "urinary bladder"
+    },
+    {
+      "hanzi": "食道",
+      "pinyin": "shídào",
+      "english_answers": [
+        "esophagus (common term)"
+      ],
+      "english_gloss": "esophagus (common term)"
+    },
+    {
+      "hanzi": "气管",
+      "pinyin": "qìguǎn",
+      "english_answers": [
+        "trachea",
+        "windpipe"
+      ],
+      "english_gloss": "trachea / windpipe"
+    },
+    {
+      "hanzi": "血管",
+      "pinyin": "xuèguǎn",
+      "english_answers": [
+        "blood vessel"
+      ],
+      "english_gloss": "blood vessel"
+    },
+    {
+      "hanzi": "动脉",
+      "pinyin": "dòngmài",
+      "english_answers": [
+        "artery"
+      ],
+      "english_gloss": "artery"
+    },
+    {
+      "hanzi": "静脉",
+      "pinyin": "jìngmài",
+      "english_answers": [
+        "vein"
+      ],
+      "english_gloss": "vein"
+    },
+    {
+      "hanzi": "血液",
+      "pinyin": "xuèyè",
+      "english_answers": [
+        "blood"
+      ],
+      "english_gloss": "blood"
+    },
+    {
+      "hanzi": "神经",
+      "pinyin": "shénjīng",
+      "english_answers": [
+        "nerve"
+      ],
+      "english_gloss": "nerve"
+    },
+    {
+      "hanzi": "淋巴结",
+      "pinyin": "línbājié",
+      "english_answers": [
+        "lymph node"
+      ],
+      "english_gloss": "lymph node"
+    },
+    {
+      "hanzi": "甲状腺",
+      "pinyin": "jiǎzhuàngxiàn",
+      "english_answers": [
+        "thyroid gland"
+      ],
+      "english_gloss": "thyroid gland"
+    },
+    {
+      "hanzi": "免疫系统",
+      "pinyin": "miǎnyì xìtǒng",
+      "english_answers": [
+        "immune system"
+      ],
+      "english_gloss": "immune system"
+    },
+    {
+      "hanzi": "生殖器",
+      "pinyin": "shēngzhíqì",
+      "english_answers": [
+        "genitalia",
+        "reproductive organs (formal)"
+      ],
+      "english_gloss": "genitalia / reproductive organs (formal)"
+    },
+    {
+      "hanzi": "外阴",
+      "pinyin": "wàiyīn",
+      "english_answers": [
+        "vulva (anatomical)"
+      ],
+      "english_gloss": "vulva (anatomical)"
+    },
+    {
+      "hanzi": "大阴唇",
+      "pinyin": "dà yīnchún",
+      "english_answers": [
+        "labia majora (formal)"
+      ],
+      "english_gloss": "labia majora (formal)"
+    },
+    {
+      "hanzi": "小阴唇",
+      "pinyin": "xiǎo yīnchún",
+      "english_answers": [
+        "labia minora (formal)"
+      ],
+      "english_gloss": "labia minora (formal)"
+    },
+    {
+      "hanzi": "阴蒂",
+      "pinyin": "yīndì",
+      "english_answers": [
+        "clitoris (formal)"
+      ],
+      "english_gloss": "clitoris (formal)"
+    },
+    {
+      "hanzi": "阴道",
+      "pinyin": "yīndào",
+      "english_answers": [
+        "vagina (anatomical)"
+      ],
+      "english_gloss": "vagina (anatomical)"
+    },
+    {
+      "hanzi": "子宫",
+      "pinyin": "zǐgōng",
+      "english_answers": [
+        "uterus (formal)"
+      ],
+      "english_gloss": "uterus (formal)"
+    },
+    {
+      "hanzi": "卵巢",
+      "pinyin": "luǎncháo",
+      "english_answers": [
+        "ovary (formal)"
+      ],
+      "english_gloss": "ovary (formal)"
+    },
+    {
+      "hanzi": "输卵管",
+      "pinyin": "shūluǎnguǎn",
+      "english_answers": [
+        "fallopian tube (formal)"
+      ],
+      "english_gloss": "fallopian tube (formal)"
+    },
+    {
+      "hanzi": "阴茎",
+      "pinyin": "yīnjīng",
+      "english_answers": [
+        "penis (anatomical)"
+      ],
+      "english_gloss": "penis (anatomical)"
+    },
+    {
+      "hanzi": "龟头",
+      "pinyin": "guītóu",
+      "english_answers": [
+        "glans penis (anatomical)"
+      ],
+      "english_gloss": "glans penis (anatomical)"
+    },
+    {
+      "hanzi": "包皮",
+      "pinyin": "bāopí",
+      "english_answers": [
+        "foreskin (anatomical)"
+      ],
+      "english_gloss": "foreskin (anatomical)"
+    },
+    {
+      "hanzi": "阴囊",
+      "pinyin": "yīnnáng",
+      "english_answers": [
+        "scrotum (formal)"
+      ],
+      "english_gloss": "scrotum (formal)"
+    },
+    {
+      "hanzi": "睾丸",
+      "pinyin": "gāowán",
+      "english_answers": [
+        "testicle (formal)"
+      ],
+      "english_gloss": "testicle (formal)"
+    },
+    {
+      "hanzi": "前列腺",
+      "pinyin": "qiánlièxiàn",
+      "english_answers": [
+        "prostate gland (formal)"
+      ],
+      "english_gloss": "prostate gland (formal)"
+    },
+    {
+      "hanzi": "乳晕",
+      "pinyin": "rǔyùn",
+      "english_answers": [
+        "areola (anatomical)"
+      ],
+      "english_gloss": "areola (anatomical)"
+    },
+    {
+      "hanzi": "奶子",
+      "pinyin": "nǎizi",
+      "english_answers": [
+        "boobs",
+        "tits (slang; informal, potentially crude)"
+      ],
+      "english_gloss": "boobs / tits (slang; informal, potentially crude)"
+    },
+    {
+      "hanzi": "鸡鸡",
+      "pinyin": "jījī",
+      "english_answers": [
+        "pee-pee",
+        "penis (childish slang)"
+      ],
+      "english_gloss": "pee-pee / penis (childish slang)"
+    },
+    {
+      "hanzi": "小弟弟",
+      "pinyin": "xiǎo dìdi",
+      "english_answers": [
+        "penis (euphemistic",
+        "informal)"
+      ],
+      "english_gloss": "penis (euphemistic / informal)"
+    },
+    {
+      "hanzi": "私处",
+      "pinyin": "sīchù",
+      "english_answers": [
+        "private parts",
+        "intimate area (euphemistic)"
+      ],
+      "english_gloss": "private parts / intimate area (euphemistic)"
+    }
+  ]
+}

@@ -1,0 +1,824 @@
+{
+  "id": "housing_II",
+  "title": "Housing Ii",
+  "language": "zh-Hans",
+  "source": "previously generated PDF",
+  "card_count": 100,
+  "cards": [
+    {
+      "hanzi": "家务",
+      "pinyin": "jiāwù",
+      "english_answers": [
+        "housework"
+      ],
+      "english_gloss": "housework"
+    },
+    {
+      "hanzi": "打扫",
+      "pinyin": "dǎsǎo",
+      "english_answers": [
+        "clean",
+        "tidy up"
+      ],
+      "english_gloss": "clean / tidy up"
+    },
+    {
+      "hanzi": "大扫除",
+      "pinyin": "dàsǎochú",
+      "english_answers": [
+        "thorough housecleaning"
+      ],
+      "english_gloss": "thorough housecleaning"
+    },
+    {
+      "hanzi": "收拾",
+      "pinyin": "shōushi",
+      "english_answers": [
+        "tidy up"
+      ],
+      "english_gloss": "tidy up"
+    },
+    {
+      "hanzi": "扫地",
+      "pinyin": "sǎodì",
+      "english_answers": [
+        "sweep the floor"
+      ],
+      "english_gloss": "sweep the floor"
+    },
+    {
+      "hanzi": "拖地",
+      "pinyin": "tuōdì",
+      "english_answers": [
+        "mop the floor"
+      ],
+      "english_gloss": "mop the floor"
+    },
+    {
+      "hanzi": "吸尘",
+      "pinyin": "xīchén",
+      "english_answers": [
+        "vacuum",
+        "remove dust"
+      ],
+      "english_gloss": "vacuum / remove dust"
+    },
+    {
+      "hanzi": "擦桌子",
+      "pinyin": "cā zhuōzi",
+      "english_answers": [
+        "wipe the table"
+      ],
+      "english_gloss": "wipe the table"
+    },
+    {
+      "hanzi": "擦窗户",
+      "pinyin": "cā chuānghu",
+      "english_answers": [
+        "clean the windows"
+      ],
+      "english_gloss": "clean the windows"
+    },
+    {
+      "hanzi": "灰尘",
+      "pinyin": "huīchén",
+      "english_answers": [
+        "dust"
+      ],
+      "english_gloss": "dust"
+    },
+    {
+      "hanzi": "扫把",
+      "pinyin": "sàoba",
+      "english_answers": [
+        "broom"
+      ],
+      "english_gloss": "broom"
+    },
+    {
+      "hanzi": "拖把",
+      "pinyin": "tuōba",
+      "english_answers": [
+        "mop"
+      ],
+      "english_gloss": "mop"
+    },
+    {
+      "hanzi": "抹布",
+      "pinyin": "mābù",
+      "english_answers": [
+        "cleaning rag"
+      ],
+      "english_gloss": "cleaning rag"
+    },
+    {
+      "hanzi": "吸尘器",
+      "pinyin": "xīchénqì",
+      "english_answers": [
+        "vacuum cleaner"
+      ],
+      "english_gloss": "vacuum cleaner"
+    },
+    {
+      "hanzi": "垃圾桶",
+      "pinyin": "lājītǒng",
+      "english_answers": [
+        "garbage bin"
+      ],
+      "english_gloss": "garbage bin"
+    },
+    {
+      "hanzi": "垃圾袋",
+      "pinyin": "lājīdài",
+      "english_answers": [
+        "garbage bag"
+      ],
+      "english_gloss": "garbage bag"
+    },
+    {
+      "hanzi": "倒垃圾",
+      "pinyin": "dào lājī",
+      "english_answers": [
+        "take out the garbage"
+      ],
+      "english_gloss": "take out the garbage"
+    },
+    {
+      "hanzi": "垃圾分类",
+      "pinyin": "lājī fēnlèi",
+      "english_answers": [
+        "waste sorting"
+      ],
+      "english_gloss": "waste sorting"
+    },
+    {
+      "hanzi": "消毒",
+      "pinyin": "xiāodú",
+      "english_answers": [
+        "disinfect"
+      ],
+      "english_gloss": "disinfect"
+    },
+    {
+      "hanzi": "清洁剂",
+      "pinyin": "qīngjiéjì",
+      "english_answers": [
+        "cleaning product",
+        "detergent"
+      ],
+      "english_gloss": "cleaning product / detergent"
+    },
+    {
+      "hanzi": "洗衣服",
+      "pinyin": "xǐ yīfu",
+      "english_answers": [
+        "wash clothes"
+      ],
+      "english_gloss": "wash clothes"
+    },
+    {
+      "hanzi": "晾衣服",
+      "pinyin": "liàng yīfu",
+      "english_answers": [
+        "hang laundry to dry"
+      ],
+      "english_gloss": "hang laundry to dry"
+    },
+    {
+      "hanzi": "晒衣服",
+      "pinyin": "shài yīfu",
+      "english_answers": [
+        "dry clothes in the sun"
+      ],
+      "english_gloss": "dry clothes in the sun"
+    },
+    {
+      "hanzi": "叠衣服",
+      "pinyin": "dié yīfu",
+      "english_answers": [
+        "fold clothes"
+      ],
+      "english_gloss": "fold clothes"
+    },
+    {
+      "hanzi": "熨衣服",
+      "pinyin": "yùn yīfu",
+      "english_answers": [
+        "iron clothes"
+      ],
+      "english_gloss": "iron clothes"
+    },
+    {
+      "hanzi": "洗衣液",
+      "pinyin": "xǐyīyè",
+      "english_answers": [
+        "liquid laundry detergent"
+      ],
+      "english_gloss": "liquid laundry detergent"
+    },
+    {
+      "hanzi": "洗衣粉",
+      "pinyin": "xǐyīfěn",
+      "english_answers": [
+        "laundry powder"
+      ],
+      "english_gloss": "laundry powder"
+    },
+    {
+      "hanzi": "柔顺剂",
+      "pinyin": "róushùnjì",
+      "english_answers": [
+        "fabric softener"
+      ],
+      "english_gloss": "fabric softener"
+    },
+    {
+      "hanzi": "衣架",
+      "pinyin": "yījià",
+      "english_answers": [
+        "clothes hanger"
+      ],
+      "english_gloss": "clothes hanger"
+    },
+    {
+      "hanzi": "晾衣架",
+      "pinyin": "liàngyījià",
+      "english_answers": [
+        "drying rack"
+      ],
+      "english_gloss": "drying rack"
+    },
+    {
+      "hanzi": "洗衣篮",
+      "pinyin": "xǐyīlán",
+      "english_answers": [
+        "laundry basket"
+      ],
+      "english_gloss": "laundry basket"
+    },
+    {
+      "hanzi": "洗碗",
+      "pinyin": "xǐ wǎn",
+      "english_answers": [
+        "wash dishes"
+      ],
+      "english_gloss": "wash dishes"
+    },
+    {
+      "hanzi": "洗洁精",
+      "pinyin": "xǐjiéjīng",
+      "english_answers": [
+        "dish soap"
+      ],
+      "english_gloss": "dish soap"
+    },
+    {
+      "hanzi": "海绵",
+      "pinyin": "hǎimián",
+      "english_answers": [
+        "sponge"
+      ],
+      "english_gloss": "sponge"
+    },
+    {
+      "hanzi": "刷子",
+      "pinyin": "shuāzi",
+      "english_answers": [
+        "brush"
+      ],
+      "english_gloss": "brush"
+    },
+    {
+      "hanzi": "擦干",
+      "pinyin": "cāgān",
+      "english_answers": [
+        "wipe dry"
+      ],
+      "english_gloss": "wipe dry"
+    },
+    {
+      "hanzi": "污渍",
+      "pinyin": "wūzì",
+      "english_answers": [
+        "stain"
+      ],
+      "english_gloss": "stain"
+    },
+    {
+      "hanzi": "发霉",
+      "pinyin": "fāméi",
+      "english_answers": [
+        "become moldy"
+      ],
+      "english_gloss": "become moldy"
+    },
+    {
+      "hanzi": "霉菌",
+      "pinyin": "méijūn",
+      "english_answers": [
+        "mold",
+        "fungus"
+      ],
+      "english_gloss": "mold / fungus"
+    },
+    {
+      "hanzi": "异味",
+      "pinyin": "yìwèi",
+      "english_answers": [
+        "unpleasant smell"
+      ],
+      "english_gloss": "unpleasant smell"
+    },
+    {
+      "hanzi": "水管",
+      "pinyin": "shuǐguǎn",
+      "english_answers": [
+        "water pipe"
+      ],
+      "english_gloss": "water pipe"
+    },
+    {
+      "hanzi": "水龙头",
+      "pinyin": "shuǐlóngtóu",
+      "english_answers": [
+        "faucet",
+        "tap"
+      ],
+      "english_gloss": "faucet / tap"
+    },
+    {
+      "hanzi": "水槽",
+      "pinyin": "shuǐcáo",
+      "english_answers": [
+        "sink basin"
+      ],
+      "english_gloss": "sink basin"
+    },
+    {
+      "hanzi": "下水道",
+      "pinyin": "xiàshuǐdào",
+      "english_answers": [
+        "drain",
+        "sewer"
+      ],
+      "english_gloss": "drain / sewer"
+    },
+    {
+      "hanzi": "排水管",
+      "pinyin": "páishuǐguǎn",
+      "english_answers": [
+        "drainage pipe"
+      ],
+      "english_gloss": "drainage pipe"
+    },
+    {
+      "hanzi": "堵塞",
+      "pinyin": "dǔsè",
+      "english_answers": [
+        "clogged",
+        "blockage"
+      ],
+      "english_gloss": "clogged / blockage"
+    },
+    {
+      "hanzi": "漏水",
+      "pinyin": "lòushuǐ",
+      "english_answers": [
+        "water leak"
+      ],
+      "english_gloss": "water leak"
+    },
+    {
+      "hanzi": "渗水",
+      "pinyin": "shènshuǐ",
+      "english_answers": [
+        "water seepage"
+      ],
+      "english_gloss": "water seepage"
+    },
+    {
+      "hanzi": "水压",
+      "pinyin": "shuǐyā",
+      "english_answers": [
+        "water pressure"
+      ],
+      "english_gloss": "water pressure"
+    },
+    {
+      "hanzi": "停水",
+      "pinyin": "tíngshuǐ",
+      "english_answers": [
+        "water supply interruption"
+      ],
+      "english_gloss": "water supply interruption"
+    },
+    {
+      "hanzi": "马桶",
+      "pinyin": "mǎtǒng",
+      "english_answers": [
+        "toilet"
+      ],
+      "english_gloss": "toilet"
+    },
+    {
+      "hanzi": "冲水",
+      "pinyin": "chōngshuǐ",
+      "english_answers": [
+        "flush with water"
+      ],
+      "english_gloss": "flush with water"
+    },
+    {
+      "hanzi": "马桶堵了",
+      "pinyin": "mǎtǒng dǔ le",
+      "english_answers": [
+        "the toilet is clogged"
+      ],
+      "english_gloss": "the toilet is clogged"
+    },
+    {
+      "hanzi": "皮搋子",
+      "pinyin": "píchuāizi",
+      "english_answers": [
+        "toilet plunger"
+      ],
+      "english_gloss": "toilet plunger"
+    },
+    {
+      "hanzi": "淋浴",
+      "pinyin": "línyù",
+      "english_answers": [
+        "shower"
+      ],
+      "english_gloss": "shower"
+    },
+    {
+      "hanzi": "花洒",
+      "pinyin": "huāsǎ",
+      "english_answers": [
+        "showerhead"
+      ],
+      "english_gloss": "showerhead"
+    },
+    {
+      "hanzi": "浴缸",
+      "pinyin": "yùgāng",
+      "english_answers": [
+        "bathtub"
+      ],
+      "english_gloss": "bathtub"
+    },
+    {
+      "hanzi": "地漏",
+      "pinyin": "dìlòu",
+      "english_answers": [
+        "floor drain"
+      ],
+      "english_gloss": "floor drain"
+    },
+    {
+      "hanzi": "热水供应",
+      "pinyin": "rèshuǐ gōngyìng",
+      "english_answers": [
+        "hot-water supply"
+      ],
+      "english_gloss": "hot-water supply"
+    },
+    {
+      "hanzi": "水表",
+      "pinyin": "shuǐbiǎo",
+      "english_answers": [
+        "water meter"
+      ],
+      "english_gloss": "water meter"
+    },
+    {
+      "hanzi": "电路",
+      "pinyin": "diànlù",
+      "english_answers": [
+        "electrical circuit"
+      ],
+      "english_gloss": "electrical circuit"
+    },
+    {
+      "hanzi": "电线",
+      "pinyin": "diànxiàn",
+      "english_answers": [
+        "electrical wire"
+      ],
+      "english_gloss": "electrical wire"
+    },
+    {
+      "hanzi": "电闸",
+      "pinyin": "diànzhá",
+      "english_answers": [
+        "main electrical switch",
+        "breaker"
+      ],
+      "english_gloss": "main electrical switch / breaker"
+    },
+    {
+      "hanzi": "跳闸",
+      "pinyin": "tiàozhá",
+      "english_answers": [
+        "circuit breaker trips"
+      ],
+      "english_gloss": "circuit breaker trips"
+    },
+    {
+      "hanzi": "停电",
+      "pinyin": "tíngdiàn",
+      "english_answers": [
+        "power outage"
+      ],
+      "english_gloss": "power outage"
+    },
+    {
+      "hanzi": "短路",
+      "pinyin": "duǎnlù",
+      "english_answers": [
+        "short circuit"
+      ],
+      "english_gloss": "short circuit"
+    },
+    {
+      "hanzi": "漏电",
+      "pinyin": "lòudiàn",
+      "english_answers": [
+        "electrical current leakage"
+      ],
+      "english_gloss": "electrical current leakage"
+    },
+    {
+      "hanzi": "电压",
+      "pinyin": "diànyā",
+      "english_answers": [
+        "voltage"
+      ],
+      "english_gloss": "voltage"
+    },
+    {
+      "hanzi": "电表",
+      "pinyin": "diànbiǎo",
+      "english_answers": [
+        "electricity meter"
+      ],
+      "english_gloss": "electricity meter"
+    },
+    {
+      "hanzi": "灯泡",
+      "pinyin": "dēngpào",
+      "english_answers": [
+        "light bulb"
+      ],
+      "english_gloss": "light bulb"
+    },
+    {
+      "hanzi": "换灯泡",
+      "pinyin": "huàn dēngpào",
+      "english_answers": [
+        "replace a light bulb"
+      ],
+      "english_gloss": "replace a light bulb"
+    },
+    {
+      "hanzi": "坏了",
+      "pinyin": "huài le",
+      "english_answers": [
+        "it's broken"
+      ],
+      "english_gloss": "it's broken"
+    },
+    {
+      "hanzi": "故障",
+      "pinyin": "gùzhàng",
+      "english_answers": [
+        "malfunction",
+        "fault"
+      ],
+      "english_gloss": "malfunction / fault"
+    },
+    {
+      "hanzi": "维修",
+      "pinyin": "wéixiū",
+      "english_answers": [
+        "repair",
+        "maintenance"
+      ],
+      "english_gloss": "repair / maintenance"
+    },
+    {
+      "hanzi": "修理",
+      "pinyin": "xiūlǐ",
+      "english_answers": [
+        "fix",
+        "repair"
+      ],
+      "english_gloss": "fix / repair"
+    },
+    {
+      "hanzi": "安装",
+      "pinyin": "ānzhuāng",
+      "english_answers": [
+        "install"
+      ],
+      "english_gloss": "install"
+    },
+    {
+      "hanzi": "拆卸",
+      "pinyin": "chāixiè",
+      "english_answers": [
+        "disassemble",
+        "remove"
+      ],
+      "english_gloss": "disassemble / remove"
+    },
+    {
+      "hanzi": "噪音",
+      "pinyin": "zàoyīn",
+      "english_answers": [
+        "noise"
+      ],
+      "english_gloss": "noise"
+    },
+    {
+      "hanzi": "隔音",
+      "pinyin": "géyīn",
+      "english_answers": [
+        "sound insulation"
+      ],
+      "english_gloss": "sound insulation"
+    },
+    {
+      "hanzi": "通风",
+      "pinyin": "tōngfēng",
+      "english_answers": [
+        "ventilation"
+      ],
+      "english_gloss": "ventilation"
+    },
+    {
+      "hanzi": "报修",
+      "pinyin": "bàoxiū",
+      "english_answers": [
+        "submit a repair request"
+      ],
+      "english_gloss": "submit a repair request"
+    },
+    {
+      "hanzi": "维修人员",
+      "pinyin": "wéixiū rényuán",
+      "english_answers": [
+        "repair technician"
+      ],
+      "english_gloss": "repair technician"
+    },
+    {
+      "hanzi": "上门维修",
+      "pinyin": "shàngmén wéixiū",
+      "english_answers": [
+        "repair service at home"
+      ],
+      "english_gloss": "repair service at home"
+    },
+    {
+      "hanzi": "修好了",
+      "pinyin": "xiū hǎo le",
+      "english_answers": [
+        "it's been fixed"
+      ],
+      "english_gloss": "it's been fixed"
+    },
+    {
+      "hanzi": "还没修好",
+      "pinyin": "hái méi xiū hǎo",
+      "english_answers": [
+        "it hasn't been fixed yet"
+      ],
+      "english_gloss": "it hasn't been fixed yet"
+    },
+    {
+      "hanzi": "尽快",
+      "pinyin": "jǐnkuài",
+      "english_answers": [
+        "as soon as possible"
+      ],
+      "english_gloss": "as soon as possible"
+    },
+    {
+      "hanzi": "催促",
+      "pinyin": "cuīcù",
+      "english_answers": [
+        "urge",
+        "follow up insistently"
+      ],
+      "english_gloss": "urge / follow up insistently"
+    },
+    {
+      "hanzi": "投诉",
+      "pinyin": "tóusù",
+      "english_answers": [
+        "make a complaint"
+      ],
+      "english_gloss": "make a complaint"
+    },
+    {
+      "hanzi": "赔偿",
+      "pinyin": "péicháng",
+      "english_answers": [
+        "compensation"
+      ],
+      "english_gloss": "compensation"
+    },
+    {
+      "hanzi": "责任",
+      "pinyin": "zérèn",
+      "english_answers": [
+        "responsibility",
+        "liability"
+      ],
+      "english_gloss": "responsibility / liability"
+    },
+    {
+      "hanzi": "损坏",
+      "pinyin": "sǔnhuài",
+      "english_answers": [
+        "damage"
+      ],
+      "english_gloss": "damage"
+    },
+    {
+      "hanzi": "正常使用",
+      "pinyin": "zhèngcháng shǐyòng",
+      "english_answers": [
+        "normal use"
+      ],
+      "english_gloss": "normal use"
+    },
+    {
+      "hanzi": "维修费用",
+      "pinyin": "wéixiū fèiyòng",
+      "english_answers": [
+        "repair costs"
+      ],
+      "english_gloss": "repair costs"
+    },
+    {
+      "hanzi": "蟑螂",
+      "pinyin": "zhāngláng",
+      "english_answers": [
+        "cockroach"
+      ],
+      "english_gloss": "cockroach"
+    },
+    {
+      "hanzi": "老鼠",
+      "pinyin": "lǎoshǔ",
+      "english_answers": [
+        "mouse",
+        "rat"
+      ],
+      "english_gloss": "mouse / rat"
+    },
+    {
+      "hanzi": "蚊子",
+      "pinyin": "wénzi",
+      "english_answers": [
+        "mosquito"
+      ],
+      "english_gloss": "mosquito"
+    },
+    {
+      "hanzi": "虫害",
+      "pinyin": "chónghài",
+      "english_answers": [
+        "pest infestation"
+      ],
+      "english_gloss": "pest infestation"
+    },
+    {
+      "hanzi": "杀虫剂",
+      "pinyin": "shāchóngjì",
+      "english_answers": [
+        "insecticide"
+      ],
+      "english_gloss": "insecticide"
+    },
+    {
+      "hanzi": "灭虫",
+      "pinyin": "mièchóng",
+      "english_answers": [
+        "exterminate pests"
+      ],
+      "english_gloss": "exterminate pests"
+    },
+    {
+      "hanzi": "防虫",
+      "pinyin": "fángchóng",
+      "english_answers": [
+        "pest prevention"
+      ],
+      "english_gloss": "pest prevention"
+    }
+  ]
+}

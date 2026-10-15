@@ -1,0 +1,844 @@
+{
+  "id": "lgbtq_I",
+  "title": "Lgbtq I",
+  "language": "zh-Hans",
+  "source": "previously generated PDF",
+  "card_count": 100,
+  "cards": [
+    {
+      "hanzi": "性别",
+      "pinyin": "xìngbié",
+      "english_answers": [
+        "gender",
+        "sex (depending on context)"
+      ],
+      "english_gloss": "gender / sex (depending on context)"
+    },
+    {
+      "hanzi": "性取向",
+      "pinyin": "xìng qǔxiàng",
+      "english_answers": [
+        "sexual orientation"
+      ],
+      "english_gloss": "sexual orientation"
+    },
+    {
+      "hanzi": "性别认同",
+      "pinyin": "xìngbié rèntóng",
+      "english_answers": [
+        "gender identity"
+      ],
+      "english_gloss": "gender identity"
+    },
+    {
+      "hanzi": "性别表达",
+      "pinyin": "xìngbié biǎodá",
+      "english_answers": [
+        "gender expression"
+      ],
+      "english_gloss": "gender expression"
+    },
+    {
+      "hanzi": "同性恋",
+      "pinyin": "tóngxìngliàn",
+      "english_answers": [
+        "homosexuality",
+        "gay person"
+      ],
+      "english_gloss": "homosexuality / gay person"
+    },
+    {
+      "hanzi": "异性恋",
+      "pinyin": "yìxìngliàn",
+      "english_answers": [
+        "heterosexuality",
+        "straight person"
+      ],
+      "english_gloss": "heterosexuality / straight person"
+    },
+    {
+      "hanzi": "双性恋",
+      "pinyin": "shuāngxìngliàn",
+      "english_answers": [
+        "bisexuality",
+        "bisexual person"
+      ],
+      "english_gloss": "bisexuality / bisexual person"
+    },
+    {
+      "hanzi": "泛性恋",
+      "pinyin": "fànxìngliàn",
+      "english_answers": [
+        "pansexuality",
+        "pansexual person"
+      ],
+      "english_gloss": "pansexuality / pansexual person"
+    },
+    {
+      "hanzi": "无性恋",
+      "pinyin": "wúxìngliàn",
+      "english_answers": [
+        "asexuality",
+        "asexual person"
+      ],
+      "english_gloss": "asexuality / asexual person"
+    },
+    {
+      "hanzi": "无浪漫倾向",
+      "pinyin": "wú làngmàn qīngxiàng",
+      "english_answers": [
+        "aromantic orientation"
+      ],
+      "english_gloss": "aromantic orientation"
+    },
+    {
+      "hanzi": "酷儿",
+      "pinyin": "kù'ér",
+      "english_answers": [
+        "queer (reclaimed identity)"
+      ],
+      "english_gloss": "queer (reclaimed identity)"
+    },
+    {
+      "hanzi": "跨性别",
+      "pinyin": "kuàxìngbié",
+      "english_answers": [
+        "transgender"
+      ],
+      "english_gloss": "transgender"
+    },
+    {
+      "hanzi": "顺性别",
+      "pinyin": "shùnxìngbié",
+      "english_answers": [
+        "cisgender"
+      ],
+      "english_gloss": "cisgender"
+    },
+    {
+      "hanzi": "非二元性别",
+      "pinyin": "fēi èryuán xìngbié",
+      "english_answers": [
+        "nonbinary gender"
+      ],
+      "english_gloss": "nonbinary gender"
+    },
+    {
+      "hanzi": "性别流动",
+      "pinyin": "xìngbié liúdòng",
+      "english_answers": [
+        "genderfluid"
+      ],
+      "english_gloss": "genderfluid"
+    },
+    {
+      "hanzi": "性别中立",
+      "pinyin": "xìngbié zhōnglì",
+      "english_answers": [
+        "gender-neutral"
+      ],
+      "english_gloss": "gender-neutral"
+    },
+    {
+      "hanzi": "男同性恋",
+      "pinyin": "nán tóngxìngliàn",
+      "english_answers": [
+        "gay man"
+      ],
+      "english_gloss": "gay man"
+    },
+    {
+      "hanzi": "女同性恋",
+      "pinyin": "nǚ tóngxìngliàn",
+      "english_answers": [
+        "lesbian"
+      ],
+      "english_gloss": "lesbian"
+    },
+    {
+      "hanzi": "拉拉",
+      "pinyin": "lālā",
+      "english_answers": [
+        "lesbian (community slang)"
+      ],
+      "english_gloss": "lesbian (community slang)"
+    },
+    {
+      "hanzi": "同志",
+      "pinyin": "tóngzhì",
+      "english_answers": [
+        "LGBTQ+/gay (community usage); also 'comrade'"
+      ],
+      "english_gloss": "LGBTQ+/gay (community usage); also 'comrade'"
+    },
+    {
+      "hanzi": "跨性别女性",
+      "pinyin": "kuàxìngbié nǚxìng",
+      "english_answers": [
+        "transgender woman"
+      ],
+      "english_gloss": "transgender woman"
+    },
+    {
+      "hanzi": "跨性别男性",
+      "pinyin": "kuàxìngbié nánxìng",
+      "english_answers": [
+        "transgender man"
+      ],
+      "english_gloss": "transgender man"
+    },
+    {
+      "hanzi": "跨女",
+      "pinyin": "kuànǚ",
+      "english_answers": [
+        "trans woman (community shorthand)"
+      ],
+      "english_gloss": "trans woman (community shorthand)"
+    },
+    {
+      "hanzi": "跨男",
+      "pinyin": "kuànán",
+      "english_answers": [
+        "trans man (community shorthand)"
+      ],
+      "english_gloss": "trans man (community shorthand)"
+    },
+    {
+      "hanzi": "性别焦虑",
+      "pinyin": "xìngbié jiāolǜ",
+      "english_answers": [
+        "gender dysphoria (commonly used; clinical usage may vary)"
+      ],
+      "english_gloss": "gender dysphoria (commonly used; clinical usage may vary)"
+    },
+    {
+      "hanzi": "性别不安",
+      "pinyin": "xìngbié bù'ān",
+      "english_answers": [
+        "gender incongruence",
+        "gender-related distress (context-dependent)"
+      ],
+      "english_gloss": "gender incongruence / gender-related distress (context-dependent)"
+    },
+    {
+      "hanzi": "性别肯定",
+      "pinyin": "xìngbié kěndìng",
+      "english_answers": [
+        "gender affirmation"
+      ],
+      "english_gloss": "gender affirmation"
+    },
+    {
+      "hanzi": "性别肯定医疗",
+      "pinyin": "xìngbié kěndìng yīliáo",
+      "english_answers": [
+        "gender-affirming healthcare"
+      ],
+      "english_gloss": "gender-affirming healthcare"
+    },
+    {
+      "hanzi": "性别过渡",
+      "pinyin": "xìngbié guòdù",
+      "english_answers": [
+        "gender transition"
+      ],
+      "english_gloss": "gender transition"
+    },
+    {
+      "hanzi": "社会过渡",
+      "pinyin": "shèhuì guòdù",
+      "english_answers": [
+        "social transition"
+      ],
+      "english_gloss": "social transition"
+    },
+    {
+      "hanzi": "医疗过渡",
+      "pinyin": "yīliáo guòdù",
+      "english_answers": [
+        "medical transition"
+      ],
+      "english_gloss": "medical transition"
+    },
+    {
+      "hanzi": "激素治疗",
+      "pinyin": "jīsù zhìliáo",
+      "english_answers": [
+        "hormone therapy"
+      ],
+      "english_gloss": "hormone therapy"
+    },
+    {
+      "hanzi": "激素替代疗法",
+      "pinyin": "jīsù tìdài liáofǎ",
+      "english_answers": [
+        "hormone replacement therapy"
+      ],
+      "english_gloss": "hormone replacement therapy"
+    },
+    {
+      "hanzi": "雌激素",
+      "pinyin": "cíjīsù",
+      "english_answers": [
+        "estrogen"
+      ],
+      "english_gloss": "estrogen"
+    },
+    {
+      "hanzi": "睾酮",
+      "pinyin": "gāotóng",
+      "english_answers": [
+        "testosterone"
+      ],
+      "english_gloss": "testosterone"
+    },
+    {
+      "hanzi": "抗雄激素",
+      "pinyin": "kàng xióngjīsù",
+      "english_answers": [
+        "antiandrogen"
+      ],
+      "english_gloss": "antiandrogen"
+    },
+    {
+      "hanzi": "性别肯定手术",
+      "pinyin": "xìngbié kěndìng shǒushù",
+      "english_answers": [
+        "gender-affirming surgery"
+      ],
+      "english_gloss": "gender-affirming surgery"
+    },
+    {
+      "hanzi": "女性化",
+      "pinyin": "nǚxìnghuà",
+      "english_answers": [
+        "feminization"
+      ],
+      "english_gloss": "feminization"
+    },
+    {
+      "hanzi": "男性化",
+      "pinyin": "nánxìnghuà",
+      "english_answers": [
+        "masculinization"
+      ],
+      "english_gloss": "masculinization"
+    },
+    {
+      "hanzi": "变性人",
+      "pinyin": "biànxìngrén",
+      "english_answers": [
+        "transsexual",
+        "trans person (older, often insensitive; context matters)"
+      ],
+      "english_gloss": "transsexual / trans person (older, often insensitive; context matters)"
+    },
+    {
+      "hanzi": "名字",
+      "pinyin": "míngzi",
+      "english_answers": [
+        "name"
+      ],
+      "english_gloss": "name"
+    },
+    {
+      "hanzi": "曾用名",
+      "pinyin": "céngyòngmíng",
+      "english_answers": [
+        "former name"
+      ],
+      "english_gloss": "former name"
+    },
+    {
+      "hanzi": "改名",
+      "pinyin": "gǎimíng",
+      "english_answers": [
+        "change one's name"
+      ],
+      "english_gloss": "change one's name"
+    },
+    {
+      "hanzi": "身份证",
+      "pinyin": "shēnfènzhèng",
+      "english_answers": [
+        "identity card"
+      ],
+      "english_gloss": "identity card"
+    },
+    {
+      "hanzi": "证件性别",
+      "pinyin": "zhèngjiàn xìngbié",
+      "english_answers": [
+        "gender marker on identification"
+      ],
+      "english_gloss": "gender marker on identification"
+    },
+    {
+      "hanzi": "代词",
+      "pinyin": "dàicí",
+      "english_answers": [
+        "pronoun"
+      ],
+      "english_gloss": "pronoun"
+    },
+    {
+      "hanzi": "人称代词",
+      "pinyin": "rénchēng dàicí",
+      "english_answers": [
+        "personal pronoun"
+      ],
+      "english_gloss": "personal pronoun"
+    },
+    {
+      "hanzi": "称呼",
+      "pinyin": "chēnghu",
+      "english_answers": [
+        "form of address",
+        "what to call someone"
+      ],
+      "english_gloss": "form of address / what to call someone"
+    },
+    {
+      "hanzi": "她",
+      "pinyin": "tā",
+      "english_answers": [
+        "she",
+        "her (written)"
+      ],
+      "english_gloss": "she / her (written)"
+    },
+    {
+      "hanzi": "他",
+      "pinyin": "tā",
+      "english_answers": [
+        "he",
+        "him (written)"
+      ],
+      "english_gloss": "he / him (written)"
+    },
+    {
+      "hanzi": "出柜",
+      "pinyin": "chūguì",
+      "english_answers": [
+        "come out of the closet"
+      ],
+      "english_gloss": "come out of the closet"
+    },
+    {
+      "hanzi": "公开身份",
+      "pinyin": "gōngkāi shēnfèn",
+      "english_answers": [
+        "disclose one's identity publicly"
+      ],
+      "english_gloss": "disclose one's identity publicly"
+    },
+    {
+      "hanzi": "隐瞒",
+      "pinyin": "yǐnmán",
+      "english_answers": [
+        "conceal",
+        "keep secret"
+      ],
+      "english_gloss": "conceal / keep secret"
+    },
+    {
+      "hanzi": "身份认同",
+      "pinyin": "shēnfèn rèntóng",
+      "english_answers": [
+        "identity",
+        "sense of identity"
+      ],
+      "english_gloss": "identity / sense of identity"
+    },
+    {
+      "hanzi": "自我认同",
+      "pinyin": "zìwǒ rèntóng",
+      "english_answers": [
+        "self-identification"
+      ],
+      "english_gloss": "self-identification"
+    },
+    {
+      "hanzi": "接纳",
+      "pinyin": "jiēnà",
+      "english_answers": [
+        "accept",
+        "embrace"
+      ],
+      "english_gloss": "accept / embrace"
+    },
+    {
+      "hanzi": "认同",
+      "pinyin": "rèntóng",
+      "english_answers": [
+        "identify with",
+        "acknowledge"
+      ],
+      "english_gloss": "identify with / acknowledge"
+    },
+    {
+      "hanzi": "支持",
+      "pinyin": "zhīchí",
+      "english_answers": [
+        "support"
+      ],
+      "english_gloss": "support"
+    },
+    {
+      "hanzi": "尊重",
+      "pinyin": "zūnzhòng",
+      "english_answers": [
+        "respect"
+      ],
+      "english_gloss": "respect"
+    },
+    {
+      "hanzi": "误称性别",
+      "pinyin": "wùchēng xìngbié",
+      "english_answers": [
+        "misgender",
+        "refer to someone by the wrong gender"
+      ],
+      "english_gloss": "misgender / refer to someone by the wrong gender"
+    },
+    {
+      "hanzi": "恋爱",
+      "pinyin": "liàn'ài",
+      "english_answers": [
+        "romantic relationship",
+        "fall in love"
+      ],
+      "english_gloss": "romantic relationship / fall in love"
+    },
+    {
+      "hanzi": "谈恋爱",
+      "pinyin": "tán liàn'ài",
+      "english_answers": [
+        "date",
+        "be in a relationship"
+      ],
+      "english_gloss": "date / be in a relationship"
+    },
+    {
+      "hanzi": "约会",
+      "pinyin": "yuēhuì",
+      "english_answers": [
+        "go on a date",
+        "dating"
+      ],
+      "english_gloss": "go on a date / dating"
+    },
+    {
+      "hanzi": "对象",
+      "pinyin": "duìxiàng",
+      "english_answers": [
+        "romantic partner (colloquial)"
+      ],
+      "english_gloss": "romantic partner (colloquial)"
+    },
+    {
+      "hanzi": "伴侣",
+      "pinyin": "bànlǚ",
+      "english_answers": [
+        "partner"
+      ],
+      "english_gloss": "partner"
+    },
+    {
+      "hanzi": "女朋友",
+      "pinyin": "nǚpéngyou",
+      "english_answers": [
+        "girlfriend"
+      ],
+      "english_gloss": "girlfriend"
+    },
+    {
+      "hanzi": "男朋友",
+      "pinyin": "nánpéngyou",
+      "english_answers": [
+        "boyfriend"
+      ],
+      "english_gloss": "boyfriend"
+    },
+    {
+      "hanzi": "爱人",
+      "pinyin": "àiren",
+      "english_answers": [
+        "spouse",
+        "loved one",
+        "partner"
+      ],
+      "english_gloss": "spouse / loved one / partner"
+    },
+    {
+      "hanzi": "同性伴侣",
+      "pinyin": "tóngxìng bànlǚ",
+      "english_answers": [
+        "same-sex partner",
+        "couple"
+      ],
+      "english_gloss": "same-sex partner / couple"
+    },
+    {
+      "hanzi": "异地恋",
+      "pinyin": "yìdìliàn",
+      "english_answers": [
+        "long-distance relationship"
+      ],
+      "english_gloss": "long-distance relationship"
+    },
+    {
+      "hanzi": "单身",
+      "pinyin": "dānshēn",
+      "english_answers": [
+        "single"
+      ],
+      "english_gloss": "single"
+    },
+    {
+      "hanzi": "已婚",
+      "pinyin": "yǐhūn",
+      "english_answers": [
+        "married"
+      ],
+      "english_gloss": "married"
+    },
+    {
+      "hanzi": "婚姻",
+      "pinyin": "hūnyīn",
+      "english_answers": [
+        "marriage"
+      ],
+      "english_gloss": "marriage"
+    },
+    {
+      "hanzi": "同性婚姻",
+      "pinyin": "tóngxìng hūnyīn",
+      "english_answers": [
+        "same-sex marriage"
+      ],
+      "english_gloss": "same-sex marriage"
+    },
+    {
+      "hanzi": "吸引力",
+      "pinyin": "xīyǐnlì",
+      "english_answers": [
+        "attraction",
+        "attractiveness"
+      ],
+      "english_gloss": "attraction / attractiveness"
+    },
+    {
+      "hanzi": "性吸引",
+      "pinyin": "xìng xīyǐn",
+      "english_answers": [
+        "sexual attraction"
+      ],
+      "english_gloss": "sexual attraction"
+    },
+    {
+      "hanzi": "浪漫吸引",
+      "pinyin": "làngmàn xīyǐn",
+      "english_answers": [
+        "romantic attraction"
+      ],
+      "english_gloss": "romantic attraction"
+    },
+    {
+      "hanzi": "亲密关系",
+      "pinyin": "qīnmì guānxì",
+      "english_answers": [
+        "intimate relationship"
+      ],
+      "english_gloss": "intimate relationship"
+    },
+    {
+      "hanzi": "界限",
+      "pinyin": "jièxiàn",
+      "english_answers": [
+        "boundary",
+        "limit"
+      ],
+      "english_gloss": "boundary / limit"
+    },
+    {
+      "hanzi": "同意",
+      "pinyin": "tóngyì",
+      "english_answers": [
+        "consent",
+        "agree (context-dependent)"
+      ],
+      "english_gloss": "consent / agree (context-dependent)"
+    },
+    {
+      "hanzi": "彩虹旗",
+      "pinyin": "cǎihóngqí",
+      "english_answers": [
+        "rainbow flag"
+      ],
+      "english_gloss": "rainbow flag"
+    },
+    {
+      "hanzi": "骄傲月",
+      "pinyin": "jiāo'ào yuè",
+      "english_answers": [
+        "Pride Month"
+      ],
+      "english_gloss": "Pride Month"
+    },
+    {
+      "hanzi": "骄傲游行",
+      "pinyin": "jiāo'ào yóuxíng",
+      "english_answers": [
+        "Pride parade"
+      ],
+      "english_gloss": "Pride parade"
+    },
+    {
+      "hanzi": "社群",
+      "pinyin": "shèqún",
+      "english_answers": [
+        "community",
+        "social group"
+      ],
+      "english_gloss": "community / social group"
+    },
+    {
+      "hanzi": "友善",
+      "pinyin": "yǒushàn",
+      "english_answers": [
+        "friendly",
+        "welcoming"
+      ],
+      "english_gloss": "friendly / welcoming"
+    },
+    {
+      "hanzi": "包容",
+      "pinyin": "bāoróng",
+      "english_answers": [
+        "inclusion",
+        "tolerance"
+      ],
+      "english_gloss": "inclusion / tolerance"
+    },
+    {
+      "hanzi": "平等",
+      "pinyin": "píngděng",
+      "english_answers": [
+        "equality"
+      ],
+      "english_gloss": "equality"
+    },
+    {
+      "hanzi": "权利",
+      "pinyin": "quánlì",
+      "english_answers": [
+        "rights"
+      ],
+      "english_gloss": "rights"
+    },
+    {
+      "hanzi": "歧视",
+      "pinyin": "qíshì",
+      "english_answers": [
+        "discrimination"
+      ],
+      "english_gloss": "discrimination"
+    },
+    {
+      "hanzi": "偏见",
+      "pinyin": "piānjiàn",
+      "english_answers": [
+        "prejudice",
+        "bias"
+      ],
+      "english_gloss": "prejudice / bias"
+    },
+    {
+      "hanzi": "恐同",
+      "pinyin": "kǒngtóng",
+      "english_answers": [
+        "homophobic",
+        "homophobia (shorthand)"
+      ],
+      "english_gloss": "homophobic / homophobia (shorthand)"
+    },
+    {
+      "hanzi": "恐跨",
+      "pinyin": "kǒngkuà",
+      "english_answers": [
+        "transphobic",
+        "transphobia (shorthand)"
+      ],
+      "english_gloss": "transphobic / transphobia (shorthand)"
+    },
+    {
+      "hanzi": "骚扰",
+      "pinyin": "sāorǎo",
+      "english_answers": [
+        "harassment"
+      ],
+      "english_gloss": "harassment"
+    },
+    {
+      "hanzi": "霸凌",
+      "pinyin": "bàlíng",
+      "english_answers": [
+        "bullying"
+      ],
+      "english_gloss": "bullying"
+    },
+    {
+      "hanzi": "刻板印象",
+      "pinyin": "kèbǎn yìnxiàng",
+      "english_answers": [
+        "stereotype"
+      ],
+      "english_gloss": "stereotype"
+    },
+    {
+      "hanzi": "小众",
+      "pinyin": "xiǎozhòng",
+      "english_answers": [
+        "niche",
+        "minority-interest"
+      ],
+      "english_gloss": "niche / minority-interest"
+    },
+    {
+      "hanzi": "腐女",
+      "pinyin": "fǔnǚ",
+      "english_answers": [
+        "female fan of male/male romance (fandom slang)"
+      ],
+      "english_gloss": "female fan of male/male romance (fandom slang)"
+    },
+    {
+      "hanzi": "百合",
+      "pinyin": "bǎihé",
+      "english_answers": [
+        "girls' love",
+        "female-female romance (media slang)"
+      ],
+      "english_gloss": "girls' love / female-female romance (media slang)"
+    },
+    {
+      "hanzi": "耽美",
+      "pinyin": "dānměi",
+      "english_answers": [
+        "boys' love",
+        "male-male romance genre"
+      ],
+      "english_gloss": "boys' love / male-male romance genre"
+    },
+    {
+      "hanzi": "娘娘腔",
+      "pinyin": "niángniangqiāng",
+      "english_answers": [
+        "effeminate man",
+        "sissy (derogatory)"
+      ],
+      "english_gloss": "effeminate man / sissy (derogatory)"
+    }
+  ]
+}

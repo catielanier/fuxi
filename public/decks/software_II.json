@@ -1,0 +1,828 @@
+{
+  "id": "software_II",
+  "title": "Software Ii",
+  "language": "zh-Hans",
+  "source": "previously generated PDF",
+  "card_count": 100,
+  "cards": [
+    {
+      "hanzi": "同事",
+      "pinyin": "tóngshì",
+      "english_answers": [
+        "coworker"
+      ],
+      "english_gloss": "coworker"
+    },
+    {
+      "hanzi": "团队",
+      "pinyin": "tuánduì",
+      "english_answers": [
+        "team"
+      ],
+      "english_gloss": "team"
+    },
+    {
+      "hanzi": "主管",
+      "pinyin": "zhǔguǎn",
+      "english_answers": [
+        "supervisor",
+        "manager"
+      ],
+      "english_gloss": "supervisor / manager"
+    },
+    {
+      "hanzi": "经理",
+      "pinyin": "jīnglǐ",
+      "english_answers": [
+        "manager"
+      ],
+      "english_gloss": "manager"
+    },
+    {
+      "hanzi": "项目经理",
+      "pinyin": "xiàngmù jīnglǐ",
+      "english_answers": [
+        "project manager"
+      ],
+      "english_gloss": "project manager"
+    },
+    {
+      "hanzi": "产品经理",
+      "pinyin": "chǎnpǐn jīnglǐ",
+      "english_answers": [
+        "product manager"
+      ],
+      "english_gloss": "product manager"
+    },
+    {
+      "hanzi": "设计师",
+      "pinyin": "shèjìshī",
+      "english_answers": [
+        "designer"
+      ],
+      "english_gloss": "designer"
+    },
+    {
+      "hanzi": "客户",
+      "pinyin": "kèhù",
+      "english_answers": [
+        "client"
+      ],
+      "english_gloss": "client"
+    },
+    {
+      "hanzi": "利益相关者",
+      "pinyin": "lìyì xiāngguānzhě",
+      "english_answers": [
+        "stakeholder"
+      ],
+      "english_gloss": "stakeholder"
+    },
+    {
+      "hanzi": "会议",
+      "pinyin": "huìyì",
+      "english_answers": [
+        "meeting"
+      ],
+      "english_gloss": "meeting"
+    },
+    {
+      "hanzi": "开会",
+      "pinyin": "kāihuì",
+      "english_answers": [
+        "hold",
+        "attend a meeting"
+      ],
+      "english_gloss": "hold / attend a meeting"
+    },
+    {
+      "hanzi": "例会",
+      "pinyin": "lìhuì",
+      "english_answers": [
+        "regular meeting"
+      ],
+      "english_gloss": "regular meeting"
+    },
+    {
+      "hanzi": "站会",
+      "pinyin": "zhànhuì",
+      "english_answers": [
+        "stand-up meeting"
+      ],
+      "english_gloss": "stand-up meeting"
+    },
+    {
+      "hanzi": "远程会议",
+      "pinyin": "yuǎnchéng huìyì",
+      "english_answers": [
+        "remote meeting"
+      ],
+      "english_gloss": "remote meeting"
+    },
+    {
+      "hanzi": "视频会议",
+      "pinyin": "shìpín huìyì",
+      "english_answers": [
+        "video conference"
+      ],
+      "english_gloss": "video conference"
+    },
+    {
+      "hanzi": "会议纪要",
+      "pinyin": "huìyì jìyào",
+      "english_answers": [
+        "meeting minutes"
+      ],
+      "english_gloss": "meeting minutes"
+    },
+    {
+      "hanzi": "议程",
+      "pinyin": "yìchéng",
+      "english_answers": [
+        "agenda"
+      ],
+      "english_gloss": "agenda"
+    },
+    {
+      "hanzi": "发言",
+      "pinyin": "fāyán",
+      "english_answers": [
+        "speak at a meeting"
+      ],
+      "english_gloss": "speak at a meeting"
+    },
+    {
+      "hanzi": "提问",
+      "pinyin": "tíwèn",
+      "english_answers": [
+        "ask a question"
+      ],
+      "english_gloss": "ask a question"
+    },
+    {
+      "hanzi": "讨论",
+      "pinyin": "tǎolùn",
+      "english_answers": [
+        "discussion",
+        "discuss"
+      ],
+      "english_gloss": "discussion / discuss"
+    },
+    {
+      "hanzi": "沟通",
+      "pinyin": "gōutōng",
+      "english_answers": [
+        "communicate"
+      ],
+      "english_gloss": "communicate"
+    },
+    {
+      "hanzi": "协作",
+      "pinyin": "xiézuò",
+      "english_answers": [
+        "collaborate"
+      ],
+      "english_gloss": "collaborate"
+    },
+    {
+      "hanzi": "配合",
+      "pinyin": "pèihé",
+      "english_answers": [
+        "coordinate",
+        "cooperate"
+      ],
+      "english_gloss": "coordinate / cooperate"
+    },
+    {
+      "hanzi": "反馈",
+      "pinyin": "fǎnkuì",
+      "english_answers": [
+        "feedback"
+      ],
+      "english_gloss": "feedback"
+    },
+    {
+      "hanzi": "建议",
+      "pinyin": "jiànyì",
+      "english_answers": [
+        "suggestion"
+      ],
+      "english_gloss": "suggestion"
+    },
+    {
+      "hanzi": "意见",
+      "pinyin": "yìjiàn",
+      "english_answers": [
+        "opinion",
+        "input"
+      ],
+      "english_gloss": "opinion / input"
+    },
+    {
+      "hanzi": "确认",
+      "pinyin": "quèrèn",
+      "english_answers": [
+        "confirm"
+      ],
+      "english_gloss": "confirm"
+    },
+    {
+      "hanzi": "澄清",
+      "pinyin": "chéngqīng",
+      "english_answers": [
+        "clarify"
+      ],
+      "english_gloss": "clarify"
+    },
+    {
+      "hanzi": "解释",
+      "pinyin": "jiěshì",
+      "english_answers": [
+        "explain"
+      ],
+      "english_gloss": "explain"
+    },
+    {
+      "hanzi": "补充",
+      "pinyin": "bǔchōng",
+      "english_answers": [
+        "add supplementary information"
+      ],
+      "english_gloss": "add supplementary information"
+    },
+    {
+      "hanzi": "同步进度",
+      "pinyin": "tóngbù jìndù",
+      "english_answers": [
+        "sync on progress"
+      ],
+      "english_gloss": "sync on progress"
+    },
+    {
+      "hanzi": "汇报",
+      "pinyin": "huìbào",
+      "english_answers": [
+        "report",
+        "give an update"
+      ],
+      "english_gloss": "report / give an update"
+    },
+    {
+      "hanzi": "进展",
+      "pinyin": "jìnzhǎn",
+      "english_answers": [
+        "progress",
+        "development"
+      ],
+      "english_gloss": "progress / development"
+    },
+    {
+      "hanzi": "负责",
+      "pinyin": "fùzé",
+      "english_answers": [
+        "be responsible for"
+      ],
+      "english_gloss": "be responsible for"
+    },
+    {
+      "hanzi": "分工",
+      "pinyin": "fēngōng",
+      "english_answers": [
+        "division of responsibilities"
+      ],
+      "english_gloss": "division of responsibilities"
+    },
+    {
+      "hanzi": "交接",
+      "pinyin": "jiāojiē",
+      "english_answers": [
+        "handover"
+      ],
+      "english_gloss": "handover"
+    },
+    {
+      "hanzi": "优先级",
+      "pinyin": "yōuxiānjí",
+      "english_answers": [
+        "priority level"
+      ],
+      "english_gloss": "priority level"
+    },
+    {
+      "hanzi": "紧急",
+      "pinyin": "jǐnjí",
+      "english_answers": [
+        "urgent"
+      ],
+      "english_gloss": "urgent"
+    },
+    {
+      "hanzi": "阻碍",
+      "pinyin": "zǔ'ài",
+      "english_answers": [
+        "blocker",
+        "obstacle"
+      ],
+      "english_gloss": "blocker / obstacle"
+    },
+    {
+      "hanzi": "依赖关系",
+      "pinyin": "yīlài guānxì",
+      "english_answers": [
+        "dependency"
+      ],
+      "english_gloss": "dependency"
+    },
+    {
+      "hanzi": "需求",
+      "pinyin": "xūqiú",
+      "english_answers": [
+        "requirement"
+      ],
+      "english_gloss": "requirement"
+    },
+    {
+      "hanzi": "业务需求",
+      "pinyin": "yèwù xūqiú",
+      "english_answers": [
+        "business requirement"
+      ],
+      "english_gloss": "business requirement"
+    },
+    {
+      "hanzi": "功能需求",
+      "pinyin": "gōngnéng xūqiú",
+      "english_answers": [
+        "functional requirement"
+      ],
+      "english_gloss": "functional requirement"
+    },
+    {
+      "hanzi": "用户故事",
+      "pinyin": "yònghù gùshì",
+      "english_answers": [
+        "user story"
+      ],
+      "english_gloss": "user story"
+    },
+    {
+      "hanzi": "验收标准",
+      "pinyin": "yànshōu biāozhǔn",
+      "english_answers": [
+        "acceptance criteria"
+      ],
+      "english_gloss": "acceptance criteria"
+    },
+    {
+      "hanzi": "项目范围",
+      "pinyin": "xiàngmù fànwéi",
+      "english_answers": [
+        "project scope"
+      ],
+      "english_gloss": "project scope"
+    },
+    {
+      "hanzi": "范围变更",
+      "pinyin": "fànwéi biàngēng",
+      "english_answers": [
+        "scope change"
+      ],
+      "english_gloss": "scope change"
+    },
+    {
+      "hanzi": "任务",
+      "pinyin": "rènwu",
+      "english_answers": [
+        "task"
+      ],
+      "english_gloss": "task"
+    },
+    {
+      "hanzi": "待办事项",
+      "pinyin": "dàibàn shìxiàng",
+      "english_answers": [
+        "to-do item"
+      ],
+      "english_gloss": "to-do item"
+    },
+    {
+      "hanzi": "任务分配",
+      "pinyin": "rènwu fēnpèi",
+      "english_answers": [
+        "task assignment"
+      ],
+      "english_gloss": "task assignment"
+    },
+    {
+      "hanzi": "截止日期",
+      "pinyin": "jiézhǐ rìqī",
+      "english_answers": [
+        "deadline"
+      ],
+      "english_gloss": "deadline"
+    },
+    {
+      "hanzi": "里程碑",
+      "pinyin": "lǐchéngbēi",
+      "english_answers": [
+        "milestone"
+      ],
+      "english_gloss": "milestone"
+    },
+    {
+      "hanzi": "时间表",
+      "pinyin": "shíjiānbiǎo",
+      "english_answers": [
+        "timeline",
+        "schedule"
+      ],
+      "english_gloss": "timeline / schedule"
+    },
+    {
+      "hanzi": "估算",
+      "pinyin": "gūsuàn",
+      "english_answers": [
+        "estimate"
+      ],
+      "english_gloss": "estimate"
+    },
+    {
+      "hanzi": "工作量",
+      "pinyin": "gōngzuòliàng",
+      "english_answers": [
+        "workload",
+        "effort"
+      ],
+      "english_gloss": "workload / effort"
+    },
+    {
+      "hanzi": "迭代",
+      "pinyin": "diédài",
+      "english_answers": [
+        "iteration"
+      ],
+      "english_gloss": "iteration"
+    },
+    {
+      "hanzi": "冲刺",
+      "pinyin": "chōngcì",
+      "english_answers": [
+        "sprint (Agile)"
+      ],
+      "english_gloss": "sprint (Agile)"
+    },
+    {
+      "hanzi": "冲刺计划",
+      "pinyin": "chōngcì jìhuà",
+      "english_answers": [
+        "sprint planning"
+      ],
+      "english_gloss": "sprint planning"
+    },
+    {
+      "hanzi": "待办列表",
+      "pinyin": "dàibàn lièbiǎo",
+      "english_answers": [
+        "backlog",
+        "task list"
+      ],
+      "english_gloss": "backlog / task list"
+    },
+    {
+      "hanzi": "回顾会议",
+      "pinyin": "huígù huìyì",
+      "english_answers": [
+        "retrospective meeting"
+      ],
+      "english_gloss": "retrospective meeting"
+    },
+    {
+      "hanzi": "代码审查",
+      "pinyin": "dàimǎ shěnchá",
+      "english_answers": [
+        "code review"
+      ],
+      "english_gloss": "code review"
+    },
+    {
+      "hanzi": "审查意见",
+      "pinyin": "shěnchá yìjiàn",
+      "english_answers": [
+        "review comment"
+      ],
+      "english_gloss": "review comment"
+    },
+    {
+      "hanzi": "修改意见",
+      "pinyin": "xiūgǎi yìjiàn",
+      "english_answers": [
+        "requested changes",
+        "feedback"
+      ],
+      "english_gloss": "requested changes / feedback"
+    },
+    {
+      "hanzi": "批准",
+      "pinyin": "pīzhǔn",
+      "english_answers": [
+        "approve"
+      ],
+      "english_gloss": "approve"
+    },
+    {
+      "hanzi": "合并请求",
+      "pinyin": "hébìng qǐngqiú",
+      "english_answers": [
+        "merge request"
+      ],
+      "english_gloss": "merge request"
+    },
+    {
+      "hanzi": "提交记录",
+      "pinyin": "tíjiāo jìlù",
+      "english_answers": [
+        "commit history"
+      ],
+      "english_gloss": "commit history"
+    },
+    {
+      "hanzi": "冲突",
+      "pinyin": "chōngtū",
+      "english_answers": [
+        "conflict"
+      ],
+      "english_gloss": "conflict"
+    },
+    {
+      "hanzi": "解决冲突",
+      "pinyin": "jiějué chōngtū",
+      "english_answers": [
+        "resolve conflicts"
+      ],
+      "english_gloss": "resolve conflicts"
+    },
+    {
+      "hanzi": "重现问题",
+      "pinyin": "chóngxiàn wèntí",
+      "english_answers": [
+        "reproduce an issue"
+      ],
+      "english_gloss": "reproduce an issue"
+    },
+    {
+      "hanzi": "复现步骤",
+      "pinyin": "fùxiàn bùzhòu",
+      "english_answers": [
+        "steps to reproduce"
+      ],
+      "english_gloss": "steps to reproduce"
+    },
+    {
+      "hanzi": "预期结果",
+      "pinyin": "yùqī jiéguǒ",
+      "english_answers": [
+        "expected result"
+      ],
+      "english_gloss": "expected result"
+    },
+    {
+      "hanzi": "实际结果",
+      "pinyin": "shíjì jiéguǒ",
+      "english_answers": [
+        "actual result"
+      ],
+      "english_gloss": "actual result"
+    },
+    {
+      "hanzi": "排查",
+      "pinyin": "páichá",
+      "english_answers": [
+        "investigate",
+        "troubleshoot"
+      ],
+      "english_gloss": "investigate / troubleshoot"
+    },
+    {
+      "hanzi": "根本原因",
+      "pinyin": "gēnběn yuányīn",
+      "english_answers": [
+        "root cause"
+      ],
+      "english_gloss": "root cause"
+    },
+    {
+      "hanzi": "临时解决方案",
+      "pinyin": "línshí jiějué fāngàn",
+      "english_answers": [
+        "workaround"
+      ],
+      "english_gloss": "workaround"
+    },
+    {
+      "hanzi": "修复",
+      "pinyin": "xiūfù",
+      "english_answers": [
+        "fix",
+        "repair"
+      ],
+      "english_gloss": "fix / repair"
+    },
+    {
+      "hanzi": "回归测试",
+      "pinyin": "huíguī cèshì",
+      "english_answers": [
+        "regression testing"
+      ],
+      "english_gloss": "regression testing"
+    },
+    {
+      "hanzi": "上线",
+      "pinyin": "shàngxiàn",
+      "english_answers": [
+        "go live",
+        "launch"
+      ],
+      "english_gloss": "go live / launch"
+    },
+    {
+      "hanzi": "回滚",
+      "pinyin": "huígǔn",
+      "english_answers": [
+        "roll back"
+      ],
+      "english_gloss": "roll back"
+    },
+    {
+      "hanzi": "验收",
+      "pinyin": "yànshōu",
+      "english_answers": [
+        "accept",
+        "sign off on delivery"
+      ],
+      "english_gloss": "accept / sign off on delivery"
+    },
+    {
+      "hanzi": "办公",
+      "pinyin": "bàngōng",
+      "english_answers": [
+        "office work"
+      ],
+      "english_gloss": "office work"
+    },
+    {
+      "hanzi": "居家办公",
+      "pinyin": "jūjiā bàngōng",
+      "english_answers": [
+        "work from home"
+      ],
+      "english_gloss": "work from home"
+    },
+    {
+      "hanzi": "混合办公",
+      "pinyin": "hùnhé bàngōng",
+      "english_answers": [
+        "hybrid work"
+      ],
+      "english_gloss": "hybrid work"
+    },
+    {
+      "hanzi": "出勤",
+      "pinyin": "chūqín",
+      "english_answers": [
+        "attendance at work"
+      ],
+      "english_gloss": "attendance at work"
+    },
+    {
+      "hanzi": "请假",
+      "pinyin": "qǐngjià",
+      "english_answers": [
+        "request leave"
+      ],
+      "english_gloss": "request leave"
+    },
+    {
+      "hanzi": "病假",
+      "pinyin": "bìngjià",
+      "english_answers": [
+        "sick leave"
+      ],
+      "english_gloss": "sick leave"
+    },
+    {
+      "hanzi": "休假",
+      "pinyin": "xiūjià",
+      "english_answers": [
+        "take vacation",
+        "time off"
+      ],
+      "english_gloss": "take vacation / time off"
+    },
+    {
+      "hanzi": "加班",
+      "pinyin": "jiābān",
+      "english_answers": [
+        "work overtime"
+      ],
+      "english_gloss": "work overtime"
+    },
+    {
+      "hanzi": "调休",
+      "pinyin": "tiáoxiū",
+      "english_answers": [
+        "compensatory time off"
+      ],
+      "english_gloss": "compensatory time off"
+    },
+    {
+      "hanzi": "工作时间",
+      "pinyin": "gōngzuò shíjiān",
+      "english_answers": [
+        "working hours"
+      ],
+      "english_gloss": "working hours"
+    },
+    {
+      "hanzi": "工时",
+      "pinyin": "gōngshí",
+      "english_answers": [
+        "hours worked"
+      ],
+      "english_gloss": "hours worked"
+    },
+    {
+      "hanzi": "工作效率",
+      "pinyin": "gōngzuò xiàolǜ",
+      "english_answers": [
+        "work efficiency"
+      ],
+      "english_gloss": "work efficiency"
+    },
+    {
+      "hanzi": "绩效",
+      "pinyin": "jìxiào",
+      "english_answers": [
+        "performance"
+      ],
+      "english_gloss": "performance"
+    },
+    {
+      "hanzi": "绩效评估",
+      "pinyin": "jìxiào pínggū",
+      "english_answers": [
+        "performance review"
+      ],
+      "english_gloss": "performance review"
+    },
+    {
+      "hanzi": "职业发展",
+      "pinyin": "zhíyè fāzhǎn",
+      "english_answers": [
+        "career development"
+      ],
+      "english_gloss": "career development"
+    },
+    {
+      "hanzi": "技能提升",
+      "pinyin": "jìnéng tíshēng",
+      "english_answers": [
+        "skill development"
+      ],
+      "english_gloss": "skill development"
+    },
+    {
+      "hanzi": "培训",
+      "pinyin": "péixùn",
+      "english_answers": [
+        "training"
+      ],
+      "english_gloss": "training"
+    },
+    {
+      "hanzi": "招聘",
+      "pinyin": "zhāopìn",
+      "english_answers": [
+        "recruitment",
+        "hiring"
+      ],
+      "english_gloss": "recruitment / hiring"
+    },
+    {
+      "hanzi": "面试",
+      "pinyin": "miànshì",
+      "english_answers": [
+        "job interview"
+      ],
+      "english_gloss": "job interview"
+    },
+    {
+      "hanzi": "入职",
+      "pinyin": "rùzhí",
+      "english_answers": [
+        "onboarding",
+        "join a company"
+      ],
+      "english_gloss": "onboarding / join a company"
+    }
+  ]
+}

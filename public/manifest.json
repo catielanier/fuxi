@@ -1,0 +1,259 @@
+ {
+  "schema_version": 2,
+  "content_version": "1.0.0",
+  "total_cards": 2800,
+  "decks": [
+    {
+      "id": "general_I",
+      "filename": "decks/general_I.json",
+      "title": "General Vocabulary I",
+      "category": "general",
+      "part": 1,
+      "cards": 100,
+      "description": "Everyday Mandarin vocabulary and practical expressions."
+    },
+    {
+      "id": "general_II",
+      "filename": "decks/general_II.json",
+      "title": "General Vocabulary II",
+      "category": "general",
+      "part": 2,
+      "cards": 100,
+      "description": "Additional everyday words and common expressions."
+    },
+    {
+      "id": "general_III",
+      "filename": "decks/general_III.json",
+      "title": "General Vocabulary III",
+      "category": "general",
+      "part": 3,
+      "cards": 100,
+      "description": "Expanding practical vocabulary for everyday situations."
+    },
+    {
+      "id": "general_IV",
+      "filename": "decks/general_IV.json",
+      "title": "General Vocabulary IV",
+      "category": "general",
+      "part": 4,
+      "cards": 100,
+      "description": "Further everyday vocabulary and useful expressions."
+    },
+    {
+      "id": "food_I",
+      "filename": "decks/food_I.json",
+      "title": "Food & Dining I",
+      "category": "food",
+      "part": 1,
+      "cards": 100,
+      "description": "Foods, ingredients, restaurants and ordering meals."
+    },
+    {
+      "id": "food_II",
+      "filename": "decks/food_II.json",
+      "title": "Food & Dining II",
+      "category": "food",
+      "part": 2,
+      "cards": 100,
+      "description": "Cooking, dining and additional food-related vocabulary."
+    },
+    {
+      "id": "food_III",
+      "filename": "decks/food_III.json",
+      "title": "Food & Dining III",
+      "category": "food",
+      "part": 3,
+      "cards": 100,
+      "description": "Restaurant chains, tableware, containers and dining vocabulary."
+    },
+    {
+      "id": "beauty_I",
+      "filename": "decks/beauty_I.json",
+      "title": "Beauty I: Makeup & Skincare",
+      "category": "beauty",
+      "part": 1,
+      "cards": 100,
+      "description": "Cosmetics, makeup application and skincare products."
+    },
+    {
+      "id": "beauty_II",
+      "filename": "decks/beauty_II.json",
+      "title": "Beauty II: Hair, Nails & Body Care",
+      "category": "beauty",
+      "part": 2,
+      "cards": 100,
+      "description": "Hair salons, hairstyles, manicures and personal care."
+    },
+    {
+      "id": "clothes_I",
+      "filename": "decks/clothes_I.json",
+      "title": "Clothing I: Clothes & Shopping",
+      "category": "clothes",
+      "part": 1,
+      "cards": 100,
+      "description": "Clothing, shoes, sizes, colours and shopping."
+    },
+    {
+      "id": "clothes_II",
+      "filename": "decks/clothes_II.json",
+      "title": "Clothing II: Fit & Style",
+      "category": "clothes",
+      "part": 2,
+      "cards": 100,
+      "description": "Women's clothing, tailoring, measurements and fashion."
+    },
+    {
+      "id": "clothes_III",
+      "filename": "decks/clothes_III.json",
+      "title": "Clothing III: Lingerie & Hosiery",
+      "category": "clothes",
+      "part": 3,
+      "cards": 100,
+      "description": "Lingerie, stockings, intimate apparel and feminine wardrobe."
+    },
+    {
+      "id": "hobbies_I",
+      "filename": "decks/hobbies_I.json",
+      "title": "Hobbies & Activities I",
+      "category": "hobbies",
+      "part": 1,
+      "cards": 100,
+      "description": "Leisure activities, recreation and personal interests."
+    },
+    {
+      "id": "hobbies_II",
+      "filename": "decks/hobbies_II.json",
+      "title": "Hobbies & Activities II",
+      "category": "hobbies",
+      "part": 2,
+      "cards": 100,
+      "description": "Additional hobbies, games, creative activities and recreation."
+    },
+    {
+      "id": "places_I",
+      "filename": "decks/places_I.json",
+      "title": "Places Around Town I",
+      "category": "places",
+      "part": 1,
+      "cards": 100,
+      "description": "Buildings, businesses, public places and city vocabulary."
+    },
+    {
+      "id": "places_II",
+      "filename": "decks/places_II.json",
+      "title": "Places Around Town II",
+      "category": "places",
+      "part": 2,
+      "cards": 100,
+      "description": "Transportation, directions, navigation and getting around."
+    },
+    {
+      "id": "medical_I",
+      "filename": "decks/medical_I.json",
+      "title": "Medical I: Body Parts",
+      "category": "medical",
+      "part": 1,
+      "cards": 100,
+      "description": "Body parts, anatomy and basic health terminology."
+    },
+    {
+      "id": "medical_II",
+      "filename": "decks/medical_II.json",
+      "title": "Medical II: Symptoms & Illnesses",
+      "category": "medical",
+      "part": 2,
+      "cards": 100,
+      "description": "Symptoms, illnesses, injuries and describing health problems."
+    },
+    {
+      "id": "medical_III",
+      "filename": "decks/medical_III.json",
+      "title": "Medical III: Healthcare & Treatment",
+      "category": "medical",
+      "part": 3,
+      "cards": 100,
+      "description": "Hospitals, appointments, medical tests and treatment."
+    },
+    {
+      "id": "lgbtq_I",
+      "filename": "decks/lgbtq_I.json",
+      "title": "LGBTQ+ I: Gender & Identity",
+      "category": "lgbtq",
+      "part": 1,
+      "cards": 100,
+      "description": "Gender identity, sexuality and LGBTQ+ vocabulary."
+    },
+    {
+      "id": "lgbtq_II",
+      "filename": "decks/lgbtq_II.json",
+      "title": "LGBTQ+ II: Relationships & Transition",
+      "category": "lgbtq",
+      "part": 2,
+      "cards": 100,
+      "description": "Relationships, coming out, transitioning and everyday experiences."
+    },
+    {
+      "id": "lgbtq_III",
+      "filename": "decks/lgbtq_III.json",
+      "title": "LGBTQ+ III: Intimacy & Sexual Health",
+      "category": "lgbtq",
+      "part": 3,
+      "cards": 100,
+      "description": "Intimacy, consent, sexual vocabulary and safer sex."
+    },
+    {
+      "id": "housing_I",
+      "filename": "decks/housing_I.json",
+      "title": "Housing I: Homes & Renting",
+      "category": "housing",
+      "part": 1,
+      "cards": 100,
+      "description": "Homes, apartments, furniture, landlords and renting."
+    },
+    {
+      "id": "housing_II",
+      "filename": "decks/housing_II.json",
+      "title": "Housing II: Housework & Repairs",
+      "category": "housing",
+      "part": 2,
+      "cards": 100,
+      "description": "Cleaning, household maintenance, repairs and utilities."
+    },
+    {
+      "id": "music_I",
+      "filename": "decks/music_I.json",
+      "title": "Music I: Instruments & Genres",
+      "category": "music",
+      "part": 1,
+      "cards": 100,
+      "description": "Musical instruments, genres, bands and performances."
+    },
+    {
+      "id": "music_II",
+      "filename": "decks/music_II.json",
+      "title": "Music II: Bass Guitar & Effects",
+      "category": "music",
+      "part": 2,
+      "cards": 100,
+      "description": "Bass guitar anatomy, techniques, amplifiers and effects pedals."
+    },
+    {
+      "id": "software_I",
+      "filename": "decks/software_I.json",
+      "title": "Software I: Programming & Web Development",
+      "category": "software",
+      "part": 1,
+      "cards": 100,
+      "description": "Programming, frontend, backend, databases and deployment."
+    },
+    {
+      "id": "software_II",
+      "filename": "decks/software_II.json",
+      "title": "Software II: Workplace Communication",
+      "category": "software",
+      "part": 2,
+      "cards": 100,
+      "description": "Meetings, planning, code reviews, coworkers and work communication."
+    }
+  ]
+}

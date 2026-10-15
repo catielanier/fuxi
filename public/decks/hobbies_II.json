@@ -1,0 +1,826 @@
+{
+  "id": "hobbies_II",
+  "title": "Hobbies Ii",
+  "language": "zh-Hans",
+  "source": "previously generated PDF",
+  "card_count": 100,
+  "cards": [
+    {
+      "hanzi": "一位",
+      "pinyin": "yī wèi",
+      "english_answers": [
+        "first position (ballet)"
+      ],
+      "english_gloss": "first position (ballet)"
+    },
+    {
+      "hanzi": "二位",
+      "pinyin": "èr wèi",
+      "english_answers": [
+        "second position (ballet)"
+      ],
+      "english_gloss": "second position (ballet)"
+    },
+    {
+      "hanzi": "五位",
+      "pinyin": "wǔ wèi",
+      "english_answers": [
+        "fifth position (ballet)"
+      ],
+      "english_gloss": "fifth position (ballet)"
+    },
+    {
+      "hanzi": "脚位",
+      "pinyin": "jiǎowèi",
+      "english_answers": [
+        "foot position"
+      ],
+      "english_gloss": "foot position"
+    },
+    {
+      "hanzi": "手位",
+      "pinyin": "shǒuwèi",
+      "english_answers": [
+        "arm position"
+      ],
+      "english_gloss": "arm position"
+    },
+    {
+      "hanzi": "外开",
+      "pinyin": "wàikāi",
+      "english_answers": [
+        "turnout"
+      ],
+      "english_gloss": "turnout"
+    },
+    {
+      "hanzi": "屈膝",
+      "pinyin": "qūxī",
+      "english_answers": [
+        "bend the knees"
+      ],
+      "english_gloss": "bend the knees"
+    },
+    {
+      "hanzi": "半蹲",
+      "pinyin": "bàndūn",
+      "english_answers": [
+        "demi-plié",
+        "half squat"
+      ],
+      "english_gloss": "demi-plié / half squat"
+    },
+    {
+      "hanzi": "全蹲",
+      "pinyin": "quándūn",
+      "english_answers": [
+        "grand plié",
+        "full squat"
+      ],
+      "english_gloss": "grand plié / full squat"
+    },
+    {
+      "hanzi": "立脚尖",
+      "pinyin": "lì jiǎojiān",
+      "english_answers": [
+        "rise onto the toes"
+      ],
+      "english_gloss": "rise onto the toes"
+    },
+    {
+      "hanzi": "重心",
+      "pinyin": "zhòngxīn",
+      "english_answers": [
+        "center of gravity"
+      ],
+      "english_gloss": "center of gravity"
+    },
+    {
+      "hanzi": "站稳",
+      "pinyin": "zhànwěn",
+      "english_answers": [
+        "stand steadily"
+      ],
+      "english_gloss": "stand steadily"
+    },
+    {
+      "hanzi": "抬腿",
+      "pinyin": "tái tuǐ",
+      "english_answers": [
+        "lift the leg"
+      ],
+      "english_gloss": "lift the leg"
+    },
+    {
+      "hanzi": "伸直",
+      "pinyin": "shēnzhí",
+      "english_answers": [
+        "straighten",
+        "extend"
+      ],
+      "english_gloss": "straighten / extend"
+    },
+    {
+      "hanzi": "脚背",
+      "pinyin": "jiǎobèi",
+      "english_answers": [
+        "instep",
+        "top of foot"
+      ],
+      "english_gloss": "instep / top of foot"
+    },
+    {
+      "hanzi": "下犬式",
+      "pinyin": "xiàquǎnshì",
+      "english_answers": [
+        "downward-facing dog"
+      ],
+      "english_gloss": "downward-facing dog"
+    },
+    {
+      "hanzi": "上犬式",
+      "pinyin": "shàngquǎnshì",
+      "english_answers": [
+        "upward-facing dog"
+      ],
+      "english_gloss": "upward-facing dog"
+    },
+    {
+      "hanzi": "树式",
+      "pinyin": "shùshì",
+      "english_answers": [
+        "tree pose"
+      ],
+      "english_gloss": "tree pose"
+    },
+    {
+      "hanzi": "战士式",
+      "pinyin": "zhànshìshì",
+      "english_answers": [
+        "warrior pose"
+      ],
+      "english_gloss": "warrior pose"
+    },
+    {
+      "hanzi": "猫牛式",
+      "pinyin": "māoniúshì",
+      "english_answers": [
+        "cat-cow pose"
+      ],
+      "english_gloss": "cat-cow pose"
+    },
+    {
+      "hanzi": "婴儿式",
+      "pinyin": "yīng'érshì",
+      "english_answers": [
+        "child's pose"
+      ],
+      "english_gloss": "child's pose"
+    },
+    {
+      "hanzi": "山式",
+      "pinyin": "shānshì",
+      "english_answers": [
+        "mountain pose"
+      ],
+      "english_gloss": "mountain pose"
+    },
+    {
+      "hanzi": "尸体式",
+      "pinyin": "shītǐshì",
+      "english_answers": [
+        "corpse pose",
+        "savasana"
+      ],
+      "english_gloss": "corpse pose / savasana"
+    },
+    {
+      "hanzi": "平板支撑",
+      "pinyin": "píngbǎn zhīchēng",
+      "english_answers": [
+        "plank"
+      ],
+      "english_gloss": "plank"
+    },
+    {
+      "hanzi": "吸气",
+      "pinyin": "xīqì",
+      "english_answers": [
+        "inhale"
+      ],
+      "english_gloss": "inhale"
+    },
+    {
+      "hanzi": "呼气",
+      "pinyin": "hūqì",
+      "english_answers": [
+        "exhale"
+      ],
+      "english_gloss": "exhale"
+    },
+    {
+      "hanzi": "保持",
+      "pinyin": "bǎochí",
+      "english_answers": [
+        "maintain",
+        "hold"
+      ],
+      "english_gloss": "maintain / hold"
+    },
+    {
+      "hanzi": "收紧腹部",
+      "pinyin": "shōujǐn fùbù",
+      "english_answers": [
+        "engage the abdomen"
+      ],
+      "english_gloss": "engage the abdomen"
+    },
+    {
+      "hanzi": "慢慢来",
+      "pinyin": "mànmàn lái",
+      "english_answers": [
+        "take it slowly"
+      ],
+      "english_gloss": "take it slowly"
+    },
+    {
+      "hanzi": "不要勉强",
+      "pinyin": "bú yào miǎnqiǎng",
+      "english_answers": [
+        "don't force yourself"
+      ],
+      "english_gloss": "don't force yourself"
+    },
+    {
+      "hanzi": "对局",
+      "pinyin": "duìjú",
+      "english_answers": [
+        "game",
+        "match between players"
+      ],
+      "english_gloss": "game / match between players"
+    },
+    {
+      "hanzi": "匹配",
+      "pinyin": "pǐpèi",
+      "english_answers": [
+        "matchmaking"
+      ],
+      "english_gloss": "matchmaking"
+    },
+    {
+      "hanzi": "段位",
+      "pinyin": "duànwèi",
+      "english_answers": [
+        "competitive rank",
+        "tier"
+      ],
+      "english_gloss": "competitive rank / tier"
+    },
+    {
+      "hanzi": "排位赛",
+      "pinyin": "páiwèisài",
+      "english_answers": [
+        "ranked match"
+      ],
+      "english_gloss": "ranked match"
+    },
+    {
+      "hanzi": "胜率",
+      "pinyin": "shènglǜ",
+      "english_answers": [
+        "win rate"
+      ],
+      "english_gloss": "win rate"
+    },
+    {
+      "hanzi": "连胜",
+      "pinyin": "liánshèng",
+      "english_answers": [
+        "winning streak"
+      ],
+      "english_gloss": "winning streak"
+    },
+    {
+      "hanzi": "逆转",
+      "pinyin": "nìzhuǎn",
+      "english_answers": [
+        "comeback",
+        "reversal"
+      ],
+      "english_gloss": "comeback / reversal"
+    },
+    {
+      "hanzi": "破防",
+      "pinyin": "pòfáng",
+      "english_answers": [
+        "guard break"
+      ],
+      "english_gloss": "guard break"
+    },
+    {
+      "hanzi": "投技",
+      "pinyin": "tóujì",
+      "english_answers": [
+        "throw move"
+      ],
+      "english_gloss": "throw move"
+    },
+    {
+      "hanzi": "取消",
+      "pinyin": "qǔxiāo",
+      "english_answers": [
+        "cancel (a move/action)"
+      ],
+      "english_gloss": "cancel (a move/action)"
+    },
+    {
+      "hanzi": "硬直",
+      "pinyin": "yìngzhí",
+      "english_answers": [
+        "recovery",
+        "stun frames"
+      ],
+      "english_gloss": "recovery / stun frames"
+    },
+    {
+      "hanzi": "无敌帧",
+      "pinyin": "wúdí zhēn",
+      "english_answers": [
+        "invincibility frames"
+      ],
+      "english_gloss": "invincibility frames"
+    },
+    {
+      "hanzi": "压制",
+      "pinyin": "yāzhì",
+      "english_answers": [
+        "pressure",
+        "suppress an opponent"
+      ],
+      "english_gloss": "pressure / suppress an opponent"
+    },
+    {
+      "hanzi": "择",
+      "pinyin": "zé",
+      "english_answers": [
+        "mix-up",
+        "offensive choice"
+      ],
+      "english_gloss": "mix-up / offensive choice"
+    },
+    {
+      "hanzi": "复盘",
+      "pinyin": "fùpán",
+      "english_answers": [
+        "review a match afterward"
+      ],
+      "english_gloss": "review a match afterward"
+    },
+    {
+      "hanzi": "底池",
+      "pinyin": "dǐchí",
+      "english_answers": [
+        "pot"
+      ],
+      "english_gloss": "pot"
+    },
+    {
+      "hanzi": "盲注",
+      "pinyin": "mángzhù",
+      "english_answers": [
+        "blind bet"
+      ],
+      "english_gloss": "blind bet"
+    },
+    {
+      "hanzi": "大盲",
+      "pinyin": "dàmáng",
+      "english_answers": [
+        "big blind"
+      ],
+      "english_gloss": "big blind"
+    },
+    {
+      "hanzi": "小盲",
+      "pinyin": "xiǎománg",
+      "english_answers": [
+        "small blind"
+      ],
+      "english_gloss": "small blind"
+    },
+    {
+      "hanzi": "翻牌",
+      "pinyin": "fānpái",
+      "english_answers": [
+        "flop"
+      ],
+      "english_gloss": "flop"
+    },
+    {
+      "hanzi": "转牌",
+      "pinyin": "zhuǎnpái",
+      "english_answers": [
+        "turn card"
+      ],
+      "english_gloss": "turn card"
+    },
+    {
+      "hanzi": "河牌",
+      "pinyin": "hépái",
+      "english_answers": [
+        "river card"
+      ],
+      "english_gloss": "river card"
+    },
+    {
+      "hanzi": "跟注",
+      "pinyin": "gēnzhù",
+      "english_answers": [
+        "call"
+      ],
+      "english_gloss": "call"
+    },
+    {
+      "hanzi": "加注",
+      "pinyin": "jiāzhù",
+      "english_answers": [
+        "raise"
+      ],
+      "english_gloss": "raise"
+    },
+    {
+      "hanzi": "弃牌",
+      "pinyin": "qìpái",
+      "english_answers": [
+        "fold"
+      ],
+      "english_gloss": "fold"
+    },
+    {
+      "hanzi": "冰球杆",
+      "pinyin": "bīngqiúgān",
+      "english_answers": [
+        "hockey stick"
+      ],
+      "english_gloss": "hockey stick"
+    },
+    {
+      "hanzi": "冰球场",
+      "pinyin": "bīngqiúchǎng",
+      "english_answers": [
+        "ice hockey rink"
+      ],
+      "english_gloss": "ice hockey rink"
+    },
+    {
+      "hanzi": "前锋",
+      "pinyin": "qiánfēng",
+      "english_answers": [
+        "forward"
+      ],
+      "english_gloss": "forward"
+    },
+    {
+      "hanzi": "后卫",
+      "pinyin": "hòuwèi",
+      "english_answers": [
+        "defenseman"
+      ],
+      "english_gloss": "defenseman"
+    },
+    {
+      "hanzi": "射门",
+      "pinyin": "shèmén",
+      "english_answers": [
+        "shoot at goal"
+      ],
+      "english_gloss": "shoot at goal"
+    },
+    {
+      "hanzi": "传球",
+      "pinyin": "chuánqiú",
+      "english_answers": [
+        "pass the puck"
+      ],
+      "english_gloss": "pass the puck"
+    },
+    {
+      "hanzi": "进球",
+      "pinyin": "jìnqiú",
+      "english_answers": [
+        "score a goal"
+      ],
+      "english_gloss": "score a goal"
+    },
+    {
+      "hanzi": "加时赛",
+      "pinyin": "jiāshísài",
+      "english_answers": [
+        "overtime"
+      ],
+      "english_gloss": "overtime"
+    },
+    {
+      "hanzi": "罚球",
+      "pinyin": "fáqiú",
+      "english_answers": [
+        "penalty shot"
+      ],
+      "english_gloss": "penalty shot"
+    },
+    {
+      "hanzi": "季后赛",
+      "pinyin": "jìhòusài",
+      "english_answers": [
+        "playoffs"
+      ],
+      "english_gloss": "playoffs"
+    },
+    {
+      "hanzi": "相机",
+      "pinyin": "xiàngjī",
+      "english_answers": [
+        "camera"
+      ],
+      "english_gloss": "camera"
+    },
+    {
+      "hanzi": "镜头",
+      "pinyin": "jìngtóu",
+      "english_answers": [
+        "camera lens"
+      ],
+      "english_gloss": "camera lens"
+    },
+    {
+      "hanzi": "快门",
+      "pinyin": "kuàimén",
+      "english_answers": [
+        "shutter"
+      ],
+      "english_gloss": "shutter"
+    },
+    {
+      "hanzi": "光圈",
+      "pinyin": "guāngquān",
+      "english_answers": [
+        "aperture"
+      ],
+      "english_gloss": "aperture"
+    },
+    {
+      "hanzi": "曝光",
+      "pinyin": "pùguāng",
+      "english_answers": [
+        "exposure"
+      ],
+      "english_gloss": "exposure"
+    },
+    {
+      "hanzi": "对焦",
+      "pinyin": "duìjiāo",
+      "english_answers": [
+        "focus (a camera)"
+      ],
+      "english_gloss": "focus (a camera)"
+    },
+    {
+      "hanzi": "构图",
+      "pinyin": "gòutú",
+      "english_answers": [
+        "composition"
+      ],
+      "english_gloss": "composition"
+    },
+    {
+      "hanzi": "自拍",
+      "pinyin": "zìpāi",
+      "english_answers": [
+        "take a selfie"
+      ],
+      "english_gloss": "take a selfie"
+    },
+    {
+      "hanzi": "修图",
+      "pinyin": "xiūtú",
+      "english_answers": [
+        "edit",
+        "retouch photographs"
+      ],
+      "english_gloss": "edit / retouch photographs"
+    },
+    {
+      "hanzi": "剪辑",
+      "pinyin": "jiǎnjí",
+      "english_answers": [
+        "edit video",
+        "film"
+      ],
+      "english_gloss": "edit video / film"
+    },
+    {
+      "hanzi": "烘焙",
+      "pinyin": "hōngbèi",
+      "english_answers": [
+        "baking"
+      ],
+      "english_gloss": "baking"
+    },
+    {
+      "hanzi": "编织",
+      "pinyin": "biānzhī",
+      "english_answers": [
+        "knitting",
+        "weaving"
+      ],
+      "english_gloss": "knitting / weaving"
+    },
+    {
+      "hanzi": "钩针编织",
+      "pinyin": "gōuzhēn biānzhī",
+      "english_answers": [
+        "crochet"
+      ],
+      "english_gloss": "crochet"
+    },
+    {
+      "hanzi": "缝纫",
+      "pinyin": "féngrèn",
+      "english_answers": [
+        "sewing"
+      ],
+      "english_gloss": "sewing"
+    },
+    {
+      "hanzi": "陶艺",
+      "pinyin": "táoyì",
+      "english_answers": [
+        "pottery",
+        "ceramic art"
+      ],
+      "english_gloss": "pottery / ceramic art"
+    },
+    {
+      "hanzi": "书法",
+      "pinyin": "shūfǎ",
+      "english_answers": [
+        "calligraphy"
+      ],
+      "english_gloss": "calligraphy"
+    },
+    {
+      "hanzi": "拼图",
+      "pinyin": "pīntú",
+      "english_answers": [
+        "jigsaw puzzle"
+      ],
+      "english_gloss": "jigsaw puzzle"
+    },
+    {
+      "hanzi": "桌游",
+      "pinyin": "zhuōyóu",
+      "english_answers": [
+        "tabletop games"
+      ],
+      "english_gloss": "tabletop games"
+    },
+    {
+      "hanzi": "集邮",
+      "pinyin": "jíyóu",
+      "english_answers": [
+        "stamp collecting"
+      ],
+      "english_gloss": "stamp collecting"
+    },
+    {
+      "hanzi": "观鸟",
+      "pinyin": "guānniǎo",
+      "english_answers": [
+        "birdwatching"
+      ],
+      "english_gloss": "birdwatching"
+    },
+    {
+      "hanzi": "天文",
+      "pinyin": "tiānwén",
+      "english_answers": [
+        "astronomy"
+      ],
+      "english_gloss": "astronomy"
+    },
+    {
+      "hanzi": "观星",
+      "pinyin": "guānxīng",
+      "english_answers": [
+        "stargazing"
+      ],
+      "english_gloss": "stargazing"
+    },
+    {
+      "hanzi": "攀岩",
+      "pinyin": "pānyán",
+      "english_answers": [
+        "rock climbing"
+      ],
+      "english_gloss": "rock climbing"
+    },
+    {
+      "hanzi": "滑雪",
+      "pinyin": "huáxuě",
+      "english_answers": [
+        "skiing"
+      ],
+      "english_gloss": "skiing"
+    },
+    {
+      "hanzi": "滑冰",
+      "pinyin": "huábīng",
+      "english_answers": [
+        "ice skating"
+      ],
+      "english_gloss": "ice skating"
+    },
+    {
+      "hanzi": "潜水",
+      "pinyin": "qiánshuǐ",
+      "english_answers": [
+        "diving"
+      ],
+      "english_gloss": "diving"
+    },
+    {
+      "hanzi": "冲浪",
+      "pinyin": "chōnglàng",
+      "english_answers": [
+        "surfing"
+      ],
+      "english_gloss": "surfing"
+    },
+    {
+      "hanzi": "钓鱼",
+      "pinyin": "diàoyú",
+      "english_answers": [
+        "fishing"
+      ],
+      "english_gloss": "fishing"
+    },
+    {
+      "hanzi": "养花",
+      "pinyin": "yǎnghuā",
+      "english_answers": [
+        "grow flowers"
+      ],
+      "english_gloss": "grow flowers"
+    },
+    {
+      "hanzi": "做模型",
+      "pinyin": "zuò móxíng",
+      "english_answers": [
+        "build models",
+        "miniatures"
+      ],
+      "english_gloss": "build models / miniatures"
+    },
+    {
+      "hanzi": "木工",
+      "pinyin": "mùgōng",
+      "english_answers": [
+        "woodworking"
+      ],
+      "english_gloss": "woodworking"
+    },
+    {
+      "hanzi": "写小说",
+      "pinyin": "xiě xiǎoshuō",
+      "english_answers": [
+        "write fiction"
+      ],
+      "english_gloss": "write fiction"
+    },
+    {
+      "hanzi": "写日记",
+      "pinyin": "xiě rìjì",
+      "english_answers": [
+        "keep a diary"
+      ],
+      "english_gloss": "keep a diary"
+    },
+    {
+      "hanzi": "骑马",
+      "pinyin": "qí mǎ",
+      "english_answers": [
+        "horseback riding"
+      ],
+      "english_gloss": "horseback riding"
+    },
+    {
+      "hanzi": "志愿服务",
+      "pinyin": "zhìyuàn fúwù",
+      "english_answers": [
+        "volunteering"
+      ],
+      "english_gloss": "volunteering"
+    }
+  ]
+}

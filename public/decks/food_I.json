@@ -1,0 +1,825 @@
+{
+  "id": "food_I",
+  "title": "Food I",
+  "language": "zh-Hans",
+  "source": "original saved flashcards",
+  "card_count": 100,
+  "cards": [
+    {
+      "hanzi": "米饭",
+      "pinyin": "mǐfàn",
+      "english_answers": [
+        "cooked rice"
+      ],
+      "english_gloss": "cooked rice"
+    },
+    {
+      "hanzi": "面条",
+      "pinyin": "miàntiáo",
+      "english_answers": [
+        "noodles"
+      ],
+      "english_gloss": "noodles"
+    },
+    {
+      "hanzi": "馒头",
+      "pinyin": "mántou",
+      "english_answers": [
+        "steamed bun"
+      ],
+      "english_gloss": "steamed bun"
+    },
+    {
+      "hanzi": "包子",
+      "pinyin": "bāozi",
+      "english_answers": [
+        "stuffed steamed bun"
+      ],
+      "english_gloss": "stuffed steamed bun"
+    },
+    {
+      "hanzi": "饺子",
+      "pinyin": "jiǎozi",
+      "english_answers": [
+        "dumplings"
+      ],
+      "english_gloss": "dumplings"
+    },
+    {
+      "hanzi": "粥",
+      "pinyin": "zhōu",
+      "english_answers": [
+        "rice porridge",
+        "congee"
+      ],
+      "english_gloss": "rice porridge / congee"
+    },
+    {
+      "hanzi": "炒饭",
+      "pinyin": "chǎofàn",
+      "english_answers": [
+        "fried rice"
+      ],
+      "english_gloss": "fried rice"
+    },
+    {
+      "hanzi": "炒面",
+      "pinyin": "chǎomiàn",
+      "english_answers": [
+        "fried noodles"
+      ],
+      "english_gloss": "fried noodles"
+    },
+    {
+      "hanzi": "汤",
+      "pinyin": "tāng",
+      "english_answers": [
+        "soup"
+      ],
+      "english_gloss": "soup"
+    },
+    {
+      "hanzi": "面包",
+      "pinyin": "miànbāo",
+      "english_answers": [
+        "bread"
+      ],
+      "english_gloss": "bread"
+    },
+    {
+      "hanzi": "牛肉",
+      "pinyin": "niúròu",
+      "english_answers": [
+        "beef"
+      ],
+      "english_gloss": "beef"
+    },
+    {
+      "hanzi": "猪肉",
+      "pinyin": "zhūròu",
+      "english_answers": [
+        "pork"
+      ],
+      "english_gloss": "pork"
+    },
+    {
+      "hanzi": "鸡肉",
+      "pinyin": "jīròu",
+      "english_answers": [
+        "chicken"
+      ],
+      "english_gloss": "chicken"
+    },
+    {
+      "hanzi": "羊肉",
+      "pinyin": "yángròu",
+      "english_answers": [
+        "lamb",
+        "mutton"
+      ],
+      "english_gloss": "lamb / mutton"
+    },
+    {
+      "hanzi": "鸭肉",
+      "pinyin": "yāròu",
+      "english_answers": [
+        "duck meat"
+      ],
+      "english_gloss": "duck meat"
+    },
+    {
+      "hanzi": "火腿",
+      "pinyin": "huǒtuǐ",
+      "english_answers": [
+        "ham"
+      ],
+      "english_gloss": "ham"
+    },
+    {
+      "hanzi": "香肠",
+      "pinyin": "xiāngcháng",
+      "english_answers": [
+        "sausage"
+      ],
+      "english_gloss": "sausage"
+    },
+    {
+      "hanzi": "培根",
+      "pinyin": "péigēn",
+      "english_answers": [
+        "bacon"
+      ],
+      "english_gloss": "bacon"
+    },
+    {
+      "hanzi": "肉馅",
+      "pinyin": "ròuxiàn",
+      "english_answers": [
+        "ground/minced meat filling"
+      ],
+      "english_gloss": "ground/minced meat filling"
+    },
+    {
+      "hanzi": "鸡蛋",
+      "pinyin": "jīdàn",
+      "english_answers": [
+        "egg"
+      ],
+      "english_gloss": "egg"
+    },
+    {
+      "hanzi": "鱼",
+      "pinyin": "yú",
+      "english_answers": [
+        "fish"
+      ],
+      "english_gloss": "fish"
+    },
+    {
+      "hanzi": "虾",
+      "pinyin": "xiā",
+      "english_answers": [
+        "shrimp",
+        "prawn"
+      ],
+      "english_gloss": "shrimp / prawn"
+    },
+    {
+      "hanzi": "螃蟹",
+      "pinyin": "pángxiè",
+      "english_answers": [
+        "crab"
+      ],
+      "english_gloss": "crab"
+    },
+    {
+      "hanzi": "蛤蜊",
+      "pinyin": "gélí",
+      "english_answers": [
+        "clam"
+      ],
+      "english_gloss": "clam"
+    },
+    {
+      "hanzi": "牡蛎",
+      "pinyin": "mǔlì",
+      "english_answers": [
+        "oyster"
+      ],
+      "english_gloss": "oyster"
+    },
+    {
+      "hanzi": "鱿鱼",
+      "pinyin": "yóuyú",
+      "english_answers": [
+        "squid"
+      ],
+      "english_gloss": "squid"
+    },
+    {
+      "hanzi": "章鱼",
+      "pinyin": "zhāngyú",
+      "english_answers": [
+        "octopus"
+      ],
+      "english_gloss": "octopus"
+    },
+    {
+      "hanzi": "海鲜",
+      "pinyin": "hǎixiān",
+      "english_answers": [
+        "seafood"
+      ],
+      "english_gloss": "seafood"
+    },
+    {
+      "hanzi": "三文鱼",
+      "pinyin": "sānwényú",
+      "english_answers": [
+        "salmon"
+      ],
+      "english_gloss": "salmon"
+    },
+    {
+      "hanzi": "金枪鱼",
+      "pinyin": "jīnqiāngyú",
+      "english_answers": [
+        "tuna"
+      ],
+      "english_gloss": "tuna"
+    },
+    {
+      "hanzi": "白菜",
+      "pinyin": "báicài",
+      "english_answers": [
+        "Chinese cabbage"
+      ],
+      "english_gloss": "Chinese cabbage"
+    },
+    {
+      "hanzi": "卷心菜",
+      "pinyin": "juǎnxīncài",
+      "english_answers": [
+        "cabbage"
+      ],
+      "english_gloss": "cabbage"
+    },
+    {
+      "hanzi": "生菜",
+      "pinyin": "shēngcài",
+      "english_answers": [
+        "lettuce"
+      ],
+      "english_gloss": "lettuce"
+    },
+    {
+      "hanzi": "菠菜",
+      "pinyin": "bōcài",
+      "english_answers": [
+        "spinach"
+      ],
+      "english_gloss": "spinach"
+    },
+    {
+      "hanzi": "西兰花",
+      "pinyin": "xīlánhuā",
+      "english_answers": [
+        "broccoli"
+      ],
+      "english_gloss": "broccoli"
+    },
+    {
+      "hanzi": "花菜",
+      "pinyin": "huācài",
+      "english_answers": [
+        "cauliflower"
+      ],
+      "english_gloss": "cauliflower"
+    },
+    {
+      "hanzi": "土豆",
+      "pinyin": "tǔdòu",
+      "english_answers": [
+        "potato"
+      ],
+      "english_gloss": "potato"
+    },
+    {
+      "hanzi": "红薯",
+      "pinyin": "hóngshǔ",
+      "english_answers": [
+        "sweet potato"
+      ],
+      "english_gloss": "sweet potato"
+    },
+    {
+      "hanzi": "胡萝卜",
+      "pinyin": "húluóbo",
+      "english_answers": [
+        "carrot"
+      ],
+      "english_gloss": "carrot"
+    },
+    {
+      "hanzi": "洋葱",
+      "pinyin": "yángcōng",
+      "english_answers": [
+        "onion"
+      ],
+      "english_gloss": "onion"
+    },
+    {
+      "hanzi": "大蒜",
+      "pinyin": "dàsuàn",
+      "english_answers": [
+        "garlic"
+      ],
+      "english_gloss": "garlic"
+    },
+    {
+      "hanzi": "姜",
+      "pinyin": "jiāng",
+      "english_answers": [
+        "ginger"
+      ],
+      "english_gloss": "ginger"
+    },
+    {
+      "hanzi": "黄瓜",
+      "pinyin": "huángguā",
+      "english_answers": [
+        "cucumber"
+      ],
+      "english_gloss": "cucumber"
+    },
+    {
+      "hanzi": "西红柿",
+      "pinyin": "xīhóngshì",
+      "english_answers": [
+        "tomato"
+      ],
+      "english_gloss": "tomato"
+    },
+    {
+      "hanzi": "茄子",
+      "pinyin": "qiézi",
+      "english_answers": [
+        "eggplant"
+      ],
+      "english_gloss": "eggplant"
+    },
+    {
+      "hanzi": "青椒",
+      "pinyin": "qīngjiāo",
+      "english_answers": [
+        "green pepper"
+      ],
+      "english_gloss": "green pepper"
+    },
+    {
+      "hanzi": "辣椒",
+      "pinyin": "làjiāo",
+      "english_answers": [
+        "chili pepper"
+      ],
+      "english_gloss": "chili pepper"
+    },
+    {
+      "hanzi": "蘑菇",
+      "pinyin": "mógu",
+      "english_answers": [
+        "mushroom"
+      ],
+      "english_gloss": "mushroom"
+    },
+    {
+      "hanzi": "玉米",
+      "pinyin": "yùmǐ",
+      "english_answers": [
+        "corn"
+      ],
+      "english_gloss": "corn"
+    },
+    {
+      "hanzi": "豆腐",
+      "pinyin": "dòufu",
+      "english_answers": [
+        "tofu"
+      ],
+      "english_gloss": "tofu"
+    },
+    {
+      "hanzi": "苹果",
+      "pinyin": "píngguǒ",
+      "english_answers": [
+        "apple"
+      ],
+      "english_gloss": "apple"
+    },
+    {
+      "hanzi": "香蕉",
+      "pinyin": "xiāngjiāo",
+      "english_answers": [
+        "banana"
+      ],
+      "english_gloss": "banana"
+    },
+    {
+      "hanzi": "橙子",
+      "pinyin": "chéngzi",
+      "english_answers": [
+        "orange"
+      ],
+      "english_gloss": "orange"
+    },
+    {
+      "hanzi": "橘子",
+      "pinyin": "júzi",
+      "english_answers": [
+        "mandarin orange",
+        "tangerine"
+      ],
+      "english_gloss": "mandarin orange / tangerine"
+    },
+    {
+      "hanzi": "葡萄",
+      "pinyin": "pútao",
+      "english_answers": [
+        "grapes"
+      ],
+      "english_gloss": "grapes"
+    },
+    {
+      "hanzi": "西瓜",
+      "pinyin": "xīguā",
+      "english_answers": [
+        "watermelon"
+      ],
+      "english_gloss": "watermelon"
+    },
+    {
+      "hanzi": "草莓",
+      "pinyin": "cǎoméi",
+      "english_answers": [
+        "strawberry"
+      ],
+      "english_gloss": "strawberry"
+    },
+    {
+      "hanzi": "蓝莓",
+      "pinyin": "lánméi",
+      "english_answers": [
+        "blueberry"
+      ],
+      "english_gloss": "blueberry"
+    },
+    {
+      "hanzi": "桃子",
+      "pinyin": "táozi",
+      "english_answers": [
+        "peach"
+      ],
+      "english_gloss": "peach"
+    },
+    {
+      "hanzi": "梨",
+      "pinyin": "lí",
+      "english_answers": [
+        "pear"
+      ],
+      "english_gloss": "pear"
+    },
+    {
+      "hanzi": "芒果",
+      "pinyin": "mángguǒ",
+      "english_answers": [
+        "mango"
+      ],
+      "english_gloss": "mango"
+    },
+    {
+      "hanzi": "菠萝",
+      "pinyin": "bōluó",
+      "english_answers": [
+        "pineapple"
+      ],
+      "english_gloss": "pineapple"
+    },
+    {
+      "hanzi": "柠檬",
+      "pinyin": "níngméng",
+      "english_answers": [
+        "lemon"
+      ],
+      "english_gloss": "lemon"
+    },
+    {
+      "hanzi": "樱桃",
+      "pinyin": "yīngtáo",
+      "english_answers": [
+        "cherry"
+      ],
+      "english_gloss": "cherry"
+    },
+    {
+      "hanzi": "水果",
+      "pinyin": "shuǐguǒ",
+      "english_answers": [
+        "fruit"
+      ],
+      "english_gloss": "fruit"
+    },
+    {
+      "hanzi": "蔬菜",
+      "pinyin": "shūcài",
+      "english_answers": [
+        "vegetables"
+      ],
+      "english_gloss": "vegetables"
+    },
+    {
+      "hanzi": "甜",
+      "pinyin": "tián",
+      "english_answers": [
+        "sweet"
+      ],
+      "english_gloss": "sweet"
+    },
+    {
+      "hanzi": "咸",
+      "pinyin": "xián",
+      "english_answers": [
+        "salty"
+      ],
+      "english_gloss": "salty"
+    },
+    {
+      "hanzi": "酸",
+      "pinyin": "suān",
+      "english_answers": [
+        "sour"
+      ],
+      "english_gloss": "sour"
+    },
+    {
+      "hanzi": "辣",
+      "pinyin": "là",
+      "english_answers": [
+        "spicy",
+        "hot"
+      ],
+      "english_gloss": "spicy / hot"
+    },
+    {
+      "hanzi": "苦",
+      "pinyin": "kǔ",
+      "english_answers": [
+        "bitter"
+      ],
+      "english_gloss": "bitter"
+    },
+    {
+      "hanzi": "香",
+      "pinyin": "xiāng",
+      "english_answers": [
+        "fragrant",
+        "tasty-smelling"
+      ],
+      "english_gloss": "fragrant / tasty-smelling"
+    },
+    {
+      "hanzi": "新鲜",
+      "pinyin": "xīnxiān",
+      "english_answers": [
+        "fresh"
+      ],
+      "english_gloss": "fresh"
+    },
+    {
+      "hanzi": "熟",
+      "pinyin": "shú",
+      "english_answers": [
+        "cooked",
+        "ripe"
+      ],
+      "english_gloss": "cooked / ripe"
+    },
+    {
+      "hanzi": "生",
+      "pinyin": "shēng",
+      "english_answers": [
+        "raw",
+        "uncooked"
+      ],
+      "english_gloss": "raw / uncooked"
+    },
+    {
+      "hanzi": "烤",
+      "pinyin": "kǎo",
+      "english_answers": [
+        "roast",
+        "bake",
+        "grill"
+      ],
+      "english_gloss": "roast / bake / grill"
+    },
+    {
+      "hanzi": "炸",
+      "pinyin": "zhá",
+      "english_answers": [
+        "deep-fry"
+      ],
+      "english_gloss": "deep-fry"
+    },
+    {
+      "hanzi": "炒",
+      "pinyin": "chǎo",
+      "english_answers": [
+        "stir-fry"
+      ],
+      "english_gloss": "stir-fry"
+    },
+    {
+      "hanzi": "煮",
+      "pinyin": "zhǔ",
+      "english_answers": [
+        "boil",
+        "cook in water"
+      ],
+      "english_gloss": "boil / cook in water"
+    },
+    {
+      "hanzi": "蒸",
+      "pinyin": "zhēng",
+      "english_answers": [
+        "steam"
+      ],
+      "english_gloss": "steam"
+    },
+    {
+      "hanzi": "菜单",
+      "pinyin": "càidān",
+      "english_answers": [
+        "menu"
+      ],
+      "english_gloss": "menu"
+    },
+    {
+      "hanzi": "服务员",
+      "pinyin": "fúwùyuán",
+      "english_answers": [
+        "server",
+        "waiter",
+        "waitress"
+      ],
+      "english_gloss": "server / waiter / waitress"
+    },
+    {
+      "hanzi": "餐厅",
+      "pinyin": "cāntīng",
+      "english_answers": [
+        "restaurant",
+        "dining room"
+      ],
+      "english_gloss": "restaurant / dining room"
+    },
+    {
+      "hanzi": "饭店",
+      "pinyin": "fàndiàn",
+      "english_answers": [
+        "restaurant",
+        "hotel"
+      ],
+      "english_gloss": "restaurant / hotel"
+    },
+    {
+      "hanzi": "筷子",
+      "pinyin": "kuàizi",
+      "english_answers": [
+        "chopsticks"
+      ],
+      "english_gloss": "chopsticks"
+    },
+    {
+      "hanzi": "叉子",
+      "pinyin": "chāzi",
+      "english_answers": [
+        "fork"
+      ],
+      "english_gloss": "fork"
+    },
+    {
+      "hanzi": "勺子",
+      "pinyin": "sháozi",
+      "english_answers": [
+        "spoon"
+      ],
+      "english_gloss": "spoon"
+    },
+    {
+      "hanzi": "刀",
+      "pinyin": "dāo",
+      "english_answers": [
+        "knife"
+      ],
+      "english_gloss": "knife"
+    },
+    {
+      "hanzi": "盘子",
+      "pinyin": "pánzi",
+      "english_answers": [
+        "plate"
+      ],
+      "english_gloss": "plate"
+    },
+    {
+      "hanzi": "碗",
+      "pinyin": "wǎn",
+      "english_answers": [
+        "bowl"
+      ],
+      "english_gloss": "bowl"
+    },
+    {
+      "hanzi": "杯子",
+      "pinyin": "bēizi",
+      "english_answers": [
+        "cup",
+        "glass"
+      ],
+      "english_gloss": "cup / glass"
+    },
+    {
+      "hanzi": "餐巾纸",
+      "pinyin": "cānjīnzhǐ",
+      "english_answers": [
+        "napkin"
+      ],
+      "english_gloss": "napkin"
+    },
+    {
+      "hanzi": "汉堡包",
+      "pinyin": "hànbǎobāo",
+      "english_answers": [
+        "hamburger"
+      ],
+      "english_gloss": "hamburger"
+    },
+    {
+      "hanzi": "薯条",
+      "pinyin": "shǔtiáo",
+      "english_answers": [
+        "French fries"
+      ],
+      "english_gloss": "French fries"
+    },
+    {
+      "hanzi": "炸鸡",
+      "pinyin": "zhájī",
+      "english_answers": [
+        "fried chicken"
+      ],
+      "english_gloss": "fried chicken"
+    },
+    {
+      "hanzi": "披萨",
+      "pinyin": "pīsà",
+      "english_answers": [
+        "pizza"
+      ],
+      "english_gloss": "pizza"
+    },
+    {
+      "hanzi": "三明治",
+      "pinyin": "sānmíngzhì",
+      "english_answers": [
+        "sandwich"
+      ],
+      "english_gloss": "sandwich"
+    },
+    {
+      "hanzi": "水",
+      "pinyin": "shuǐ",
+      "english_answers": [
+        "water"
+      ],
+      "english_gloss": "water"
+    },
+    {
+      "hanzi": "茶",
+      "pinyin": "chá",
+      "english_answers": [
+        "tea"
+      ],
+      "english_gloss": "tea"
+    },
+    {
+      "hanzi": "咖啡",
+      "pinyin": "kāfēi",
+      "english_answers": [
+        "coffee"
+      ],
+      "english_gloss": "coffee"
+    }
+  ]
+}

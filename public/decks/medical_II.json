@@ -1,0 +1,849 @@
+{
+  "id": "medical_II",
+  "title": "Medical Ii",
+  "language": "zh-Hans",
+  "source": "previously generated PDF",
+  "card_count": 100,
+  "cards": [
+    {
+      "hanzi": "疼",
+      "pinyin": "téng",
+      "english_answers": [
+        "hurt",
+        "be painful"
+      ],
+      "english_gloss": "hurt / be painful"
+    },
+    {
+      "hanzi": "疼痛",
+      "pinyin": "téngtòng",
+      "english_answers": [
+        "pain (general",
+        "medical)"
+      ],
+      "english_gloss": "pain (general / medical)"
+    },
+    {
+      "hanzi": "痛",
+      "pinyin": "tòng",
+      "english_answers": [
+        "painful",
+        "pain"
+      ],
+      "english_gloss": "painful / pain"
+    },
+    {
+      "hanzi": "酸痛",
+      "pinyin": "suāntòng",
+      "english_answers": [
+        "sore",
+        "aching"
+      ],
+      "english_gloss": "sore / aching"
+    },
+    {
+      "hanzi": "刺痛",
+      "pinyin": "cìtòng",
+      "english_answers": [
+        "stabbing",
+        "stinging pain"
+      ],
+      "english_gloss": "stabbing / stinging pain"
+    },
+    {
+      "hanzi": "隐痛",
+      "pinyin": "yǐntòng",
+      "english_answers": [
+        "dull, lingering pain"
+      ],
+      "english_gloss": "dull, lingering pain"
+    },
+    {
+      "hanzi": "剧痛",
+      "pinyin": "jùtòng",
+      "english_answers": [
+        "severe pain"
+      ],
+      "english_gloss": "severe pain"
+    },
+    {
+      "hanzi": "胀痛",
+      "pinyin": "zhàngtòng",
+      "english_answers": [
+        "distending",
+        "pressure-like pain"
+      ],
+      "english_gloss": "distending / pressure-like pain"
+    },
+    {
+      "hanzi": "抽筋",
+      "pinyin": "chōujīn",
+      "english_answers": [
+        "muscle cramp"
+      ],
+      "english_gloss": "muscle cramp"
+    },
+    {
+      "hanzi": "麻木",
+      "pinyin": "mámù",
+      "english_answers": [
+        "numbness"
+      ],
+      "english_gloss": "numbness"
+    },
+    {
+      "hanzi": "发麻",
+      "pinyin": "fāmá",
+      "english_answers": [
+        "feel numb",
+        "tingly"
+      ],
+      "english_gloss": "feel numb / tingly"
+    },
+    {
+      "hanzi": "刺痒",
+      "pinyin": "cìyǎng",
+      "english_answers": [
+        "prickling itch"
+      ],
+      "english_gloss": "prickling itch"
+    },
+    {
+      "hanzi": "痒",
+      "pinyin": "yǎng",
+      "english_answers": [
+        "itchy"
+      ],
+      "english_gloss": "itchy"
+    },
+    {
+      "hanzi": "灼热感",
+      "pinyin": "zhuórègǎn",
+      "english_answers": [
+        "burning sensation"
+      ],
+      "english_gloss": "burning sensation"
+    },
+    {
+      "hanzi": "肿",
+      "pinyin": "zhǒng",
+      "english_answers": [
+        "swollen"
+      ],
+      "english_gloss": "swollen"
+    },
+    {
+      "hanzi": "红肿",
+      "pinyin": "hóngzhǒng",
+      "english_answers": [
+        "red and swollen"
+      ],
+      "english_gloss": "red and swollen"
+    },
+    {
+      "hanzi": "僵硬",
+      "pinyin": "jiāngyìng",
+      "english_answers": [
+        "stiffness",
+        "stiff"
+      ],
+      "english_gloss": "stiffness / stiff"
+    },
+    {
+      "hanzi": "无力",
+      "pinyin": "wúlì",
+      "english_answers": [
+        "weakness",
+        "lacking strength"
+      ],
+      "english_gloss": "weakness / lacking strength"
+    },
+    {
+      "hanzi": "疲劳",
+      "pinyin": "píláo",
+      "english_answers": [
+        "fatigue"
+      ],
+      "english_gloss": "fatigue"
+    },
+    {
+      "hanzi": "不舒服",
+      "pinyin": "bù shūfu",
+      "english_answers": [
+        "feel unwell",
+        "uncomfortable"
+      ],
+      "english_gloss": "feel unwell / uncomfortable"
+    },
+    {
+      "hanzi": "症状",
+      "pinyin": "zhèngzhuàng",
+      "english_answers": [
+        "symptom"
+      ],
+      "english_gloss": "symptom"
+    },
+    {
+      "hanzi": "疾病",
+      "pinyin": "jíbìng",
+      "english_answers": [
+        "disease",
+        "illness"
+      ],
+      "english_gloss": "disease / illness"
+    },
+    {
+      "hanzi": "生病",
+      "pinyin": "shēngbìng",
+      "english_answers": [
+        "be sick"
+      ],
+      "english_gloss": "be sick"
+    },
+    {
+      "hanzi": "发烧",
+      "pinyin": "fāshāo",
+      "english_answers": [
+        "have a fever"
+      ],
+      "english_gloss": "have a fever"
+    },
+    {
+      "hanzi": "低烧",
+      "pinyin": "dīshāo",
+      "english_answers": [
+        "low-grade fever"
+      ],
+      "english_gloss": "low-grade fever"
+    },
+    {
+      "hanzi": "高烧",
+      "pinyin": "gāoshāo",
+      "english_answers": [
+        "high fever"
+      ],
+      "english_gloss": "high fever"
+    },
+    {
+      "hanzi": "体温",
+      "pinyin": "tǐwēn",
+      "english_answers": [
+        "body temperature"
+      ],
+      "english_gloss": "body temperature"
+    },
+    {
+      "hanzi": "发冷",
+      "pinyin": "fālěng",
+      "english_answers": [
+        "feel chilly"
+      ],
+      "english_gloss": "feel chilly"
+    },
+    {
+      "hanzi": "寒战",
+      "pinyin": "hánzhàn",
+      "english_answers": [
+        "chills",
+        "shivering"
+      ],
+      "english_gloss": "chills / shivering"
+    },
+    {
+      "hanzi": "出汗",
+      "pinyin": "chūhàn",
+      "english_answers": [
+        "sweat"
+      ],
+      "english_gloss": "sweat"
+    },
+    {
+      "hanzi": "盗汗",
+      "pinyin": "dàohàn",
+      "english_answers": [
+        "night sweats"
+      ],
+      "english_gloss": "night sweats"
+    },
+    {
+      "hanzi": "头疼",
+      "pinyin": "tóuténg",
+      "english_answers": [
+        "headache"
+      ],
+      "english_gloss": "headache"
+    },
+    {
+      "hanzi": "偏头痛",
+      "pinyin": "piāntóutòng",
+      "english_answers": [
+        "migraine"
+      ],
+      "english_gloss": "migraine"
+    },
+    {
+      "hanzi": "头晕",
+      "pinyin": "tóuyūn",
+      "english_answers": [
+        "dizzy"
+      ],
+      "english_gloss": "dizzy"
+    },
+    {
+      "hanzi": "晕倒",
+      "pinyin": "yūndǎo",
+      "english_answers": [
+        "faint",
+        "pass out"
+      ],
+      "english_gloss": "faint / pass out"
+    },
+    {
+      "hanzi": "恶心",
+      "pinyin": "ěxīn",
+      "english_answers": [
+        "nausea",
+        "nauseated"
+      ],
+      "english_gloss": "nausea / nauseated"
+    },
+    {
+      "hanzi": "呕吐",
+      "pinyin": "ǒutù",
+      "english_answers": [
+        "vomit",
+        "vomiting"
+      ],
+      "english_gloss": "vomit / vomiting"
+    },
+    {
+      "hanzi": "脱水",
+      "pinyin": "tuōshuǐ",
+      "english_answers": [
+        "dehydration"
+      ],
+      "english_gloss": "dehydration"
+    },
+    {
+      "hanzi": "过敏",
+      "pinyin": "guòmǐn",
+      "english_answers": [
+        "allergy",
+        "allergic reaction"
+      ],
+      "english_gloss": "allergy / allergic reaction"
+    },
+    {
+      "hanzi": "皮疹",
+      "pinyin": "pízhěn",
+      "english_answers": [
+        "skin rash"
+      ],
+      "english_gloss": "skin rash"
+    },
+    {
+      "hanzi": "腹泻",
+      "pinyin": "fùxiè",
+      "english_answers": [
+        "diarrhea (formal)"
+      ],
+      "english_gloss": "diarrhea (formal)"
+    },
+    {
+      "hanzi": "拉肚子",
+      "pinyin": "lā dùzi",
+      "english_answers": [
+        "have diarrhea (colloquial)"
+      ],
+      "english_gloss": "have diarrhea (colloquial)"
+    },
+    {
+      "hanzi": "便秘",
+      "pinyin": "biànmì",
+      "english_answers": [
+        "constipation"
+      ],
+      "english_gloss": "constipation"
+    },
+    {
+      "hanzi": "胃痛",
+      "pinyin": "wèitòng",
+      "english_answers": [
+        "stomach pain"
+      ],
+      "english_gloss": "stomach pain"
+    },
+    {
+      "hanzi": "胃灼热",
+      "pinyin": "wèi zhuórè",
+      "english_answers": [
+        "heartburn",
+        "stomach burning"
+      ],
+      "english_gloss": "heartburn / stomach burning"
+    },
+    {
+      "hanzi": "反酸",
+      "pinyin": "fǎnsuān",
+      "english_answers": [
+        "acid reflux",
+        "acid regurgitation"
+      ],
+      "english_gloss": "acid reflux / acid regurgitation"
+    },
+    {
+      "hanzi": "打嗝",
+      "pinyin": "dǎgé",
+      "english_answers": [
+        "hiccup",
+        "burp (context-dependent)"
+      ],
+      "english_gloss": "hiccup / burp (context-dependent)"
+    },
+    {
+      "hanzi": "胀气",
+      "pinyin": "zhàngqì",
+      "english_answers": [
+        "bloating",
+        "gas"
+      ],
+      "english_gloss": "bloating / gas"
+    },
+    {
+      "hanzi": "食欲不振",
+      "pinyin": "shíyù bùzhèn",
+      "english_answers": [
+        "loss of appetite"
+      ],
+      "english_gloss": "loss of appetite"
+    },
+    {
+      "hanzi": "消化不良",
+      "pinyin": "xiāohuà bùliáng",
+      "english_answers": [
+        "indigestion"
+      ],
+      "english_gloss": "indigestion"
+    },
+    {
+      "hanzi": "咳嗽",
+      "pinyin": "késou",
+      "english_answers": [
+        "cough"
+      ],
+      "english_gloss": "cough"
+    },
+    {
+      "hanzi": "干咳",
+      "pinyin": "gānké",
+      "english_answers": [
+        "dry cough"
+      ],
+      "english_gloss": "dry cough"
+    },
+    {
+      "hanzi": "痰",
+      "pinyin": "tán",
+      "english_answers": [
+        "phlegm"
+      ],
+      "english_gloss": "phlegm"
+    },
+    {
+      "hanzi": "鼻塞",
+      "pinyin": "bísè",
+      "english_answers": [
+        "nasal congestion"
+      ],
+      "english_gloss": "nasal congestion"
+    },
+    {
+      "hanzi": "流鼻涕",
+      "pinyin": "liú bítì",
+      "english_answers": [
+        "have a runny nose"
+      ],
+      "english_gloss": "have a runny nose"
+    },
+    {
+      "hanzi": "打喷嚏",
+      "pinyin": "dǎ pēntì",
+      "english_answers": [
+        "sneeze"
+      ],
+      "english_gloss": "sneeze"
+    },
+    {
+      "hanzi": "呼吸困难",
+      "pinyin": "hūxī kùnnan",
+      "english_answers": [
+        "difficulty breathing"
+      ],
+      "english_gloss": "difficulty breathing"
+    },
+    {
+      "hanzi": "气短",
+      "pinyin": "qìduǎn",
+      "english_answers": [
+        "shortness of breath"
+      ],
+      "english_gloss": "shortness of breath"
+    },
+    {
+      "hanzi": "喉咙痛",
+      "pinyin": "hóulóng tòng",
+      "english_answers": [
+        "sore throat"
+      ],
+      "english_gloss": "sore throat"
+    },
+    {
+      "hanzi": "感染",
+      "pinyin": "gǎnrǎn",
+      "english_answers": [
+        "infection",
+        "become infected"
+      ],
+      "english_gloss": "infection / become infected"
+    },
+    {
+      "hanzi": "焦虑",
+      "pinyin": "jiāolǜ",
+      "english_answers": [
+        "anxiety"
+      ],
+      "english_gloss": "anxiety"
+    },
+    {
+      "hanzi": "焦虑症",
+      "pinyin": "jiāolǜzhèng",
+      "english_answers": [
+        "anxiety disorder"
+      ],
+      "english_gloss": "anxiety disorder"
+    },
+    {
+      "hanzi": "惊恐发作",
+      "pinyin": "jīngkǒng fāzuò",
+      "english_answers": [
+        "panic attack"
+      ],
+      "english_gloss": "panic attack"
+    },
+    {
+      "hanzi": "抑郁",
+      "pinyin": "yìyù",
+      "english_answers": [
+        "depression",
+        "depressed mood"
+      ],
+      "english_gloss": "depression / depressed mood"
+    },
+    {
+      "hanzi": "抑郁症",
+      "pinyin": "yìyùzhèng",
+      "english_answers": [
+        "depressive disorder"
+      ],
+      "english_gloss": "depressive disorder"
+    },
+    {
+      "hanzi": "情绪",
+      "pinyin": "qíngxù",
+      "english_answers": [
+        "emotions",
+        "mood"
+      ],
+      "english_gloss": "emotions / mood"
+    },
+    {
+      "hanzi": "情绪波动",
+      "pinyin": "qíngxù bōdòng",
+      "english_answers": [
+        "mood swings"
+      ],
+      "english_gloss": "mood swings"
+    },
+    {
+      "hanzi": "压力",
+      "pinyin": "yālì",
+      "english_answers": [
+        "stress",
+        "pressure"
+      ],
+      "english_gloss": "stress / pressure"
+    },
+    {
+      "hanzi": "紧张",
+      "pinyin": "jǐnzhāng",
+      "english_answers": [
+        "nervous",
+        "tense"
+      ],
+      "english_gloss": "nervous / tense"
+    },
+    {
+      "hanzi": "烦躁",
+      "pinyin": "fánzào",
+      "english_answers": [
+        "irritable",
+        "agitated"
+      ],
+      "english_gloss": "irritable / agitated"
+    },
+    {
+      "hanzi": "注意力",
+      "pinyin": "zhùyìlì",
+      "english_answers": [
+        "attention",
+        "concentration"
+      ],
+      "english_gloss": "attention / concentration"
+    },
+    {
+      "hanzi": "注意力不集中",
+      "pinyin": "zhùyìlì bù jízhōng",
+      "english_answers": [
+        "difficulty concentrating"
+      ],
+      "english_gloss": "difficulty concentrating"
+    },
+    {
+      "hanzi": "失眠",
+      "pinyin": "shīmián",
+      "english_answers": [
+        "insomnia"
+      ],
+      "english_gloss": "insomnia"
+    },
+    {
+      "hanzi": "嗜睡",
+      "pinyin": "shìshuì",
+      "english_answers": [
+        "excessive sleepiness"
+      ],
+      "english_gloss": "excessive sleepiness"
+    },
+    {
+      "hanzi": "噩梦",
+      "pinyin": "èmèng",
+      "english_answers": [
+        "nightmare"
+      ],
+      "english_gloss": "nightmare"
+    },
+    {
+      "hanzi": "心悸",
+      "pinyin": "xīnjì",
+      "english_answers": [
+        "palpitations"
+      ],
+      "english_gloss": "palpitations"
+    },
+    {
+      "hanzi": "手抖",
+      "pinyin": "shǒudǒu",
+      "english_answers": [
+        "hand tremor",
+        "shaky hands"
+      ],
+      "english_gloss": "hand tremor / shaky hands"
+    },
+    {
+      "hanzi": "耳鸣",
+      "pinyin": "ěrmíng",
+      "english_answers": [
+        "tinnitus",
+        "ringing in the ears"
+      ],
+      "english_gloss": "tinnitus / ringing in the ears"
+    },
+    {
+      "hanzi": "眩晕",
+      "pinyin": "xuànyūn",
+      "english_answers": [
+        "vertigo"
+      ],
+      "english_gloss": "vertigo"
+    },
+    {
+      "hanzi": "副作用",
+      "pinyin": "fùzuòyòng",
+      "english_answers": [
+        "side effect"
+      ],
+      "english_gloss": "side effect"
+    },
+    {
+      "hanzi": "看医生",
+      "pinyin": "kàn yīshēng",
+      "english_answers": [
+        "see a doctor"
+      ],
+      "english_gloss": "see a doctor"
+    },
+    {
+      "hanzi": "描述",
+      "pinyin": "miáoshù",
+      "english_answers": [
+        "describe"
+      ],
+      "english_gloss": "describe"
+    },
+    {
+      "hanzi": "持续",
+      "pinyin": "chíxù",
+      "english_answers": [
+        "continue",
+        "persist"
+      ],
+      "english_gloss": "continue / persist"
+    },
+    {
+      "hanzi": "突然",
+      "pinyin": "tūrán",
+      "english_answers": [
+        "suddenly"
+      ],
+      "english_gloss": "suddenly"
+    },
+    {
+      "hanzi": "逐渐",
+      "pinyin": "zhújiàn",
+      "english_answers": [
+        "gradually"
+      ],
+      "english_gloss": "gradually"
+    },
+    {
+      "hanzi": "偶尔",
+      "pinyin": "ǒu'ěr",
+      "english_answers": [
+        "occasionally"
+      ],
+      "english_gloss": "occasionally"
+    },
+    {
+      "hanzi": "经常",
+      "pinyin": "jīngcháng",
+      "english_answers": [
+        "frequently"
+      ],
+      "english_gloss": "frequently"
+    },
+    {
+      "hanzi": "一直",
+      "pinyin": "yìzhí",
+      "english_answers": [
+        "continuously",
+        "all along"
+      ],
+      "english_gloss": "continuously / all along"
+    },
+    {
+      "hanzi": "反复",
+      "pinyin": "fǎnfù",
+      "english_answers": [
+        "repeatedly",
+        "recurrently"
+      ],
+      "english_gloss": "repeatedly / recurrently"
+    },
+    {
+      "hanzi": "加重",
+      "pinyin": "jiāzhòng",
+      "english_answers": [
+        "worsen",
+        "become more severe"
+      ],
+      "english_gloss": "worsen / become more severe"
+    },
+    {
+      "hanzi": "缓解",
+      "pinyin": "huǎnjiě",
+      "english_answers": [
+        "ease",
+        "relieve (symptoms)"
+      ],
+      "english_gloss": "ease / relieve (symptoms)"
+    },
+    {
+      "hanzi": "发作",
+      "pinyin": "fāzuò",
+      "english_answers": [
+        "episode",
+        "attack",
+        "flare-up"
+      ],
+      "english_gloss": "episode / attack / flare-up"
+    },
+    {
+      "hanzi": "严重",
+      "pinyin": "yánzhòng",
+      "english_answers": [
+        "severe",
+        "serious"
+      ],
+      "english_gloss": "severe / serious"
+    },
+    {
+      "hanzi": "轻微",
+      "pinyin": "qīngwēi",
+      "english_answers": [
+        "mild",
+        "slight"
+      ],
+      "english_gloss": "mild / slight"
+    },
+    {
+      "hanzi": "慢性",
+      "pinyin": "mànxìng",
+      "english_answers": [
+        "chronic"
+      ],
+      "english_gloss": "chronic"
+    },
+    {
+      "hanzi": "急性",
+      "pinyin": "jíxìng",
+      "english_answers": [
+        "acute"
+      ],
+      "english_gloss": "acute"
+    },
+    {
+      "hanzi": "病史",
+      "pinyin": "bìngshǐ",
+      "english_answers": [
+        "medical history"
+      ],
+      "english_gloss": "medical history"
+    },
+    {
+      "hanzi": "既往病史",
+      "pinyin": "jìwǎng bìngshǐ",
+      "english_answers": [
+        "past medical history"
+      ],
+      "english_gloss": "past medical history"
+    },
+    {
+      "hanzi": "诱因",
+      "pinyin": "yòuyīn",
+      "english_answers": [
+        "trigger",
+        "precipitating factor"
+      ],
+      "english_gloss": "trigger / precipitating factor"
+    },
+    {
+      "hanzi": "复发",
+      "pinyin": "fùfā",
+      "english_answers": [
+        "recur",
+        "relapse"
+      ],
+      "english_gloss": "recur / relapse"
+    }
+  ]
+}
