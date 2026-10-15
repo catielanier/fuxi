@@ -1,5 +1,6 @@
 {
   "name": "fuxi",
+	"author": "Catie Lanier",
   "private": true,
   "version": "0.0.0",
   "type": "module",
