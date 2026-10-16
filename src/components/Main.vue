@@ -3,8 +3,8 @@ import { RouterLink } from 'vue-router'
 </script>
 
 <template>
-  <main class="main-content">
-    <section class="intro">
+  <main>
+    <section class="content-container intro">
       <h1>Learn a little. Remember a lot.</h1>
 
       <p>
@@ -24,11 +24,11 @@ import { RouterLink } from 'vue-router'
 
       <div class="intro-actions">
         <RouterLink to="/register" class="get-started">
-					<span class="original">Get Started</span>
-					<span class="translated" lang="zh-Hans" aria-hidden="true">
-						开始
-					</span>
-				</RouterLink>
+          <span class="original">Get Started</span>
+          <span class="translated" lang="zh-Hans" aria-hidden="true">
+            开始
+          </span>
+        </RouterLink>
 
         <RouterLink to="/login" class="login-link">
           Already have an account? Log in
@@ -39,28 +39,11 @@ import { RouterLink } from 'vue-router'
 </template>
 
 <style scoped>
-.main-content {
-  width: min(100% - 2rem, 1200px);
-  margin: 1.5rem auto 0;
-	text-align: left;
-}
-
-.intro {
-  max-width: 100%;
-  padding: 2rem 2.5rem;
-
-  background: rgb(from var(--color-background) r g b / 78%);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-
-  border: 1px solid rgb(from var(--color-border) r g b / 60%);
-  border-radius: 1rem;
-}
-
 h1 {
   font-family: var(--font-brand);
   font-size: clamp(2rem, 4vw, 3rem);
   line-height: 1.2;
+  font-family: var(--font-ui);
   color: var(--color-text);
   margin: 0 0 1.25rem;
 }
@@ -71,7 +54,7 @@ p {
   line-height: 1.7;
   color: var(--color-text-muted);
   margin: 0 0 1.25rem;
-	max-width: 50ch;
+  max-width: 50ch;
 }
 
 h2 {
@@ -94,7 +77,6 @@ h2 {
 .get-started {
   display: inline-grid;
   place-items: center;
-
   padding: 0.85rem 1.5rem;
 
   background: var(--color-primary);
@@ -126,7 +108,6 @@ h2 {
 .get-started span {
   grid-area: 1 / 1;
   white-space: nowrap;
-
   transition: opacity 0.5s ease-in-out;
 }
 
@@ -165,14 +146,6 @@ h2 {
 }
 
 @media (max-width: 600px) {
-  .main-content {
-    margin-top: 2rem;
-  }
-
-  .intro {
-    padding: 1.5rem;
-  }
-
   .intro-actions {
     align-items: stretch;
   }
