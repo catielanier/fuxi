@@ -1,11 +1,22 @@
 <script setup lang="ts">
 import { RouterLink } from 'vue-router'
+defineProps<{
+  easterEggVisible: boolean
+}>()
 </script>
 
 <template>
   <header class="top-nav">
     <RouterLink to="/" class="branding" aria-label="Fuxi — Home">
-      <span class="brand-name" lang="zh-Hans">复习</span>
+      <span class="brand-name" lang="zh-Hans">
+        <img
+          v-if="easterEggVisible"
+          src="@/assets/vue.svg"
+          alt="Vue"
+          class="vue-logo"
+        />
+        <template v-else>复</template>习
+      </span>
       <span class="brand-subtitle">
         Review · Revise · Study again
       </span>
