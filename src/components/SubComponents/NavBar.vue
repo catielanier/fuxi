@@ -1,79 +1,170 @@
 <script setup lang="ts">
-  import {RouterLink} from 'vue-router'
+import { RouterLink } from 'vue-router'
 </script>
 
 <template>
-  <div class="top-nav">
-    <nav>
+  <header class="top-nav">
+    <RouterLink to="/" class="branding" aria-label="Fuxi — Home">
+      <span class="brand-name" lang="zh-Hans">复习</span>
+      <span class="brand-subtitle">
+        Review · Revise · Study again
+      </span>
+    </RouterLink>
+
+    <nav aria-label="Main navigation">
       <ul>
         <li>
           <RouterLink id="login" to="/login">
-            <span>Login</span>
-            <span class="translated" aria-hidden="true">登录</span>
+            <span class="original">Login</span>
+            <span class="translated" lang="zh-Hans" aria-hidden="true">
+              登录
+            </span>
           </RouterLink>
         </li>
+
         <li>
           <RouterLink id="register" to="/register">
-            <span>Register</span>
-            <span class="translated" aria-hidden="true">注册</span>
+            <span class="original">Register</span>
+            <span class="translated" lang="zh-Hans" aria-hidden="true">
+              注册
+            </span>
           </RouterLink>
         </li>
       </ul>
     </nav>
-  </div>
+  </header>
 </template>
 
 <style scoped>
-  ul {
-    list-style: none;
-    display: flex;
-    width: fit-content;
-    padding: 15px 25px;
+.top-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+
+  width: min(100% - 2rem, 1200px);
+  margin: 0 auto;
+  padding-top: 1.5rem;
+}
+
+.branding {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  margin-left: 2.5rem;
+  text-align: left;
+  text-decoration: none;
+  color: var(--color-text);
+}
+
+.branding:is(:hover, :focus-visible) {
+  color: var(--color-primary);
+}
+
+.brand-name {
+  font-family: var(--font-brand);
+  font-size: 3rem;
+  line-height: 1.2;
+}
+
+.brand-subtitle {
+  font-family: var(--font-ui);
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+nav {
+  flex-shrink: 0;
+}
+
+nav ul {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+
+  width: fit-content;
+  margin: 0;
+  padding: 0.75rem 1.25rem;
+
+  list-style: none;
+  background-color: var(--color-background);
+  border-radius: 0.75rem;
+}
+
+nav li {
+  margin: 0;
+  padding: 0;
+}
+
+nav a {
+  display: grid;
+
+  color: var(--color-primary);
+  font-family: var(--font-ui);
+  font-weight: 600;
+  text-decoration: none;
+
+  transition: color 0.2s ease-in-out;
+}
+
+nav a:is(:hover, :focus-visible) {
+  color: var(--color-accent);
+}
+
+nav a.router-link-active {
+  color: var(--color-text);
+}
+
+/* English / Chinese hover animation */
+
+nav a span {
+  grid-area: 1 / 1;
+  white-space: nowrap;
+
+  transition: opacity 0.5s ease-in-out;
+}
+
+nav a .original {
+  font-family: var(--font-ui);
+  opacity: 1;
+}
+
+nav a .translated {
+  font-family: var(--font-brand);
+  font-size: 0.9rem;
+  opacity: 0;
+}
+
+nav a:is(:hover, :focus-visible) .original {
+  opacity: 0;
+}
+
+nav a:is(:hover, :focus-visible) .translated {
+  opacity: 1;
+}
+
+/* Responsive layout */
+
+@media (max-width: 600px) {
+  .top-nav {
+    flex-direction: column;
+    align-items: center;
     gap: 1rem;
-    border-radius: 0.5rem;
-    background-color: color-mix(
-      in srgb,
-      var(--color-background) 70%,
-      transparent
-    );
   }
 
-  a {
-    display: grid;
-    text-decoration: none;
-    font-weight: bold;
-    color: var(--color-primary)
+  .branding {
+    align-items: center;
+    text-align: center;
   }
+}
 
-  a:is(:hover, :focus-visible) {
-    color: var(--color-accent);
-  }
+/* Accessibility */
 
-  a:active {
-    color: var(--color-text);
+@media (prefers-reduced-motion: reduce) {
+  .branding,
+  nav a,
+  nav a span {
+    transition: none;
   }
-
-  a span {
-    grid-area: 1 / 1;
-    transition: opacity 0.5s ease-in-out, color 0.5s ease-in-out;
-  }
-
-  a span:first-child {
-    font-family: var(--font-ui);
-    opacity: 1;
-  }
-
-  a .translated {
-    font-family: var(--font-brand);
-    font-size: 0.9rem;
-    opacity: 0;
-  }
-
-  a:is(:hover, :focus-visible) span:first-child {
-    opacity: 0;
-  }
-
-  a:is(:hover, :focus-visible) .translated {
-    opacity: 1;
-  }
+}
 </style>
