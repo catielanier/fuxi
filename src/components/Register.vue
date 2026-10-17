@@ -118,7 +118,7 @@
               v-if="isLoading"
               class="spinner"
               aria-hidden="true"
-            ></span>
+            />
           </button>
         </div>
       </form>
