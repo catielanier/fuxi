@@ -1,18 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&family=Noto+Serif+SC:wght@500;600;700&display=swap');
 
 :root {
-	color-scheme: light;
+  color-scheme: light;
 
-  --color-background: #F7F5EF;
-  --color-surface: #FFFFFF;
+  --color-background: #f7f5ef;
+  --color-surface: #ffffff;
   --color-text: #243238;
   --color-text-muted: #617276;
-  --color-primary: #54877B;
-  --color-primary-contrast: #FFFFFF;
-  --color-border: #DFE9E2;
-  --color-accent: #C18A59;
+  --color-primary: #54877b;
+  --color-primary-contrast: #ffffff;
+  --color-border: #dfe9e2;
+  --color-accent: #c18a59;
 
-	--font-ui: 'Inter', sans-serif;
+  --font-ui: 'Inter', sans-serif;
   --font-hanzi: 'Noto Sans SC', sans-serif;
   --font-brand: 'Noto Serif SC', serif;
 
@@ -26,36 +26,36 @@
   }
 }
 
-[data-theme="dark"] {
+[data-theme='dark'] {
   color-scheme: dark;
 
-  --color-background: #151E20;
+  --color-background: #151e20;
   --color-surface: #233033;
-  --color-text: #F1F3EE;
-  --color-text-muted: #B0C0BD;
-  --color-primary: #88BCAE;
+  --color-text: #f1f3ee;
+  --color-text-muted: #b0c0bd;
+  --color-primary: #88bcae;
   --color-primary-contrast: #152521;
   --color-border: #354548;
-  --color-accent: #D5A373;
+  --color-accent: #d5a373;
 }
 
 body {
   margin: 0;
-	background: url('/src/assets/wallpaper.png');
-	background-size: cover;
+  background: url('./assets/wallpaper.png');
+  background-size: cover;
 }
 
 h1 {
   font-family: var(--font-brand);
   color: var(--color-text);
-	font-size: 3rem;
+  font-size: 3rem;
   margin-top: 0;
-	margin-bottom: 0;
+  margin-bottom: 0;
   text-align: left;
 }
 
 h2 {
-	margin-top: 0;
+  margin-top: 0;
   text-align: left;
 }
 
@@ -96,5 +96,5 @@ main {
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
-	color: var(--color-text);
+  color: var(--color-text);
 }
