@@ -1,20 +1,24 @@
 <script setup lang="ts">
-import { onMounted } from 'vue'
+import { onMounted, onUnmounted } from 'vue'
 import { RouterLink, useRouter } from 'vue-router'
 import { getAuth, onAuthStateChanged } from 'firebase/auth'
 
 const router = useRouter()
 
+let unsubscribe: (() => void) | undefined
+
 onMounted(() => {
   const auth = getAuth()
 
-  const unsubscribe = onAuthStateChanged(auth, (user) => {
+  unsubscribe = onAuthStateChanged(auth, (user) => {
     if (user) {
       void router.replace('/decks')
     }
-
-    unsubscribe()
   })
+})
+
+onUnmounted(() => {
+  unsubscribe?.()
 })
 </script>
 
@@ -60,6 +64,8 @@ onMounted(() => {
 </template>
 
 <style scoped>
+/* Typography */
+
 h1 {
   font-family: var(--font-ui);
   font-size: clamp(2rem, 4vw, 3rem);
@@ -86,6 +92,8 @@ h2 {
   margin: 1.5rem 0;
 }
 
+/* Actions */
+
 .intro-actions {
   display: flex;
   flex-direction: column;
@@ -98,21 +106,30 @@ h2 {
   display: flex;
   align-items: stretch;
   gap: 1rem;
+  max-width: 100%;
 }
+
+/* Shared button styling */
 
 .get-started,
 .guest-link {
   display: inline-grid;
   place-items: center;
+
+  min-height: 44px;
   padding: 0.85rem 1.5rem;
+
   font-family: var(--font-ui);
   font-size: 0.95rem;
   font-weight: 600;
   text-decoration: none;
+  text-align: center;
+
   border-radius: 0.75rem;
 
   transition:
     background-color 0.2s ease,
+    border-color 0.2s ease,
     color 0.2s ease,
     transform 0.2s ease;
 }
@@ -151,6 +168,7 @@ h2 {
 .guest-link span {
   grid-area: 1 / 1;
   white-space: nowrap;
+
   transition: opacity 0.5s ease-in-out;
 }
 
@@ -213,27 +231,73 @@ h2 {
   outline-offset: 4px;
 }
 
-/* Responsive */
+/* Tablet */
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: clamp(1.875rem, 5vw, 2.5rem);
+  }
+
+  .intro-actions {
+    margin-top: 1.5rem;
+  }
+}
+
+/* Mobile */
 
 @media (max-width: 600px) {
+  h1 {
+    font-size: clamp(1.75rem, 7vw, 2.25rem);
+    line-height: 1.2;
+    margin-bottom: 1rem;
+  }
+
+  p {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+  }
+
+  h2 {
+    font-size: 0.95rem;
+    margin: 1.25rem 0;
+  }
+
   .intro-actions {
     align-items: stretch;
+    gap: 0.875rem;
+    margin-top: 1.5rem;
   }
 
   .intro-buttons {
     flex-direction: column;
+    gap: 0.75rem;
+    width: 100%;
   }
 
   .get-started,
   .guest-link {
     width: 100%;
+    max-width: 100%;
+    min-height: 48px;
+    padding: 0.85rem 1rem;
   }
 
-  .login-link,
+  .login-link {
+    text-align: center;
+    padding: 0.25rem 0;
+  }
+
   .guest-note {
+    max-width: 100%;
+    margin: 0 auto;
+    font-size: 0.8rem;
+    line-height: 1.5;
     text-align: center;
   }
 }
+
+/* Reduced motion */
 
 @media (prefers-reduced-motion: reduce) {
   .get-started,

@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&family=Noto+Serif+SC:wght@500;600;700&display=swap');
 
+/* Global box sizing */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Light theme */
+
 :root {
   color-scheme: light;
 
@@ -20,11 +30,9 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-
-  @media (max-width: 1024px) {
-    font-size: 16px;
-  }
 }
+
+/* Dark theme */
 
 [data-theme='dark'] {
   color-scheme: dark;
@@ -39,13 +47,27 @@
   --color-accent: #d5a373;
 }
 
+/* Document */
+
+html {
+  min-width: 320px;
+}
+
 body {
   margin: 0;
-  background: url('./assets/wallpaper.png');
+  min-width: 320px;
+  min-height: 100svh;
+
+  background-image: url('./assets/wallpaper.png');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+
+  color: var(--color-text);
+  font-family: var(--font-ui);
 }
+
+/* Typography */
 
 h1 {
   font-family: var(--font-brand);
@@ -61,23 +83,54 @@ h2 {
   text-align: left;
 }
 
+/* Application shell */
+
+#app {
+  width: 100%;
+  max-width: 1200px;
+  min-height: 100svh;
+  margin: 0 auto;
+
+  display: flex;
+  flex-direction: column;
+
+  color: var(--color-text);
+}
+
+/* Main content */
+
 main {
   width: min(100% - 2rem, 1200px);
   margin: 1.5rem auto 0;
   text-align: left;
+  min-width: 0;
 }
+
+/* Shared content container */
 
 .content-container {
   width: 100%;
+  min-width: 0;
   padding: 2rem 2.5rem;
 
   background: rgb(from var(--color-background) r g b / 78%);
+
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
 
   border: 1px solid rgb(from var(--color-border) r g b / 60%);
   border-radius: 1rem;
 }
+
+/* Tablet */
+
+@media (max-width: 1024px) {
+  :root {
+    font-size: 16px;
+  }
+}
+
+/* Mobile */
 
 @media (max-width: 600px) {
   main {
@@ -89,14 +142,10 @@ main {
   }
 }
 
-#app {
-  width: 1126px;
-  max-width: 100%;
-  margin: 0 auto;
-  text-align: center;
-  min-height: 100svh;
-  display: flex;
-  flex-direction: column;
-  box-sizing: border-box;
-  color: var(--color-text);
+/* Mobile background */
+
+@media (max-width: 768px) {
+  body {
+    background-attachment: scroll;
+  }
 }
