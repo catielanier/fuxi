@@ -26,6 +26,20 @@ const routes: RouteRecordRaw[] = [
     name: 'quiz',
     component: () => import('@/components/DeckQuiz.vue'),
   },
+  {
+    path: '/results',
+    name: 'results',
+    component: () => import('@/components/Results.vue'),
+    props: () => ({
+      result: JSON.parse(window.history.state?.guestResult ?? 'null'),
+    }),
+  },
+  {
+    path: '/results/:resultId',
+    name: 'result',
+    component: () => import('@/components/Results.vue'),
+    props: true,
+  },
 ]
 
 const router = createRouter({
