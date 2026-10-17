@@ -18,7 +18,6 @@ const isLoggedIn = ref(false)
 let unsubscribeAuth: (() => void) | null = null
 let unsubscribeUser: (() => void) | null = null
 
-
 const handleLogout = async (): Promise<void> => {
   await auth.signOut()
   isLoggedIn.value = false
@@ -28,7 +27,6 @@ const handleLogout = async (): Promise<void> => {
 
 onMounted(() => {
   unsubscribeAuth = onAuthStateChanged(auth, (user) => {
-    // Remove any previous database subscription
     unsubscribeUser?.()
     unsubscribeUser = null
 
@@ -37,7 +35,6 @@ onMounted(() => {
 
     if (!user) return
 
-    // Subscribe to the currently authenticated user's profile
     const userRef = dbRef(db, `users/${user.uid}`)
 
     unsubscribeUser = onValue(userRef, (snapshot) => {
@@ -53,7 +50,6 @@ onMounted(() => {
   })
 })
 
-
 onUnmounted(() => {
   unsubscribeAuth?.()
   unsubscribeUser?.()
@@ -64,40 +60,27 @@ onUnmounted(() => {
   <header class="top-nav">
     <RouterLink to="/" class="branding" aria-label="Fuxi — Home">
       <span class="brand-name" lang="zh-Hans">
-        <img
-          v-if="easterEggVisible"
-          src="@/assets/vue.svg"
-          alt="Vue"
-          class="vue-logo"
-        />
+        <img v-if="easterEggVisible" src="@/assets/vue.svg" alt="Vue" class="vue-logo" />
         <template v-else>复</template>习
       </span>
-      <span class="brand-subtitle">
-        Review · Revise · Study again
-      </span>
+      <span class="brand-subtitle"> Review · Revise · Study again </span>
     </RouterLink>
 
     <nav aria-label="Main navigation">
       <ul>
-        <li v-if="isLoggedIn" class="user-greeting">
-          {{ name }}，你好！
-        </li>
+        <li v-if="isLoggedIn" class="user-greeting">{{ name }}，你好！</li>
         <template v-if="!isLoggedIn">
           <li>
             <RouterLink id="login" to="/login">
               <span class="original">Login</span>
-              <span class="translated" lang="zh-Hans" aria-hidden="true">
-                登录
-              </span>
+              <span class="translated" lang="zh-Hans" aria-hidden="true"> 登录 </span>
             </RouterLink>
           </li>
-  
+
           <li>
             <RouterLink id="register" to="/register">
               <span class="original">Register</span>
-              <span class="translated" lang="zh-Hans" aria-hidden="true">
-                注册
-              </span>
+              <span class="translated" lang="zh-Hans" aria-hidden="true"> 注册 </span>
             </RouterLink>
           </li>
         </template>
@@ -105,18 +88,14 @@ onUnmounted(() => {
           <li>
             <RouterLink id="decks" to="/decks">
               <span class="original">Decks</span>
-              <span class="translated" lang="zh-Hans" aria-hidden="true">
-                牌组
-              </span>
+              <span class="translated" lang="zh-Hans" aria-hidden="true"> 牌组 </span>
             </RouterLink>
           </li>
           <!-- add logout anchor that runs a function to log the user out, not a routerlink -->
           <li>
             <a id="logout" href="#" @click.prevent="handleLogout">
               <span class="original">Logout</span>
-              <span class="translated" lang="zh-Hans" aria-hidden="true">
-                登出
-              </span>
+              <span class="translated" lang="zh-Hans" aria-hidden="true"> 登出 </span>
             </a>
           </li>
         </template>

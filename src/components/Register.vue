@@ -1,67 +1,70 @@
 <script setup lang="ts">
-  import { ref } from 'vue'
-  import { getDatabase, ref as dbRef, set } from 'firebase/database'
-  import { createUserWithEmailAndPassword, sendEmailVerification, getAuth } from 'firebase/auth'
-  import firebase from '@/utils/firebase'
+import { ref } from 'vue'
+import { getDatabase, ref as dbRef, set } from 'firebase/database'
+import { createUserWithEmailAndPassword, sendEmailVerification, getAuth } from 'firebase/auth'
+import firebase from '@/utils/firebase'
 
-  const email = ref('')
-  const password = ref('')
-  const verifyPassword = ref('')
-  const surname = ref('')
-  const givenName = ref('')
-  const surnameZh = ref('')
-  const givenNameZh = ref('')
-  const isLoading = ref(false)
-  const error = ref('')
-  const success = ref(false)
+const email = ref('')
+const password = ref('')
+const verifyPassword = ref('')
+const surname = ref('')
+const givenName = ref('')
+const surnameZh = ref('')
+const givenNameZh = ref('')
+const isLoading = ref(false)
+const error = ref('')
+const success = ref(false)
 
-  const handleSubmit = async (): Promise<void> => {
-    error.value = ''
-    const isPasswordValid: boolean = password.value === verifyPassword.value
-    if (!isPasswordValid) {
-      error.value = 'Passwords do not match. 密码不匹配。'
-      return
-    }
-    isLoading.value = true
-    try {
-      let isRegistered: boolean = false;
-      let isProfileCreated: boolean = false;
-      const auth = getAuth(firebase)
-      const { user } = await createUserWithEmailAndPassword(auth, email.value.trim(), password.value)
-      await sendEmailVerification(user, {
-        url: `${import.meta.env.VITE_APP_URI}/login`,
-        handleCodeInApp: false,
-      })
-      isRegistered = true
-      const { uid } = user
-      const profileData = {
-        surname: surname.value.trim(),
-        givenName: givenName.value.trim(),
-        surnameZh: surnameZh.value.trim(),
-        givenNameZh: givenNameZh.value.trim(),
-        quizResults: [],
-        createdAt: new Date().toISOString(),
-      }
-      const db = getDatabase(firebase)
-      const userRef = dbRef(db, `users/${uid}`)
-      await set(userRef, profileData)
-      isProfileCreated = true
-      if (isRegistered && isProfileCreated) {
-        success.value = true
-      }
-    } catch (err) {
-      error.value = 'Failed to create user account. 用户账户创建失败。'
-    } finally {
-      isLoading.value = false
-    }
+const handleSubmit = async (): Promise<void> => {
+  error.value = ''
+  const isPasswordValid: boolean = password.value === verifyPassword.value
+  if (!isPasswordValid) {
+    error.value = 'Passwords do not match. 密码不匹配。'
+    return
   }
+  isLoading.value = true
+  try {
+    let isRegistered: boolean = false
+    let isProfileCreated: boolean = false
+    const auth = getAuth(firebase)
+    const { user } = await createUserWithEmailAndPassword(auth, email.value.trim(), password.value)
+    await sendEmailVerification(user, {
+      url: `${import.meta.env.VITE_APP_URI}/login`,
+      handleCodeInApp: false,
+    })
+    isRegistered = true
+    const { uid } = user
+    const profileData = {
+      surname: surname.value.trim(),
+      givenName: givenName.value.trim(),
+      surnameZh: surnameZh.value.trim(),
+      givenNameZh: givenNameZh.value.trim(),
+      quizResults: [],
+      createdAt: new Date().toISOString(),
+    }
+    const db = getDatabase(firebase)
+    const userRef = dbRef(db, `users/${uid}`)
+    await set(userRef, profileData)
+    isProfileCreated = true
+    if (isRegistered && isProfileCreated) {
+      success.value = true
+    }
+  } catch (err) {
+    error.value = 'Failed to create user account. 用户账户创建失败。'
+  } finally {
+    isLoading.value = false
+  }
+}
 </script>
 
 <template>
   <main>
     <section class="content-container intro">
       <h3><span>祖册</span>·Register</h3>
-      <p v-if="success">Account created successfully! Please check your email to verify your account. 账户创建成功！请检查您的电子邮件以验证您的账户。</p>
+      <p v-if="success">
+        Account created successfully! Please check your email to verify your account.
+        账户创建成功！请检查您的电子邮件以验证您的账户。
+      </p>
       <p v-if="error" class="error">错误：{{ error }}</p>
       <form @submit.prevent="handleSubmit">
         <div class="form-grid">
@@ -75,7 +78,13 @@
           </fieldset>
           <fieldset class="form-field password">
             <legend>Verify Password<span class="required" aria-hidden="true">*</span></legend>
-            <input v-model="verifyPassword" type="password" name="verifyPassword" placeholder="确认密码" required />
+            <input
+              v-model="verifyPassword"
+              type="password"
+              name="verifyPassword"
+              placeholder="确认密码"
+              required
+            />
           </fieldset>
           <fieldset class="form-field">
             <legend>Last Name<span class="required" aria-hidden="true">*</span></legend>
@@ -83,7 +92,13 @@
           </fieldset>
           <fieldset class="form-field">
             <legend>First Name<span class="required" aria-hidden="true">*</span></legend>
-            <input v-model="givenName" type="text" name="givenName" placeholder="名（外文）" required />
+            <input
+              v-model="givenName"
+              type="text"
+              name="givenName"
+              placeholder="名（外文）"
+              required
+            />
           </fieldset>
           <fieldset class="form-field">
             <legend>Last Name (Chinese)</legend>
@@ -93,17 +108,8 @@
             <legend>First Name (Chinese)</legend>
             <input v-model="givenNameZh" type="text" name="givenNameZh" placeholder="名（中文）" />
           </fieldset>
-          <button
-            type="submit"
-            :disabled="isLoading || success"
-            :aria-busy="isLoading"
-          >
-            <span
-              class="original"
-              :class="{ hidden: isLoading }"
-            >
-              Create Account
-            </span>
+          <button type="submit" :disabled="isLoading || success" :aria-busy="isLoading">
+            <span class="original" :class="{ hidden: isLoading }"> Create Account </span>
 
             <span
               class="translated"
@@ -114,11 +120,7 @@
               创建账户
             </span>
 
-            <span
-              v-if="isLoading"
-              class="spinner"
-              aria-hidden="true"
-            />
+            <span v-if="isLoading" class="spinner" aria-hidden="true" />
           </button>
         </div>
       </form>
@@ -153,7 +155,8 @@ h3 span {
   grid-column: span 3;
 }
 
-.form-field.email, .form-field.password {
+.form-field.email,
+.form-field.password {
   grid-column: span 4;
 }
 

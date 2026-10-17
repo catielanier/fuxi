@@ -19,16 +19,14 @@ onMounted(async () => {
       <h1>Learn a little. Remember a lot.</h1>
 
       <p>
-        Language learning isn't about memorizing everything at once.
-        It's about building familiarity, strengthening recall, and
-        returning to what you've learned until it sticks.
+        Language learning isn't about memorizing everything at once. It's about building
+        familiarity, strengthening recall, and returning to what you've learned until it sticks.
       </p>
 
       <p>
-        Fuxi (复习) gives you a place to organize your Mandarin vocabulary,
-        track your progress, and practice at your own pace. Whether
-        you're picking up Mandarin anew or reconnecting with it after a break,
-        every review brings you a little further.
+        Fuxi (复习) gives you a place to organize your Mandarin vocabulary, track your progress, and
+        practice at your own pace. Whether you're picking up Mandarin anew or reconnecting with it
+        after a break, every review brings you a little further.
       </p>
 
       <h2>Your Chinese journey, one word at a time.</h2>
@@ -36,14 +34,10 @@ onMounted(async () => {
       <div class="intro-actions">
         <RouterLink to="/register" class="get-started">
           <span class="original">Get Started</span>
-          <span class="translated" lang="zh-Hans" aria-hidden="true">
-            开始
-          </span>
+          <span class="translated" lang="zh-Hans" aria-hidden="true"> 开始 </span>
         </RouterLink>
 
-        <RouterLink to="/login" class="login-link">
-          Already have an account? Log in
-        </RouterLink>
+        <RouterLink to="/login" class="login-link"> Already have an account? Log in </RouterLink>
       </div>
     </section>
   </main>

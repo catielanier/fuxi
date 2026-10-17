@@ -1,27 +1,27 @@
 <script setup lang="ts">
-  import { ref } from 'vue'
-  import { getAuth, signInWithEmailAndPassword } from 'firebase/auth'
-  import { useRouter } from 'vue-router'
-  const isLoading = ref(false)
-  const error = ref('')
-  const email = ref('')
-  const password = ref('')
+import { ref } from 'vue'
+import { getAuth, signInWithEmailAndPassword } from 'firebase/auth'
+import { useRouter } from 'vue-router'
+const isLoading = ref(false)
+const error = ref('')
+const email = ref('')
+const password = ref('')
 
-  const router = useRouter()
+const router = useRouter()
 
-  const handleSubmit = async (): Promise<void> => {
-    error.value = ''
-    isLoading.value = true
-    try {
-      const auth = getAuth()
-      await signInWithEmailAndPassword(auth, email.value.trim(), password.value)
-    } catch (err) {
-      error.value = 'Failed to log in. 登录失败。'
-    } finally {
-      isLoading.value = false
-      await router.push('/decks')
-    }
+const handleSubmit = async (): Promise<void> => {
+  error.value = ''
+  isLoading.value = true
+  try {
+    const auth = getAuth()
+    await signInWithEmailAndPassword(auth, email.value.trim(), password.value)
+  } catch (err) {
+    error.value = 'Failed to log in. 登录失败。'
+  } finally {
+    isLoading.value = false
+    await router.push('/decks')
   }
+}
 </script>
 
 <template>
@@ -40,12 +40,14 @@
           </fieldset>
           <button type="submit">
             <span class="original" :class="{ hidden: isLoading }">Log In</span>
-            <span class="translated" :class="{ hidden: isLoading }" lang="zh-Hans" aria-hidden="true">登录</span>
             <span
-              v-if="isLoading"
-              class="spinner"
+              class="translated"
+              :class="{ hidden: isLoading }"
+              lang="zh-Hans"
               aria-hidden="true"
-            />
+              >登录</span
+            >
+            <span v-if="isLoading" class="spinner" aria-hidden="true" />
           </button>
         </div>
       </form>
