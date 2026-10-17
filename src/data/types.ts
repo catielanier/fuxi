@@ -6,6 +6,7 @@ export interface Deck {
   part: number
   cards: number
   description: string
+  printable?: string
 }
 
 export interface DeckManifest {

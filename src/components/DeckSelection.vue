@@ -16,6 +16,12 @@ import type { Deck, DeckManifest } from '@/data/types'
 
 const router = useRouter()
 
+const printableFiles = import.meta.glob('../assets/printables/*.pdf', {
+  eager: true,
+  query: '?url',
+  import: 'default',
+}) as Record<string, string>
+
 const decks = ref<Deck[]>([])
 const selectedDeckId = ref<string>()
 const searchTerm = ref('')
@@ -36,6 +42,14 @@ const filteredDecks = computed(() => {
       value.toLowerCase().includes(query),
     ),
   )
+})
+
+const printableUrl = computed(() => {
+  if (!selectedDeck.value?.printable) return null
+
+  const path = `../assets/printables/${selectedDeck.value.printable}`
+
+  return printableFiles[path] ?? null
 })
 
 const loadDecks = async (): Promise<void> => {
@@ -134,10 +148,20 @@ onMounted(loadDecks)
           <p>{{ selectedDeck.description }}</p>
           <span>{{ selectedDeck.cards }} vocabulary cards</span>
         </div>
-
-        <button class="start-button" type="button" :disabled="!selectedDeck" @click="startDeck">
-          Start Studying
-        </button>
+        <div class="deck-actions">
+          <button class="start-button" type="button" :disabled="!selectedDeck" @click="startDeck">
+            Start Studying
+          </button>
+          <a
+            v-if="selectedDeck && printableUrl"
+            :href="printableUrl"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="print-button"
+          >
+            Print Physical Deck
+          </a>
+        </div>
       </div>
     </section>
   </main>
@@ -246,6 +270,52 @@ h3 span {
 .start-button:disabled {
   opacity: 0.4;
   cursor: not-allowed;
+}
+
+.deck-actions {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.print-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.75rem 1.5rem;
+  border: 1px solid var(--color-text);
+  border-radius: 0.5rem;
+  background: transparent;
+  color: var(--color-text);
+  font: inherit;
+  text-decoration: none;
+  cursor: pointer;
+  transition:
+    background-color 0.2s ease,
+    color 0.2s ease;
+}
+
+.print-button:hover {
+  background: var(--color-text);
+  color: var(--color-background);
+}
+
+.print-button:focus-visible {
+  outline: 2px solid var(--color-text);
+  outline-offset: 2px;
+}
+
+@media (max-width: 640px) {
+  .deck-actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .deck-actions > * {
+    width: 100%;
+    text-align: center;
+  }
 }
 </style>
 
