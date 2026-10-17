@@ -21,6 +21,11 @@ const routes: RouteRecordRaw[] = [
     name: 'decks',
     component: () => import('@/components/DeckSelection.vue'),
   },
+  {
+    path: '/decks/:deckId',
+    name: 'quiz',
+    component: () => import('@/components/DeckQuiz.vue'),
+  },
 ]
 
 const router = createRouter({

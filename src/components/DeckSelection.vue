@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { computed, onMounted, ref } from 'vue'
+import { useRouter } from 'vue-router'
 import {
   ComboboxRoot,
   ComboboxAnchor,
@@ -12,6 +13,8 @@ import {
   ComboboxItem,
 } from 'reka-ui'
 import type { Deck, DeckManifest } from '@/data/types'
+
+const router = useRouter()
 
 const decks = ref<Deck[]>([])
 const selectedDeckId = ref<string>()
@@ -52,11 +55,15 @@ const loadDecks = async (): Promise<void> => {
   }
 }
 
-const startDeck = (): void => {
+const startDeck = async (): Promise<void> => {
   if (!selectedDeck.value) return
 
-  // We'll connect this to the study route next.
-  console.log('Selected deck:', selectedDeck.value)
+  await router.push({
+    name: 'quiz',
+    params: {
+      deckId: selectedDeck.value.id,
+    },
+  })
 }
 
 onMounted(loadDecks)
