@@ -1,15 +1,20 @@
 <script setup lang="ts">
 import { onMounted } from 'vue'
 import { RouterLink, useRouter } from 'vue-router'
-import { getAuth } from 'firebase/auth'
+import { getAuth, onAuthStateChanged } from 'firebase/auth'
 
 const router = useRouter()
 
-onMounted(async () => {
-  const auth = await getAuth()
-  if (auth.currentUser) {
-    await router.push('/decks')
-  }
+onMounted(() => {
+  const auth = getAuth()
+
+  const unsubscribe = onAuthStateChanged(auth, (user) => {
+    if (user) {
+      void router.replace('/decks')
+    }
+
+    unsubscribe()
+  })
 })
 </script>
 
@@ -32,12 +37,23 @@ onMounted(async () => {
       <h2>Your Chinese journey, one word at a time.</h2>
 
       <div class="intro-actions">
-        <RouterLink to="/register" class="get-started">
-          <span class="original">Get Started</span>
-          <span class="translated" lang="zh-Hans" aria-hidden="true"> 开始 </span>
-        </RouterLink>
+        <div class="intro-buttons">
+          <RouterLink to="/register" class="get-started">
+            <span class="original">Get Started</span>
+            <span class="translated" lang="zh-Hans" aria-hidden="true">开始</span>
+          </RouterLink>
+
+          <RouterLink to="/decks" class="guest-link">
+            <span class="original">Continue as Guest</span>
+            <span class="translated" lang="zh-Hans" aria-hidden="true">访客体验</span>
+          </RouterLink>
+        </div>
 
         <RouterLink to="/login" class="login-link"> Already have an account? Log in </RouterLink>
+
+        <p class="guest-note">
+          No account required to practice. Sign up to save your results and track your progress.
+        </p>
       </div>
     </section>
   </main>
@@ -45,10 +61,9 @@ onMounted(async () => {
 
 <style scoped>
 h1 {
-  font-family: var(--font-brand);
+  font-family: var(--font-ui);
   font-size: clamp(2rem, 4vw, 3rem);
   line-height: 1.2;
-  font-family: var(--font-ui);
   color: var(--color-text);
   margin: 0 0 1.25rem;
 }
@@ -79,60 +94,89 @@ h2 {
   margin-top: 2rem;
 }
 
-.get-started {
+.intro-buttons {
+  display: flex;
+  align-items: stretch;
+  gap: 1rem;
+}
+
+.get-started,
+.guest-link {
   display: inline-grid;
   place-items: center;
   padding: 0.85rem 1.5rem;
-
-  background: var(--color-primary);
-  color: var(--color-primary-contrast);
-
   font-family: var(--font-ui);
   font-size: 0.95rem;
   font-weight: 600;
   text-decoration: none;
-
   border-radius: 0.75rem;
 
   transition:
     background-color 0.2s ease,
+    color 0.2s ease,
     transform 0.2s ease;
+}
+
+/* Primary action */
+
+.get-started {
+  background: var(--color-primary);
+  color: var(--color-primary-contrast);
+  border: 1px solid var(--color-primary);
 }
 
 .get-started:hover {
   background: var(--color-text);
+  border-color: var(--color-text);
   transform: translateY(-2px);
 }
 
-.get-started:focus-visible,
-.login-link:focus-visible {
-  outline: 2px solid var(--color-accent);
-  outline-offset: 4px;
+/* Guest action */
+
+.guest-link {
+  background: transparent;
+  color: var(--color-primary);
+  border: 1px solid var(--color-primary);
 }
 
-.get-started span {
+.guest-link:hover {
+  background: var(--color-primary);
+  color: var(--color-primary-contrast);
+  transform: translateY(-2px);
+}
+
+/* Shared bilingual hover animation */
+
+.get-started span,
+.guest-link span {
   grid-area: 1 / 1;
   white-space: nowrap;
   transition: opacity 0.5s ease-in-out;
 }
 
-.get-started .original {
+.get-started .original,
+.guest-link .original {
   font-family: var(--font-ui);
   opacity: 1;
 }
 
-.get-started .translated {
+.get-started .translated,
+.guest-link .translated {
   font-family: var(--font-brand);
   opacity: 0;
 }
 
-.get-started:is(:hover, :focus-visible) .original {
+.get-started:is(:hover, :focus-visible) .original,
+.guest-link:is(:hover, :focus-visible) .original {
   opacity: 0;
 }
 
-.get-started:is(:hover, :focus-visible) .translated {
+.get-started:is(:hover, :focus-visible) .translated,
+.guest-link:is(:hover, :focus-visible) .translated {
   opacity: 1;
 }
+
+/* Login link */
 
 .login-link {
   color: var(--color-primary);
@@ -150,28 +194,58 @@ h2 {
   text-underline-offset: 4px;
 }
 
+/* Guest explanation */
+
+.guest-note {
+  margin: 0;
+  max-width: 45ch;
+  font-size: 0.8rem;
+  line-height: 1.5;
+  color: var(--color-text-muted);
+}
+
+/* Focus states */
+
+.get-started:focus-visible,
+.guest-link:focus-visible,
+.login-link:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 4px;
+}
+
+/* Responsive */
+
 @media (max-width: 600px) {
   .intro-actions {
     align-items: stretch;
   }
 
-  .get-started {
+  .intro-buttons {
+    flex-direction: column;
+  }
+
+  .get-started,
+  .guest-link {
     width: 100%;
   }
 
-  .login-link {
+  .login-link,
+  .guest-note {
     text-align: center;
   }
 }
 
 @media (prefers-reduced-motion: reduce) {
   .get-started,
+  .guest-link,
   .get-started span,
+  .guest-link span,
   .login-link {
     transition: none;
   }
 
-  .get-started:hover {
+  .get-started:hover,
+  .guest-link:hover {
     transform: none;
   }
 }
