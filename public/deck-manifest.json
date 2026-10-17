@@ -1,4 +1,4 @@
- {
+{
   "schema_version": 2,
   "content_version": "1.0.0",
   "total_cards": 2800,
@@ -10,7 +10,8 @@
       "category": "general",
       "part": 1,
       "cards": 100,
-      "description": "Everyday Mandarin vocabulary and practical expressions."
+      "description": "Everyday Mandarin vocabulary and practical expressions.",
+      "printable": "mandarin_general_practical_vocabulary_100_cards.pdf"
     },
     {
       "id": "general_II",
@@ -19,7 +20,8 @@
       "category": "general",
       "part": 2,
       "cards": 100,
-      "description": "Additional everyday words and common expressions."
+      "description": "Additional everyday words and common expressions.",
+      "printable": "mandarin_general_practical_vocabulary_II_100_cards.pdf"
     },
     {
       "id": "general_III",
@@ -28,7 +30,8 @@
       "category": "general",
       "part": 3,
       "cards": 100,
-      "description": "Expanding practical vocabulary for everyday situations."
+      "description": "Expanding practical vocabulary for everyday situations.",
+      "printable": "mandarin_general_practical_vocabulary_III_100_cards.pdf"
     },
     {
       "id": "general_IV",
@@ -37,7 +40,8 @@
       "category": "general",
       "part": 4,
       "cards": 100,
-      "description": "Further everyday vocabulary and useful expressions."
+      "description": "Further everyday vocabulary and useful expressions.",
+      "printable": "mandarin_general_practical_vocabulary_IV_100_cards.pdf"
     },
     {
       "id": "food_I",
@@ -46,7 +50,8 @@
       "category": "food",
       "part": 1,
       "cards": 100,
-      "description": "Foods, ingredients, restaurants and ordering meals."
+      "description": "Foods, ingredients, restaurants and ordering meals.",
+      "printable": "mandarin_food_and_dining_I_100_cards.pdf"
     },
     {
       "id": "food_II",
@@ -55,7 +60,8 @@
       "category": "food",
       "part": 2,
       "cards": 100,
-      "description": "Cooking, dining and additional food-related vocabulary."
+      "description": "Cooking, dining and additional food-related vocabulary.",
+      "printable": "mandarin_food_and_dining_II_100_cards.pdf"
     },
     {
       "id": "food_III",
@@ -64,7 +70,8 @@
       "category": "food",
       "part": 3,
       "cards": 100,
-      "description": "Restaurant chains, tableware, containers and dining vocabulary."
+      "description": "Restaurant chains, tableware, containers and dining vocabulary.",
+      "printable": "mandarin_food_and_dining_III_100_cards.pdf"
     },
     {
       "id": "beauty_I",
@@ -73,7 +80,8 @@
       "category": "beauty",
       "part": 1,
       "cards": 100,
-      "description": "Cosmetics, makeup application and skincare products."
+      "description": "Cosmetics, makeup application and skincare products.",
+      "printable": "mandarin_beauty_I_makeup_skincare_100_cards.pdf"
     },
     {
       "id": "beauty_II",
@@ -82,7 +90,8 @@
       "category": "beauty",
       "part": 2,
       "cards": 100,
-      "description": "Hair salons, hairstyles, manicures and personal care."
+      "description": "Hair salons, hairstyles, manicures and personal care.",
+      "printable": "mandarin_beauty_II_hair_salon_nails_bodycare_100_cards.pdf"
     },
     {
       "id": "clothes_I",
@@ -91,7 +100,8 @@
       "category": "clothes",
       "part": 1,
       "cards": 100,
-      "description": "Clothing, shoes, sizes, colours and shopping."
+      "description": "Clothing, shoes, sizes, colours and shopping.",
+      "printable": "mandarin_clothes_I_clothing_shoes_shopping_100_cards.pdf"
     },
     {
       "id": "clothes_II",
@@ -100,7 +110,8 @@
       "category": "clothes",
       "part": 2,
       "cards": 100,
-      "description": "Women's clothing, tailoring, measurements and fashion."
+      "description": "Women's clothing, tailoring, measurements and fashion.",
+      "printable": "mandarin_clothes_II_womens_clothing_fit_style_100_cards.pdf"
     },
     {
       "id": "clothes_III",
@@ -109,7 +120,8 @@
       "category": "clothes",
       "part": 3,
       "cards": 100,
-      "description": "Lingerie, stockings, intimate apparel and feminine wardrobe."
+      "description": "Lingerie, stockings, intimate apparel and feminine wardrobe.",
+      "printable": "mandarin_clothes_III_lingerie_hosiery_feminine_wardrobe_100_cards.pdf"
     },
     {
       "id": "hobbies_I",
@@ -118,7 +130,8 @@
       "category": "hobbies",
       "part": 1,
       "cards": 100,
-      "description": "Leisure activities, recreation and personal interests."
+      "description": "Leisure activities, recreation and personal interests.",
+      "printable": "mandarin_hobbies_activities_I_100_cards.pdf"
     },
     {
       "id": "hobbies_II",
@@ -127,7 +140,8 @@
       "category": "hobbies",
       "part": 2,
       "cards": 100,
-      "description": "Additional hobbies, games, creative activities and recreation."
+      "description": "Additional hobbies, games, creative activities and recreation.",
+      "printable": "mandarin_hobbies_activities_II_100_cards.pdf"
     },
     {
       "id": "places_I",
@@ -136,7 +150,8 @@
       "category": "places",
       "part": 1,
       "cards": 100,
-      "description": "Buildings, businesses, public places and city vocabulary."
+      "description": "Buildings, businesses, public places and city vocabulary.",
+      "printable": "mandarin_places_around_town_I_100_cards.pdf"
     },
     {
       "id": "places_II",
@@ -145,7 +160,8 @@
       "category": "places",
       "part": 2,
       "cards": 100,
-      "description": "Transportation, directions, navigation and getting around."
+      "description": "Transportation, directions, navigation and getting around.",
+      "printable": "mandarin_places_around_town_II_100_cards.pdf"
     },
     {
       "id": "medical_I",
@@ -154,7 +170,8 @@
       "category": "medical",
       "part": 1,
       "cards": 100,
-      "description": "Body parts, anatomy and basic health terminology."
+      "description": "Body parts, anatomy and basic health terminology.",
+      "printable": "mandarin_medical_I_body_parts_100_cards.pdf"
     },
     {
       "id": "medical_II",
@@ -163,7 +180,8 @@
       "category": "medical",
       "part": 2,
       "cards": 100,
-      "description": "Symptoms, illnesses, injuries and describing health problems."
+      "description": "Symptoms, illnesses, injuries and describing health problems.",
+      "printable": "mandarin_medical_II_symptoms_illnesses_100_cards.pdf"
     },
     {
       "id": "medical_III",
@@ -172,7 +190,8 @@
       "category": "medical",
       "part": 3,
       "cards": 100,
-      "description": "Hospitals, appointments, medical tests and treatment."
+      "description": "Hospitals, appointments, medical tests and treatment.",
+      "printable": "mandarin_medical_III_hospital_tests_treatment_100_cards.pdf"
     },
     {
       "id": "lgbtq_I",
@@ -181,7 +200,8 @@
       "category": "lgbtq",
       "part": 1,
       "cards": 100,
-      "description": "Gender identity, sexuality and LGBTQ+ vocabulary."
+      "description": "Gender identity, sexuality and LGBTQ+ vocabulary.",
+      "printable": "mandarin_LGBTQ_I_gender_identity_100_cards.pdf"
     },
     {
       "id": "lgbtq_II",
@@ -190,7 +210,8 @@
       "category": "lgbtq",
       "part": 2,
       "cards": 100,
-      "description": "Relationships, coming out, transitioning and everyday experiences."
+      "description": "Relationships, coming out, transitioning and everyday experiences.",
+      "printable": "mandarin_LGBTQ_II_real_life_relationships_transition_100_cards.pdf"
     },
     {
       "id": "lgbtq_III",
@@ -199,7 +220,8 @@
       "category": "lgbtq",
       "part": 3,
       "cards": 100,
-      "description": "Intimacy, consent, sexual vocabulary and safer sex."
+      "description": "Intimacy, consent, sexual vocabulary and safer sex.",
+      "printable": "mandarin_LGBTQ_III_bedroom_intimacy_100_cards.pdf"
     },
     {
       "id": "housing_I",
@@ -208,7 +230,8 @@
       "category": "housing",
       "part": 1,
       "cards": 100,
-      "description": "Homes, apartments, furniture, landlords and renting."
+      "description": "Homes, apartments, furniture, landlords and renting.",
+      "printable": "mandarin_housing_I_homes_furniture_renting_100_cards.pdf"
     },
     {
       "id": "housing_II",
@@ -217,7 +240,8 @@
       "category": "housing",
       "part": 2,
       "cards": 100,
-      "description": "Cleaning, household maintenance, repairs and utilities."
+      "description": "Cleaning, household maintenance, repairs and utilities.",
+      "printable": "mandarin_housing_II_housework_repairs_100_cards.pdf"
     },
     {
       "id": "music_I",
@@ -226,7 +250,8 @@
       "category": "music",
       "part": 1,
       "cards": 100,
-      "description": "Musical instruments, genres, bands and performances."
+      "description": "Musical instruments, genres, bands and performances.",
+      "printable": "mandarin_music_I_instruments_genres_bands_100_cards.pdf"
     },
     {
       "id": "music_II",
@@ -235,7 +260,8 @@
       "category": "music",
       "part": 2,
       "cards": 100,
-      "description": "Bass guitar anatomy, techniques, amplifiers and effects pedals."
+      "description": "Bass guitar anatomy, techniques, amplifiers and effects pedals.",
+      "printable": "mandarin_music_II_bass_technique_effects_100_cards.pdf"
     },
     {
       "id": "software_I",
@@ -244,7 +270,8 @@
       "category": "software",
       "part": 1,
       "cards": 100,
-      "description": "Programming, frontend, backend, databases and deployment."
+      "description": "Programming, frontend, backend, databases and deployment.",
+      "printable": "mandarin_software_I_programming_web_development_100_cards.pdf"
     },
     {
       "id": "software_II",
@@ -253,7 +280,8 @@
       "category": "software",
       "part": 2,
       "cards": 100,
-      "description": "Meetings, planning, code reviews, coworkers and work communication."
+      "description": "Meetings, planning, code reviews, coworkers and work communication.",
+      "printable": "mandarin_software_II_workplace_communication_100_cards.pdf"
     }
   ]
 }
