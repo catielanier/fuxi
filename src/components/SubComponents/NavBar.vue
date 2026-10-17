@@ -91,7 +91,12 @@ onUnmounted(() => {
               <span class="translated" lang="zh-Hans" aria-hidden="true"> 牌组 </span>
             </RouterLink>
           </li>
-          <!-- add logout anchor that runs a function to log the user out, not a routerlink -->
+          <li>
+            <RouterLink id="history" to="/history">
+              <span class="original">History</span>
+              <span class="translated" lang="zh-Hans" aria-hidden="true">复习记录</span>
+            </RouterLink>
+          </li>
           <li>
             <a id="logout" href="#" @click.prevent="handleLogout">
               <span class="original">Logout</span>

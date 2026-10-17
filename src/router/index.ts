@@ -40,6 +40,11 @@ const routes: RouteRecordRaw[] = [
     component: () => import('@/components/Results.vue'),
     props: true,
   },
+  {
+    path: '/history',
+    name: 'history',
+    component: () => import('@/components/History.vue'),
+  },
 ]
 
 const router = createRouter({
