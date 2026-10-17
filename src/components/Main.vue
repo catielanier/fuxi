@@ -1,5 +1,16 @@
 <script setup lang="ts">
-import { RouterLink } from 'vue-router'
+import { onMounted } from 'vue'
+import { RouterLink, useRouter } from 'vue-router'
+import { getAuth } from 'firebase/auth'
+
+const router = useRouter()
+
+onMounted(async () => {
+  const auth = await getAuth()
+  if (auth.currentUser) {
+    await router.push('/decks')
+  }
+})
 </script>
 
 <template>
@@ -14,13 +25,13 @@ import { RouterLink } from 'vue-router'
       </p>
 
       <p>
-        Fuxi (复习) gives you a place to organize your vocabulary,
+        Fuxi (复习) gives you a place to organize your Mandarin vocabulary,
         track your progress, and practice at your own pace. Whether
-        you're picking up a new language or reconnecting with one
-        you've studied before, every review brings you a little further.
+        you're picking up Mandarin anew or reconnecting with it after a break,
+        every review brings you a little further.
       </p>
 
-      <h2>Your language journey, one word at a time.</h2>
+      <h2>Your Chinese journey, one word at a time.</h2>
 
       <div class="intro-actions">
         <RouterLink to="/register" class="get-started">

@@ -36,7 +36,7 @@
           </fieldset>
           <fieldset class="form-field password">
             <legend>Password</legend>
-            <input type="password" name="password" placeholder="密码" required />
+            <input v-model="password" type="password" name="password" placeholder="密码" required />
           </fieldset>
           <button type="submit">
             <span class="original" :class="{ hidden: isLoading }">Log In</span>

@@ -1,8 +1,63 @@
 <script setup lang="ts">
-import { RouterLink } from 'vue-router'
+import { onMounted, onUnmounted, ref } from 'vue'
+import { RouterLink, useRouter } from 'vue-router'
+import { getAuth, onAuthStateChanged } from 'firebase/auth'
+import { getDatabase, ref as dbRef, onValue } from 'firebase/database'
+import firebase from '@/utils/firebase'
 defineProps<{
   easterEggVisible: boolean
 }>()
+
+const router = useRouter()
+const auth = getAuth()
+const db = getDatabase(firebase)
+
+const name = ref('')
+const isLoggedIn = ref(false)
+
+let unsubscribeAuth: (() => void) | null = null
+let unsubscribeUser: (() => void) | null = null
+
+
+const handleLogout = async (): Promise<void> => {
+  await auth.signOut()
+  isLoggedIn.value = false
+  name.value = ''
+  await router.push('/')
+}
+
+onMounted(() => {
+  unsubscribeAuth = onAuthStateChanged(auth, (user) => {
+    // Remove any previous database subscription
+    unsubscribeUser?.()
+    unsubscribeUser = null
+
+    isLoggedIn.value = user !== null
+    name.value = ''
+
+    if (!user) return
+
+    // Subscribe to the currently authenticated user's profile
+    const userRef = dbRef(db, `users/${user.uid}`)
+
+    unsubscribeUser = onValue(userRef, (snapshot) => {
+      if (!snapshot.exists()) {
+        name.value = ''
+        return
+      }
+
+      const userData = snapshot.val()
+
+      name.value = userData.givenNameZh || userData.givenName || ''
+    })
+  })
+})
+
+
+onUnmounted(() => {
+  unsubscribeAuth?.()
+  unsubscribeUser?.()
+})
 </script>
 
 <template>
@@ -24,23 +79,47 @@ defineProps<{
 
     <nav aria-label="Main navigation">
       <ul>
-        <li>
-          <RouterLink id="login" to="/login">
-            <span class="original">Login</span>
-            <span class="translated" lang="zh-Hans" aria-hidden="true">
-              登录
-            </span>
-          </RouterLink>
+        <li v-if="isLoggedIn" class="user-greeting">
+          {{ name }}，你好！
         </li>
-
-        <li>
-          <RouterLink id="register" to="/register">
-            <span class="original">Register</span>
-            <span class="translated" lang="zh-Hans" aria-hidden="true">
-              注册
-            </span>
-          </RouterLink>
-        </li>
+        <template v-if="!isLoggedIn">
+          <li>
+            <RouterLink id="login" to="/login">
+              <span class="original">Login</span>
+              <span class="translated" lang="zh-Hans" aria-hidden="true">
+                登录
+              </span>
+            </RouterLink>
+          </li>
+  
+          <li>
+            <RouterLink id="register" to="/register">
+              <span class="original">Register</span>
+              <span class="translated" lang="zh-Hans" aria-hidden="true">
+                注册
+              </span>
+            </RouterLink>
+          </li>
+        </template>
+        <template v-else>
+          <li>
+            <RouterLink id="decks" to="/decks">
+              <span class="original">Decks</span>
+              <span class="translated" lang="zh-Hans" aria-hidden="true">
+                牌组
+              </span>
+            </RouterLink>
+          </li>
+          <!-- add logout anchor that runs a function to log the user out, not a routerlink -->
+          <li>
+            <a id="logout" href="#" @click.prevent="handleLogout">
+              <span class="original">Logout</span>
+              <span class="translated" lang="zh-Hans" aria-hidden="true">
+                登出
+              </span>
+            </a>
+          </li>
+        </template>
       </ul>
     </nav>
   </header>
@@ -107,6 +186,13 @@ nav li {
   padding: 0;
 }
 
+nav li.user-greeting {
+  font-family: var(--font-brand);
+  font-size: 1rem;
+  font-weight: bold;
+  color: var(--color-text-muted);
+}
+
 nav a {
   display: grid;
 
@@ -142,7 +228,6 @@ nav a .original {
 
 nav a .translated {
   font-family: var(--font-brand);
-  font-size: 0.9rem;
   opacity: 0;
 }
 
