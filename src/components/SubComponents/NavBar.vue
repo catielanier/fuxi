@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import { onMounted, onUnmounted, ref } from 'vue'
+import { computed, ref, onMounted, onUnmounted } from 'vue'
 import { RouterLink, useRouter } from 'vue-router'
-import { getAuth, onAuthStateChanged } from 'firebase/auth'
+import { getAuth, onAuthStateChanged, type Unsubscribe } from 'firebase/auth'
 import { getDatabase, ref as dbRef, onValue } from 'firebase/database'
 import firebase from '@/utils/firebase'
 
@@ -10,23 +10,25 @@ defineProps<{
 }>()
 
 const router = useRouter()
-const auth = getAuth()
-const db = getDatabase(firebase)
 
 const name = ref('')
 const isLoggedIn = ref(false)
 
-let unsubscribeAuth: (() => void) | null = null
-let unsubscribeUser: (() => void) | null = null
+let unsubscribeAuth: Unsubscribe | null = null
+let unsubscribeUser: Unsubscribe | null = null
+
+const greeting = computed(() => (name.value ? `${name.value}，你好！` : '你好！'))
 
 const handleLogout = async (): Promise<void> => {
+  const auth = getAuth()
+
   await auth.signOut()
-  isLoggedIn.value = false
-  name.value = ''
   await router.push('/')
 }
 
 onMounted(() => {
+  const auth = getAuth()
+
   unsubscribeAuth = onAuthStateChanged(auth, (user) => {
     unsubscribeUser?.()
     unsubscribeUser = null
@@ -36,13 +38,11 @@ onMounted(() => {
 
     if (!user) return
 
+    const db = getDatabase(firebase)
     const userRef = dbRef(db, `users/${user.uid}`)
 
     unsubscribeUser = onValue(userRef, (snapshot) => {
-      if (!snapshot.exists()) {
-        name.value = ''
-        return
-      }
+      if (!snapshot.exists()) return
 
       const userData = snapshot.val()
 
@@ -61,7 +61,9 @@ onUnmounted(() => {
   <header class="top-nav">
     <RouterLink to="/" class="branding" aria-label="Fuxi — Home">
       <span class="brand-name" lang="zh-Hans">
-        <img v-if="easterEggVisible" src="@/assets/vue.svg" alt="Vue" class="vue-logo" />
+        <template v-if="easterEggVisible">
+          <img src="@/assets/vue.svg" alt="Vue" class="easter-egg" />
+        </template>
         <template v-else>复</template>习
       </span>
 
@@ -70,44 +72,46 @@ onUnmounted(() => {
 
     <nav aria-label="Main navigation">
       <ul>
-        <li v-if="isLoggedIn && name" class="user-greeting">{{ name }}，你好！</li>
-
-        <template v-if="!isLoggedIn">
-          <li>
-            <RouterLink id="login" to="/login">
-              <span class="original">Login</span>
-              <span class="translated" lang="zh-Hans" aria-hidden="true"> 登录 </span>
-            </RouterLink>
+        <template v-if="isLoggedIn">
+          <li class="greeting" lang="zh-Hans">
+            {{ greeting }}
           </li>
 
           <li>
-            <RouterLink id="register" to="/register">
-              <span class="original">Register</span>
-              <span class="translated" lang="zh-Hans" aria-hidden="true"> 注册 </span>
-            </RouterLink>
-          </li>
-        </template>
-
-        <template v-else>
-          <li>
-            <RouterLink id="decks" to="/decks">
+            <RouterLink to="/decks">
               <span class="original">Decks</span>
               <span class="translated" lang="zh-Hans" aria-hidden="true"> 牌组 </span>
             </RouterLink>
           </li>
 
           <li>
-            <RouterLink id="history" to="/history">
+            <RouterLink to="/history">
               <span class="original">History</span>
-              <span class="translated" lang="zh-Hans" aria-hidden="true"> 复习记录 </span>
+              <span class="translated" lang="zh-Hans" aria-hidden="true"> 历史 </span>
             </RouterLink>
           </li>
 
           <li>
-            <button id="logout" type="button" @click="handleLogout">
+            <button type="button" class="nav-action" @click="handleLogout">
               <span class="original">Logout</span>
-              <span class="translated" lang="zh-Hans" aria-hidden="true"> 登出 </span>
+              <span class="translated" lang="zh-Hans" aria-hidden="true"> 退出 </span>
             </button>
+          </li>
+        </template>
+
+        <template v-else>
+          <li>
+            <RouterLink to="/login">
+              <span class="original">Login</span>
+              <span class="translated" lang="zh-Hans" aria-hidden="true"> 登录 </span>
+            </RouterLink>
+          </li>
+
+          <li>
+            <RouterLink to="/register">
+              <span class="original">Register</span>
+              <span class="translated" lang="zh-Hans" aria-hidden="true"> 注册 </span>
+            </RouterLink>
           </li>
         </template>
       </ul>
@@ -116,7 +120,7 @@ onUnmounted(() => {
 </template>
 
 <style scoped>
-/* Header layout */
+/* Header */
 
 .top-nav {
   display: flex;
@@ -127,6 +131,7 @@ onUnmounted(() => {
   width: min(100% - 2rem, 1200px);
   margin: 0 auto;
   padding-top: 1.5rem;
+  box-sizing: border-box;
 }
 
 /* Branding */
@@ -134,13 +139,12 @@ onUnmounted(() => {
 .branding {
   display: flex;
   flex-direction: column;
-  flex-shrink: 0;
-
+  flex: 0 1 auto;
+  min-width: 0;
   margin-left: 2.5rem;
 
-  text-align: left;
-  text-decoration: none;
   color: var(--color-text);
+  text-decoration: none;
 
   transition: color 0.2s ease-in-out;
 }
@@ -150,6 +154,9 @@ onUnmounted(() => {
 }
 
 .brand-name {
+  display: flex;
+  align-items: center;
+
   font-family: var(--font-brand);
   font-size: 3rem;
   line-height: 1.2;
@@ -159,20 +166,19 @@ onUnmounted(() => {
   font-family: var(--font-ui);
   font-size: 0.875rem;
   font-weight: 600;
+  white-space: nowrap;
 }
 
-.vue-logo {
-  width: 0.9em;
-  height: 0.9em;
+.easter-egg {
+  width: 1em;
+  height: 1em;
   object-fit: contain;
-  vertical-align: baseline;
 }
 
-/* Navigation container */
+/* Navigation */
 
 nav {
-  flex-shrink: 0;
-  min-width: 0;
+  flex: 0 0 auto;
 }
 
 nav ul {
@@ -181,19 +187,11 @@ nav ul {
   gap: 1rem;
 
   width: fit-content;
-  max-width: 100%;
-
   margin: 0;
   padding: 0.75rem 1.25rem;
 
   list-style: none;
-
-  background: rgb(from var(--color-background) r g b / 78%);
-
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-
-  border: 1px solid rgb(from var(--color-border) r g b / 60%);
+  background: var(--color-background);
   border-radius: 0.75rem;
 }
 
@@ -202,21 +200,20 @@ nav li {
   padding: 0;
 }
 
-/* Personalized greeting */
-
-nav li.user-greeting {
+.greeting {
+  color: var(--color-text);
   font-family: var(--font-brand);
-  font-size: 1rem;
-  font-weight: 700;
-  color: var(--color-text-muted);
+  font-size: 0.9rem;
   white-space: nowrap;
 }
 
-/* Navigation links and logout button */
+/* Navigation links and buttons */
 
 nav a,
-nav button {
+.nav-action {
   display: grid;
+  align-items: center;
+  justify-items: center;
 
   padding: 0;
   border: 0;
@@ -224,18 +221,18 @@ nav button {
 
   color: var(--color-primary);
   font-family: var(--font-ui);
-  font-size: 1rem;
+  font-size: 0.875rem;
   font-weight: 600;
-  line-height: inherit;
+  line-height: 1.4;
   text-decoration: none;
+  white-space: nowrap;
 
   cursor: pointer;
-
   transition: color 0.2s ease-in-out;
 }
 
 nav a:is(:hover, :focus-visible),
-nav button:is(:hover, :focus-visible) {
+.nav-action:is(:hover, :focus-visible) {
   color: var(--color-accent);
 }
 
@@ -243,12 +240,21 @@ nav a.router-link-active {
   color: var(--color-text);
 }
 
-/* English / Chinese hover animation */
+nav a:focus-visible,
+.nav-action:focus-visible,
+.branding:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 4px;
+  border-radius: 0.25rem;
+}
+
+/* English / Chinese animation */
 
 nav a span,
-nav button span {
+.nav-action span {
   grid-area: 1 / 1;
   white-space: nowrap;
+  text-align: center;
 
   transition: opacity 0.5s ease-in-out;
 }
@@ -260,27 +266,18 @@ nav .original {
 
 nav .translated {
   font-family: var(--font-brand);
+  font-size: 0.9rem;
   opacity: 0;
 }
 
 nav a:is(:hover, :focus-visible) .original,
-nav button:is(:hover, :focus-visible) .original {
+.nav-action:is(:hover, :focus-visible) .original {
   opacity: 0;
 }
 
 nav a:is(:hover, :focus-visible) .translated,
-nav button:is(:hover, :focus-visible) .translated {
+.nav-action:is(:hover, :focus-visible) .translated {
   opacity: 1;
-}
-
-/* Keyboard accessibility */
-
-nav a:focus-visible,
-nav button:focus-visible,
-.branding:focus-visible {
-  outline: 2px solid var(--color-accent);
-  outline-offset: 4px;
-  border-radius: 0.25rem;
 }
 
 /* Tablet */
@@ -294,13 +291,17 @@ nav button:focus-visible,
     margin-left: 1rem;
   }
 
-  nav {
-    flex-shrink: 1;
+  nav ul {
+    gap: 0.75rem;
+    padding: 0.65rem 1rem;
   }
 
-  nav ul {
-    flex-wrap: wrap;
-    justify-content: center;
+  .brand-name {
+    font-size: 2.5rem;
+  }
+
+  .brand-subtitle {
+    font-size: 0.75rem;
   }
 }
 
@@ -308,53 +309,97 @@ nav button:focus-visible,
 
 @media (max-width: 600px) {
   .top-nav {
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 1rem;
+    width: calc(100% - 2rem);
+    margin: 0 auto;
+    padding-top: 1rem;
 
-    padding-top: 1.5rem;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
   }
 
   .branding {
+    flex: 0 1 auto;
+    align-items: flex-start;
+    min-width: 0;
     margin-left: 0;
-    align-items: center;
-    text-align: center;
+
+    text-align: left;
   }
 
   .brand-name {
-    font-size: 3rem;
+    font-size: 2rem;
+    line-height: 1.1;
   }
 
   .brand-subtitle {
-    text-align: center;
+    font-size: 0.55rem;
+    line-height: 1.3;
+    white-space: nowrap;
   }
 
   nav {
-    width: fit-content;
-    max-width: 100%;
-    flex-shrink: 1;
+    flex: 0 0 auto;
   }
 
   nav ul {
-    width: fit-content;
-    max-width: 100%;
+    flex-direction: row;
+    align-items: center;
+    gap: 0.5rem;
 
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 0.75rem 1rem;
+    margin: 0;
+    padding: 0.5rem 0.75rem;
 
-    padding: 0.75rem 1rem;
-  }
-
-  nav li.user-greeting {
-    flex-basis: 100%;
-    text-align: center;
+    border-radius: 0.5rem;
   }
 
   nav a,
-  nav button {
-    font-size: 0.95rem;
+  .nav-action {
+    font-size: 0.75rem;
+  }
+
+  nav .translated {
+    font-size: 0.75rem;
+  }
+
+  .greeting {
+    font-size: 0.7rem;
+  }
+}
+
+/* Very narrow screens */
+
+@media (max-width: 380px) {
+  .top-nav {
+    width: calc(100% - 1.5rem);
+    gap: 0.35rem;
+  }
+
+  .brand-name {
+    font-size: 1.75rem;
+  }
+
+  .brand-subtitle {
+    font-size: 0.48rem;
+  }
+
+  nav ul {
+    gap: 0.4rem;
+    padding: 0.45rem 0.5rem;
+  }
+
+  nav a,
+  .nav-action {
+    font-size: 0.7rem;
+  }
+
+  nav .translated {
+    font-size: 0.7rem;
+  }
+
+  .greeting {
+    font-size: 0.65rem;
   }
 }
 
@@ -363,9 +408,9 @@ nav button:focus-visible,
 @media (prefers-reduced-motion: reduce) {
   .branding,
   nav a,
-  nav button,
+  .nav-action,
   nav a span,
-  nav button span {
+  .nav-action span {
     transition: none;
   }
 }
