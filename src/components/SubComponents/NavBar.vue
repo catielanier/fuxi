@@ -161,7 +161,12 @@ nav ul {
   padding: 0.75rem 1.25rem;
 
   list-style: none;
-  background-color: var(--color-background);
+
+  background: rgb(from var(--color-background) r g b / 78%);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+
+  border: 1px solid rgb(from var(--color-border) r g b / 60%);
   border-radius: 0.75rem;
 }
 
