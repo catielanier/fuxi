@@ -16,6 +16,11 @@ const routes: RouteRecordRaw[] = [
     name: 'register',
     component: () => import('@/components/Register.vue'),
   },
+  {
+    path: '/decks',
+    name: 'decks',
+    component: () => import('@/components/DeckSelection.vue'),
+  },
 ]
 
 const router = createRouter({
