@@ -341,9 +341,7 @@ nav a:is(:hover, :focus-visible) .translated,
   }
 
   .brand-subtitle {
-    font-size: 0.55rem;
-    line-height: 1.3;
-    white-space: nowrap;
+    display: none;
   }
 
   nav {
