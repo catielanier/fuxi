@@ -16,18 +16,19 @@ const props = defineProps<{
 
 const route = useRoute()
 
+// eslint-disable-next-line vue/no-dupe-keys
 const result = ref<QuizResult | null>(null)
 const isLoading = ref(true)
 const error = ref('')
 
 let unsubscribeAuth: (() => void) | null = null
+let loadVersion = 0
 
 const activeResultId = computed(() => {
   const id = props.resultId ?? route.params.resultId
   return typeof id === 'string' ? id : null
 })
 
-// Score calculation
 const correctPinyin = computed(
   () => result.value?.results.filter((card) => card.pinyin.correct).length ?? 0,
 )
@@ -44,7 +45,6 @@ const percentage = computed(() =>
   totalPoints.value ? Math.round((score.value / totalPoints.value) * 100) : 0,
 )
 
-// Individual card states
 const getCardStatus = (card: QuizCardResult): CardStatus => {
   const pinyinCorrect = card.pinyin.correct
   const englishCorrect = card.english.correct
@@ -94,6 +94,9 @@ const loadResult = async (
   unsubscribeAuth?.()
   unsubscribeAuth = null
 
+  const currentVersion = ++loadVersion
+  const isCurrent = (): boolean => currentVersion === loadVersion
+
   isLoading.value = true
   error.value = ''
   result.value = null
@@ -115,16 +118,23 @@ const loadResult = async (
   unsubscribeAuth = onAuthStateChanged(
     auth,
     async (user) => {
+      if (!isCurrent()) return
+
       if (!user) {
+        result.value = null
         error.value = 'Please sign in to view these results.'
         isLoading.value = false
         return
       }
 
+      isLoading.value = true
+
       try {
         const resultRef = dbRef(database, `users/${user.uid}/results/${resultId}`)
 
         const snapshot = await get(resultRef)
+
+        if (!isCurrent() || auth.currentUser?.uid !== user.uid) return
 
         if (!snapshot.exists()) {
           throw new Error('Results not found.')
@@ -133,12 +143,19 @@ const loadResult = async (
         result.value = snapshot.val() as QuizResult
         error.value = ''
       } catch (err) {
+        if (!isCurrent() || auth.currentUser?.uid !== user.uid) return
+
+        result.value = null
         error.value = err instanceof Error ? err.message : 'Unable to retrieve results.'
       } finally {
-        isLoading.value = false
+        if (isCurrent() && auth.currentUser?.uid === user.uid) {
+          isLoading.value = false
+        }
       }
     },
     (err) => {
+      if (!isCurrent()) return
+
       error.value = err.message
       isLoading.value = false
     },
@@ -148,14 +165,10 @@ const loadResult = async (
 watch(
   [activeResultId, () => props.result],
   ([resultId, guestResult], _, onCleanup) => {
-    let cancelled = false
-
-    void loadResult(resultId, guestResult).then(() => {
-      if (cancelled) return
-    })
+    void loadResult(resultId, guestResult)
 
     onCleanup(() => {
-      cancelled = true
+      loadVersion++
       unsubscribeAuth?.()
       unsubscribeAuth = null
     })
@@ -164,7 +177,9 @@ watch(
 )
 
 onUnmounted(() => {
+  loadVersion++
   unsubscribeAuth?.()
+  unsubscribeAuth = null
 })
 </script>
 
@@ -177,7 +192,7 @@ onUnmounted(() => {
         <h3>Unable to display results</h3>
         <p>{{ error }}</p>
 
-        <RouterLink to="/decks"> Return to Decks </RouterLink>
+        <RouterLink to="/decks">Return to Decks</RouterLink>
       </div>
 
       <template v-else-if="result">
@@ -212,12 +227,12 @@ onUnmounted(() => {
         <div class="results-summary">
           <div class="summary-item">
             <span class="summary-label">Pinyin</span>
-            <strong> {{ correctPinyin }}/{{ result.totalCards }} </strong>
+            <strong>{{ correctPinyin }}/{{ result.totalCards }}</strong>
           </div>
 
           <div class="summary-item">
             <span class="summary-label">English</span>
-            <strong> {{ correctEnglish }}/{{ result.totalCards }} </strong>
+            <strong>{{ correctEnglish }}/{{ result.totalCards }}</strong>
           </div>
 
           <div class="summary-item">
@@ -238,125 +253,127 @@ onUnmounted(() => {
 
         <h4 class="results-section-title">Vocabulary Review</h4>
 
-        <div class="results-grid">
-          <article
-            v-for="(card, index) in result.results"
-            :key="`${card.cardIndex}-${index}`"
-            class="result-card"
-            :class="`status-${getCardStatus(card)}`"
-          >
-            <div class="result-card-header">
-              <span class="card-number">
-                {{ index + 1 }}
-              </span>
+        <div class="results-grid-container">
+          <div class="results-grid">
+            <article
+              v-for="(card, index) in result.results"
+              :key="`${card.cardIndex}-${index}`"
+              class="result-card"
+              :class="`status-${getCardStatus(card)}`"
+            >
+              <div class="result-card-header">
+                <span class="card-number">
+                  {{ index + 1 }}
+                </span>
 
-              <span class="card-status">
-                {{ statusLabels[getCardStatus(card)] }}
-              </span>
-            </div>
+                <span class="card-status">
+                  {{ statusLabels[getCardStatus(card)] }}
+                </span>
+              </div>
 
-            <h5 class="result-hanzi" lang="zh-Hans">
-              {{ card.hanzi }}
-            </h5>
+              <h5 class="result-hanzi" lang="zh-Hans">
+                {{ card.hanzi }}
+              </h5>
 
-            <div class="result-answers">
-              <template v-if="card.pinyin.correct && card.english.correct">
-                <div class="answer-field">
-                  <span class="answer-label">Pinyin</span>
+              <div class="result-answers">
+                <template v-if="card.pinyin.correct && card.english.correct">
+                  <div class="answer-field">
+                    <span class="answer-label">Pinyin</span>
 
-                  <span class="answer-value">
-                    {{ formatExpected(card.pinyin.expected) }}
-                  </span>
-                </div>
-
-                <div class="answer-field">
-                  <span class="answer-label">English</span>
-
-                  <span class="answer-value">
-                    {{ formatExpected(card.english.expected) }}
-                  </span>
-                </div>
-              </template>
-
-              <template v-else>
-                <div class="answer-field">
-                  <span class="answer-label">
-                    Pinyin
-                    <span :class="card.pinyin.correct ? 'answer-correct' : 'answer-incorrect'">
-                      {{ card.pinyin.correct ? '✓' : '✗' }}
-                    </span>
-                  </span>
-
-                  <template v-if="card.pinyin.correct">
                     <span class="answer-value">
                       {{ formatExpected(card.pinyin.expected) }}
                     </span>
-                  </template>
+                  </div>
 
-                  <template v-else>
-                    <span class="answer-submitted">
-                      <span>Your answer:</span>
-                      {{ card.pinyin.submitted }}
-                    </span>
+                  <div class="answer-field">
+                    <span class="answer-label">English</span>
 
-                    <span class="answer-expected">
-                      <span>Correct answer:</span>
-                      {{ formatExpected(card.pinyin.expected) }}
-                    </span>
-                  </template>
-                </div>
-
-                <div class="answer-field">
-                  <span class="answer-label">
-                    English
-                    <span :class="card.english.correct ? 'answer-correct' : 'answer-incorrect'">
-                      {{ card.english.correct ? '✓' : '✗' }}
-                    </span>
-                  </span>
-
-                  <template v-if="card.english.correct">
                     <span class="answer-value">
                       {{ formatExpected(card.english.expected) }}
                     </span>
-                  </template>
+                  </div>
+                </template>
 
-                  <template v-else>
-                    <span class="answer-submitted">
-                      <span>Your answer:</span>
-                      {{ card.english.submitted }}
+                <template v-else>
+                  <div class="answer-field">
+                    <span class="answer-label">
+                      Pinyin
+                      <span :class="card.pinyin.correct ? 'answer-correct' : 'answer-incorrect'">
+                        {{ card.pinyin.correct ? '✓' : '✗' }}
+                      </span>
                     </span>
 
-                    <span class="answer-expected">
-                      <span>Correct answer:</span>
-                      {{ formatExpected(card.english.expected) }}
+                    <template v-if="card.pinyin.correct">
+                      <span class="answer-value">
+                        {{ formatExpected(card.pinyin.expected) }}
+                      </span>
+                    </template>
+
+                    <template v-else>
+                      <span class="answer-submitted">
+                        <span>Your answer:</span>
+                        {{ card.pinyin.submitted }}
+                      </span>
+
+                      <span class="answer-expected">
+                        <span>Correct answer:</span>
+                        {{ formatExpected(card.pinyin.expected) }}
+                      </span>
+                    </template>
+                  </div>
+
+                  <div class="answer-field">
+                    <span class="answer-label">
+                      English
+                      <span :class="card.english.correct ? 'answer-correct' : 'answer-incorrect'">
+                        {{ card.english.correct ? '✓' : '✗' }}
+                      </span>
                     </span>
-                  </template>
-                </div>
-              </template>
-            </div>
 
-            <div class="result-card-actions">
-              <a
-                :href="getStrokeOrderUrl(card.hanzi)"
-                target="_blank"
-                rel="noopener noreferrer"
-                class="result-action"
-              >
-                Stroke Order
-                <span aria-hidden="true">↗</span>
-              </a>
+                    <template v-if="card.english.correct">
+                      <span class="answer-value">
+                        {{ formatExpected(card.english.expected) }}
+                      </span>
+                    </template>
 
-              <a
-                :href="getPronunciationUrl(card.hanzi)"
-                target="_blank"
-                rel="noopener noreferrer"
-                class="result-action"
-              >
-                Pronunciation
-                <span aria-hidden="true">↗</span>
-              </a>
-            </div>
-          </article>
+                    <template v-else>
+                      <span class="answer-submitted">
+                        <span>Your answer:</span>
+                        {{ card.english.submitted }}
+                      </span>
+
+                      <span class="answer-expected">
+                        <span>Correct answer:</span>
+                        {{ formatExpected(card.english.expected) }}
+                      </span>
+                    </template>
+                  </div>
+                </template>
+              </div>
+
+              <div class="result-card-actions">
+                <a
+                  :href="getStrokeOrderUrl(card.hanzi)"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="result-action"
+                >
+                  Stroke Order
+                  <span aria-hidden="true">↗</span>
+                </a>
+
+                <a
+                  :href="getPronunciationUrl(card.hanzi)"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="result-action"
+                >
+                  Pronunciation
+                  <span aria-hidden="true">↗</span>
+                </a>
+              </div>
+            </article>
+          </div>
         </div>
 
         <div class="results-footer">
@@ -370,9 +387,8 @@ onUnmounted(() => {
 <style scoped>
 .results-page {
   font-family: var(--font-ui);
+  min-width: 0;
 }
-
-/* Heading and score */
 
 .results-header {
   display: flex;
@@ -382,6 +398,10 @@ onUnmounted(() => {
   gap: 2rem;
 }
 
+.results-heading {
+  min-width: 0;
+}
+
 .results-heading h3 {
   margin: 0 0 0.5rem;
 }
@@ -389,6 +409,7 @@ onUnmounted(() => {
 .results-heading h4 {
   margin: 0;
   font-size: 1.25rem;
+  overflow-wrap: anywhere;
 }
 
 .results-date {
@@ -424,28 +445,27 @@ onUnmounted(() => {
   margin: 2rem 0;
   overflow: hidden;
   border-radius: 999px;
-  background: var(--color-background-soft, #ddd);
+  background: var(--color-border);
 }
 
 .score-progress-fill {
   height: 100%;
   border-radius: inherit;
-  background: var(--color-text);
+  background: var(--color-primary);
 }
-
-/* Score summary */
 
 .results-summary {
   display: grid;
   grid-template-columns: repeat(5, minmax(0, 1fr));
   gap: 1rem;
   padding: 1.5rem 0;
-  border-block: 1px solid var(--color-border, #ccc);
+  border-block: 1px solid var(--color-border);
 }
 
 .summary-item {
   display: flex;
   flex-direction: column;
+  min-width: 0;
   gap: 0.5rem;
   text-align: center;
 }
@@ -460,10 +480,15 @@ onUnmounted(() => {
   font-variant-numeric: tabular-nums;
 }
 
-/* Result grid */
-
 .results-section-title {
   margin: 2rem 0 1.25rem;
+}
+
+/* Responsive Vocabulary Card Grid */
+
+.results-grid-container {
+  container-type: inline-size;
+  min-width: 0;
 }
 
 .results-grid {
@@ -472,16 +497,27 @@ onUnmounted(() => {
   gap: 1.25rem;
 }
 
+@container (max-width: 820px) {
+  .results-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+/* Vocabulary Cards */
+
 .result-card {
   --status-color: var(--color-text);
 
   display: flex;
   flex-direction: column;
+  box-sizing: border-box;
   min-width: 0;
   padding: 1.25rem;
+
   border: 1px solid var(--status-color);
   border-radius: 0.75rem;
   background: var(--color-background);
+
   overflow-wrap: anywhere;
 }
 
@@ -518,8 +554,6 @@ onUnmounted(() => {
   color: var(--status-color);
 }
 
-/* Hanzi */
-
 .result-hanzi {
   margin: 1.5rem 0;
   font-family: var(--font-hanzi);
@@ -529,8 +563,6 @@ onUnmounted(() => {
   text-align: center;
   overflow-wrap: anywhere;
 }
-
-/* Answers */
 
 .result-answers {
   display: flex;
@@ -544,6 +576,7 @@ onUnmounted(() => {
   display: flex;
   flex-direction: column;
   gap: 0.35rem;
+  min-width: 0;
 }
 
 .answer-label {
@@ -592,6 +625,8 @@ onUnmounted(() => {
   opacity: 1;
 }
 
+/* Card Actions */
+
 .result-card-actions {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -604,16 +639,23 @@ onUnmounted(() => {
   justify-content: center;
   align-items: center;
   gap: 0.5rem;
+
   min-width: 0;
   padding: 0.7rem 0.5rem;
+
   border: 1px solid var(--color-text);
   border-radius: 0.5rem;
+
   color: var(--color-text);
   background: transparent;
+
   font-family: var(--font-ui);
   font-size: 0.8rem;
   text-align: center;
   text-decoration: none;
+
+  overflow-wrap: anywhere;
+
   transition:
     background-color 0.2s ease,
     color 0.2s ease;
@@ -629,6 +671,8 @@ onUnmounted(() => {
   outline-offset: 2px;
 }
 
+/* Footer */
+
 .results-footer {
   display: flex;
   justify-content: center;
@@ -638,8 +682,10 @@ onUnmounted(() => {
 .back-to-decks {
   display: inline-flex;
   padding: 0.85rem 1.5rem;
+
   border: 1px solid var(--color-text);
   border-radius: 0.5rem;
+
   background: var(--color-text);
   color: var(--color-background);
   text-decoration: none;
@@ -649,23 +695,24 @@ onUnmounted(() => {
   padding: 2rem 0;
 }
 
+/* Tablet */
+
 @media (max-width: 900px) {
   .results-summary {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }
 
+/* Mobile */
+
 @media (max-width: 640px) {
   .results-header {
     align-items: flex-start;
+    gap: 1.5rem;
   }
 
   .results-score {
     align-items: flex-start;
-  }
-
-  .results-grid {
-    grid-template-columns: minmax(0, 1fr);
   }
 
   .results-summary {
@@ -674,6 +721,22 @@ onUnmounted(() => {
 
   .result-card {
     padding: 1rem;
+  }
+
+  .result-card-actions {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .results-section-title {
+    margin-top: 1.5rem;
+  }
+}
+
+/* Reduced Motion */
+
+@media (prefers-reduced-motion: reduce) {
+  .result-action {
+    transition: none;
   }
 }
 </style>
