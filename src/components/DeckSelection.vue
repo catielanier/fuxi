@@ -30,6 +30,8 @@ const printableFiles = import.meta.glob('../assets/printables/*.pdf', {
 const decks = ref<Deck[]>([])
 const selectedDeckId = ref<string>()
 const searchTerm = ref('')
+const isSearching = ref(false)
+const isDropdownOpen = ref(false)
 const isLoading = ref(true)
 const error = ref('')
 
@@ -42,7 +44,14 @@ let unsubscribeUser: (() => void) | null = null
 const restrictedDeckIds = new Set(['lgbtq_I', 'lgbtq_II', 'lgbtq_III', 'clothes_III'])
 
 const visibleDecks = computed(() =>
-  decks.value.filter((deck: Deck) => !restrictedDeckIds.has(deck.id) || shouldShowLGBT.value),
+  decks.value
+    .filter((deck: Deck) => !restrictedDeckIds.has(deck.id) || shouldShowLGBT.value)
+    .sort((a, b) =>
+      a.title.localeCompare(b.title, 'en', {
+        numeric: true,
+        sensitivity: 'base',
+      }),
+    ),
 )
 
 const selectedDeck = computed(() =>
@@ -50,6 +59,8 @@ const selectedDeck = computed(() =>
 )
 
 const filteredDecks = computed(() => {
+  if (!isSearching.value) return visibleDecks.value
+
   const query = searchTerm.value.trim().toLowerCase()
 
   if (!query) return visibleDecks.value
@@ -69,6 +80,18 @@ const printableUrl = computed(() => {
   return printableFiles[path] ?? null
 })
 
+const handleDropdownOpen = (open: boolean): void => {
+  isDropdownOpen.value = open
+
+  if (open) {
+    isSearching.value = false
+  }
+}
+
+const handleSearchInput = (): void => {
+  isSearching.value = true
+}
+
 watch(visibleDecks, () => {
   if (
     selectedDeckId.value &&
@@ -76,7 +99,12 @@ watch(visibleDecks, () => {
   ) {
     selectedDeckId.value = undefined
     searchTerm.value = ''
+    isSearching.value = false
   }
+})
+
+watch(selectedDeckId, () => {
+  isSearching.value = false
 })
 
 const loadDecks = async (): Promise<void> => {
@@ -180,7 +208,13 @@ onUnmounted(() => {
       <div v-else class="deck-selection">
         <label for="deck-search"> Choose a vocabulary deck </label>
 
-        <ComboboxRoot v-model="selectedDeckId" :ignore-filter="true">
+        <ComboboxRoot
+          v-model="selectedDeckId"
+          :open="isDropdownOpen"
+          :open-on-click="true"
+          :ignore-filter="true"
+          @update:open="handleDropdownOpen"
+        >
           <ComboboxAnchor class="deck-combobox">
             <ComboboxInput
               id="deck-search"
@@ -190,6 +224,7 @@ onUnmounted(() => {
               :display-value="
                 (id) => visibleDecks.find((deck: Deck) => deck.id === id)?.title ?? ''
               "
+              @input="handleSearchInput"
             />
 
             <ComboboxTrigger class="deck-trigger" aria-label="Show vocabulary decks">

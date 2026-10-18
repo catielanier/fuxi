@@ -40,16 +40,21 @@ let requestVersion = 0
 
 const restrictedDeckIds = new Set(['lgbtq_I', 'lgbtq_II', 'lgbtq_III', 'clothes_III'])
 
-// Respect the user's deck visibility preference.
 const visibleDecks = computed(() =>
-  decks.value.filter((deck) => shouldShowLGBT.value || !restrictedDeckIds.has(deck.id)),
+  decks.value
+    .filter((deck: Deck) => shouldShowLGBT.value || !restrictedDeckIds.has(deck.id))
+    .sort((a, b) =>
+      a.title.localeCompare(b.title, 'en', {
+        numeric: true,
+        sensitivity: 'base',
+      }),
+    ),
 )
 
 const selectedDeck = computed(() =>
   visibleDecks.value.find((deck) => deck.id === selectedDeckId.value),
 )
 
-// Pull the selected deck's attempts and calculate each score.
 const progressPoints = computed<ProgressPoint[]>(() => {
   if (!selectedDeck.value) return []
 
@@ -145,7 +150,6 @@ const loadProgress = async (uid: string): Promise<void> => {
 
     results.value = savedResults
 
-    // Start with the first available deck.
     selectedDeckId.value = visibleDecks.value[0]?.id
   } catch (err) {
     if (currentRequest !== requestVersion) return
@@ -277,7 +281,7 @@ onUnmounted(() => {
           <template v-else>
             <div class="progress-stats">
               <div class="stat">
-                <span class="stat-label">Reviews Completed</span>
+                <span class="stat-label"> Reviews Completed </span>
                 <strong>{{ progressPoints.length }}</strong>
               </div>
 
@@ -494,8 +498,6 @@ h3 span {
 </style>
 
 <style>
-/* Reka UI teleports the dropdown outside the component. */
-
 .progress-dropdown {
   z-index: 1000;
   width: var(--reka-select-trigger-width);
