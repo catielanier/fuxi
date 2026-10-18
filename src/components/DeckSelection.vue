@@ -1,6 +1,9 @@
 <script setup lang="ts">
-import { computed, onMounted, ref } from 'vue'
+import { computed, onMounted, onUnmounted, ref, watch } from 'vue'
 import { useRouter } from 'vue-router'
+import { getAuth, onAuthStateChanged } from 'firebase/auth'
+import { getDatabase, ref as dbRef, onValue } from 'firebase/database'
+import firebase from '@/utils/firebase'
 import {
   ComboboxRoot,
   ComboboxAnchor,
@@ -15,6 +18,8 @@ import {
 import type { Deck, DeckManifest } from '@/data/types'
 
 const router = useRouter()
+const auth = getAuth(firebase)
+const db = getDatabase(firebase)
 
 const printableFiles = import.meta.glob('../assets/printables/*.pdf', {
   eager: true,
@@ -28,16 +33,28 @@ const searchTerm = ref('')
 const isLoading = ref(true)
 const error = ref('')
 
+const shouldShowLGBT = ref(false)
+const isAuthLoading = ref(true)
+
+let unsubscribeAuth: (() => void) | null = null
+let unsubscribeUser: (() => void) | null = null
+
+const restrictedDeckIds = new Set(['lgbtq_I', 'lgbtq_II', 'lgbtq_III', 'clothes_III'])
+
+const visibleDecks = computed(() =>
+  decks.value.filter((deck: Deck) => !restrictedDeckIds.has(deck.id) || shouldShowLGBT.value),
+)
+
 const selectedDeck = computed(() =>
-  decks.value.find((deck: Deck) => deck.id === selectedDeckId.value),
+  visibleDecks.value.find((deck: Deck) => deck.id === selectedDeckId.value),
 )
 
 const filteredDecks = computed(() => {
   const query = searchTerm.value.trim().toLowerCase()
 
-  if (!query) return decks.value
+  if (!query) return visibleDecks.value
 
-  return decks.value.filter((deck: Deck) =>
+  return visibleDecks.value.filter((deck: Deck) =>
     [deck.title, deck.category, deck.description].some((value) =>
       value.toLowerCase().includes(query),
     ),
@@ -52,7 +69,20 @@ const printableUrl = computed(() => {
   return printableFiles[path] ?? null
 })
 
+watch(visibleDecks, () => {
+  if (
+    selectedDeckId.value &&
+    !visibleDecks.value.some((deck: Deck) => deck.id === selectedDeckId.value)
+  ) {
+    selectedDeckId.value = undefined
+    searchTerm.value = ''
+  }
+})
+
 const loadDecks = async (): Promise<void> => {
+  isLoading.value = true
+  error.value = ''
+
   try {
     const response = await fetch(`${import.meta.env.BASE_URL}deck-manifest.json`)
 
@@ -61,6 +91,7 @@ const loadDecks = async (): Promise<void> => {
     }
 
     const manifest: DeckManifest = await response.json()
+
     decks.value = manifest.decks
   } catch (err) {
     error.value = err instanceof Error ? err.message : 'Unable to load decks'
@@ -69,8 +100,52 @@ const loadDecks = async (): Promise<void> => {
   }
 }
 
+const initializeUserPreferences = (): void => {
+  unsubscribeAuth = onAuthStateChanged(
+    auth,
+    (user) => {
+      unsubscribeUser?.()
+      unsubscribeUser = null
+
+      shouldShowLGBT.value = false
+
+      if (!user) {
+        isAuthLoading.value = false
+        return
+      }
+
+      isAuthLoading.value = true
+
+      const preferenceRef = dbRef(db, `users/${user.uid}/shouldShowLGBT`)
+
+      unsubscribeUser = onValue(
+        preferenceRef,
+        (snapshot) => {
+          shouldShowLGBT.value = snapshot.val() === true
+          isAuthLoading.value = false
+        },
+        (err) => {
+          console.error('Failed to load deck preferences:', err)
+
+          shouldShowLGBT.value = false
+          isAuthLoading.value = false
+        },
+      )
+    },
+    (err) => {
+      console.error('Authentication error:', err)
+
+      unsubscribeUser?.()
+      unsubscribeUser = null
+
+      shouldShowLGBT.value = false
+      isAuthLoading.value = false
+    },
+  )
+}
+
 const startDeck = async (): Promise<void> => {
-  if (!selectedDeck.value) return
+  if (!selectedDeck.value || isAuthLoading.value) return
 
   await router.push({
     name: 'quiz',
@@ -80,7 +155,15 @@ const startDeck = async (): Promise<void> => {
   })
 }
 
-onMounted(loadDecks)
+onMounted(() => {
+  void loadDecks()
+  initializeUserPreferences()
+})
+
+onUnmounted(() => {
+  unsubscribeAuth?.()
+  unsubscribeUser?.()
+})
 </script>
 
 <template>
@@ -88,12 +171,14 @@ onMounted(loadDecks)
     <section class="content-container decks">
       <h3><span>牌组</span>·Decks</h3>
 
-      <p v-if="isLoading">Loading decks...</p>
+      <p v-if="isLoading || isAuthLoading">Loading decks...</p>
 
-      <p v-else-if="error" role="alert">{{ error }}</p>
+      <p v-else-if="error" role="alert">
+        {{ error }}
+      </p>
 
       <div v-else class="deck-selection">
-        <label for="deck-search">Choose a vocabulary deck</label>
+        <label for="deck-search"> Choose a vocabulary deck </label>
 
         <ComboboxRoot v-model="selectedDeckId" :ignore-filter="true">
           <ComboboxAnchor class="deck-combobox">
@@ -102,7 +187,9 @@ onMounted(loadDecks)
               v-model="searchTerm"
               class="deck-input"
               placeholder="Search vocabulary decks..."
-              :display-value="(id) => decks.find((deck: Deck) => deck.id === id)?.title ?? ''"
+              :display-value="
+                (id) => visibleDecks.find((deck: Deck) => deck.id === id)?.title ?? ''
+              "
             />
 
             <ComboboxTrigger class="deck-trigger" aria-label="Show vocabulary decks">
@@ -145,13 +232,17 @@ onMounted(loadDecks)
 
         <div v-if="selectedDeck" class="deck-details">
           <h4>{{ selectedDeck.title }}</h4>
+
           <p>{{ selectedDeck.description }}</p>
-          <span>{{ selectedDeck.cards }} vocabulary cards</span>
+
+          <span> {{ selectedDeck.cards }} vocabulary cards </span>
         </div>
+
         <div class="deck-actions">
           <button class="start-button" type="button" :disabled="!selectedDeck" @click="startDeck">
             Start Studying
           </button>
+
           <a
             v-if="selectedDeck && printableUrl"
             :href="printableUrl"
@@ -291,6 +382,7 @@ h3 span {
   font: inherit;
   text-decoration: none;
   cursor: pointer;
+
   transition:
     background-color 0.2s ease,
     color 0.2s ease;

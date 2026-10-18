@@ -36,6 +36,7 @@ const handleSubmit = async (): Promise<void> => {
       givenName: givenName.value.trim(),
       surnameZh: surnameZh.value.trim(),
       givenNameZh: givenNameZh.value.trim(),
+      shouldShowLGBT: false,
       quizResults: [],
       createdAt: new Date().toISOString(),
     }
