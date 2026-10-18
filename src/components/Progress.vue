@@ -45,6 +45,7 @@ const restrictedDeckIds = new Set([
   'clothes_III',
   'sexual_vocabulary_I',
   'sexual_vocabulary_II',
+  'insults_I',
 ])
 
 const visibleDecks = computed(() =>

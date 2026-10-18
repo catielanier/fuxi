@@ -442,6 +442,16 @@
       "cards": 100,
       "description": "Intimate expressions, slang, sexual activities, relationships and health.",
       "printable": "mandarin_sexual_vocabulary_II_100_cards.pdf"
+    },
+    {
+      "id": "insults_I",
+      "filename": "decks/insults_I.json",
+      "title": "Insults & Profanity I",
+      "category": "insults",
+      "part": 1,
+      "cards": 100,
+      "description": "Insults, profanity, vulgar slang, hostile expressions and verbal boundaries.",
+      "printable": "mandarin_insults_I_100_cards.pdf"
     }
   ]
 }

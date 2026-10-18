@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "insults_I_001",
+    "hanzi": "笨蛋",
+    "pinyin": "bèndàn",
+    "english_answers": [
+      "idiot; fool"
+    ],
+    "english_gloss": "idiot; fool",
+    "register": "mild"
+  },
+  {
+    "id": "insults_I_002",
+    "hanzi": "傻瓜",
+    "pinyin": "shǎguā",
+    "english_answers": [
+      "fool; silly person"
+    ],
+    "english_gloss": "fool; silly person",
+    "register": "mild"
+  },
+  {
+    "id": "insults_I_003",
+    "hanzi": "傻子",
+    "pinyin": "shǎzi",
+    "english_answers": [
+      "fool; idiot"
+    ],
+    "english_gloss": "fool; idiot",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_004",
+    "hanzi": "蠢货",
+    "pinyin": "chǔnhuò",
+    "english_answers": [
+      "moron; idiot"
+    ],
+    "english_gloss": "moron; idiot",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_005",
+    "hanzi": "白痴",
+    "pinyin": "báichī",
+    "english_answers": [
+      "idiot; imbecile"
+    ],
+    "english_gloss": "idiot; imbecile",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_006",
+    "hanzi": "二货",
+    "pinyin": "èrhuò",
+    "english_answers": [
+      "doofus; idiot (slang)"
+    ],
+    "english_gloss": "doofus; idiot (slang)",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_007",
+    "hanzi": "呆子",
+    "pinyin": "dāizi",
+    "english_answers": [
+      "dummy; fool"
+    ],
+    "english_gloss": "dummy; fool",
+    "register": "mild"
+  },
+  {
+    "id": "insults_I_008",
+    "hanzi": "木头脑袋",
+    "pinyin": "mùtou nǎodai",
+    "english_answers": [
+      "blockhead"
+    ],
+    "english_gloss": "blockhead",
+    "register": "mild"
+  },
+  {
+    "id": "insults_I_009",
+    "hanzi": "缺心眼",
+    "pinyin": "quē xīnyǎn",
+    "english_answers": [
+      "clueless; foolish"
+    ],
+    "english_gloss": "clueless; foolish",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_010",
+    "hanzi": "没脑子",
+    "pinyin": "méi nǎozi",
+    "english_answers": [
+      "brainless; thoughtless"
+    ],
+    "english_gloss": "brainless; thoughtless",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_011",
+    "hanzi": "脑子进水了",
+    "pinyin": "nǎozi jìn shuǐ le",
+    "english_answers": [
+      "have water in your brain; be stupid"
+    ],
+    "english_gloss": "have water in your brain; be stupid",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_012",
+    "hanzi": "脑子有病吧？",
+    "pinyin": "nǎozi yǒu bìng ba?",
+    "english_answers": [
+      "What's wrong with your head? (insult)"
+    ],
+    "english_gloss": "What's wrong with your head? (insult)",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_013",
+    "hanzi": "傻逼",
+    "pinyin": "shǎbī",
+    "english_answers": [
+      "fucking idiot (very vulgar)"
+    ],
+    "english_gloss": "fucking idiot (very vulgar)",
+    "register": "very strong"
+  },
+  {
+    "id": "insults_I_014",
+    "hanzi": "傻屌",
+    "pinyin": "shǎdiǎo",
+    "english_answers": [
+      "fucking idiot (vulgar slang)"
+    ],
+    "english_gloss": "fucking idiot (vulgar slang)",
+    "register": "very strong"
+  },
+  {
+    "id": "insults_I_015",
+    "hanzi": "蠢死了",
+    "pinyin": "chǔn sǐ le",
+    "english_answers": [
+      "so damn stupid"
+    ],
+    "english_gloss": "so damn stupid",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_016",
+    "hanzi": "真没眼力见",
+    "pinyin": "zhēn méi yǎnlìjiàn",
+    "english_answers": [
+      "so tactless; can't read the room"
+    ],
+    "english_gloss": "so tactless; can't read the room",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_017",
+    "hanzi": "不长眼",
+    "pinyin": "bù zhǎng yǎn",
+    "english_answers": [
+      "watch where you're going; oblivious"
+    ],
+    "english_gloss": "watch where you're going; oblivious",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_018",
+    "hanzi": "没出息",
+    "pinyin": "méi chūxi",
+    "english_answers": [
+      "good-for-nothing; no ambition"
+    ],
+    "english_gloss": "good-for-nothing; no ambition",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_019",
+    "hanzi": "废物",
+    "pinyin": "fèiwù",
+    "english_answers": [
+      "useless person; good-for-nothing"
+    ],
+    "english_gloss": "useless person; good-for-nothing",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_020",
+    "hanzi": "饭桶",
+    "pinyin": "fàntǒng",
+    "english_answers": [
+      "useless fool (lit. rice bucket)"
+    ],
+    "english_gloss": "useless fool (lit. rice bucket)",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_021",
+    "hanzi": "混蛋",
+    "pinyin": "húndàn",
+    "english_answers": [
+      "bastard; jerk"
+    ],
+    "english_gloss": "bastard; jerk",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_022",
+    "hanzi": "王八蛋",
+    "pinyin": "wángbādàn",
+    "english_answers": [
+      "bastard; son of a bitch"
+    ],
+    "english_gloss": "bastard; son of a bitch",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_023",
+    "hanzi": "坏蛋",
+    "pinyin": "huàidàn",
+    "english_answers": [
+      "bad guy; rascal"
+    ],
+    "english_gloss": "bad guy; rascal",
+    "register": "mild"
+  },
+  {
+    "id": "insults_I_024",
+    "hanzi": "混球",
+    "pinyin": "húnqiú",
+    "english_answers": [
+      "jerk; bastard (colloquial)"
+    ],
+    "english_gloss": "jerk; bastard (colloquial)",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_025",
+    "hanzi": "人渣",
+    "pinyin": "rénzhā",
+    "english_answers": [
+      "scumbag; human trash"
+    ],
+    "english_gloss": "scumbag; human trash",
+    "register": "very strong"
+  },
+  {
+    "id": "insults_I_026",
+    "hanzi": "渣男",
+    "pinyin": "zhānán",
+    "english_answers": [
+      "scummy man; toxic boyfriend"
+    ],
+    "english_gloss": "scummy man; toxic boyfriend",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_027",
+    "hanzi": "渣女",
+    "pinyin": "zhānǚ",
+    "english_answers": [
+      "scummy woman; toxic girlfriend"
+    ],
+    "english_gloss": "scummy woman; toxic girlfriend",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_028",
+    "hanzi": "败类",
+    "pinyin": "bàilèi",
+    "english_answers": [
+      "disgrace; rotten person"
+    ],
+    "english_gloss": "disgrace; rotten person",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_029",
+    "hanzi": "小人",
+    "pinyin": "xiǎorén",
+    "english_answers": [
+      "petty; despicable person"
+    ],
+    "english_gloss": "petty; despicable person",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_030",
+    "hanzi": "卑鄙",
+    "pinyin": "bēibǐ",
+    "english_answers": [
+      "despicable; underhanded"
+    ],
+    "english_gloss": "despicable; underhanded",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_031",
+    "hanzi": "无耻",
+    "pinyin": "wúchǐ",
+    "english_answers": [
+      "shameless"
+    ],
+    "english_gloss": "shameless",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_032",
+    "hanzi": "不要脸",
+    "pinyin": "bú yào liǎn",
+    "english_answers": [
+      "shameless; have no shame"
+    ],
+    "english_gloss": "shameless; have no shame",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_033",
+    "hanzi": "厚脸皮",
+    "pinyin": "hòu liǎnpí",
+    "english_answers": [
+      "thick-skinned; shameless"
+    ],
+    "english_gloss": "thick-skinned; shameless",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_034",
+    "hanzi": "虚伪",
+    "pinyin": "xūwěi",
+    "english_answers": [
+      "hypocritical; fake"
+    ],
+    "english_gloss": "hypocritical; fake",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_035",
+    "hanzi": "假惺惺",
+    "pinyin": "jiǎxīngxīng",
+    "english_answers": [
+      "fake-sincere; insincere"
+    ],
+    "english_gloss": "fake-sincere; insincere",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_036",
+    "hanzi": "装模作样",
+    "pinyin": "zhuāng mú zuò yàng",
+    "english_answers": [
+      "put on airs; act fake"
+    ],
+    "english_gloss": "put on airs; act fake",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_037",
+    "hanzi": "装逼",
+    "pinyin": "zhuāngbī",
+    "english_answers": [
+      "show off pretentiously (vulgar)"
+    ],
+    "english_gloss": "show off pretentiously (vulgar)",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_038",
+    "hanzi": "吹牛",
+    "pinyin": "chuīniú",
+    "english_answers": [
+      "brag; talk big"
+    ],
+    "english_gloss": "brag; talk big",
+    "register": "mild"
+  },
+  {
+    "id": "insults_I_039",
+    "hanzi": "吹牛逼",
+    "pinyin": "chuī niúbī",
+    "english_answers": [
+      "talk bullshit; brag (vulgar)"
+    ],
+    "english_gloss": "talk bullshit; brag (vulgar)",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_040",
+    "hanzi": "马屁精",
+    "pinyin": "mǎpìjīng",
+    "english_answers": [
+      "brown-noser; suck-up"
+    ],
+    "english_gloss": "brown-noser; suck-up",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_041",
+    "hanzi": "拍马屁",
+    "pinyin": "pāi mǎpì",
+    "english_answers": [
+      "kiss up; flatter"
+    ],
+    "english_gloss": "kiss up; flatter",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_042",
+    "hanzi": "狗腿子",
+    "pinyin": "gǒutuǐzi",
+    "english_answers": [
+      "lackey; henchman"
+    ],
+    "english_gloss": "lackey; henchman",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_043",
+    "hanzi": "小气鬼",
+    "pinyin": "xiǎoqìguǐ",
+    "english_answers": [
+      "cheapskate; stingy person"
+    ],
+    "english_gloss": "cheapskate; stingy person",
+    "register": "mild"
+  },
+  {
+    "id": "insults_I_044",
+    "hanzi": "抠门",
+    "pinyin": "kōumén",
+    "english_answers": [
+      "stingy; tightfisted"
+    ],
+    "english_gloss": "stingy; tightfisted",
+    "register": "mild"
+  },
+  {
+    "id": "insults_I_045",
+    "hanzi": "自私鬼",
+    "pinyin": "zìsīguǐ",
+    "english_answers": [
+      "selfish jerk"
+    ],
+    "english_gloss": "selfish jerk",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_046",
+    "hanzi": "事儿精",
+    "pinyin": "shìrjīng",
+    "english_answers": [
+      "drama queen; high-maintenance person"
+    ],
+    "english_gloss": "drama queen; high-maintenance person",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_047",
+    "hanzi": "烦人精",
+    "pinyin": "fánrénjīng",
+    "english_answers": [
+      "pain in the neck; nuisance"
+    ],
+    "english_gloss": "pain in the neck; nuisance",
+    "register": "mild"
+  },
+  {
+    "id": "insults_I_048",
+    "hanzi": "讨人嫌",
+    "pinyin": "tǎo rén xián",
+    "english_answers": [
+      "obnoxious; unlikeable"
+    ],
+    "english_gloss": "obnoxious; unlikeable",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_049",
+    "hanzi": "嘴欠",
+    "pinyin": "zuǐ qiàn",
+    "english_answers": [
+      "have a mouth that asks for trouble"
+    ],
+    "english_gloss": "have a mouth that asks for trouble",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_050",
+    "hanzi": "嘴贱",
+    "pinyin": "zuǐ jiàn",
+    "english_answers": [
+      "have a nasty mouth (vulgar-ish)"
+    ],
+    "english_gloss": "have a nasty mouth (vulgar-ish)",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_051",
+    "hanzi": "胡说八道",
+    "pinyin": "húshuō bādào",
+    "english_answers": [
+      "talk complete nonsense"
+    ],
+    "english_gloss": "talk complete nonsense",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_052",
+    "hanzi": "胡扯",
+    "pinyin": "húchě",
+    "english_answers": [
+      "talk rubbish; bullshit"
+    ],
+    "english_gloss": "talk rubbish; bullshit",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_053",
+    "hanzi": "瞎说",
+    "pinyin": "xiāshuō",
+    "english_answers": [
+      "talk nonsense"
+    ],
+    "english_gloss": "talk nonsense",
+    "register": "mild"
+  },
+  {
+    "id": "insults_I_054",
+    "hanzi": "放屁",
+    "pinyin": "fàngpì",
+    "english_answers": [
+      "bullshit!; nonsense! (lit. fart)"
+    ],
+    "english_gloss": "bullshit!; nonsense! (lit. fart)",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_055",
+    "hanzi": "狗屁",
+    "pinyin": "gǒupì",
+    "english_answers": [
+      "bullshit; utter crap"
+    ],
+    "english_gloss": "bullshit; utter crap",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_056",
+    "hanzi": "屁话",
+    "pinyin": "pìhuà",
+    "english_answers": [
+      "bullshit; nonsense talk"
+    ],
+    "english_gloss": "bullshit; nonsense talk",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_057",
+    "hanzi": "废话",
+    "pinyin": "fèihuà",
+    "english_answers": [
+      "nonsense; pointless talk"
+    ],
+    "english_gloss": "nonsense; pointless talk",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_058",
+    "hanzi": "扯淡",
+    "pinyin": "chědàn",
+    "english_answers": [
+      "bullshit; ridiculous talk"
+    ],
+    "english_gloss": "bullshit; ridiculous talk",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_059",
+    "hanzi": "瞎扯淡",
+    "pinyin": "xiā chědàn",
+    "english_answers": [
+      "talk total bullshit"
+    ],
+    "english_gloss": "talk total bullshit",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_060",
+    "hanzi": "一派胡言",
+    "pinyin": "yí pài húyán",
+    "english_answers": [
+      "complete nonsense; utter rubbish"
+    ],
+    "english_gloss": "complete nonsense; utter rubbish",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_061",
+    "hanzi": "他妈的",
+    "pinyin": "tāmāde",
+    "english_answers": [
+      "damn; fucking (vulgar exclamation)"
+    ],
+    "english_gloss": "damn; fucking (vulgar exclamation)",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_062",
+    "hanzi": "妈的",
+    "pinyin": "māde",
+    "english_answers": [
+      "damn it (vulgar)"
+    ],
+    "english_gloss": "damn it (vulgar)",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_063",
+    "hanzi": "卧槽",
+    "pinyin": "wòcáo",
+    "english_answers": [
+      "holy shit; what the fuck (slang)"
+    ],
+    "english_gloss": "holy shit; what the fuck (slang)",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_064",
+    "hanzi": "我靠",
+    "pinyin": "wǒ kào",
+    "english_answers": [
+      "holy crap; damn (milder exclamation)"
+    ],
+    "english_gloss": "holy crap; damn (milder exclamation)",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_065",
+    "hanzi": "靠！",
+    "pinyin": "Kào!",
+    "english_answers": [
+      "Damn!; crap!"
+    ],
+    "english_gloss": "Damn!; crap!",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_066",
+    "hanzi": "我去！",
+    "pinyin": "Wǒ qù!",
+    "english_answers": [
+      "Oh damn!; no way!"
+    ],
+    "english_gloss": "Oh damn!; no way!",
+    "register": "mild"
+  },
+  {
+    "id": "insults_I_067",
+    "hanzi": "真他妈烦",
+    "pinyin": "zhēn tāmā fán",
+    "english_answers": [
+      "so fucking annoying"
+    ],
+    "english_gloss": "so fucking annoying",
+    "register": "very strong"
+  },
+  {
+    "id": "insults_I_068",
+    "hanzi": "去你的",
+    "pinyin": "qù nǐ de",
+    "english_answers": [
+      "screw you"
+    ],
+    "english_gloss": "screw you",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_069",
+    "hanzi": "去你妈的",
+    "pinyin": "qù nǐ mā de",
+    "english_answers": [
+      "fuck you (very vulgar)"
+    ],
+    "english_gloss": "fuck you (very vulgar)",
+    "register": "very strong"
+  },
+  {
+    "id": "insults_I_070",
+    "hanzi": "滚！",
+    "pinyin": "Gǔn!",
+    "english_answers": [
+      "Get lost!; fuck off!"
+    ],
+    "english_gloss": "Get lost!; fuck off!",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_071",
+    "hanzi": "滚开！",
+    "pinyin": "Gǔn kāi!",
+    "english_answers": [
+      "Get out of the way!; piss off!"
+    ],
+    "english_gloss": "Get out of the way!; piss off!",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_072",
+    "hanzi": "滚蛋！",
+    "pinyin": "Gǔndàn!",
+    "english_answers": [
+      "Get lost!; piss off!"
+    ],
+    "english_gloss": "Get lost!; piss off!",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_073",
+    "hanzi": "滚远点！",
+    "pinyin": "Gǔn yuǎn diǎn!",
+    "english_answers": [
+      "Get the hell away!"
+    ],
+    "english_gloss": "Get the hell away!",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_074",
+    "hanzi": "闭嘴！",
+    "pinyin": "Bì zuǐ!",
+    "english_answers": [
+      "Shut up!"
+    ],
+    "english_gloss": "Shut up!",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_075",
+    "hanzi": "少废话！",
+    "pinyin": "Shǎo fèihuà!",
+    "english_answers": [
+      "Cut the crap!"
+    ],
+    "english_gloss": "Cut the crap!",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_076",
+    "hanzi": "别放屁了！",
+    "pinyin": "Bié fàngpì le!",
+    "english_answers": [
+      "Stop talking bullshit!"
+    ],
+    "english_gloss": "Stop talking bullshit!",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_077",
+    "hanzi": "你有完没完？",
+    "pinyin": "Nǐ yǒu wán méi wán?",
+    "english_answers": [
+      "Are you ever going to stop?"
+    ],
+    "english_gloss": "Are you ever going to stop?",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_078",
+    "hanzi": "关你屁事！",
+    "pinyin": "Guān nǐ pì shì!",
+    "english_answers": [
+      "None of your damn business!"
+    ],
+    "english_gloss": "None of your damn business!",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_079",
+    "hanzi": "关我屁事！",
+    "pinyin": "Guān wǒ pì shì!",
+    "english_answers": [
+      "Why the hell should I care?"
+    ],
+    "english_gloss": "Why the hell should I care?",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_080",
+    "hanzi": "你算老几？",
+    "pinyin": "Nǐ suàn lǎo jǐ?",
+    "english_answers": [
+      "Who the hell do you think you are?"
+    ],
+    "english_gloss": "Who the hell do you think you are?",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_081",
+    "hanzi": "你谁啊？",
+    "pinyin": "Nǐ shéi a?",
+    "english_answers": [
+      "Who even are you? (dismissive)"
+    ],
+    "english_gloss": "Who even are you? (dismissive)",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_082",
+    "hanzi": "你管得着吗？",
+    "pinyin": "Nǐ guǎn de zháo ma?",
+    "english_answers": [
+      "What's it to you?; none of your business"
+    ],
+    "english_gloss": "What's it to you?; none of your business",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_083",
+    "hanzi": "少来这套！",
+    "pinyin": "Shǎo lái zhè tào!",
+    "english_answers": [
+      "Don't give me that crap!"
+    ],
+    "english_gloss": "Don't give me that crap!",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_084",
+    "hanzi": "别装了！",
+    "pinyin": "Bié zhuāng le!",
+    "english_answers": [
+      "Stop pretending!"
+    ],
+    "english_gloss": "Stop pretending!",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_085",
+    "hanzi": "别恶心我！",
+    "pinyin": "Bié ěxin wǒ!",
+    "english_answers": [
+      "Don't disgust me!; gross me out"
+    ],
+    "english_gloss": "Don't disgust me!; gross me out",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_086",
+    "hanzi": "恶心死了！",
+    "pinyin": "Ěxin sǐ le!",
+    "english_answers": [
+      "That's disgusting!"
+    ],
+    "english_gloss": "That's disgusting!",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_087",
+    "hanzi": "有毛病吧？",
+    "pinyin": "Yǒu máobìng ba?",
+    "english_answers": [
+      "What the hell is wrong with you?"
+    ],
+    "english_gloss": "What the hell is wrong with you?",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_088",
+    "hanzi": "神经病",
+    "pinyin": "shénjīngbìng",
+    "english_answers": [
+      "crazy person; psycho (stigmatizing insult)"
+    ],
+    "english_gloss": "crazy person; psycho (stigmatizing insult)",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_089",
+    "hanzi": "变态",
+    "pinyin": "biàntài",
+    "english_answers": [
+      "pervert; freak (insult)"
+    ],
+    "english_gloss": "pervert; freak (insult)",
+    "register": "strong"
+  },
+  {
+    "id": "insults_I_090",
+    "hanzi": "不要太过分！",
+    "pinyin": "Bú yào tài guòfèn!",
+    "english_answers": [
+      "Don't go too far!"
+    ],
+    "english_gloss": "Don't go too far!",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_091",
+    "hanzi": "你太过分了！",
+    "pinyin": "Nǐ tài guòfèn le!",
+    "english_answers": [
+      "You've gone too far!"
+    ],
+    "english_gloss": "You've gone too far!",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_092",
+    "hanzi": "放尊重点！",
+    "pinyin": "Fàng zūnzhòng diǎn!",
+    "english_answers": [
+      "Show some respect!"
+    ],
+    "english_gloss": "Show some respect!",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_093",
+    "hanzi": "别骂人！",
+    "pinyin": "Bié mà rén!",
+    "english_answers": [
+      "Don't insult people!; stop swearing at people!"
+    ],
+    "english_gloss": "Don't insult people!; stop swearing at people!",
+    "register": "mild"
+  },
+  {
+    "id": "insults_I_094",
+    "hanzi": "别侮辱我！",
+    "pinyin": "Bié wǔrǔ wǒ!",
+    "english_answers": [
+      "Don't insult me!"
+    ],
+    "english_gloss": "Don't insult me!",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_095",
+    "hanzi": "别冲我吼！",
+    "pinyin": "Bié chòng wǒ hǒu!",
+    "english_answers": [
+      "Don't yell at me!"
+    ],
+    "english_gloss": "Don't yell at me!",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_096",
+    "hanzi": "少来烦我！",
+    "pinyin": "Shǎo lái fán wǒ!",
+    "english_answers": [
+      "Stop bothering me!"
+    ],
+    "english_gloss": "Stop bothering me!",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_097",
+    "hanzi": "离我远点！",
+    "pinyin": "Lí wǒ yuǎn diǎn!",
+    "english_answers": [
+      "Stay away from me!"
+    ],
+    "english_gloss": "Stay away from me!",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_098",
+    "hanzi": "别碰我！",
+    "pinyin": "Bié pèng wǒ!",
+    "english_answers": [
+      "Don't touch me!"
+    ],
+    "english_gloss": "Don't touch me!",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_099",
+    "hanzi": "嘴巴放干净点！",
+    "pinyin": "Zuǐba fàng gānjìng diǎn!",
+    "english_answers": [
+      "Watch your mouth!"
+    ],
+    "english_gloss": "Watch your mouth!",
+    "register": "moderate"
+  },
+  {
+    "id": "insults_I_100",
+    "hanzi": "没教养",
+    "pinyin": "méi jiàoyǎng",
+    "english_answers": [
+      "ill-mannered; no upbringing"
+    ],
+    "english_gloss": "ill-mannered; no upbringing",
+    "register": "moderate"
+  }
+]
