@@ -282,6 +282,16 @@
       "cards": 100,
       "description": "Meetings, planning, code reviews, coworkers and work communication.",
       "printable": "mandarin_software_II_workplace_communication_100_cards.pdf"
+    },
+    {
+      "id": "opinions_I",
+      "filename": "decks/opinions_I.json",
+      "title": "Expressing Opinions I",
+      "category": "opinions",
+      "part": 1,
+      "cards": 100,
+      "description": "Likes, dislikes, changing preferences, comparisons, agreement and disagreement.",
+      "printable": "mandarin_opinions_I_100_cards.pdf"
     }
   ]
 }
