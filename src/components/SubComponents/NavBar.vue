@@ -92,6 +92,13 @@ onUnmounted(() => {
           </li>
 
           <li>
+            <RouterLink id="progress" to="/progress">
+              <span class="original">Progress</span>
+              <span class="translated" lang="zh-Hans" aria-hidden="true"> 学习进度 </span>
+            </RouterLink>
+          </li>
+
+          <li>
             <button type="button" class="nav-action" @click="handleLogout">
               <span class="original">Logout</span>
               <span class="translated" lang="zh-Hans" aria-hidden="true"> 退出 </span>

@@ -45,6 +45,11 @@ const routes: RouteRecordRaw[] = [
     name: 'history',
     component: () => import('@/components/History.vue'),
   },
+  {
+    path: '/progress',
+    name: 'progress',
+    component: () => import('@/components/Progress.vue'),
+  },
 ]
 
 const router = createRouter({

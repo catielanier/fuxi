@@ -53,3 +53,12 @@ export interface QuizResult {
   totalCards: number
   results: QuizCardResult[]
 }
+
+export interface ProgressPoint {
+  resultId: string
+  startedAt: string
+  completedAt: string
+  score: number
+  totalPoints: number
+  percentage: number
+}
