@@ -302,6 +302,146 @@
       "cards": 100,
       "description": "Fun, boring, annoying, strange, silly, aesthetic judgments and everyday reactions.",
       "printable": "mandarin_opinions_II_100_cards.pdf"
+    },
+    {
+      "id": "conversation_I",
+      "filename": "decks/conversation_I.json",
+      "title": "Conversational Mandarin I",
+      "category": "conversation",
+      "part": 1,
+      "cards": 100,
+      "description": "Connectors, clarification, reactions and conversational repair.",
+      "printable": "mandarin_conversation_I_100_cards.pdf"
+    },
+    {
+      "id": "conversation_II",
+      "filename": "decks/conversation_II.json",
+      "title": "Conversational Mandarin II",
+      "category": "conversation",
+      "part": 2,
+      "cards": 100,
+      "description": "Clarification, disagreement, negotiation and conversational boundaries.",
+      "printable": "mandarin_conversation_II_100_cards.pdf"
+    },
+    {
+      "id": "emotions_I",
+      "filename": "decks/emotions_I.json",
+      "title": "Emotions & Social Situations I",
+      "category": "emotions",
+      "part": 1,
+      "cards": 100,
+      "description": "Feelings, empathy, boundaries and interpersonal communication.",
+      "printable": "mandarin_emotions_I_100_cards.pdf"
+    },
+    {
+      "id": "math_money_I",
+      "filename": "decks/math_money_I.json",
+      "title": "Practical Mathematics & Money I",
+      "category": "math_money",
+      "part": 1,
+      "cards": 100,
+      "description": "Arithmetic, receipts, discounts, payments and contracts.",
+      "printable": "mandarin_math_money_I_100_cards.pdf"
+    },
+    {
+      "id": "storytelling_I",
+      "filename": "decks/storytelling_I.json",
+      "title": "Storytelling & Experiences I",
+      "category": "storytelling",
+      "part": 1,
+      "cards": 100,
+      "description": "Time, sequence, memories, cause and effect, personal experiences.",
+      "printable": "mandarin_storytelling_I_100_cards.pdf"
+    },
+    {
+      "id": "grammar_context_I",
+      "filename": "decks/grammar_context_I.json",
+      "title": "Grammar in Context I",
+      "category": "grammar",
+      "part": 1,
+      "cards": 100,
+      "description": "Aspect particles, 把/被, complements, comparisons and connected clauses.",
+      "printable": "mandarin_grammar_context_I_100_cards.pdf"
+    },
+    {
+      "id": "spoken_I",
+      "filename": "decks/spoken_I.json",
+      "title": "Contemporary Spoken Mandarin I",
+      "category": "spoken",
+      "part": 1,
+      "cards": 100,
+      "description": "Colloquial speech, reactions, slang and informal expressions.",
+      "printable": "mandarin_spoken_I_100_cards.pdf"
+    },
+    {
+      "id": "everyday_objects_I",
+      "filename": "decks/everyday_objects_I.json",
+      "title": "Everyday Objects I",
+      "category": "everyday_objects",
+      "part": 1,
+      "cards": 100,
+      "description": "Stationery, art supplies, household essentials, cleaning supplies and tools.",
+      "printable": "mandarin_everyday_objects_I_100_cards.pdf"
+    },
+    {
+      "id": "everyday_objects_II",
+      "filename": "decks/everyday_objects_II.json",
+      "title": "Everyday Objects II",
+      "category": "everyday_objects",
+      "part": 2,
+      "cards": 100,
+      "description": "Kitchenware, containers, packaging, storage and household essentials.",
+      "printable": "mandarin_everyday_objects_II_100_cards.pdf"
+    },
+    {
+      "id": "everyday_actions_I",
+      "filename": "decks/everyday_actions_I.json",
+      "title": "Everyday Actions I",
+      "category": "everyday_actions",
+      "part": 1,
+      "cards": 100,
+      "description": "Handling objects, household actions, cleaning, connecting, breaking and repairing.",
+      "printable": "mandarin_everyday_actions_I_100_cards.pdf"
+    },
+    {
+      "id": "physical_properties_I",
+      "filename": "decks/physical_properties_I.json",
+      "title": "Shapes, Sizes & Physical Properties I",
+      "category": "physical_properties",
+      "part": 1,
+      "cards": 100,
+      "description": "Shapes, dimensions, textures, materials, strength, flexibility and appearance.",
+      "printable": "mandarin_physical_properties_I_100_cards.pdf"
+    },
+    {
+      "id": "materials_I",
+      "filename": "decks/materials_I.json",
+      "title": "Materials & Substances I",
+      "category": "materials",
+      "part": 1,
+      "cards": 100,
+      "description": "Wood, metals, plastics, textiles, glass, ceramics, building materials and common substances.",
+      "printable": "mandarin_materials_I_100_cards.pdf"
+    },
+    {
+      "id": "sexual_vocabulary_I",
+      "filename": "decks/sexual_vocabulary_I.json",
+      "title": "Sexual Vocabulary I",
+      "category": "sexual_vocabulary",
+      "part": 1,
+      "cards": 100,
+      "description": "Kinks, BDSM, boundaries, toys, accessories and group encounters.",
+      "printable": "mandarin_sexual_vocabulary_I_100_cards.pdf"
+    },
+    {
+      "id": "sexual_vocabulary_II",
+      "filename": "decks/sexual_vocabulary_II.json",
+      "title": "Sexual Vocabulary II",
+      "category": "sexual_vocabulary",
+      "part": 2,
+      "cards": 100,
+      "description": "Intimate expressions, slang, sexual activities, relationships and health.",
+      "printable": "mandarin_sexual_vocabulary_II_100_cards.pdf"
     }
   ]
 }

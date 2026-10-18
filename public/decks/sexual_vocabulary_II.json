@@ -1,0 +1,933 @@
+[
+  {
+    "id": "sexual_vocabulary_II_001",
+    "hanzi": "有感觉",
+    "pinyin": "yǒu gǎnjué",
+    "english_answers": [
+      "feel chemistry",
+      "feel something (contextual)"
+    ],
+    "english_gloss": "feel chemistry / feel something (contextual)"
+  },
+  {
+    "id": "sexual_vocabulary_II_002",
+    "hanzi": "来电",
+    "pinyin": "lái diàn",
+    "english_answers": [
+      "feel a spark",
+      "click romantically (colloquial)"
+    ],
+    "english_gloss": "feel a spark / click romantically (colloquial)"
+  },
+  {
+    "id": "sexual_vocabulary_II_003",
+    "hanzi": "擦出火花",
+    "pinyin": "cā chū huǒhuā",
+    "english_answers": [
+      "spark chemistry",
+      "hit it off"
+    ],
+    "english_gloss": "spark chemistry / hit it off"
+  },
+  {
+    "id": "sexual_vocabulary_II_004",
+    "hanzi": "气氛到了",
+    "pinyin": "qìfēn dào le",
+    "english_answers": [
+      "the mood is right (colloquial)"
+    ],
+    "english_gloss": "the mood is right (colloquial)"
+  },
+  {
+    "id": "sexual_vocabulary_II_005",
+    "hanzi": "有那个意思",
+    "pinyin": "yǒu nàge yìsi",
+    "english_answers": [
+      "have that kind of intention",
+      "suggestive"
+    ],
+    "english_gloss": "have that kind of intention / suggestive"
+  },
+  {
+    "id": "sexual_vocabulary_II_006",
+    "hanzi": "暗示",
+    "pinyin": "ànshì",
+    "english_answers": [
+      "hint",
+      "insinuation"
+    ],
+    "english_gloss": "hint / insinuation"
+  },
+  {
+    "id": "sexual_vocabulary_II_007",
+    "hanzi": "明示",
+    "pinyin": "míngshì",
+    "english_answers": [
+      "make it explicit"
+    ],
+    "english_gloss": "make it explicit"
+  },
+  {
+    "id": "sexual_vocabulary_II_008",
+    "hanzi": "撩人",
+    "pinyin": "liáorén",
+    "english_answers": [
+      "alluring",
+      "flirtatious (colloquial)"
+    ],
+    "english_gloss": "alluring / flirtatious (colloquial)"
+  },
+  {
+    "id": "sexual_vocabulary_II_009",
+    "hanzi": "撩拨",
+    "pinyin": "liáobō",
+    "english_answers": [
+      "tease or stir feelings"
+    ],
+    "english_gloss": "tease or stir feelings"
+  },
+  {
+    "id": "sexual_vocabulary_II_010",
+    "hanzi": "勾人",
+    "pinyin": "gōurén",
+    "english_answers": [
+      "enticing",
+      "seductive (colloquial)"
+    ],
+    "english_gloss": "enticing / seductive (colloquial)"
+  },
+  {
+    "id": "sexual_vocabulary_II_011",
+    "hanzi": "欲擒故纵",
+    "pinyin": "yù qín gù zòng",
+    "english_answers": [
+      "play hard to get"
+    ],
+    "english_gloss": "play hard to get"
+  },
+  {
+    "id": "sexual_vocabulary_II_012",
+    "hanzi": "直球",
+    "pinyin": "zhíqiú",
+    "english_answers": [
+      "direct, unabashed approach (slang)"
+    ],
+    "english_gloss": "direct, unabashed approach (slang)"
+  },
+  {
+    "id": "sexual_vocabulary_II_013",
+    "hanzi": "会撩",
+    "pinyin": "huì liáo",
+    "english_answers": [
+      "good at flirting (slang)"
+    ],
+    "english_gloss": "good at flirting (slang)"
+  },
+  {
+    "id": "sexual_vocabulary_II_014",
+    "hanzi": "土味情话",
+    "pinyin": "tǔwèi qínghuà",
+    "english_answers": [
+      "cheesy pickup line (internet slang)"
+    ],
+    "english_gloss": "cheesy pickup line (internet slang)"
+  },
+  {
+    "id": "sexual_vocabulary_II_015",
+    "hanzi": "打情骂俏",
+    "pinyin": "dǎqíng màqiào",
+    "english_answers": [
+      "flirt and banter"
+    ],
+    "english_gloss": "flirt and banter"
+  },
+  {
+    "id": "sexual_vocabulary_II_016",
+    "hanzi": "眉来眼去",
+    "pinyin": "méi lái yǎn qù",
+    "english_answers": [
+      "exchange flirtatious glances"
+    ],
+    "english_gloss": "exchange flirtatious glances"
+  },
+  {
+    "id": "sexual_vocabulary_II_017",
+    "hanzi": "眼神交流",
+    "pinyin": "yǎnshén jiāoliú",
+    "english_answers": [
+      "eye contact"
+    ],
+    "english_gloss": "eye contact"
+  },
+  {
+    "id": "sexual_vocabulary_II_018",
+    "hanzi": "主动一点",
+    "pinyin": "zhǔdòng yìdiǎn",
+    "english_answers": [
+      "take a little more initiative"
+    ],
+    "english_gloss": "take a little more initiative"
+  },
+  {
+    "id": "sexual_vocabulary_II_019",
+    "hanzi": "这样可以吗？",
+    "pinyin": "Zhèyàng kěyǐ ma?",
+    "english_answers": [
+      "Is this okay?"
+    ],
+    "english_gloss": "Is this okay?"
+  },
+  {
+    "id": "sexual_vocabulary_II_020",
+    "hanzi": "你舒服吗？",
+    "pinyin": "Nǐ shūfu ma?",
+    "english_answers": [
+      "Are you comfortable?"
+    ],
+    "english_gloss": "Are you comfortable?"
+  },
+  {
+    "id": "sexual_vocabulary_II_021",
+    "hanzi": "先停一下。",
+    "pinyin": "Xiān tíng yíxià.",
+    "english_answers": [
+      "Let's pause for a moment."
+    ],
+    "english_gloss": "Let's pause for a moment."
+  },
+  {
+    "id": "sexual_vocabulary_II_022",
+    "hanzi": "我想缓一缓。",
+    "pinyin": "Wǒ xiǎng huǎn yi huǎn.",
+    "english_answers": [
+      "I need a moment."
+    ],
+    "english_gloss": "I need a moment."
+  },
+  {
+    "id": "sexual_vocabulary_II_023",
+    "hanzi": "我不想继续。",
+    "pinyin": "Wǒ bù xiǎng jìxù.",
+    "english_answers": [
+      "I don't want to continue."
+    ],
+    "english_gloss": "I don't want to continue."
+  },
+  {
+    "id": "sexual_vocabulary_II_024",
+    "hanzi": "我们换个方式吧。",
+    "pinyin": "Wǒmen huàn ge fāngshì ba.",
+    "english_answers": [
+      "Let's try a different way."
+    ],
+    "english_gloss": "Let's try a different way."
+  },
+  {
+    "id": "sexual_vocabulary_II_025",
+    "hanzi": "我喜欢这样。",
+    "pinyin": "Wǒ xǐhuan zhèyàng.",
+    "english_answers": [
+      "I like it this way."
+    ],
+    "english_gloss": "I like it this way."
+  },
+  {
+    "id": "sexual_vocabulary_II_026",
+    "hanzi": "再靠近一点。",
+    "pinyin": "Zài kàojìn yìdiǎn.",
+    "english_answers": [
+      "Come a little closer."
+    ],
+    "english_gloss": "Come a little closer."
+  },
+  {
+    "id": "sexual_vocabulary_II_027",
+    "hanzi": "抱紧一点。",
+    "pinyin": "Bào jǐn yìdiǎn.",
+    "english_answers": [
+      "Hold me a bit tighter."
+    ],
+    "english_gloss": "Hold me a bit tighter."
+  },
+  {
+    "id": "sexual_vocabulary_II_028",
+    "hanzi": "别闹。",
+    "pinyin": "Bié nào.",
+    "english_answers": [
+      "Stop teasing",
+      "cut it out (tone-dependent)"
+    ],
+    "english_gloss": "Stop teasing / cut it out (tone-dependent)"
+  },
+  {
+    "id": "sexual_vocabulary_II_029",
+    "hanzi": "坏坏的",
+    "pinyin": "huài huài de",
+    "english_answers": [
+      "naughty",
+      "mischievous (playful)"
+    ],
+    "english_gloss": "naughty / mischievous (playful)"
+  },
+  {
+    "id": "sexual_vocabulary_II_030",
+    "hanzi": "小坏蛋",
+    "pinyin": "xiǎo huàidàn",
+    "english_answers": [
+      "you little rascal (playful)"
+    ],
+    "english_gloss": "you little rascal (playful)"
+  },
+  {
+    "id": "sexual_vocabulary_II_031",
+    "hanzi": "色狼",
+    "pinyin": "sèláng",
+    "english_answers": [
+      "lecher",
+      "pervert (insult, sometimes teasing)"
+    ],
+    "english_gloss": "lecher / pervert (insult, sometimes teasing)"
+  },
+  {
+    "id": "sexual_vocabulary_II_032",
+    "hanzi": "好色",
+    "pinyin": "hàosè",
+    "english_answers": [
+      "lustful",
+      "lecherous (often disapproving)"
+    ],
+    "english_gloss": "lustful / lecherous (often disapproving)"
+  },
+  {
+    "id": "sexual_vocabulary_II_033",
+    "hanzi": "黄段子",
+    "pinyin": "huáng duànzi",
+    "english_answers": [
+      "dirty joke (colloquial)"
+    ],
+    "english_gloss": "dirty joke (colloquial)"
+  },
+  {
+    "id": "sexual_vocabulary_II_034",
+    "hanzi": "开黄腔",
+    "pinyin": "kāi huángqiāng",
+    "english_answers": [
+      "make sexual jokes (colloquial)"
+    ],
+    "english_gloss": "make sexual jokes (colloquial)"
+  },
+  {
+    "id": "sexual_vocabulary_II_035",
+    "hanzi": "荤段子",
+    "pinyin": "hūn duànzi",
+    "english_answers": [
+      "risqué joke"
+    ],
+    "english_gloss": "risqué joke"
+  },
+  {
+    "id": "sexual_vocabulary_II_036",
+    "hanzi": "少儿不宜",
+    "pinyin": "shào'ér bù yí",
+    "english_answers": [
+      "not suitable for children"
+    ],
+    "english_gloss": "not suitable for children"
+  },
+  {
+    "id": "sexual_vocabulary_II_037",
+    "hanzi": "尺度很大",
+    "pinyin": "chǐdù hěn dà",
+    "english_answers": [
+      "very explicit",
+      "pushes boundaries"
+    ],
+    "english_gloss": "very explicit / pushes boundaries"
+  },
+  {
+    "id": "sexual_vocabulary_II_038",
+    "hanzi": "擦边",
+    "pinyin": "cābiān",
+    "english_answers": [
+      "borderline suggestive content (internet slang)"
+    ],
+    "english_gloss": "borderline suggestive content (internet slang)"
+  },
+  {
+    "id": "sexual_vocabulary_II_039",
+    "hanzi": "开车",
+    "pinyin": "kāichē",
+    "english_answers": [
+      "start sexual innuendo",
+      "get suggestive (internet slang)"
+    ],
+    "english_gloss": "start sexual innuendo / get suggestive (internet slang)"
+  },
+  {
+    "id": "sexual_vocabulary_II_040",
+    "hanzi": "车速太快",
+    "pinyin": "chēsù tài kuài",
+    "english_answers": [
+      "things got suggestive fast (internet slang)"
+    ],
+    "english_gloss": "things got suggestive fast (internet slang)"
+  },
+  {
+    "id": "sexual_vocabulary_II_041",
+    "hanzi": "上高速",
+    "pinyin": "shàng gāosù",
+    "english_answers": [
+      "turn very suggestive (internet slang)"
+    ],
+    "english_gloss": "turn very suggestive (internet slang)"
+  },
+  {
+    "id": "sexual_vocabulary_II_042",
+    "hanzi": "想歪了",
+    "pinyin": "xiǎng wāi le",
+    "english_answers": [
+      "took it in a dirty direction"
+    ],
+    "english_gloss": "took it in a dirty direction"
+  },
+  {
+    "id": "sexual_vocabulary_II_043",
+    "hanzi": "别想歪了。",
+    "pinyin": "Bié xiǎng wāi le.",
+    "english_answers": [
+      "Don't take it the wrong (dirty) way."
+    ],
+    "english_gloss": "Don't take it the wrong (dirty) way."
+  },
+  {
+    "id": "sexual_vocabulary_II_044",
+    "hanzi": "有点露骨",
+    "pinyin": "yǒudiǎn lùgǔ",
+    "english_answers": [
+      "a bit explicit",
+      "too revealing"
+    ],
+    "english_gloss": "a bit explicit / too revealing"
+  },
+  {
+    "id": "sexual_vocabulary_II_045",
+    "hanzi": "多人性行为",
+    "pinyin": "duō rén xìng xíngwéi",
+    "english_answers": [
+      "sexual activity involving multiple people"
+    ],
+    "english_gloss": "sexual activity involving multiple people"
+  },
+  {
+    "id": "sexual_vocabulary_II_046",
+    "hanzi": "群体性爱",
+    "pinyin": "qúntǐ xìng'ài",
+    "english_answers": [
+      "group sexual activity"
+    ],
+    "english_gloss": "group sexual activity"
+  },
+  {
+    "id": "sexual_vocabulary_II_047",
+    "hanzi": "换偶",
+    "pinyin": "huàn'ǒu",
+    "english_answers": [
+      "partner swapping",
+      "swinging"
+    ],
+    "english_gloss": "partner swapping; swinging"
+  },
+  {
+    "id": "sexual_vocabulary_II_048",
+    "hanzi": "换伴侣",
+    "pinyin": "huàn bànlǚ",
+    "english_answers": [
+      "switch partners"
+    ],
+    "english_gloss": "switch partners"
+  },
+  {
+    "id": "sexual_vocabulary_II_049",
+    "hanzi": "开放式关系",
+    "pinyin": "kāifàng shì guānxì",
+    "english_answers": [
+      "open relationship"
+    ],
+    "english_gloss": "open relationship"
+  },
+  {
+    "id": "sexual_vocabulary_II_050",
+    "hanzi": "多元之爱",
+    "pinyin": "duōyuán zhī ài",
+    "english_answers": [
+      "polyamory (one Chinese rendering)"
+    ],
+    "english_gloss": "polyamory (one Chinese rendering)"
+  },
+  {
+    "id": "sexual_vocabulary_II_051",
+    "hanzi": "多伴侣关系",
+    "pinyin": "duō bànlǚ guānxì",
+    "english_answers": [
+      "multi-partner relationship"
+    ],
+    "english_gloss": "multi-partner relationship"
+  },
+  {
+    "id": "sexual_vocabulary_II_052",
+    "hanzi": "非一夫一妻制",
+    "pinyin": "fēi yì fū yì qī zhì",
+    "english_answers": [
+      "non-monogamy (literally non-exclusive marriage framework)"
+    ],
+    "english_gloss": "non-monogamy (literally non-exclusive marriage framework)"
+  },
+  {
+    "id": "sexual_vocabulary_II_053",
+    "hanzi": "一夜情",
+    "pinyin": "yí yè qíng",
+    "english_answers": [
+      "one-night stand"
+    ],
+    "english_gloss": "one-night stand"
+  },
+  {
+    "id": "sexual_vocabulary_II_054",
+    "hanzi": "约炮",
+    "pinyin": "yuēpào",
+    "english_answers": [
+      "arrange casual sex (slang, blunt)"
+    ],
+    "english_gloss": "arrange casual sex (slang, blunt)"
+  },
+  {
+    "id": "sexual_vocabulary_II_055",
+    "hanzi": "炮友",
+    "pinyin": "pàoyǒu",
+    "english_answers": [
+      "friend with benefits",
+      "casual sex partner (slang)"
+    ],
+    "english_gloss": "friend with benefits; casual sex partner (slang)"
+  },
+  {
+    "id": "sexual_vocabulary_II_056",
+    "hanzi": "床伴",
+    "pinyin": "chuángbàn",
+    "english_answers": [
+      "bed partner",
+      "sexual partner"
+    ],
+    "english_gloss": "bed partner; sexual partner"
+  },
+  {
+    "id": "sexual_vocabulary_II_057",
+    "hanzi": "性伴侣",
+    "pinyin": "xìng bànlǚ",
+    "english_answers": [
+      "sexual partner"
+    ],
+    "english_gloss": "sexual partner"
+  },
+  {
+    "id": "sexual_vocabulary_II_058",
+    "hanzi": "亲密伴侣",
+    "pinyin": "qīnmì bànlǚ",
+    "english_answers": [
+      "intimate partner"
+    ],
+    "english_gloss": "intimate partner"
+  },
+  {
+    "id": "sexual_vocabulary_II_059",
+    "hanzi": "性关系",
+    "pinyin": "xìng guānxì",
+    "english_answers": [
+      "sexual relationship",
+      "sexual relations"
+    ],
+    "english_gloss": "sexual relationship; sexual relations"
+  },
+  {
+    "id": "sexual_vocabulary_II_060",
+    "hanzi": "发生性关系",
+    "pinyin": "fāshēng xìng guānxì",
+    "english_answers": [
+      "have sexual relations"
+    ],
+    "english_gloss": "have sexual relations"
+  },
+  {
+    "id": "sexual_vocabulary_II_061",
+    "hanzi": "做爱",
+    "pinyin": "zuò'ài",
+    "english_answers": [
+      "have sex",
+      "make love"
+    ],
+    "english_gloss": "have sex; make love"
+  },
+  {
+    "id": "sexual_vocabulary_II_062",
+    "hanzi": "上床",
+    "pinyin": "shàng chuáng",
+    "english_answers": [
+      "go to bed",
+      "have sex (context-dependent)"
+    ],
+    "english_gloss": "go to bed; have sex (context-dependent)"
+  },
+  {
+    "id": "sexual_vocabulary_II_063",
+    "hanzi": "性爱",
+    "pinyin": "xìng'ài",
+    "english_answers": [
+      "sexual intercourse",
+      "lovemaking"
+    ],
+    "english_gloss": "sexual intercourse; lovemaking"
+  },
+  {
+    "id": "sexual_vocabulary_II_064",
+    "hanzi": "口交",
+    "pinyin": "kǒujiāo",
+    "english_answers": [
+      "oral sex"
+    ],
+    "english_gloss": "oral sex"
+  },
+  {
+    "id": "sexual_vocabulary_II_065",
+    "hanzi": "肛交",
+    "pinyin": "gāngjiāo",
+    "english_answers": [
+      "anal sex"
+    ],
+    "english_gloss": "anal sex"
+  },
+  {
+    "id": "sexual_vocabulary_II_066",
+    "hanzi": "自慰",
+    "pinyin": "zìwèi",
+    "english_answers": [
+      "masturbation"
+    ],
+    "english_gloss": "masturbation"
+  },
+  {
+    "id": "sexual_vocabulary_II_067",
+    "hanzi": "手淫",
+    "pinyin": "shǒuyín",
+    "english_answers": [
+      "masturbation (often more clinical or blunt)"
+    ],
+    "english_gloss": "masturbation (often more clinical or blunt)"
+  },
+  {
+    "id": "sexual_vocabulary_II_068",
+    "hanzi": "高潮",
+    "pinyin": "gāocháo",
+    "english_answers": [
+      "orgasm",
+      "climax (also figurative)"
+    ],
+    "english_gloss": "orgasm; climax (also figurative)"
+  },
+  {
+    "id": "sexual_vocabulary_II_069",
+    "hanzi": "性高潮",
+    "pinyin": "xìng gāocháo",
+    "english_answers": [
+      "sexual orgasm"
+    ],
+    "english_gloss": "sexual orgasm"
+  },
+  {
+    "id": "sexual_vocabulary_II_070",
+    "hanzi": "射精",
+    "pinyin": "shèjīng",
+    "english_answers": [
+      "ejaculation"
+    ],
+    "english_gloss": "ejaculation"
+  },
+  {
+    "id": "sexual_vocabulary_II_071",
+    "hanzi": "勃起",
+    "pinyin": "bóqǐ",
+    "english_answers": [
+      "erection"
+    ],
+    "english_gloss": "erection"
+  },
+  {
+    "id": "sexual_vocabulary_II_072",
+    "hanzi": "湿润",
+    "pinyin": "shīrùn",
+    "english_answers": [
+      "moist",
+      "lubricated (contextual)"
+    ],
+    "english_gloss": "moist; lubricated (contextual)"
+  },
+  {
+    "id": "sexual_vocabulary_II_073",
+    "hanzi": "亲吻",
+    "pinyin": "qīnwěn",
+    "english_answers": [
+      "kiss (formal or descriptive)"
+    ],
+    "english_gloss": "kiss (formal or descriptive)"
+  },
+  {
+    "id": "sexual_vocabulary_II_074",
+    "hanzi": "接吻",
+    "pinyin": "jiēwěn",
+    "english_answers": [
+      "kiss",
+      "make out"
+    ],
+    "english_gloss": "kiss; make out"
+  },
+  {
+    "id": "sexual_vocabulary_II_075",
+    "hanzi": "舌吻",
+    "pinyin": "shéwěn",
+    "english_answers": [
+      "French kiss"
+    ],
+    "english_gloss": "French kiss"
+  },
+  {
+    "id": "sexual_vocabulary_II_076",
+    "hanzi": "拥抱",
+    "pinyin": "yōngbào",
+    "english_answers": [
+      "embrace",
+      "hug"
+    ],
+    "english_gloss": "embrace; hug"
+  },
+  {
+    "id": "sexual_vocabulary_II_077",
+    "hanzi": "抚摸",
+    "pinyin": "fǔmō",
+    "english_answers": [
+      "caress",
+      "stroke"
+    ],
+    "english_gloss": "caress; stroke"
+  },
+  {
+    "id": "sexual_vocabulary_II_078",
+    "hanzi": "爱抚",
+    "pinyin": "àifǔ",
+    "english_answers": [
+      "caress",
+      "fondle"
+    ],
+    "english_gloss": "caress; fondle"
+  },
+  {
+    "id": "sexual_vocabulary_II_079",
+    "hanzi": "亲密接触",
+    "pinyin": "qīnmì jiēchù",
+    "english_answers": [
+      "intimate physical contact"
+    ],
+    "english_gloss": "intimate physical contact"
+  },
+  {
+    "id": "sexual_vocabulary_II_080",
+    "hanzi": "身体接触",
+    "pinyin": "shēntǐ jiēchù",
+    "english_answers": [
+      "physical contact"
+    ],
+    "english_gloss": "physical contact"
+  },
+  {
+    "id": "sexual_vocabulary_II_081",
+    "hanzi": "性传播感染",
+    "pinyin": "xìng chuánbō gǎnrǎn",
+    "english_answers": [
+      "sexually transmitted infection (STI)"
+    ],
+    "english_gloss": "sexually transmitted infection (STI)"
+  },
+  {
+    "id": "sexual_vocabulary_II_082",
+    "hanzi": "性病",
+    "pinyin": "xìngbìng",
+    "english_answers": [
+      "sexually transmitted disease (common term)"
+    ],
+    "english_gloss": "sexually transmitted disease (common term)"
+  },
+  {
+    "id": "sexual_vocabulary_II_083",
+    "hanzi": "避孕",
+    "pinyin": "bìyùn",
+    "english_answers": [
+      "contraception",
+      "prevent pregnancy"
+    ],
+    "english_gloss": "contraception; prevent pregnancy"
+  },
+  {
+    "id": "sexual_vocabulary_II_084",
+    "hanzi": "避孕套",
+    "pinyin": "bìyùn tào",
+    "english_answers": [
+      "condom"
+    ],
+    "english_gloss": "condom"
+  },
+  {
+    "id": "sexual_vocabulary_II_085",
+    "hanzi": "安全套",
+    "pinyin": "ānquán tào",
+    "english_answers": [
+      "condom (common mainland term)"
+    ],
+    "english_gloss": "condom (common mainland term)"
+  },
+  {
+    "id": "sexual_vocabulary_II_086",
+    "hanzi": "紧急避孕",
+    "pinyin": "jǐnjí bìyùn",
+    "english_answers": [
+      "emergency contraception"
+    ],
+    "english_gloss": "emergency contraception"
+  },
+  {
+    "id": "sexual_vocabulary_II_087",
+    "hanzi": "性健康",
+    "pinyin": "xìng jiànkāng",
+    "english_answers": [
+      "sexual health"
+    ],
+    "english_gloss": "sexual health"
+  },
+  {
+    "id": "sexual_vocabulary_II_088",
+    "hanzi": "性教育",
+    "pinyin": "xìng jiàoyù",
+    "english_answers": [
+      "sex education"
+    ],
+    "english_gloss": "sex education"
+  },
+  {
+    "id": "sexual_vocabulary_II_089",
+    "hanzi": "性行为",
+    "pinyin": "xìng xíngwéi",
+    "english_answers": [
+      "sexual activity or behavior"
+    ],
+    "english_gloss": "sexual activity or behavior"
+  },
+  {
+    "id": "sexual_vocabulary_II_090",
+    "hanzi": "性经验",
+    "pinyin": "xìng jīngyàn",
+    "english_answers": [
+      "sexual experience"
+    ],
+    "english_gloss": "sexual experience"
+  },
+  {
+    "id": "sexual_vocabulary_II_091",
+    "hanzi": "性取向",
+    "pinyin": "xìng qǔxiàng",
+    "english_answers": [
+      "sexual orientation"
+    ],
+    "english_gloss": "sexual orientation"
+  },
+  {
+    "id": "sexual_vocabulary_II_092",
+    "hanzi": "性吸引力",
+    "pinyin": "xìng xīyǐnlì",
+    "english_answers": [
+      "sexual attractiveness",
+      "sex appeal"
+    ],
+    "english_gloss": "sexual attractiveness; sex appeal"
+  },
+  {
+    "id": "sexual_vocabulary_II_093",
+    "hanzi": "性吸引",
+    "pinyin": "xìng xīyǐn",
+    "english_answers": [
+      "sexual attraction"
+    ],
+    "english_gloss": "sexual attraction"
+  },
+  {
+    "id": "sexual_vocabulary_II_094",
+    "hanzi": "欲望",
+    "pinyin": "yùwàng",
+    "english_answers": [
+      "desire",
+      "longing"
+    ],
+    "english_gloss": "desire; longing"
+  },
+  {
+    "id": "sexual_vocabulary_II_095",
+    "hanzi": "禁欲",
+    "pinyin": "jìnyù",
+    "english_answers": [
+      "abstinence",
+      "restraining sexual desire"
+    ],
+    "english_gloss": "abstinence; restraining sexual desire"
+  },
+  {
+    "id": "sexual_vocabulary_II_096",
+    "hanzi": "性冷淡",
+    "pinyin": "xìng lěngdàn",
+    "english_answers": [
+      "low sexual desire (potentially stigmatizing term)"
+    ],
+    "english_gloss": "low sexual desire (potentially stigmatizing term)"
+  },
+  {
+    "id": "sexual_vocabulary_II_097",
+    "hanzi": "性功能",
+    "pinyin": "xìng gōngnéng",
+    "english_answers": [
+      "sexual function"
+    ],
+    "english_gloss": "sexual function"
+  },
+  {
+    "id": "sexual_vocabulary_II_098",
+    "hanzi": "性满足",
+    "pinyin": "xìng mǎnzú",
+    "english_answers": [
+      "sexual satisfaction"
+    ],
+    "english_gloss": "sexual satisfaction"
+  },
+  {
+    "id": "sexual_vocabulary_II_099",
+    "hanzi": "隐私权",
+    "pinyin": "yǐnsīquán",
+    "english_answers": [
+      "right to privacy"
+    ],
+    "english_gloss": "right to privacy"
+  },
+  {
+    "id": "sexual_vocabulary_II_100",
+    "hanzi": "偷拍",
+    "pinyin": "tōupāi",
+    "english_answers": [
+      "secretly photograph or film without consent"
+    ],
+    "english_gloss": "secretly photograph or film without consent"
+  }
+]

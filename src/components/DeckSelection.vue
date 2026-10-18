@@ -41,7 +41,14 @@ const isAuthLoading = ref(true)
 let unsubscribeAuth: (() => void) | null = null
 let unsubscribeUser: (() => void) | null = null
 
-const restrictedDeckIds = new Set(['lgbtq_I', 'lgbtq_II', 'lgbtq_III', 'clothes_III'])
+const restrictedDeckIds = new Set([
+  'lgbtq_I',
+  'lgbtq_II',
+  'lgbtq_III',
+  'clothes_III',
+  'sexual_vocabulary_I',
+  'sexual_vocabulary_II',
+])
 
 const visibleDecks = computed(() =>
   decks.value

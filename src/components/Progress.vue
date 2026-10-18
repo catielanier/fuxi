@@ -38,7 +38,14 @@ const error = ref('')
 let unsubscribeAuth: (() => void) | null = null
 let requestVersion = 0
 
-const restrictedDeckIds = new Set(['lgbtq_I', 'lgbtq_II', 'lgbtq_III', 'clothes_III'])
+const restrictedDeckIds = new Set([
+  'lgbtq_I',
+  'lgbtq_II',
+  'lgbtq_III',
+  'clothes_III',
+  'sexual_vocabulary_I',
+  'sexual_vocabulary_II',
+])
 
 const visibleDecks = computed(() =>
   decks.value

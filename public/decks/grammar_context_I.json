@@ -1,0 +1,925 @@
+{
+  "id": "grammar_context_I",
+  "title": "Grammar in Context I",
+  "category": "grammar",
+  "part": 1,
+  "description": "Aspect particles, 把/被, complements, comparisons and connected clauses",
+  "cards": [
+    {
+      "id": "grammar_context_I_0001",
+      "hanzi": "把字句",
+      "pinyin": "bǎ zì jù",
+      "english_answers": [
+        "sentence pattern marking the affected object"
+      ],
+      "english_gloss": "sentence pattern marking the affected object"
+    },
+    {
+      "id": "grammar_context_I_0002",
+      "hanzi": "被字句",
+      "pinyin": "bèi zì jù",
+      "english_answers": [
+        "passive sentence construction"
+      ],
+      "english_gloss": "passive sentence construction"
+    },
+    {
+      "id": "grammar_context_I_0003",
+      "hanzi": "了",
+      "pinyin": "le",
+      "english_answers": [
+        "particle indicating completion or a new situation"
+      ],
+      "english_gloss": "particle indicating completion or a new situation"
+    },
+    {
+      "id": "grammar_context_I_0004",
+      "hanzi": "过",
+      "pinyin": "guo",
+      "english_answers": [
+        "experiential aspect particle: have done before"
+      ],
+      "english_gloss": "experiential aspect particle: have done before"
+    },
+    {
+      "id": "grammar_context_I_0005",
+      "hanzi": "着",
+      "pinyin": "zhe",
+      "english_answers": [
+        "aspect particle: ongoing state"
+      ],
+      "english_gloss": "aspect particle: ongoing state"
+    },
+    {
+      "id": "grammar_context_I_0006",
+      "hanzi": "正在",
+      "pinyin": "zhèngzài",
+      "english_answers": [
+        "currently in the process of"
+      ],
+      "english_gloss": "currently in the process of"
+    },
+    {
+      "id": "grammar_context_I_0007",
+      "hanzi": "已经",
+      "pinyin": "yǐjīng",
+      "english_answers": [
+        "already"
+      ],
+      "english_gloss": "already"
+    },
+    {
+      "id": "grammar_context_I_0008",
+      "hanzi": "还没",
+      "pinyin": "hái méi",
+      "english_answers": [
+        "not yet"
+      ],
+      "english_gloss": "not yet"
+    },
+    {
+      "id": "grammar_context_I_0009",
+      "hanzi": "刚刚",
+      "pinyin": "gānggāng",
+      "english_answers": [
+        "just now"
+      ],
+      "english_gloss": "just now"
+    },
+    {
+      "id": "grammar_context_I_0010",
+      "hanzi": "刚才",
+      "pinyin": "gāngcái",
+      "english_answers": [
+        "a moment ago"
+      ],
+      "english_gloss": "a moment ago"
+    },
+    {
+      "id": "grammar_context_I_0011",
+      "hanzi": "我吃过了。",
+      "pinyin": "Wǒ chī guo le.",
+      "english_answers": [
+        "I've eaten already."
+      ],
+      "english_gloss": "I've eaten already."
+    },
+    {
+      "id": "grammar_context_I_0012",
+      "hanzi": "我去过北京。",
+      "pinyin": "Wǒ qù guo Běijīng.",
+      "english_answers": [
+        "I've been to Beijing before."
+      ],
+      "english_gloss": "I've been to Beijing before."
+    },
+    {
+      "id": "grammar_context_I_0013",
+      "hanzi": "我没去过上海。",
+      "pinyin": "Wǒ méi qù guo Shànghǎi.",
+      "english_answers": [
+        "I've never been to Shanghai."
+      ],
+      "english_gloss": "I've never been to Shanghai."
+    },
+    {
+      "id": "grammar_context_I_0014",
+      "hanzi": "我正在学习中文。",
+      "pinyin": "Wǒ zhèngzài xuéxí Zhōngwén.",
+      "english_answers": [
+        "I'm studying Chinese right now."
+      ],
+      "english_gloss": "I'm studying Chinese right now."
+    },
+    {
+      "id": "grammar_context_I_0015",
+      "hanzi": "门开着。",
+      "pinyin": "Mén kāi zhe.",
+      "english_answers": [
+        "The door is open."
+      ],
+      "english_gloss": "The door is open."
+    },
+    {
+      "id": "grammar_context_I_0016",
+      "hanzi": "他已经走了。",
+      "pinyin": "Tā yǐjīng zǒu le.",
+      "english_answers": [
+        "He's already left."
+      ],
+      "english_gloss": "He's already left."
+    },
+    {
+      "id": "grammar_context_I_0017",
+      "hanzi": "我还没吃饭。",
+      "pinyin": "Wǒ hái méi chīfàn.",
+      "english_answers": [
+        "I haven't eaten yet."
+      ],
+      "english_gloss": "I haven't eaten yet."
+    },
+    {
+      "id": "grammar_context_I_0018",
+      "hanzi": "天冷了。",
+      "pinyin": "Tiān lěng le.",
+      "english_answers": [
+        "It's gotten cold."
+      ],
+      "english_gloss": "It's gotten cold."
+    },
+    {
+      "id": "grammar_context_I_0019",
+      "hanzi": "我把钥匙忘在家里了。",
+      "pinyin": "Wǒ bǎ yàoshi wàng zài jiālǐ le.",
+      "english_answers": [
+        "I left the keys at home."
+      ],
+      "english_gloss": "I left the keys at home."
+    },
+    {
+      "id": "grammar_context_I_0020",
+      "hanzi": "请把门关上。",
+      "pinyin": "Qǐng bǎ mén guān shàng.",
+      "english_answers": [
+        "Please close the door."
+      ],
+      "english_gloss": "Please close the door."
+    },
+    {
+      "id": "grammar_context_I_0021",
+      "hanzi": "我把手机弄丢了。",
+      "pinyin": "Wǒ bǎ shǒujī nòng diū le.",
+      "english_answers": [
+        "I lost my phone."
+      ],
+      "english_gloss": "I lost my phone."
+    },
+    {
+      "id": "grammar_context_I_0022",
+      "hanzi": "这本书被借走了。",
+      "pinyin": "Zhè běn shū bèi jiè zǒu le.",
+      "english_answers": [
+        "This book has been borrowed."
+      ],
+      "english_gloss": "This book has been borrowed."
+    },
+    {
+      "id": "grammar_context_I_0023",
+      "hanzi": "我的电脑被修好了。",
+      "pinyin": "Wǒ de diànnǎo bèi xiū hǎo le.",
+      "english_answers": [
+        "My computer was repaired."
+      ],
+      "english_gloss": "My computer was repaired."
+    },
+    {
+      "id": "grammar_context_I_0024",
+      "hanzi": "我的包被偷了。",
+      "pinyin": "Wǒ de bāo bèi tōu le.",
+      "english_answers": [
+        "My bag was stolen."
+      ],
+      "english_gloss": "My bag was stolen."
+    },
+    {
+      "id": "grammar_context_I_0025",
+      "hanzi": "看完",
+      "pinyin": "kàn wán",
+      "english_answers": [
+        "finish watching/reading"
+      ],
+      "english_gloss": "finish watching/reading"
+    },
+    {
+      "id": "grammar_context_I_0026",
+      "hanzi": "吃完",
+      "pinyin": "chī wán",
+      "english_answers": [
+        "finish eating"
+      ],
+      "english_gloss": "finish eating"
+    },
+    {
+      "id": "grammar_context_I_0027",
+      "hanzi": "做完",
+      "pinyin": "zuò wán",
+      "english_answers": [
+        "finish doing"
+      ],
+      "english_gloss": "finish doing"
+    },
+    {
+      "id": "grammar_context_I_0028",
+      "hanzi": "写完",
+      "pinyin": "xiě wán",
+      "english_answers": [
+        "finish writing"
+      ],
+      "english_gloss": "finish writing"
+    },
+    {
+      "id": "grammar_context_I_0029",
+      "hanzi": "听懂",
+      "pinyin": "tīng dǒng",
+      "english_answers": [
+        "understand through listening"
+      ],
+      "english_gloss": "understand through listening"
+    },
+    {
+      "id": "grammar_context_I_0030",
+      "hanzi": "看懂",
+      "pinyin": "kàn dǒng",
+      "english_answers": [
+        "understand through reading/watching"
+      ],
+      "english_gloss": "understand through reading/watching"
+    },
+    {
+      "id": "grammar_context_I_0031",
+      "hanzi": "听清楚",
+      "pinyin": "tīng qīngchu",
+      "english_answers": [
+        "hear clearly"
+      ],
+      "english_gloss": "hear clearly"
+    },
+    {
+      "id": "grammar_context_I_0032",
+      "hanzi": "看清楚",
+      "pinyin": "kàn qīngchu",
+      "english_answers": [
+        "see clearly"
+      ],
+      "english_gloss": "see clearly"
+    },
+    {
+      "id": "grammar_context_I_0033",
+      "hanzi": "找到了",
+      "pinyin": "zhǎo dào le",
+      "english_answers": [
+        "found it"
+      ],
+      "english_gloss": "found it"
+    },
+    {
+      "id": "grammar_context_I_0034",
+      "hanzi": "买到了",
+      "pinyin": "mǎi dào le",
+      "english_answers": [
+        "managed to buy it"
+      ],
+      "english_gloss": "managed to buy it"
+    },
+    {
+      "id": "grammar_context_I_0035",
+      "hanzi": "想起来了",
+      "pinyin": "xiǎng qǐlái le",
+      "english_answers": [
+        "remembered it"
+      ],
+      "english_gloss": "remembered it"
+    },
+    {
+      "id": "grammar_context_I_0036",
+      "hanzi": "记住",
+      "pinyin": "jìzhù",
+      "english_answers": [
+        "memorize",
+        "keep in mind"
+      ],
+      "english_gloss": "memorize; keep in mind"
+    },
+    {
+      "id": "grammar_context_I_0037",
+      "hanzi": "忘掉",
+      "pinyin": "wàngdiào",
+      "english_answers": [
+        "forget",
+        "let go of"
+      ],
+      "english_gloss": "forget; let go of"
+    },
+    {
+      "id": "grammar_context_I_0038",
+      "hanzi": "拿出来",
+      "pinyin": "ná chūlái",
+      "english_answers": [
+        "take out"
+      ],
+      "english_gloss": "take out"
+    },
+    {
+      "id": "grammar_context_I_0039",
+      "hanzi": "放进去",
+      "pinyin": "fàng jìnqù",
+      "english_answers": [
+        "put inside"
+      ],
+      "english_gloss": "put inside"
+    },
+    {
+      "id": "grammar_context_I_0040",
+      "hanzi": "走进去",
+      "pinyin": "zǒu jìnqù",
+      "english_answers": [
+        "walk in"
+      ],
+      "english_gloss": "walk in"
+    },
+    {
+      "id": "grammar_context_I_0041",
+      "hanzi": "跑出来",
+      "pinyin": "pǎo chūlái",
+      "english_answers": [
+        "run out"
+      ],
+      "english_gloss": "run out"
+    },
+    {
+      "id": "grammar_context_I_0042",
+      "hanzi": "拿回来",
+      "pinyin": "ná huílái",
+      "english_answers": [
+        "bring back"
+      ],
+      "english_gloss": "bring back"
+    },
+    {
+      "id": "grammar_context_I_0043",
+      "hanzi": "送过去",
+      "pinyin": "sòng guòqù",
+      "english_answers": [
+        "send/take over there"
+      ],
+      "english_gloss": "send/take over there"
+    },
+    {
+      "id": "grammar_context_I_0044",
+      "hanzi": "听不懂",
+      "pinyin": "tīng bu dǒng",
+      "english_answers": [
+        "can't understand by listening"
+      ],
+      "english_gloss": "can't understand by listening"
+    },
+    {
+      "id": "grammar_context_I_0045",
+      "hanzi": "看不懂",
+      "pinyin": "kàn bu dǒng",
+      "english_answers": [
+        "can't understand by reading"
+      ],
+      "english_gloss": "can't understand by reading"
+    },
+    {
+      "id": "grammar_context_I_0046",
+      "hanzi": "买不起",
+      "pinyin": "mǎi bu qǐ",
+      "english_answers": [
+        "can't afford to buy"
+      ],
+      "english_gloss": "can't afford to buy"
+    },
+    {
+      "id": "grammar_context_I_0047",
+      "hanzi": "买得起",
+      "pinyin": "mǎi de qǐ",
+      "english_answers": [
+        "can afford to buy"
+      ],
+      "english_gloss": "can afford to buy"
+    },
+    {
+      "id": "grammar_context_I_0048",
+      "hanzi": "来不了",
+      "pinyin": "lái bu liǎo",
+      "english_answers": [
+        "can't come"
+      ],
+      "english_gloss": "can't come"
+    },
+    {
+      "id": "grammar_context_I_0049",
+      "hanzi": "来得了",
+      "pinyin": "lái de liǎo",
+      "english_answers": [
+        "able to come"
+      ],
+      "english_gloss": "able to come"
+    },
+    {
+      "id": "grammar_context_I_0050",
+      "hanzi": "做得到",
+      "pinyin": "zuò de dào",
+      "english_answers": [
+        "can manage to do it"
+      ],
+      "english_gloss": "can manage to do it"
+    },
+    {
+      "id": "grammar_context_I_0051",
+      "hanzi": "做不到",
+      "pinyin": "zuò bu dào",
+      "english_answers": [
+        "can't manage to do it"
+      ],
+      "english_gloss": "can't manage to do it"
+    },
+    {
+      "id": "grammar_context_I_0052",
+      "hanzi": "说得太快",
+      "pinyin": "shuō de tài kuài",
+      "english_answers": [
+        "speak too quickly"
+      ],
+      "english_gloss": "speak too quickly"
+    },
+    {
+      "id": "grammar_context_I_0053",
+      "hanzi": "说得很好",
+      "pinyin": "shuō de hěn hǎo",
+      "english_answers": [
+        "speak very well"
+      ],
+      "english_gloss": "speak very well"
+    },
+    {
+      "id": "grammar_context_I_0054",
+      "hanzi": "我听不懂。",
+      "pinyin": "Wǒ tīng bu dǒng.",
+      "english_answers": [
+        "I can't understand what I'm hearing."
+      ],
+      "english_gloss": "I can't understand what I'm hearing."
+    },
+    {
+      "id": "grammar_context_I_0055",
+      "hanzi": "你说得太快了。",
+      "pinyin": "Nǐ shuō de tài kuài le.",
+      "english_answers": [
+        "You're speaking too fast."
+      ],
+      "english_gloss": "You're speaking too fast."
+    },
+    {
+      "id": "grammar_context_I_0056",
+      "hanzi": "这件事很难解释。",
+      "pinyin": "Zhè jiàn shì hěn nán jiěshì.",
+      "english_answers": [
+        "This is hard to explain."
+      ],
+      "english_gloss": "This is hard to explain."
+    },
+    {
+      "id": "grammar_context_I_0057",
+      "hanzi": "比",
+      "pinyin": "bǐ",
+      "english_answers": [
+        "than",
+        "comparative marker"
+      ],
+      "english_gloss": "than; comparative marker"
+    },
+    {
+      "id": "grammar_context_I_0058",
+      "hanzi": "没有……那么……",
+      "pinyin": "méiyǒu… nàme…",
+      "english_answers": [
+        "not as… as…"
+      ],
+      "english_gloss": "not as… as…"
+    },
+    {
+      "id": "grammar_context_I_0059",
+      "hanzi": "跟……一样",
+      "pinyin": "gēn… yíyàng",
+      "english_answers": [
+        "the same as…"
+      ],
+      "english_gloss": "the same as…"
+    },
+    {
+      "id": "grammar_context_I_0060",
+      "hanzi": "越来越",
+      "pinyin": "yuè lái yuè",
+      "english_answers": [
+        "more and more"
+      ],
+      "english_gloss": "more and more"
+    },
+    {
+      "id": "grammar_context_I_0061",
+      "hanzi": "越……越……",
+      "pinyin": "yuè… yuè…",
+      "english_answers": [
+        "the more… the more…"
+      ],
+      "english_gloss": "the more… the more…"
+    },
+    {
+      "id": "grammar_context_I_0062",
+      "hanzi": "更",
+      "pinyin": "gèng",
+      "english_answers": [
+        "more",
+        "even more"
+      ],
+      "english_gloss": "more; even more"
+    },
+    {
+      "id": "grammar_context_I_0063",
+      "hanzi": "最",
+      "pinyin": "zuì",
+      "english_answers": [
+        "most",
+        "the most"
+      ],
+      "english_gloss": "most; the most"
+    },
+    {
+      "id": "grammar_context_I_0064",
+      "hanzi": "稍微",
+      "pinyin": "shāowēi",
+      "english_answers": [
+        "slightly",
+        "a little"
+      ],
+      "english_gloss": "slightly; a little"
+    },
+    {
+      "id": "grammar_context_I_0065",
+      "hanzi": "有点儿",
+      "pinyin": "yǒudiǎnr",
+      "english_answers": [
+        "a bit (often undesirable)"
+      ],
+      "english_gloss": "a bit (often undesirable)"
+    },
+    {
+      "id": "grammar_context_I_0066",
+      "hanzi": "一点儿",
+      "pinyin": "yìdiǎnr",
+      "english_answers": [
+        "a little",
+        "slightly"
+      ],
+      "english_gloss": "a little; slightly"
+    },
+    {
+      "id": "grammar_context_I_0067",
+      "hanzi": "这个比那个贵。",
+      "pinyin": "Zhège bǐ nàge guì.",
+      "english_answers": [
+        "This is more expensive than that."
+      ],
+      "english_gloss": "This is more expensive than that."
+    },
+    {
+      "id": "grammar_context_I_0068",
+      "hanzi": "今天没有昨天冷。",
+      "pinyin": "Jīntiān méiyǒu zuótiān lěng.",
+      "english_answers": [
+        "Today isn't as cold as yesterday."
+      ],
+      "english_gloss": "Today isn't as cold as yesterday."
+    },
+    {
+      "id": "grammar_context_I_0069",
+      "hanzi": "她跟我一样高。",
+      "pinyin": "Tā gēn wǒ yíyàng gāo.",
+      "english_answers": [
+        "She's the same height as me."
+      ],
+      "english_gloss": "She's the same height as me."
+    },
+    {
+      "id": "grammar_context_I_0070",
+      "hanzi": "我越来越习惯了。",
+      "pinyin": "Wǒ yuè lái yuè xíguàn le.",
+      "english_answers": [
+        "I'm getting more and more used to it."
+      ],
+      "english_gloss": "I'm getting more and more used to it."
+    },
+    {
+      "id": "grammar_context_I_0071",
+      "hanzi": "越练越容易。",
+      "pinyin": "Yuè liàn yuè róngyì.",
+      "english_answers": [
+        "The more you practice, the easier it gets."
+      ],
+      "english_gloss": "The more you practice, the easier it gets."
+    },
+    {
+      "id": "grammar_context_I_0072",
+      "hanzi": "虽然……但是……",
+      "pinyin": "suīrán… dànshì…",
+      "english_answers": [
+        "although… nevertheless…"
+      ],
+      "english_gloss": "although… nevertheless…"
+    },
+    {
+      "id": "grammar_context_I_0073",
+      "hanzi": "如果……就……",
+      "pinyin": "rúguǒ… jiù…",
+      "english_answers": [
+        "if… then…"
+      ],
+      "english_gloss": "if… then…"
+    },
+    {
+      "id": "grammar_context_I_0074",
+      "hanzi": "只要……就……",
+      "pinyin": "zhǐyào… jiù…",
+      "english_answers": [
+        "as long as… then…"
+      ],
+      "english_gloss": "as long as… then…"
+    },
+    {
+      "id": "grammar_context_I_0075",
+      "hanzi": "除非……否则……",
+      "pinyin": "chúfēi… fǒuzé…",
+      "english_answers": [
+        "unless… otherwise…"
+      ],
+      "english_gloss": "unless… otherwise…"
+    },
+    {
+      "id": "grammar_context_I_0076",
+      "hanzi": "不但……而且……",
+      "pinyin": "búdàn… érqiě…",
+      "english_answers": [
+        "not only… but also…"
+      ],
+      "english_gloss": "not only… but also…"
+    },
+    {
+      "id": "grammar_context_I_0077",
+      "hanzi": "既……又……",
+      "pinyin": "jì… yòu…",
+      "english_answers": [
+        "both… and…"
+      ],
+      "english_gloss": "both… and…"
+    },
+    {
+      "id": "grammar_context_I_0078",
+      "hanzi": "或者……或者……",
+      "pinyin": "huòzhě… huòzhě…",
+      "english_answers": [
+        "either… or…"
+      ],
+      "english_gloss": "either… or…"
+    },
+    {
+      "id": "grammar_context_I_0079",
+      "hanzi": "不是……而是……",
+      "pinyin": "bú shì… ér shì…",
+      "english_answers": [
+        "not… but rather…"
+      ],
+      "english_gloss": "not… but rather…"
+    },
+    {
+      "id": "grammar_context_I_0080",
+      "hanzi": "连……都……",
+      "pinyin": "lián… dōu…",
+      "english_answers": [
+        "even…"
+      ],
+      "english_gloss": "even…"
+    },
+    {
+      "id": "grammar_context_I_0081",
+      "hanzi": "除了……以外……",
+      "pinyin": "chúle… yǐwài…",
+      "english_answers": [
+        "apart from…",
+        "besides…"
+      ],
+      "english_gloss": "apart from…; besides…"
+    },
+    {
+      "id": "grammar_context_I_0082",
+      "hanzi": "尽管……还是……",
+      "pinyin": "jǐnguǎn… háishi…",
+      "english_answers": [
+        "although… still…"
+      ],
+      "english_gloss": "although… still…"
+    },
+    {
+      "id": "grammar_context_I_0083",
+      "hanzi": "即使……也……",
+      "pinyin": "jíshǐ… yě…",
+      "english_answers": [
+        "even if… still…"
+      ],
+      "english_gloss": "even if… still…"
+    },
+    {
+      "id": "grammar_context_I_0084",
+      "hanzi": "要是……就……",
+      "pinyin": "yàoshi… jiù…",
+      "english_answers": [
+        "if… then… (colloquial)"
+      ],
+      "english_gloss": "if… then… (colloquial)"
+    },
+    {
+      "id": "grammar_context_I_0085",
+      "hanzi": "一边……一边……",
+      "pinyin": "yìbiān… yìbiān…",
+      "english_answers": [
+        "doing… while doing…"
+      ],
+      "english_gloss": "doing… while doing…"
+    },
+    {
+      "id": "grammar_context_I_0086",
+      "hanzi": "一……就……",
+      "pinyin": "yī… jiù…",
+      "english_answers": [
+        "as soon as… then…"
+      ],
+      "english_gloss": "as soon as… then…"
+    },
+    {
+      "id": "grammar_context_I_0087",
+      "hanzi": "先……再……",
+      "pinyin": "xiān… zài…",
+      "english_answers": [
+        "first… then…"
+      ],
+      "english_gloss": "first… then…"
+    },
+    {
+      "id": "grammar_context_I_0088",
+      "hanzi": "先……然后……",
+      "pinyin": "xiān… ránhòu…",
+      "english_answers": [
+        "first… and afterward…"
+      ],
+      "english_gloss": "first… and afterward…"
+    },
+    {
+      "id": "grammar_context_I_0089",
+      "hanzi": "把……给……",
+      "pinyin": "bǎ… gěi…",
+      "english_answers": [
+        "take/handle something and do… to/for someone"
+      ],
+      "english_gloss": "take/handle something and do… to/for someone"
+    },
+    {
+      "id": "grammar_context_I_0090",
+      "hanzi": "恐怕",
+      "pinyin": "kǒngpà",
+      "english_answers": [
+        "I'm afraid that",
+        "probably (undesirable)"
+      ],
+      "english_gloss": "I'm afraid that; probably (undesirable)"
+    },
+    {
+      "id": "grammar_context_I_0091",
+      "hanzi": "据说",
+      "pinyin": "jùshuō",
+      "english_answers": [
+        "it is said that",
+        "reportedly"
+      ],
+      "english_gloss": "it is said that; reportedly"
+    },
+    {
+      "id": "grammar_context_I_0092",
+      "hanzi": "听说",
+      "pinyin": "tīngshuō",
+      "english_answers": [
+        "I heard that",
+        "reportedly"
+      ],
+      "english_gloss": "I heard that; reportedly"
+    },
+    {
+      "id": "grammar_context_I_0093",
+      "hanzi": "看来",
+      "pinyin": "kànlái",
+      "english_answers": [
+        "it seems",
+        "apparently"
+      ],
+      "english_gloss": "it seems; apparently"
+    },
+    {
+      "id": "grammar_context_I_0094",
+      "hanzi": "难道……吗？",
+      "pinyin": "nándào… ma?",
+      "english_answers": [
+        "could it really be that…? (rhetorical)"
+      ],
+      "english_gloss": "could it really be that…? (rhetorical)"
+    },
+    {
+      "id": "grammar_context_I_0095",
+      "hanzi": "是不是",
+      "pinyin": "shì bu shì",
+      "english_answers": [
+        "whether",
+        "is it or not"
+      ],
+      "english_gloss": "whether; is it or not"
+    },
+    {
+      "id": "grammar_context_I_0096",
+      "hanzi": "有没有",
+      "pinyin": "yǒu méi yǒu",
+      "english_answers": [
+        "whether there is/has been"
+      ],
+      "english_gloss": "whether there is/has been"
+    },
+    {
+      "id": "grammar_context_I_0097",
+      "hanzi": "什么都",
+      "pinyin": "shénme dōu",
+      "english_answers": [
+        "everything",
+        "anything (with negatives: nothing)"
+      ],
+      "english_gloss": "everything; anything (with negatives: nothing)"
+    },
+    {
+      "id": "grammar_context_I_0098",
+      "hanzi": "谁也不",
+      "pinyin": "shéi yě bù",
+      "english_answers": [
+        "nobody",
+        "not anyone"
+      ],
+      "english_gloss": "nobody; not anyone"
+    },
+    {
+      "id": "grammar_context_I_0099",
+      "hanzi": "一点儿也不",
+      "pinyin": "yìdiǎnr yě bù",
+      "english_answers": [
+        "not at all"
+      ],
+      "english_gloss": "not at all"
+    },
+    {
+      "id": "grammar_context_I_0100",
+      "hanzi": "根本不",
+      "pinyin": "gēnběn bù",
+      "english_answers": [
+        "simply not",
+        "not at all"
+      ],
+      "english_gloss": "simply not; not at all"
+    }
+  ]
+}

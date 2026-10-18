@@ -1,0 +1,902 @@
+[
+  {
+    "id": "everyday_actions_I_001",
+    "hanzi": "拿",
+    "pinyin": "ná",
+    "english_answers": [
+      "pick up / take"
+    ],
+    "english_gloss": "pick up / take"
+  },
+  {
+    "id": "everyday_actions_I_002",
+    "hanzi": "放",
+    "pinyin": "fàng",
+    "english_answers": [
+      "put / place"
+    ],
+    "english_gloss": "put / place"
+  },
+  {
+    "id": "everyday_actions_I_003",
+    "hanzi": "拿起来",
+    "pinyin": "ná qǐlái",
+    "english_answers": [
+      "pick it up"
+    ],
+    "english_gloss": "pick it up"
+  },
+  {
+    "id": "everyday_actions_I_004",
+    "hanzi": "放下",
+    "pinyin": "fàng xià",
+    "english_answers": [
+      "put it down"
+    ],
+    "english_gloss": "put it down"
+  },
+  {
+    "id": "everyday_actions_I_005",
+    "hanzi": "放进去",
+    "pinyin": "fàng jìnqù",
+    "english_answers": [
+      "put it inside"
+    ],
+    "english_gloss": "put it inside"
+  },
+  {
+    "id": "everyday_actions_I_006",
+    "hanzi": "拿出来",
+    "pinyin": "ná chūlái",
+    "english_answers": [
+      "take it out"
+    ],
+    "english_gloss": "take it out"
+  },
+  {
+    "id": "everyday_actions_I_007",
+    "hanzi": "收起来",
+    "pinyin": "shōu qǐlái",
+    "english_answers": [
+      "put away"
+    ],
+    "english_gloss": "put away"
+  },
+  {
+    "id": "everyday_actions_I_008",
+    "hanzi": "摆好",
+    "pinyin": "bǎi hǎo",
+    "english_answers": [
+      "arrange neatly"
+    ],
+    "english_gloss": "arrange neatly"
+  },
+  {
+    "id": "everyday_actions_I_009",
+    "hanzi": "移开",
+    "pinyin": "yí kāi",
+    "english_answers": [
+      "move out of the way"
+    ],
+    "english_gloss": "move out of the way"
+  },
+  {
+    "id": "everyday_actions_I_010",
+    "hanzi": "挪一下",
+    "pinyin": "nuó yíxià",
+    "english_answers": [
+      "move it a little"
+    ],
+    "english_gloss": "move it a little"
+  },
+  {
+    "id": "everyday_actions_I_011",
+    "hanzi": "推",
+    "pinyin": "tuī",
+    "english_answers": [
+      "push"
+    ],
+    "english_gloss": "push"
+  },
+  {
+    "id": "everyday_actions_I_012",
+    "hanzi": "拉",
+    "pinyin": "lā",
+    "english_answers": [
+      "pull"
+    ],
+    "english_gloss": "pull"
+  },
+  {
+    "id": "everyday_actions_I_013",
+    "hanzi": "抬",
+    "pinyin": "tái",
+    "english_answers": [
+      "lift / raise"
+    ],
+    "english_gloss": "lift / raise"
+  },
+  {
+    "id": "everyday_actions_I_014",
+    "hanzi": "搬",
+    "pinyin": "bān",
+    "english_answers": [
+      "move / carry bulky things"
+    ],
+    "english_gloss": "move / carry bulky things"
+  },
+  {
+    "id": "everyday_actions_I_015",
+    "hanzi": "扛",
+    "pinyin": "káng",
+    "english_answers": [
+      "carry on the shoulder"
+    ],
+    "english_gloss": "carry on the shoulder"
+  },
+  {
+    "id": "everyday_actions_I_016",
+    "hanzi": "拎",
+    "pinyin": "līn",
+    "english_answers": [
+      "carry by a handle"
+    ],
+    "english_gloss": "carry by a handle"
+  },
+  {
+    "id": "everyday_actions_I_017",
+    "hanzi": "拖",
+    "pinyin": "tuō",
+    "english_answers": [
+      "drag"
+    ],
+    "english_gloss": "drag"
+  },
+  {
+    "id": "everyday_actions_I_018",
+    "hanzi": "转",
+    "pinyin": "zhuǎn",
+    "english_answers": [
+      "turn / rotate"
+    ],
+    "english_gloss": "turn / rotate"
+  },
+  {
+    "id": "everyday_actions_I_019",
+    "hanzi": "翻过来",
+    "pinyin": "fān guòlái",
+    "english_answers": [
+      "turn it over"
+    ],
+    "english_gloss": "turn it over"
+  },
+  {
+    "id": "everyday_actions_I_020",
+    "hanzi": "倒过来",
+    "pinyin": "dào guòlái",
+    "english_answers": [
+      "turn upside down"
+    ],
+    "english_gloss": "turn upside down"
+  },
+  {
+    "id": "everyday_actions_I_021",
+    "hanzi": "打开",
+    "pinyin": "dǎkāi",
+    "english_answers": [
+      "open / turn on"
+    ],
+    "english_gloss": "open / turn on"
+  },
+  {
+    "id": "everyday_actions_I_022",
+    "hanzi": "关上",
+    "pinyin": "guān shàng",
+    "english_answers": [
+      "close / shut"
+    ],
+    "english_gloss": "close / shut"
+  },
+  {
+    "id": "everyday_actions_I_023",
+    "hanzi": "盖上",
+    "pinyin": "gài shàng",
+    "english_answers": [
+      "put the lid on"
+    ],
+    "english_gloss": "put the lid on"
+  },
+  {
+    "id": "everyday_actions_I_024",
+    "hanzi": "掀开",
+    "pinyin": "xiān kāi",
+    "english_answers": [
+      "lift open / uncover"
+    ],
+    "english_gloss": "lift open / uncover"
+  },
+  {
+    "id": "everyday_actions_I_025",
+    "hanzi": "拧开",
+    "pinyin": "nǐng kāi",
+    "english_answers": [
+      "unscrew / twist open"
+    ],
+    "english_gloss": "unscrew / twist open"
+  },
+  {
+    "id": "everyday_actions_I_026",
+    "hanzi": "拧紧",
+    "pinyin": "nǐng jǐn",
+    "english_answers": [
+      "tighten by twisting"
+    ],
+    "english_gloss": "tighten by twisting"
+  },
+  {
+    "id": "everyday_actions_I_027",
+    "hanzi": "松开",
+    "pinyin": "sōng kāi",
+    "english_answers": [
+      "loosen / release"
+    ],
+    "english_gloss": "loosen / release"
+  },
+  {
+    "id": "everyday_actions_I_028",
+    "hanzi": "按",
+    "pinyin": "àn",
+    "english_answers": [
+      "press"
+    ],
+    "english_gloss": "press"
+  },
+  {
+    "id": "everyday_actions_I_029",
+    "hanzi": "按住",
+    "pinyin": "àn zhù",
+    "english_answers": [
+      "press and hold"
+    ],
+    "english_gloss": "press and hold"
+  },
+  {
+    "id": "everyday_actions_I_030",
+    "hanzi": "松手",
+    "pinyin": "sōng shǒu",
+    "english_answers": [
+      "let go"
+    ],
+    "english_gloss": "let go"
+  },
+  {
+    "id": "everyday_actions_I_031",
+    "hanzi": "插上",
+    "pinyin": "chā shàng",
+    "english_answers": [
+      "plug in / insert"
+    ],
+    "english_gloss": "plug in / insert"
+  },
+  {
+    "id": "everyday_actions_I_032",
+    "hanzi": "拔掉",
+    "pinyin": "bá diào",
+    "english_answers": [
+      "unplug / pull out"
+    ],
+    "english_gloss": "unplug / pull out"
+  },
+  {
+    "id": "everyday_actions_I_033",
+    "hanzi": "接上",
+    "pinyin": "jiē shàng",
+    "english_answers": [
+      "connect / attach"
+    ],
+    "english_gloss": "connect / attach"
+  },
+  {
+    "id": "everyday_actions_I_034",
+    "hanzi": "断开",
+    "pinyin": "duàn kāi",
+    "english_answers": [
+      "disconnect"
+    ],
+    "english_gloss": "disconnect"
+  },
+  {
+    "id": "everyday_actions_I_035",
+    "hanzi": "充电",
+    "pinyin": "chōngdiàn",
+    "english_answers": [
+      "charge a device"
+    ],
+    "english_gloss": "charge a device"
+  },
+  {
+    "id": "everyday_actions_I_036",
+    "hanzi": "开机",
+    "pinyin": "kāijī",
+    "english_answers": [
+      "turn on a device"
+    ],
+    "english_gloss": "turn on a device"
+  },
+  {
+    "id": "everyday_actions_I_037",
+    "hanzi": "关机",
+    "pinyin": "guānjī",
+    "english_answers": [
+      "shut down a device"
+    ],
+    "english_gloss": "shut down a device"
+  },
+  {
+    "id": "everyday_actions_I_038",
+    "hanzi": "重启",
+    "pinyin": "chóngqǐ",
+    "english_answers": [
+      "restart"
+    ],
+    "english_gloss": "restart"
+  },
+  {
+    "id": "everyday_actions_I_039",
+    "hanzi": "折",
+    "pinyin": "zhé",
+    "english_answers": [
+      "fold / bend"
+    ],
+    "english_gloss": "fold / bend"
+  },
+  {
+    "id": "everyday_actions_I_040",
+    "hanzi": "折起来",
+    "pinyin": "zhé qǐlái",
+    "english_answers": [
+      "fold up"
+    ],
+    "english_gloss": "fold up"
+  },
+  {
+    "id": "everyday_actions_I_041",
+    "hanzi": "展开",
+    "pinyin": "zhǎn kāi",
+    "english_answers": [
+      "unfold / spread out"
+    ],
+    "english_gloss": "unfold / spread out"
+  },
+  {
+    "id": "everyday_actions_I_042",
+    "hanzi": "撕",
+    "pinyin": "sī",
+    "english_answers": [
+      "tear"
+    ],
+    "english_gloss": "tear"
+  },
+  {
+    "id": "everyday_actions_I_043",
+    "hanzi": "撕下来",
+    "pinyin": "sī xiàlái",
+    "english_answers": [
+      "tear off"
+    ],
+    "english_gloss": "tear off"
+  },
+  {
+    "id": "everyday_actions_I_044",
+    "hanzi": "剪",
+    "pinyin": "jiǎn",
+    "english_answers": [
+      "cut with scissors"
+    ],
+    "english_gloss": "cut with scissors"
+  },
+  {
+    "id": "everyday_actions_I_045",
+    "hanzi": "剪开",
+    "pinyin": "jiǎn kāi",
+    "english_answers": [
+      "cut open"
+    ],
+    "english_gloss": "cut open"
+  },
+  {
+    "id": "everyday_actions_I_046",
+    "hanzi": "切",
+    "pinyin": "qiē",
+    "english_answers": [
+      "cut / slice"
+    ],
+    "english_gloss": "cut / slice"
+  },
+  {
+    "id": "everyday_actions_I_047",
+    "hanzi": "削",
+    "pinyin": "xiāo",
+    "english_answers": [
+      "peel / shave off"
+    ],
+    "english_gloss": "peel / shave off"
+  },
+  {
+    "id": "everyday_actions_I_048",
+    "hanzi": "刮",
+    "pinyin": "guā",
+    "english_answers": [
+      "scrape"
+    ],
+    "english_gloss": "scrape"
+  },
+  {
+    "id": "everyday_actions_I_049",
+    "hanzi": "擦",
+    "pinyin": "cā",
+    "english_answers": [
+      "wipe / rub"
+    ],
+    "english_gloss": "wipe / rub"
+  },
+  {
+    "id": "everyday_actions_I_050",
+    "hanzi": "擦干",
+    "pinyin": "cā gān",
+    "english_answers": [
+      "wipe dry"
+    ],
+    "english_gloss": "wipe dry"
+  },
+  {
+    "id": "everyday_actions_I_051",
+    "hanzi": "擦掉",
+    "pinyin": "cā diào",
+    "english_answers": [
+      "wipe away / erase"
+    ],
+    "english_gloss": "wipe away / erase"
+  },
+  {
+    "id": "everyday_actions_I_052",
+    "hanzi": "抹",
+    "pinyin": "mǒ",
+    "english_answers": [
+      "smear / spread"
+    ],
+    "english_gloss": "smear / spread"
+  },
+  {
+    "id": "everyday_actions_I_053",
+    "hanzi": "涂",
+    "pinyin": "tú",
+    "english_answers": [
+      "apply / coat"
+    ],
+    "english_gloss": "apply / coat"
+  },
+  {
+    "id": "everyday_actions_I_054",
+    "hanzi": "刷",
+    "pinyin": "shuā",
+    "english_answers": [
+      "brush / scrub"
+    ],
+    "english_gloss": "brush / scrub"
+  },
+  {
+    "id": "everyday_actions_I_055",
+    "hanzi": "洗",
+    "pinyin": "xǐ",
+    "english_answers": [
+      "wash"
+    ],
+    "english_gloss": "wash"
+  },
+  {
+    "id": "everyday_actions_I_056",
+    "hanzi": "冲洗",
+    "pinyin": "chōngxǐ",
+    "english_answers": [
+      "rinse"
+    ],
+    "english_gloss": "rinse"
+  },
+  {
+    "id": "everyday_actions_I_057",
+    "hanzi": "晾干",
+    "pinyin": "liàng gān",
+    "english_answers": [
+      "air-dry"
+    ],
+    "english_gloss": "air-dry"
+  },
+  {
+    "id": "everyday_actions_I_058",
+    "hanzi": "晒干",
+    "pinyin": "shài gān",
+    "english_answers": [
+      "dry in the sun"
+    ],
+    "english_gloss": "dry in the sun"
+  },
+  {
+    "id": "everyday_actions_I_059",
+    "hanzi": "拧干",
+    "pinyin": "níng gān",
+    "english_answers": [
+      "wring out"
+    ],
+    "english_gloss": "wring out"
+  },
+  {
+    "id": "everyday_actions_I_060",
+    "hanzi": "扫",
+    "pinyin": "sǎo",
+    "english_answers": [
+      "sweep"
+    ],
+    "english_gloss": "sweep"
+  },
+  {
+    "id": "everyday_actions_I_061",
+    "hanzi": "拖地",
+    "pinyin": "tuō dì",
+    "english_answers": [
+      "mop the floor"
+    ],
+    "english_gloss": "mop the floor"
+  },
+  {
+    "id": "everyday_actions_I_062",
+    "hanzi": "吸尘",
+    "pinyin": "xīchén",
+    "english_answers": [
+      "vacuum / remove dust by suction"
+    ],
+    "english_gloss": "vacuum / remove dust by suction"
+  },
+  {
+    "id": "everyday_actions_I_063",
+    "hanzi": "倒",
+    "pinyin": "dào",
+    "english_answers": [
+      "pour / tip out"
+    ],
+    "english_gloss": "pour / tip out"
+  },
+  {
+    "id": "everyday_actions_I_064",
+    "hanzi": "倒出来",
+    "pinyin": "dào chūlái",
+    "english_answers": [
+      "pour out"
+    ],
+    "english_gloss": "pour out"
+  },
+  {
+    "id": "everyday_actions_I_065",
+    "hanzi": "洒",
+    "pinyin": "sǎ",
+    "english_answers": [
+      "sprinkle / scatter"
+    ],
+    "english_gloss": "sprinkle / scatter"
+  },
+  {
+    "id": "everyday_actions_I_066",
+    "hanzi": "洒出来",
+    "pinyin": "sǎ chūlái",
+    "english_answers": [
+      "spill / splash out"
+    ],
+    "english_gloss": "spill / splash out"
+  },
+  {
+    "id": "everyday_actions_I_067",
+    "hanzi": "漏",
+    "pinyin": "lòu",
+    "english_answers": [
+      "leak"
+    ],
+    "english_gloss": "leak"
+  },
+  {
+    "id": "everyday_actions_I_068",
+    "hanzi": "滴",
+    "pinyin": "dī",
+    "english_answers": [
+      "drip"
+    ],
+    "english_gloss": "drip"
+  },
+  {
+    "id": "everyday_actions_I_069",
+    "hanzi": "挤",
+    "pinyin": "jǐ",
+    "english_answers": [
+      "squeeze"
+    ],
+    "english_gloss": "squeeze"
+  },
+  {
+    "id": "everyday_actions_I_070",
+    "hanzi": "挤出来",
+    "pinyin": "jǐ chūlái",
+    "english_answers": [
+      "squeeze out"
+    ],
+    "english_gloss": "squeeze out"
+  },
+  {
+    "id": "everyday_actions_I_071",
+    "hanzi": "捏",
+    "pinyin": "niē",
+    "english_answers": [
+      "pinch"
+    ],
+    "english_gloss": "pinch"
+  },
+  {
+    "id": "everyday_actions_I_072",
+    "hanzi": "揉",
+    "pinyin": "róu",
+    "english_answers": [
+      "knead / rub"
+    ],
+    "english_gloss": "knead / rub"
+  },
+  {
+    "id": "everyday_actions_I_073",
+    "hanzi": "搅拌",
+    "pinyin": "jiǎobàn",
+    "english_answers": [
+      "stir / mix"
+    ],
+    "english_gloss": "stir / mix"
+  },
+  {
+    "id": "everyday_actions_I_074",
+    "hanzi": "摇一摇",
+    "pinyin": "yáo yi yáo",
+    "english_answers": [
+      "give it a shake"
+    ],
+    "english_gloss": "give it a shake"
+  },
+  {
+    "id": "everyday_actions_I_075",
+    "hanzi": "摇晃",
+    "pinyin": "yáohuàng",
+    "english_answers": [
+      "shake / wobble"
+    ],
+    "english_gloss": "shake / wobble"
+  },
+  {
+    "id": "everyday_actions_I_076",
+    "hanzi": "敲",
+    "pinyin": "qiāo",
+    "english_answers": [
+      "knock / tap"
+    ],
+    "english_gloss": "knock / tap"
+  },
+  {
+    "id": "everyday_actions_I_077",
+    "hanzi": "拍",
+    "pinyin": "pāi",
+    "english_answers": [
+      "pat / slap"
+    ],
+    "english_gloss": "pat / slap"
+  },
+  {
+    "id": "everyday_actions_I_078",
+    "hanzi": "砸",
+    "pinyin": "zá",
+    "english_answers": [
+      "smash / strike heavily"
+    ],
+    "english_gloss": "smash / strike heavily"
+  },
+  {
+    "id": "everyday_actions_I_079",
+    "hanzi": "撞",
+    "pinyin": "zhuàng",
+    "english_answers": [
+      "bump into / collide"
+    ],
+    "english_gloss": "bump into / collide"
+  },
+  {
+    "id": "everyday_actions_I_080",
+    "hanzi": "碰",
+    "pinyin": "pèng",
+    "english_answers": [
+      "touch / bump"
+    ],
+    "english_gloss": "touch / bump"
+  },
+  {
+    "id": "everyday_actions_I_081",
+    "hanzi": "摔碎",
+    "pinyin": "shuāi suì",
+    "english_answers": [
+      "drop and break into pieces"
+    ],
+    "english_gloss": "drop and break into pieces"
+  },
+  {
+    "id": "everyday_actions_I_082",
+    "hanzi": "弄坏",
+    "pinyin": "nòng huài",
+    "english_answers": [
+      "damage / break something"
+    ],
+    "english_gloss": "damage / break something"
+  },
+  {
+    "id": "everyday_actions_I_083",
+    "hanzi": "修好",
+    "pinyin": "xiū hǎo",
+    "english_answers": [
+      "repair successfully"
+    ],
+    "english_gloss": "repair successfully"
+  },
+  {
+    "id": "everyday_actions_I_084",
+    "hanzi": "坏了",
+    "pinyin": "huài le",
+    "english_answers": [
+      "it broke / stopped working"
+    ],
+    "english_gloss": "it broke / stopped working"
+  },
+  {
+    "id": "everyday_actions_I_085",
+    "hanzi": "卡住",
+    "pinyin": "kǎ zhù",
+    "english_answers": [
+      "get stuck / jam"
+    ],
+    "english_gloss": "get stuck / jam"
+  },
+  {
+    "id": "everyday_actions_I_086",
+    "hanzi": "堵住",
+    "pinyin": "dǔ zhù",
+    "english_answers": [
+      "block / clog"
+    ],
+    "english_gloss": "block / clog"
+  },
+  {
+    "id": "everyday_actions_I_087",
+    "hanzi": "掉下来",
+    "pinyin": "diào xiàlái",
+    "english_answers": [
+      "fall down / fall off"
+    ],
+    "english_gloss": "fall down / fall off"
+  },
+  {
+    "id": "everyday_actions_I_088",
+    "hanzi": "松了",
+    "pinyin": "sōng le",
+    "english_answers": [
+      "it became loose"
+    ],
+    "english_gloss": "it became loose"
+  },
+  {
+    "id": "everyday_actions_I_089",
+    "hanzi": "裂开",
+    "pinyin": "liè kāi",
+    "english_answers": [
+      "crack / split open"
+    ],
+    "english_gloss": "crack / split open"
+  },
+  {
+    "id": "everyday_actions_I_090",
+    "hanzi": "磨损",
+    "pinyin": "mósǔn",
+    "english_answers": [
+      "wear down / abrasion"
+    ],
+    "english_gloss": "wear down / abrasion"
+  },
+  {
+    "id": "everyday_actions_I_091",
+    "hanzi": "换掉",
+    "pinyin": "huàn diào",
+    "english_answers": [
+      "replace / swap out"
+    ],
+    "english_gloss": "replace / swap out"
+  },
+  {
+    "id": "everyday_actions_I_092",
+    "hanzi": "装上",
+    "pinyin": "zhuāng shàng",
+    "english_answers": [
+      "install / attach"
+    ],
+    "english_gloss": "install / attach"
+  },
+  {
+    "id": "everyday_actions_I_093",
+    "hanzi": "拆下来",
+    "pinyin": "chāi xiàlái",
+    "english_answers": [
+      "take apart / remove"
+    ],
+    "english_gloss": "take apart / remove"
+  },
+  {
+    "id": "everyday_actions_I_094",
+    "hanzi": "拧螺丝",
+    "pinyin": "nǐng luósī",
+    "english_answers": [
+      "turn a screw"
+    ],
+    "english_gloss": "turn a screw"
+  },
+  {
+    "id": "everyday_actions_I_095",
+    "hanzi": "贴上",
+    "pinyin": "tiē shàng",
+    "english_answers": [
+      "stick on / attach with adhesive"
+    ],
+    "english_gloss": "stick on / attach with adhesive"
+  },
+  {
+    "id": "everyday_actions_I_096",
+    "hanzi": "撕掉标签",
+    "pinyin": "sī diào biāoqiān",
+    "english_answers": [
+      "peel off the label"
+    ],
+    "english_gloss": "peel off the label"
+  },
+  {
+    "id": "everyday_actions_I_097",
+    "hanzi": "对齐",
+    "pinyin": "duìqí",
+    "english_answers": [
+      "align / line up"
+    ],
+    "english_gloss": "align / line up"
+  },
+  {
+    "id": "everyday_actions_I_098",
+    "hanzi": "固定",
+    "pinyin": "gùdìng",
+    "english_answers": [
+      "secure / fasten"
+    ],
+    "english_gloss": "secure / fasten"
+  },
+  {
+    "id": "everyday_actions_I_099",
+    "hanzi": "量一下",
+    "pinyin": "liáng yíxià",
+    "english_answers": [
+      "measure it quickly"
+    ],
+    "english_gloss": "measure it quickly"
+  },
+  {
+    "id": "everyday_actions_I_100",
+    "hanzi": "试试看",
+    "pinyin": "shì shi kàn",
+    "english_answers": [
+      "give it a try"
+    ],
+    "english_gloss": "give it a try"
+  }
+]

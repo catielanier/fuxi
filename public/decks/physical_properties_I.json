@@ -1,0 +1,943 @@
+[
+  {
+    "id": "physical_properties_I_001",
+    "hanzi": "圆形",
+    "pinyin": "yuánxíng",
+    "english_answers": [
+      "round",
+      "circular"
+    ],
+    "english_gloss": "round / circular"
+  },
+  {
+    "id": "physical_properties_I_002",
+    "hanzi": "方形",
+    "pinyin": "fāngxíng",
+    "english_answers": [
+      "square-shaped"
+    ],
+    "english_gloss": "square-shaped"
+  },
+  {
+    "id": "physical_properties_I_003",
+    "hanzi": "长方形",
+    "pinyin": "chángfāngxíng",
+    "english_answers": [
+      "rectangular"
+    ],
+    "english_gloss": "rectangular"
+  },
+  {
+    "id": "physical_properties_I_004",
+    "hanzi": "三角形",
+    "pinyin": "sānjiǎoxíng",
+    "english_answers": [
+      "triangular"
+    ],
+    "english_gloss": "triangular"
+  },
+  {
+    "id": "physical_properties_I_005",
+    "hanzi": "椭圆形",
+    "pinyin": "tuǒyuánxíng",
+    "english_answers": [
+      "oval"
+    ],
+    "english_gloss": "oval"
+  },
+  {
+    "id": "physical_properties_I_006",
+    "hanzi": "菱形",
+    "pinyin": "língxíng",
+    "english_answers": [
+      "diamond-shaped",
+      "rhombus"
+    ],
+    "english_gloss": "diamond-shaped / rhombus"
+  },
+  {
+    "id": "physical_properties_I_007",
+    "hanzi": "心形",
+    "pinyin": "xīnxíng",
+    "english_answers": [
+      "heart-shaped"
+    ],
+    "english_gloss": "heart-shaped"
+  },
+  {
+    "id": "physical_properties_I_008",
+    "hanzi": "星形",
+    "pinyin": "xīngxíng",
+    "english_answers": [
+      "star-shaped"
+    ],
+    "english_gloss": "star-shaped"
+  },
+  {
+    "id": "physical_properties_I_009",
+    "hanzi": "球形",
+    "pinyin": "qiúxíng",
+    "english_answers": [
+      "spherical"
+    ],
+    "english_gloss": "spherical"
+  },
+  {
+    "id": "physical_properties_I_010",
+    "hanzi": "圆柱形",
+    "pinyin": "yuánzhùxíng",
+    "english_answers": [
+      "cylindrical"
+    ],
+    "english_gloss": "cylindrical"
+  },
+  {
+    "id": "physical_properties_I_011",
+    "hanzi": "立方体",
+    "pinyin": "lìfāngtǐ",
+    "english_answers": [
+      "cube"
+    ],
+    "english_gloss": "cube"
+  },
+  {
+    "id": "physical_properties_I_012",
+    "hanzi": "圆锥形",
+    "pinyin": "yuánzhuīxíng",
+    "english_answers": [
+      "cone-shaped"
+    ],
+    "english_gloss": "cone-shaped"
+  },
+  {
+    "id": "physical_properties_I_013",
+    "hanzi": "扁平",
+    "pinyin": "biǎnpíng",
+    "english_answers": [
+      "flat",
+      "flattened"
+    ],
+    "english_gloss": "flat / flattened"
+  },
+  {
+    "id": "physical_properties_I_014",
+    "hanzi": "弯曲",
+    "pinyin": "wānqū",
+    "english_answers": [
+      "curved",
+      "bent"
+    ],
+    "english_gloss": "curved / bent"
+  },
+  {
+    "id": "physical_properties_I_015",
+    "hanzi": "笔直",
+    "pinyin": "bǐzhí",
+    "english_answers": [
+      "straight (not bent)"
+    ],
+    "english_gloss": "straight (not bent)"
+  },
+  {
+    "id": "physical_properties_I_016",
+    "hanzi": "歪",
+    "pinyin": "wāi",
+    "english_answers": [
+      "crooked",
+      "tilted"
+    ],
+    "english_gloss": "crooked / tilted"
+  },
+  {
+    "id": "physical_properties_I_017",
+    "hanzi": "对称",
+    "pinyin": "duìchèn",
+    "english_answers": [
+      "symmetrical"
+    ],
+    "english_gloss": "symmetrical"
+  },
+  {
+    "id": "physical_properties_I_018",
+    "hanzi": "不规则",
+    "pinyin": "bù guīzé",
+    "english_answers": [
+      "irregular"
+    ],
+    "english_gloss": "irregular"
+  },
+  {
+    "id": "physical_properties_I_019",
+    "hanzi": "边缘",
+    "pinyin": "biānyuán",
+    "english_answers": [
+      "edge",
+      "border"
+    ],
+    "english_gloss": "edge / border"
+  },
+  {
+    "id": "physical_properties_I_020",
+    "hanzi": "角落",
+    "pinyin": "jiǎoluò",
+    "english_answers": [
+      "corner"
+    ],
+    "english_gloss": "corner"
+  },
+  {
+    "id": "physical_properties_I_021",
+    "hanzi": "大小",
+    "pinyin": "dàxiǎo",
+    "english_answers": [
+      "size"
+    ],
+    "english_gloss": "size"
+  },
+  {
+    "id": "physical_properties_I_022",
+    "hanzi": "长度",
+    "pinyin": "chángdù",
+    "english_answers": [
+      "length"
+    ],
+    "english_gloss": "length"
+  },
+  {
+    "id": "physical_properties_I_023",
+    "hanzi": "宽度",
+    "pinyin": "kuāndù",
+    "english_answers": [
+      "width"
+    ],
+    "english_gloss": "width"
+  },
+  {
+    "id": "physical_properties_I_024",
+    "hanzi": "高度",
+    "pinyin": "gāodù",
+    "english_answers": [
+      "height"
+    ],
+    "english_gloss": "height"
+  },
+  {
+    "id": "physical_properties_I_025",
+    "hanzi": "厚度",
+    "pinyin": "hòudù",
+    "english_answers": [
+      "thickness"
+    ],
+    "english_gloss": "thickness"
+  },
+  {
+    "id": "physical_properties_I_026",
+    "hanzi": "深度",
+    "pinyin": "shēndù",
+    "english_answers": [
+      "depth"
+    ],
+    "english_gloss": "depth"
+  },
+  {
+    "id": "physical_properties_I_027",
+    "hanzi": "直径",
+    "pinyin": "zhíjìng",
+    "english_answers": [
+      "diameter"
+    ],
+    "english_gloss": "diameter"
+  },
+  {
+    "id": "physical_properties_I_028",
+    "hanzi": "半径",
+    "pinyin": "bànjìng",
+    "english_answers": [
+      "radius"
+    ],
+    "english_gloss": "radius"
+  },
+  {
+    "id": "physical_properties_I_029",
+    "hanzi": "周长",
+    "pinyin": "zhōucháng",
+    "english_answers": [
+      "perimeter",
+      "circumference"
+    ],
+    "english_gloss": "perimeter / circumference"
+  },
+  {
+    "id": "physical_properties_I_030",
+    "hanzi": "面积",
+    "pinyin": "miànjī",
+    "english_answers": [
+      "area"
+    ],
+    "english_gloss": "area"
+  },
+  {
+    "id": "physical_properties_I_031",
+    "hanzi": "体积",
+    "pinyin": "tǐjī",
+    "english_answers": [
+      "volume"
+    ],
+    "english_gloss": "volume"
+  },
+  {
+    "id": "physical_properties_I_032",
+    "hanzi": "尺寸",
+    "pinyin": "chǐcùn",
+    "english_answers": [
+      "dimensions",
+      "size"
+    ],
+    "english_gloss": "dimensions / size"
+  },
+  {
+    "id": "physical_properties_I_033",
+    "hanzi": "大号",
+    "pinyin": "dàhào",
+    "english_answers": [
+      "large size"
+    ],
+    "english_gloss": "large size"
+  },
+  {
+    "id": "physical_properties_I_034",
+    "hanzi": "小号",
+    "pinyin": "xiǎohào",
+    "english_answers": [
+      "small size"
+    ],
+    "english_gloss": "small size"
+  },
+  {
+    "id": "physical_properties_I_035",
+    "hanzi": "迷你",
+    "pinyin": "mínǐ",
+    "english_answers": [
+      "miniature",
+      "mini"
+    ],
+    "english_gloss": "miniature / mini"
+  },
+  {
+    "id": "physical_properties_I_036",
+    "hanzi": "巨大",
+    "pinyin": "jùdà",
+    "english_answers": [
+      "enormous"
+    ],
+    "english_gloss": "enormous"
+  },
+  {
+    "id": "physical_properties_I_037",
+    "hanzi": "细长",
+    "pinyin": "xìcháng",
+    "english_answers": [
+      "long and slender"
+    ],
+    "english_gloss": "long and slender"
+  },
+  {
+    "id": "physical_properties_I_038",
+    "hanzi": "短粗",
+    "pinyin": "duǎncū",
+    "english_answers": [
+      "short and thick"
+    ],
+    "english_gloss": "short and thick"
+  },
+  {
+    "id": "physical_properties_I_039",
+    "hanzi": "宽敞",
+    "pinyin": "kuānchang",
+    "english_answers": [
+      "spacious"
+    ],
+    "english_gloss": "spacious"
+  },
+  {
+    "id": "physical_properties_I_040",
+    "hanzi": "狭窄",
+    "pinyin": "xiázhǎi",
+    "english_answers": [
+      "narrow",
+      "cramped"
+    ],
+    "english_gloss": "narrow / cramped"
+  },
+  {
+    "id": "physical_properties_I_041",
+    "hanzi": "厚",
+    "pinyin": "hòu",
+    "english_answers": [
+      "thick"
+    ],
+    "english_gloss": "thick"
+  },
+  {
+    "id": "physical_properties_I_042",
+    "hanzi": "薄",
+    "pinyin": "báo",
+    "english_answers": [
+      "thin (material)"
+    ],
+    "english_gloss": "thin (material)"
+  },
+  {
+    "id": "physical_properties_I_043",
+    "hanzi": "粗",
+    "pinyin": "cū",
+    "english_answers": [
+      "thick",
+      "coarse"
+    ],
+    "english_gloss": "thick / coarse"
+  },
+  {
+    "id": "physical_properties_I_044",
+    "hanzi": "细",
+    "pinyin": "xì",
+    "english_answers": [
+      "thin",
+      "fine"
+    ],
+    "english_gloss": "thin / fine"
+  },
+  {
+    "id": "physical_properties_I_045",
+    "hanzi": "重",
+    "pinyin": "zhòng",
+    "english_answers": [
+      "heavy"
+    ],
+    "english_gloss": "heavy"
+  },
+  {
+    "id": "physical_properties_I_046",
+    "hanzi": "轻",
+    "pinyin": "qīng",
+    "english_answers": [
+      "light (in weight)"
+    ],
+    "english_gloss": "light (in weight)"
+  },
+  {
+    "id": "physical_properties_I_047",
+    "hanzi": "结实",
+    "pinyin": "jiēshi",
+    "english_answers": [
+      "sturdy",
+      "solidly built"
+    ],
+    "english_gloss": "sturdy / solidly built"
+  },
+  {
+    "id": "physical_properties_I_048",
+    "hanzi": "脆弱",
+    "pinyin": "cuìruò",
+    "english_answers": [
+      "fragile",
+      "vulnerable"
+    ],
+    "english_gloss": "fragile / vulnerable"
+  },
+  {
+    "id": "physical_properties_I_049",
+    "hanzi": "坚固",
+    "pinyin": "jiāngù",
+    "english_answers": [
+      "strong",
+      "sturdy"
+    ],
+    "english_gloss": "strong / sturdy"
+  },
+  {
+    "id": "physical_properties_I_050",
+    "hanzi": "柔软",
+    "pinyin": "róuruǎn",
+    "english_answers": [
+      "soft",
+      "pliable"
+    ],
+    "english_gloss": "soft / pliable"
+  },
+  {
+    "id": "physical_properties_I_051",
+    "hanzi": "坚硬",
+    "pinyin": "jiānyìng",
+    "english_answers": [
+      "hard",
+      "rigid"
+    ],
+    "english_gloss": "hard / rigid"
+  },
+  {
+    "id": "physical_properties_I_052",
+    "hanzi": "有弹性",
+    "pinyin": "yǒu tánxìng",
+    "english_answers": [
+      "elastic",
+      "stretchy"
+    ],
+    "english_gloss": "elastic / stretchy"
+  },
+  {
+    "id": "physical_properties_I_053",
+    "hanzi": "灵活",
+    "pinyin": "línghuó",
+    "english_answers": [
+      "flexible",
+      "nimble"
+    ],
+    "english_gloss": "flexible / nimble"
+  },
+  {
+    "id": "physical_properties_I_054",
+    "hanzi": "僵硬",
+    "pinyin": "jiāngyìng",
+    "english_answers": [
+      "stiff",
+      "rigid"
+    ],
+    "english_gloss": "stiff / rigid"
+  },
+  {
+    "id": "physical_properties_I_055",
+    "hanzi": "容易碎",
+    "pinyin": "róngyì suì",
+    "english_answers": [
+      "breaks easily",
+      "fragile"
+    ],
+    "english_gloss": "breaks easily / fragile"
+  },
+  {
+    "id": "physical_properties_I_056",
+    "hanzi": "耐用",
+    "pinyin": "nàiyòng",
+    "english_answers": [
+      "durable"
+    ],
+    "english_gloss": "durable"
+  },
+  {
+    "id": "physical_properties_I_057",
+    "hanzi": "易碎",
+    "pinyin": "yìsuì",
+    "english_answers": [
+      "fragile",
+      "breakable"
+    ],
+    "english_gloss": "fragile / breakable"
+  },
+  {
+    "id": "physical_properties_I_058",
+    "hanzi": "防水",
+    "pinyin": "fángshuǐ",
+    "english_answers": [
+      "waterproof"
+    ],
+    "english_gloss": "waterproof"
+  },
+  {
+    "id": "physical_properties_I_059",
+    "hanzi": "防滑",
+    "pinyin": "fánghuá",
+    "english_answers": [
+      "slip-resistant"
+    ],
+    "english_gloss": "slip-resistant"
+  },
+  {
+    "id": "physical_properties_I_060",
+    "hanzi": "光滑",
+    "pinyin": "guānghuá",
+    "english_answers": [
+      "smooth"
+    ],
+    "english_gloss": "smooth"
+  },
+  {
+    "id": "physical_properties_I_061",
+    "hanzi": "粗糙",
+    "pinyin": "cūcāo",
+    "english_answers": [
+      "rough (texture)"
+    ],
+    "english_gloss": "rough (texture)"
+  },
+  {
+    "id": "physical_properties_I_062",
+    "hanzi": "滑",
+    "pinyin": "huá",
+    "english_answers": [
+      "slippery"
+    ],
+    "english_gloss": "slippery"
+  },
+  {
+    "id": "physical_properties_I_063",
+    "hanzi": "黏",
+    "pinyin": "nián",
+    "english_answers": [
+      "sticky"
+    ],
+    "english_gloss": "sticky"
+  },
+  {
+    "id": "physical_properties_I_064",
+    "hanzi": "干燥",
+    "pinyin": "gānzào",
+    "english_answers": [
+      "dry"
+    ],
+    "english_gloss": "dry"
+  },
+  {
+    "id": "physical_properties_I_065",
+    "hanzi": "潮湿",
+    "pinyin": "cháoshī",
+    "english_answers": [
+      "damp",
+      "humid"
+    ],
+    "english_gloss": "damp / humid"
+  },
+  {
+    "id": "physical_properties_I_066",
+    "hanzi": "湿透",
+    "pinyin": "shītòu",
+    "english_answers": [
+      "soaked through"
+    ],
+    "english_gloss": "soaked through"
+  },
+  {
+    "id": "physical_properties_I_067",
+    "hanzi": "蓬松",
+    "pinyin": "péngsōng",
+    "english_answers": [
+      "fluffy"
+    ],
+    "english_gloss": "fluffy"
+  },
+  {
+    "id": "physical_properties_I_068",
+    "hanzi": "松软",
+    "pinyin": "sōngruǎn",
+    "english_answers": [
+      "soft and fluffy"
+    ],
+    "english_gloss": "soft and fluffy"
+  },
+  {
+    "id": "physical_properties_I_069",
+    "hanzi": "扎手",
+    "pinyin": "zhā shǒu",
+    "english_answers": [
+      "prickly to the touch"
+    ],
+    "english_gloss": "prickly to the touch"
+  },
+  {
+    "id": "physical_properties_I_070",
+    "hanzi": "锋利",
+    "pinyin": "fēnglì",
+    "english_answers": [
+      "sharp (blade)"
+    ],
+    "english_gloss": "sharp (blade)"
+  },
+  {
+    "id": "physical_properties_I_071",
+    "hanzi": "钝",
+    "pinyin": "dùn",
+    "english_answers": [
+      "blunt",
+      "dull (blade)"
+    ],
+    "english_gloss": "blunt / dull (blade)"
+  },
+  {
+    "id": "physical_properties_I_072",
+    "hanzi": "尖",
+    "pinyin": "jiān",
+    "english_answers": [
+      "pointed",
+      "sharp-tipped"
+    ],
+    "english_gloss": "pointed / sharp-tipped"
+  },
+  {
+    "id": "physical_properties_I_073",
+    "hanzi": "平",
+    "pinyin": "píng",
+    "english_answers": [
+      "level",
+      "flat"
+    ],
+    "english_gloss": "level / flat"
+  },
+  {
+    "id": "physical_properties_I_074",
+    "hanzi": "凹",
+    "pinyin": "āo",
+    "english_answers": [
+      "concave",
+      "sunken"
+    ],
+    "english_gloss": "concave / sunken"
+  },
+  {
+    "id": "physical_properties_I_075",
+    "hanzi": "凸",
+    "pinyin": "tū",
+    "english_answers": [
+      "convex",
+      "raised"
+    ],
+    "english_gloss": "convex / raised"
+  },
+  {
+    "id": "physical_properties_I_076",
+    "hanzi": "空心",
+    "pinyin": "kōngxīn",
+    "english_answers": [
+      "hollow"
+    ],
+    "english_gloss": "hollow"
+  },
+  {
+    "id": "physical_properties_I_077",
+    "hanzi": "实心",
+    "pinyin": "shíxīn",
+    "english_answers": [
+      "solid (not hollow)"
+    ],
+    "english_gloss": "solid (not hollow)"
+  },
+  {
+    "id": "physical_properties_I_078",
+    "hanzi": "透明",
+    "pinyin": "tòumíng",
+    "english_answers": [
+      "transparent"
+    ],
+    "english_gloss": "transparent"
+  },
+  {
+    "id": "physical_properties_I_079",
+    "hanzi": "半透明",
+    "pinyin": "bàn tòumíng",
+    "english_answers": [
+      "translucent"
+    ],
+    "english_gloss": "translucent"
+  },
+  {
+    "id": "physical_properties_I_080",
+    "hanzi": "不透明",
+    "pinyin": "bù tòumíng",
+    "english_answers": [
+      "opaque"
+    ],
+    "english_gloss": "opaque"
+  },
+  {
+    "id": "physical_properties_I_081",
+    "hanzi": "亮",
+    "pinyin": "liàng",
+    "english_answers": [
+      "bright",
+      "shiny"
+    ],
+    "english_gloss": "bright / shiny"
+  },
+  {
+    "id": "physical_properties_I_082",
+    "hanzi": "暗",
+    "pinyin": "àn",
+    "english_answers": [
+      "dark",
+      "dim"
+    ],
+    "english_gloss": "dark / dim"
+  },
+  {
+    "id": "physical_properties_I_083",
+    "hanzi": "有光泽",
+    "pinyin": "yǒu guāngzé",
+    "english_answers": [
+      "glossy",
+      "lustrous"
+    ],
+    "english_gloss": "glossy / lustrous"
+  },
+  {
+    "id": "physical_properties_I_084",
+    "hanzi": "哑光",
+    "pinyin": "yǎguāng",
+    "english_answers": [
+      "matte",
+      "non-glossy"
+    ],
+    "english_gloss": "matte / non-glossy"
+  },
+  {
+    "id": "physical_properties_I_085",
+    "hanzi": "反光",
+    "pinyin": "fǎnguāng",
+    "english_answers": [
+      "reflective",
+      "reflecting light"
+    ],
+    "english_gloss": "reflective / reflecting light"
+  },
+  {
+    "id": "physical_properties_I_086",
+    "hanzi": "褪色",
+    "pinyin": "tuìsè",
+    "english_answers": [
+      "fade",
+      "lose color"
+    ],
+    "english_gloss": "fade / lose color"
+  },
+  {
+    "id": "physical_properties_I_087",
+    "hanzi": "斑点",
+    "pinyin": "bāndiǎn",
+    "english_answers": [
+      "spots",
+      "speckles"
+    ],
+    "english_gloss": "spots / speckles"
+  },
+  {
+    "id": "physical_properties_I_088",
+    "hanzi": "条纹",
+    "pinyin": "tiáowén",
+    "english_answers": [
+      "stripes"
+    ],
+    "english_gloss": "stripes"
+  },
+  {
+    "id": "physical_properties_I_089",
+    "hanzi": "裂缝",
+    "pinyin": "lièfèng",
+    "english_answers": [
+      "crack",
+      "fissure"
+    ],
+    "english_gloss": "crack / fissure"
+  },
+  {
+    "id": "physical_properties_I_090",
+    "hanzi": "划痕",
+    "pinyin": "huáhén",
+    "english_answers": [
+      "scratch mark"
+    ],
+    "english_gloss": "scratch mark"
+  },
+  {
+    "id": "physical_properties_I_091",
+    "hanzi": "皱纹",
+    "pinyin": "zhòuwén",
+    "english_answers": [
+      "wrinkle",
+      "crease"
+    ],
+    "english_gloss": "wrinkle / crease"
+  },
+  {
+    "id": "physical_properties_I_092",
+    "hanzi": "有棱有角",
+    "pinyin": "yǒu léng yǒu jiǎo",
+    "english_answers": [
+      "angular",
+      "with sharp edges"
+    ],
+    "english_gloss": "angular / with sharp edges"
+  },
+  {
+    "id": "physical_properties_I_093",
+    "hanzi": "凹凸不平",
+    "pinyin": "āotū bù píng",
+    "english_answers": [
+      "uneven",
+      "bumpy"
+    ],
+    "english_gloss": "uneven / bumpy"
+  },
+  {
+    "id": "physical_properties_I_094",
+    "hanzi": "歪歪扭扭",
+    "pinyin": "wāiwāiniǔniǔ",
+    "english_answers": [
+      "crooked",
+      "twisted"
+    ],
+    "english_gloss": "crooked / twisted"
+  },
+  {
+    "id": "physical_properties_I_095",
+    "hanzi": "表面",
+    "pinyin": "biǎomiàn",
+    "english_answers": [
+      "surface"
+    ],
+    "english_gloss": "surface"
+  },
+  {
+    "id": "physical_properties_I_096",
+    "hanzi": "摸起来",
+    "pinyin": "mō qǐlái",
+    "english_answers": [
+      "to feel (to the touch)"
+    ],
+    "english_gloss": "to feel (to the touch)"
+  },
+  {
+    "id": "physical_properties_I_097",
+    "hanzi": "看起来",
+    "pinyin": "kàn qǐlái",
+    "english_answers": [
+      "to look",
+      "to appear"
+    ],
+    "english_gloss": "to look / to appear"
+  },
+  {
+    "id": "physical_properties_I_098",
+    "hanzi": "这个是空心的。",
+    "pinyin": "Zhège shì kōngxīn de.",
+    "english_answers": [
+      "This one is hollow."
+    ],
+    "english_gloss": "This one is hollow."
+  },
+  {
+    "id": "physical_properties_I_099",
+    "hanzi": "表面很光滑。",
+    "pinyin": "Biǎomiàn hěn guānghuá.",
+    "english_answers": [
+      "The surface is very smooth."
+    ],
+    "english_gloss": "The surface is very smooth."
+  },
+  {
+    "id": "physical_properties_I_100",
+    "hanzi": "这块布很薄。",
+    "pinyin": "Zhè kuài bù hěn báo.",
+    "english_answers": [
+      "This piece of fabric is thin."
+    ],
+    "english_gloss": "This piece of fabric is thin."
+  }
+]

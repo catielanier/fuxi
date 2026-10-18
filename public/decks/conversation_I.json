@@ -1,0 +1,936 @@
+{
+  "id": "conversation_I",
+  "title": "Conversational Mandarin I",
+  "category": "conversation",
+  "part": 1,
+  "description": "Connectors, clarification, reactions and conversational repair",
+  "cards": [
+    {
+      "id": "conversation_I_0001",
+      "hanzi": "其实",
+      "pinyin": "qíshí",
+      "english_answers": [
+        "actually",
+        "in fact"
+      ],
+      "english_gloss": "actually; in fact"
+    },
+    {
+      "id": "conversation_I_0002",
+      "hanzi": "说实话",
+      "pinyin": "shuō shíhuà",
+      "english_answers": [
+        "to be honest"
+      ],
+      "english_gloss": "to be honest"
+    },
+    {
+      "id": "conversation_I_0003",
+      "hanzi": "当然",
+      "pinyin": "dāngrán",
+      "english_answers": [
+        "of course"
+      ],
+      "english_gloss": "of course"
+    },
+    {
+      "id": "conversation_I_0004",
+      "hanzi": "不过",
+      "pinyin": "búguò",
+      "english_answers": [
+        "however",
+        "but"
+      ],
+      "english_gloss": "however; but"
+    },
+    {
+      "id": "conversation_I_0005",
+      "hanzi": "但是",
+      "pinyin": "dànshì",
+      "english_answers": [
+        "but",
+        "however"
+      ],
+      "english_gloss": "but; however"
+    },
+    {
+      "id": "conversation_I_0006",
+      "hanzi": "可是",
+      "pinyin": "kěshì",
+      "english_answers": [
+        "but",
+        "yet"
+      ],
+      "english_gloss": "but; yet"
+    },
+    {
+      "id": "conversation_I_0007",
+      "hanzi": "而且",
+      "pinyin": "érqiě",
+      "english_answers": [
+        "moreover",
+        "and also"
+      ],
+      "english_gloss": "moreover; and also"
+    },
+    {
+      "id": "conversation_I_0008",
+      "hanzi": "另外",
+      "pinyin": "lìngwài",
+      "english_answers": [
+        "besides",
+        "additionally"
+      ],
+      "english_gloss": "besides; additionally"
+    },
+    {
+      "id": "conversation_I_0009",
+      "hanzi": "还有",
+      "pinyin": "hái yǒu",
+      "english_answers": [
+        "also",
+        "furthermore"
+      ],
+      "english_gloss": "also; furthermore"
+    },
+    {
+      "id": "conversation_I_0010",
+      "hanzi": "比如",
+      "pinyin": "bǐrú",
+      "english_answers": [
+        "for example"
+      ],
+      "english_gloss": "for example"
+    },
+    {
+      "id": "conversation_I_0011",
+      "hanzi": "比如说",
+      "pinyin": "bǐrú shuō",
+      "english_answers": [
+        "for instance"
+      ],
+      "english_gloss": "for instance"
+    },
+    {
+      "id": "conversation_I_0012",
+      "hanzi": "总之",
+      "pinyin": "zǒngzhī",
+      "english_answers": [
+        "in short",
+        "in any case"
+      ],
+      "english_gloss": "in short; in any case"
+    },
+    {
+      "id": "conversation_I_0013",
+      "hanzi": "反正",
+      "pinyin": "fǎnzhèng",
+      "english_answers": [
+        "anyway",
+        "regardless"
+      ],
+      "english_gloss": "anyway; regardless"
+    },
+    {
+      "id": "conversation_I_0014",
+      "hanzi": "总的来说",
+      "pinyin": "zǒng de lái shuō",
+      "english_answers": [
+        "generally speaking"
+      ],
+      "english_gloss": "generally speaking"
+    },
+    {
+      "id": "conversation_I_0015",
+      "hanzi": "简单来说",
+      "pinyin": "jiǎndān de lái shuō",
+      "english_answers": [
+        "to put it simply"
+      ],
+      "english_gloss": "to put it simply"
+    },
+    {
+      "id": "conversation_I_0016",
+      "hanzi": "换句话说",
+      "pinyin": "huàn jù huà shuō",
+      "english_answers": [
+        "in other words"
+      ],
+      "english_gloss": "in other words"
+    },
+    {
+      "id": "conversation_I_0017",
+      "hanzi": "也就是说",
+      "pinyin": "yě jiù shì shuō",
+      "english_answers": [
+        "that is to say"
+      ],
+      "english_gloss": "that is to say"
+    },
+    {
+      "id": "conversation_I_0018",
+      "hanzi": "问题是",
+      "pinyin": "wèntí shì",
+      "english_answers": [
+        "the problem is"
+      ],
+      "english_gloss": "the problem is"
+    },
+    {
+      "id": "conversation_I_0019",
+      "hanzi": "关键是",
+      "pinyin": "guānjiàn shì",
+      "english_answers": [
+        "the key is"
+      ],
+      "english_gloss": "the key is"
+    },
+    {
+      "id": "conversation_I_0020",
+      "hanzi": "首先",
+      "pinyin": "shǒuxiān",
+      "english_answers": [
+        "first of all"
+      ],
+      "english_gloss": "first of all"
+    },
+    {
+      "id": "conversation_I_0021",
+      "hanzi": "然后",
+      "pinyin": "ránhòu",
+      "english_answers": [
+        "then",
+        "after that"
+      ],
+      "english_gloss": "then; after that"
+    },
+    {
+      "id": "conversation_I_0022",
+      "hanzi": "接着",
+      "pinyin": "jiēzhe",
+      "english_answers": [
+        "next",
+        "following that"
+      ],
+      "english_gloss": "next; following that"
+    },
+    {
+      "id": "conversation_I_0023",
+      "hanzi": "后来",
+      "pinyin": "hòulái",
+      "english_answers": [
+        "later on"
+      ],
+      "english_gloss": "later on"
+    },
+    {
+      "id": "conversation_I_0024",
+      "hanzi": "最后",
+      "pinyin": "zuìhòu",
+      "english_answers": [
+        "finally"
+      ],
+      "english_gloss": "finally"
+    },
+    {
+      "id": "conversation_I_0025",
+      "hanzi": "结果",
+      "pinyin": "jiéguǒ",
+      "english_answers": [
+        "as a result",
+        "it turned out"
+      ],
+      "english_gloss": "as a result; it turned out"
+    },
+    {
+      "id": "conversation_I_0026",
+      "hanzi": "所以",
+      "pinyin": "suǒyǐ",
+      "english_answers": [
+        "so",
+        "therefore"
+      ],
+      "english_gloss": "so; therefore"
+    },
+    {
+      "id": "conversation_I_0027",
+      "hanzi": "因此",
+      "pinyin": "yīncǐ",
+      "english_answers": [
+        "therefore (formal)"
+      ],
+      "english_gloss": "therefore (formal)"
+    },
+    {
+      "id": "conversation_I_0028",
+      "hanzi": "因为",
+      "pinyin": "yīnwèi",
+      "english_answers": [
+        "because"
+      ],
+      "english_gloss": "because"
+    },
+    {
+      "id": "conversation_I_0029",
+      "hanzi": "既然",
+      "pinyin": "jìrán",
+      "english_answers": [
+        "since",
+        "given that"
+      ],
+      "english_gloss": "since; given that"
+    },
+    {
+      "id": "conversation_I_0030",
+      "hanzi": "虽然",
+      "pinyin": "suīrán",
+      "english_answers": [
+        "although"
+      ],
+      "english_gloss": "although"
+    },
+    {
+      "id": "conversation_I_0031",
+      "hanzi": "即使",
+      "pinyin": "jíshǐ",
+      "english_answers": [
+        "even if"
+      ],
+      "english_gloss": "even if"
+    },
+    {
+      "id": "conversation_I_0032",
+      "hanzi": "除非",
+      "pinyin": "chúfēi",
+      "english_answers": [
+        "unless"
+      ],
+      "english_gloss": "unless"
+    },
+    {
+      "id": "conversation_I_0033",
+      "hanzi": "要不然",
+      "pinyin": "yàobùrán",
+      "english_answers": [
+        "otherwise"
+      ],
+      "english_gloss": "otherwise"
+    },
+    {
+      "id": "conversation_I_0034",
+      "hanzi": "否则",
+      "pinyin": "fǒuzé",
+      "english_answers": [
+        "otherwise (formal)"
+      ],
+      "english_gloss": "otherwise (formal)"
+    },
+    {
+      "id": "conversation_I_0035",
+      "hanzi": "不管",
+      "pinyin": "bùguǎn",
+      "english_answers": [
+        "regardless of"
+      ],
+      "english_gloss": "regardless of"
+    },
+    {
+      "id": "conversation_I_0036",
+      "hanzi": "无论",
+      "pinyin": "wúlùn",
+      "english_answers": [
+        "no matter",
+        "regardless"
+      ],
+      "english_gloss": "no matter; regardless"
+    },
+    {
+      "id": "conversation_I_0037",
+      "hanzi": "至少",
+      "pinyin": "zhìshǎo",
+      "english_answers": [
+        "at least"
+      ],
+      "english_gloss": "at least"
+    },
+    {
+      "id": "conversation_I_0038",
+      "hanzi": "大概",
+      "pinyin": "dàgài",
+      "english_answers": [
+        "approximately",
+        "probably"
+      ],
+      "english_gloss": "approximately; probably"
+    },
+    {
+      "id": "conversation_I_0039",
+      "hanzi": "差不多",
+      "pinyin": "chàbuduō",
+      "english_answers": [
+        "about the same",
+        "almost"
+      ],
+      "english_gloss": "about the same; almost"
+    },
+    {
+      "id": "conversation_I_0040",
+      "hanzi": "也许",
+      "pinyin": "yěxǔ",
+      "english_answers": [
+        "perhaps"
+      ],
+      "english_gloss": "perhaps"
+    },
+    {
+      "id": "conversation_I_0041",
+      "hanzi": "可能",
+      "pinyin": "kěnéng",
+      "english_answers": [
+        "possibly",
+        "might"
+      ],
+      "english_gloss": "possibly; might"
+    },
+    {
+      "id": "conversation_I_0042",
+      "hanzi": "应该",
+      "pinyin": "yīnggāi",
+      "english_answers": [
+        "should",
+        "probably"
+      ],
+      "english_gloss": "should; probably"
+    },
+    {
+      "id": "conversation_I_0043",
+      "hanzi": "恐怕",
+      "pinyin": "kǒngpà",
+      "english_answers": [
+        "I'm afraid",
+        "probably (unwelcome)"
+      ],
+      "english_gloss": "I'm afraid; probably (unwelcome)"
+    },
+    {
+      "id": "conversation_I_0044",
+      "hanzi": "估计",
+      "pinyin": "gūjì",
+      "english_answers": [
+        "I reckon",
+        "estimate"
+      ],
+      "english_gloss": "I reckon; estimate"
+    },
+    {
+      "id": "conversation_I_0045",
+      "hanzi": "甚至",
+      "pinyin": "shènzhì",
+      "english_answers": [
+        "even",
+        "to the extent that"
+      ],
+      "english_gloss": "even; to the extent that"
+    },
+    {
+      "id": "conversation_I_0046",
+      "hanzi": "尤其",
+      "pinyin": "yóuqí",
+      "english_answers": [
+        "especially"
+      ],
+      "english_gloss": "especially"
+    },
+    {
+      "id": "conversation_I_0047",
+      "hanzi": "毕竟",
+      "pinyin": "bìjìng",
+      "english_answers": [
+        "after all"
+      ],
+      "english_gloss": "after all"
+    },
+    {
+      "id": "conversation_I_0048",
+      "hanzi": "其实我觉得……",
+      "pinyin": "Qíshí wǒ juéde…",
+      "english_answers": [
+        "Actually, I think…"
+      ],
+      "english_gloss": "Actually, I think…"
+    },
+    {
+      "id": "conversation_I_0049",
+      "hanzi": "我不太确定。",
+      "pinyin": "Wǒ bú tài quèdìng.",
+      "english_answers": [
+        "I'm not quite sure."
+      ],
+      "english_gloss": "I'm not quite sure."
+    },
+    {
+      "id": "conversation_I_0050",
+      "hanzi": "我也这么觉得。",
+      "pinyin": "Wǒ yě zhème juéde.",
+      "english_answers": [
+        "I feel the same way."
+      ],
+      "english_gloss": "I feel the same way."
+    },
+    {
+      "id": "conversation_I_0051",
+      "hanzi": "有可能。",
+      "pinyin": "Yǒu kěnéng.",
+      "english_answers": [
+        "It's possible."
+      ],
+      "english_gloss": "It's possible."
+    },
+    {
+      "id": "conversation_I_0052",
+      "hanzi": "不一定。",
+      "pinyin": "Bù yídìng.",
+      "english_answers": [
+        "Not necessarily."
+      ],
+      "english_gloss": "Not necessarily."
+    },
+    {
+      "id": "conversation_I_0053",
+      "hanzi": "说不定。",
+      "pinyin": "Shuōbudìng.",
+      "english_answers": [
+        "You never know",
+        "maybe."
+      ],
+      "english_gloss": "You never know; maybe."
+    },
+    {
+      "id": "conversation_I_0054",
+      "hanzi": "看情况吧。",
+      "pinyin": "Kàn qíngkuàng ba.",
+      "english_answers": [
+        "It depends."
+      ],
+      "english_gloss": "It depends."
+    },
+    {
+      "id": "conversation_I_0055",
+      "hanzi": "你说得有道理。",
+      "pinyin": "Nǐ shuō de yǒu dàolǐ.",
+      "english_answers": [
+        "You have a point."
+      ],
+      "english_gloss": "You have a point."
+    },
+    {
+      "id": "conversation_I_0056",
+      "hanzi": "这倒也是。",
+      "pinyin": "Zhè dào yě shì.",
+      "english_answers": [
+        "That's true, actually."
+      ],
+      "english_gloss": "That's true, actually."
+    },
+    {
+      "id": "conversation_I_0057",
+      "hanzi": "我明白你的意思。",
+      "pinyin": "Wǒ míngbai nǐ de yìsi.",
+      "english_answers": [
+        "I see what you mean."
+      ],
+      "english_gloss": "I see what you mean."
+    },
+    {
+      "id": "conversation_I_0058",
+      "hanzi": "我懂了。",
+      "pinyin": "Wǒ dǒng le.",
+      "english_answers": [
+        "I get it now."
+      ],
+      "english_gloss": "I get it now."
+    },
+    {
+      "id": "conversation_I_0059",
+      "hanzi": "明白了。",
+      "pinyin": "Míngbai le.",
+      "english_answers": [
+        "Got it."
+      ],
+      "english_gloss": "Got it."
+    },
+    {
+      "id": "conversation_I_0060",
+      "hanzi": "没听清楚。",
+      "pinyin": "Méi tīng qīngchu.",
+      "english_answers": [
+        "I didn't hear clearly."
+      ],
+      "english_gloss": "I didn't hear clearly."
+    },
+    {
+      "id": "conversation_I_0061",
+      "hanzi": "再说一遍。",
+      "pinyin": "Zài shuō yí biàn.",
+      "english_answers": [
+        "Say it again."
+      ],
+      "english_gloss": "Say it again."
+    },
+    {
+      "id": "conversation_I_0062",
+      "hanzi": "你能再说一遍吗？",
+      "pinyin": "Nǐ néng zài shuō yí biàn ma?",
+      "english_answers": [
+        "Could you say it again?"
+      ],
+      "english_gloss": "Could you say it again?"
+    },
+    {
+      "id": "conversation_I_0063",
+      "hanzi": "你能说慢一点吗？",
+      "pinyin": "Nǐ néng shuō màn yìdiǎn ma?",
+      "english_answers": [
+        "Could you speak more slowly?"
+      ],
+      "english_gloss": "Could you speak more slowly?"
+    },
+    {
+      "id": "conversation_I_0064",
+      "hanzi": "这是什么意思？",
+      "pinyin": "Zhè shì shénme yìsi?",
+      "english_answers": [
+        "What does this mean?"
+      ],
+      "english_gloss": "What does this mean?"
+    },
+    {
+      "id": "conversation_I_0065",
+      "hanzi": "你指的是什么？",
+      "pinyin": "Nǐ zhǐ de shì shénme?",
+      "english_answers": [
+        "What are you referring to?"
+      ],
+      "english_gloss": "What are you referring to?"
+    },
+    {
+      "id": "conversation_I_0066",
+      "hanzi": "你是说……吗？",
+      "pinyin": "Nǐ shì shuō… ma?",
+      "english_answers": [
+        "Do you mean…?"
+      ],
+      "english_gloss": "Do you mean…?"
+    },
+    {
+      "id": "conversation_I_0067",
+      "hanzi": "怎么说呢？",
+      "pinyin": "Zěnme shuō ne?",
+      "english_answers": [
+        "How should I put it?"
+      ],
+      "english_gloss": "How should I put it?"
+    },
+    {
+      "id": "conversation_I_0068",
+      "hanzi": "我想想。",
+      "pinyin": "Wǒ xiǎngxiang.",
+      "english_answers": [
+        "Let me think."
+      ],
+      "english_gloss": "Let me think."
+    },
+    {
+      "id": "conversation_I_0069",
+      "hanzi": "等一下。",
+      "pinyin": "Děng yíxià.",
+      "english_answers": [
+        "Wait a moment."
+      ],
+      "english_gloss": "Wait a moment."
+    },
+    {
+      "id": "conversation_I_0070",
+      "hanzi": "稍等一下。",
+      "pinyin": "Shāo děng yíxià.",
+      "english_answers": [
+        "Hold on a second."
+      ],
+      "english_gloss": "Hold on a second."
+    },
+    {
+      "id": "conversation_I_0071",
+      "hanzi": "我忘了怎么说。",
+      "pinyin": "Wǒ wàng le zěnme shuō.",
+      "english_answers": [
+        "I forgot how to say it."
+      ],
+      "english_gloss": "I forgot how to say it."
+    },
+    {
+      "id": "conversation_I_0072",
+      "hanzi": "这个词怎么说？",
+      "pinyin": "Zhège cí zěnme shuō?",
+      "english_answers": [
+        "How do you say this word?"
+      ],
+      "english_gloss": "How do you say this word?"
+    },
+    {
+      "id": "conversation_I_0073",
+      "hanzi": "你能举个例子吗？",
+      "pinyin": "Nǐ néng jǔ ge lìzi ma?",
+      "english_answers": [
+        "Can you give an example?"
+      ],
+      "english_gloss": "Can you give an example?"
+    },
+    {
+      "id": "conversation_I_0074",
+      "hanzi": "让我解释一下。",
+      "pinyin": "Ràng wǒ jiěshì yíxià.",
+      "english_answers": [
+        "Let me explain."
+      ],
+      "english_gloss": "Let me explain."
+    },
+    {
+      "id": "conversation_I_0075",
+      "hanzi": "我的意思是……",
+      "pinyin": "Wǒ de yìsi shì…",
+      "english_answers": [
+        "What I mean is…"
+      ],
+      "english_gloss": "What I mean is…"
+    },
+    {
+      "id": "conversation_I_0076",
+      "hanzi": "原来如此。",
+      "pinyin": "Yuánlái rúcǐ.",
+      "english_answers": [
+        "Oh, so that's how it is."
+      ],
+      "english_gloss": "Oh, so that's how it is."
+    },
+    {
+      "id": "conversation_I_0077",
+      "hanzi": "怪不得。",
+      "pinyin": "Guàibude.",
+      "english_answers": [
+        "No wonder."
+      ],
+      "english_gloss": "No wonder."
+    },
+    {
+      "id": "conversation_I_0078",
+      "hanzi": "难怪。",
+      "pinyin": "Nánguài.",
+      "english_answers": [
+        "No wonder."
+      ],
+      "english_gloss": "No wonder."
+    },
+    {
+      "id": "conversation_I_0079",
+      "hanzi": "真的吗？",
+      "pinyin": "Zhēn de ma?",
+      "english_answers": [
+        "Really?"
+      ],
+      "english_gloss": "Really?"
+    },
+    {
+      "id": "conversation_I_0080",
+      "hanzi": "真的假的？",
+      "pinyin": "Zhēn de jiǎ de?",
+      "english_answers": [
+        "Seriously? For real?"
+      ],
+      "english_gloss": "Seriously? For real?"
+    },
+    {
+      "id": "conversation_I_0081",
+      "hanzi": "不会吧！",
+      "pinyin": "Bú huì ba!",
+      "english_answers": [
+        "No way!"
+      ],
+      "english_gloss": "No way!"
+    },
+    {
+      "id": "conversation_I_0082",
+      "hanzi": "太巧了！",
+      "pinyin": "Tài qiǎo le!",
+      "english_answers": [
+        "What a coincidence!"
+      ],
+      "english_gloss": "What a coincidence!"
+    },
+    {
+      "id": "conversation_I_0083",
+      "hanzi": "没办法。",
+      "pinyin": "Méi bànfǎ.",
+      "english_answers": [
+        "Can't be helped."
+      ],
+      "english_gloss": "Can't be helped."
+    },
+    {
+      "id": "conversation_I_0084",
+      "hanzi": "算了。",
+      "pinyin": "Suàn le.",
+      "english_answers": [
+        "Forget it",
+        "never mind."
+      ],
+      "english_gloss": "Forget it; never mind."
+    },
+    {
+      "id": "conversation_I_0085",
+      "hanzi": "随便吧。",
+      "pinyin": "Suíbiàn ba.",
+      "english_answers": [
+        "Whatever",
+        "either way."
+      ],
+      "english_gloss": "Whatever; either way."
+    },
+    {
+      "id": "conversation_I_0086",
+      "hanzi": "你说呢？",
+      "pinyin": "Nǐ shuō ne?",
+      "english_answers": [
+        "What do you think?"
+      ],
+      "english_gloss": "What do you think?"
+    },
+    {
+      "id": "conversation_I_0087",
+      "hanzi": "你怎么看？",
+      "pinyin": "Nǐ zěnme kàn?",
+      "english_answers": [
+        "What's your take?"
+      ],
+      "english_gloss": "What's your take?"
+    },
+    {
+      "id": "conversation_I_0088",
+      "hanzi": "对了，……",
+      "pinyin": "Duì le,…",
+      "english_answers": [
+        "Oh, right",
+        "by the way…"
+      ],
+      "english_gloss": "Oh, right; by the way…"
+    },
+    {
+      "id": "conversation_I_0089",
+      "hanzi": "话说回来，……",
+      "pinyin": "Huà shuō huílái,…",
+      "english_answers": [
+        "Getting back to the point…"
+      ],
+      "english_gloss": "Getting back to the point…"
+    },
+    {
+      "id": "conversation_I_0090",
+      "hanzi": "顺便问一下。",
+      "pinyin": "Shùnbiàn wèn yíxià.",
+      "english_answers": [
+        "By the way, can I ask…?"
+      ],
+      "english_gloss": "By the way, can I ask…?"
+    },
+    {
+      "id": "conversation_I_0091",
+      "hanzi": "说起来，……",
+      "pinyin": "Shuō qǐlái,…",
+      "english_answers": [
+        "Speaking of which…"
+      ],
+      "english_gloss": "Speaking of which…"
+    },
+    {
+      "id": "conversation_I_0092",
+      "hanzi": "我差点忘了。",
+      "pinyin": "Wǒ chàdiǎn wàng le.",
+      "english_answers": [
+        "I almost forgot."
+      ],
+      "english_gloss": "I almost forgot."
+    },
+    {
+      "id": "conversation_I_0093",
+      "hanzi": "先这样吧。",
+      "pinyin": "Xiān zhèyàng ba.",
+      "english_answers": [
+        "Let's leave it at that for now."
+      ],
+      "english_gloss": "Let's leave it at that for now."
+    },
+    {
+      "id": "conversation_I_0094",
+      "hanzi": "回头再说。",
+      "pinyin": "Huítóu zài shuō.",
+      "english_answers": [
+        "Let's talk about it later."
+      ],
+      "english_gloss": "Let's talk about it later."
+    },
+    {
+      "id": "conversation_I_0095",
+      "hanzi": "我再确认一下。",
+      "pinyin": "Wǒ zài quèrèn yíxià.",
+      "english_answers": [
+        "Let me double-check."
+      ],
+      "english_gloss": "Let me double-check."
+    },
+    {
+      "id": "conversation_I_0096",
+      "hanzi": "说得也是。",
+      "pinyin": "Shuō de yě shì.",
+      "english_answers": [
+        "That's a fair point."
+      ],
+      "english_gloss": "That's a fair point."
+    },
+    {
+      "id": "conversation_I_0097",
+      "hanzi": "没错。",
+      "pinyin": "Méi cuò.",
+      "english_answers": [
+        "Exactly",
+        "that's right."
+      ],
+      "english_gloss": "Exactly; that's right."
+    },
+    {
+      "id": "conversation_I_0098",
+      "hanzi": "不完全是。",
+      "pinyin": "Bù wánquán shì.",
+      "english_answers": [
+        "Not exactly."
+      ],
+      "english_gloss": "Not exactly."
+    },
+    {
+      "id": "conversation_I_0099",
+      "hanzi": "我不是那个意思。",
+      "pinyin": "Wǒ bú shì nàge yìsi.",
+      "english_answers": [
+        "That's not what I meant."
+      ],
+      "english_gloss": "That's not what I meant."
+    },
+    {
+      "id": "conversation_I_0100",
+      "hanzi": "先不说这个。",
+      "pinyin": "Xiān bù shuō zhège.",
+      "english_answers": [
+        "Let's set that aside for now."
+      ],
+      "english_gloss": "Let's set that aside for now."
+    }
+  ]
+}

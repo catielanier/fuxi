@@ -1,0 +1,932 @@
+{
+  "id": "math_money_I",
+  "title": "Practical Mathematics & Money I",
+  "category": "math_money",
+  "part": 1,
+  "description": "Arithmetic, receipts, discounts, payments, contracts and spoken number pitfalls",
+  "cards": [
+    {
+      "id": "math_money_I_0001",
+      "hanzi": "加",
+      "pinyin": "jiā",
+      "english_answers": [
+        "add",
+        "plus"
+      ],
+      "english_gloss": "add; plus"
+    },
+    {
+      "id": "math_money_I_0002",
+      "hanzi": "减",
+      "pinyin": "jiǎn",
+      "english_answers": [
+        "subtract",
+        "minus"
+      ],
+      "english_gloss": "subtract; minus"
+    },
+    {
+      "id": "math_money_I_0003",
+      "hanzi": "乘",
+      "pinyin": "chéng",
+      "english_answers": [
+        "multiply",
+        "times"
+      ],
+      "english_gloss": "multiply; times"
+    },
+    {
+      "id": "math_money_I_0004",
+      "hanzi": "除以",
+      "pinyin": "chú yǐ",
+      "english_answers": [
+        "divided by"
+      ],
+      "english_gloss": "divided by"
+    },
+    {
+      "id": "math_money_I_0005",
+      "hanzi": "等于",
+      "pinyin": "děngyú",
+      "english_answers": [
+        "equals"
+      ],
+      "english_gloss": "equals"
+    },
+    {
+      "id": "math_money_I_0006",
+      "hanzi": "计算",
+      "pinyin": "jìsuàn",
+      "english_answers": [
+        "calculate"
+      ],
+      "english_gloss": "calculate"
+    },
+    {
+      "id": "math_money_I_0007",
+      "hanzi": "算",
+      "pinyin": "suàn",
+      "english_answers": [
+        "calculate",
+        "count"
+      ],
+      "english_gloss": "calculate; count"
+    },
+    {
+      "id": "math_money_I_0008",
+      "hanzi": "算错",
+      "pinyin": "suàn cuò",
+      "english_answers": [
+        "calculate incorrectly"
+      ],
+      "english_gloss": "calculate incorrectly"
+    },
+    {
+      "id": "math_money_I_0009",
+      "hanzi": "算对",
+      "pinyin": "suàn duì",
+      "english_answers": [
+        "calculate correctly"
+      ],
+      "english_gloss": "calculate correctly"
+    },
+    {
+      "id": "math_money_I_0010",
+      "hanzi": "数字",
+      "pinyin": "shùzì",
+      "english_answers": [
+        "number",
+        "numeral"
+      ],
+      "english_gloss": "number; numeral"
+    },
+    {
+      "id": "math_money_I_0011",
+      "hanzi": "数量",
+      "pinyin": "shùliàng",
+      "english_answers": [
+        "quantity"
+      ],
+      "english_gloss": "quantity"
+    },
+    {
+      "id": "math_money_I_0012",
+      "hanzi": "总数",
+      "pinyin": "zǒngshù",
+      "english_answers": [
+        "total number"
+      ],
+      "english_gloss": "total number"
+    },
+    {
+      "id": "math_money_I_0013",
+      "hanzi": "总额",
+      "pinyin": "zǒng'é",
+      "english_answers": [
+        "total amount"
+      ],
+      "english_gloss": "total amount"
+    },
+    {
+      "id": "math_money_I_0014",
+      "hanzi": "金额",
+      "pinyin": "jīn'é",
+      "english_answers": [
+        "monetary amount"
+      ],
+      "english_gloss": "monetary amount"
+    },
+    {
+      "id": "math_money_I_0015",
+      "hanzi": "合计",
+      "pinyin": "héjì",
+      "english_answers": [
+        "total",
+        "add up"
+      ],
+      "english_gloss": "total; add up"
+    },
+    {
+      "id": "math_money_I_0016",
+      "hanzi": "小计",
+      "pinyin": "xiǎojì",
+      "english_answers": [
+        "subtotal"
+      ],
+      "english_gloss": "subtotal"
+    },
+    {
+      "id": "math_money_I_0017",
+      "hanzi": "平均",
+      "pinyin": "píngjūn",
+      "english_answers": [
+        "average"
+      ],
+      "english_gloss": "average"
+    },
+    {
+      "id": "math_money_I_0018",
+      "hanzi": "平均数",
+      "pinyin": "píngjūnshù",
+      "english_answers": [
+        "mean",
+        "average"
+      ],
+      "english_gloss": "mean; average"
+    },
+    {
+      "id": "math_money_I_0019",
+      "hanzi": "差额",
+      "pinyin": "chā'é",
+      "english_answers": [
+        "difference between amounts"
+      ],
+      "english_gloss": "difference between amounts"
+    },
+    {
+      "id": "math_money_I_0020",
+      "hanzi": "差",
+      "pinyin": "chā",
+      "english_answers": [
+        "difference",
+        "discrepancy"
+      ],
+      "english_gloss": "difference; discrepancy"
+    },
+    {
+      "id": "math_money_I_0021",
+      "hanzi": "大于",
+      "pinyin": "dà yú",
+      "english_answers": [
+        "greater than"
+      ],
+      "english_gloss": "greater than"
+    },
+    {
+      "id": "math_money_I_0022",
+      "hanzi": "小于",
+      "pinyin": "xiǎo yú",
+      "english_answers": [
+        "less than"
+      ],
+      "english_gloss": "less than"
+    },
+    {
+      "id": "math_money_I_0023",
+      "hanzi": "至少",
+      "pinyin": "zhìshǎo",
+      "english_answers": [
+        "at least"
+      ],
+      "english_gloss": "at least"
+    },
+    {
+      "id": "math_money_I_0024",
+      "hanzi": "至多",
+      "pinyin": "zhìduō",
+      "english_answers": [
+        "at most"
+      ],
+      "english_gloss": "at most"
+    },
+    {
+      "id": "math_money_I_0025",
+      "hanzi": "超过",
+      "pinyin": "chāoguò",
+      "english_answers": [
+        "exceed",
+        "more than"
+      ],
+      "english_gloss": "exceed; more than"
+    },
+    {
+      "id": "math_money_I_0026",
+      "hanzi": "不到",
+      "pinyin": "bú dào",
+      "english_answers": [
+        "less than",
+        "not quite"
+      ],
+      "english_gloss": "less than; not quite"
+    },
+    {
+      "id": "math_money_I_0027",
+      "hanzi": "左右",
+      "pinyin": "zuǒyòu",
+      "english_answers": [
+        "approximately",
+        "around"
+      ],
+      "english_gloss": "approximately; around"
+    },
+    {
+      "id": "math_money_I_0028",
+      "hanzi": "大约",
+      "pinyin": "dàyuē",
+      "english_answers": [
+        "approximately"
+      ],
+      "english_gloss": "approximately"
+    },
+    {
+      "id": "math_money_I_0029",
+      "hanzi": "将近",
+      "pinyin": "jiāngjìn",
+      "english_answers": [
+        "almost",
+        "nearly"
+      ],
+      "english_gloss": "almost; nearly"
+    },
+    {
+      "id": "math_money_I_0030",
+      "hanzi": "整整",
+      "pinyin": "zhěngzhěng",
+      "english_answers": [
+        "exactly",
+        "a full amount"
+      ],
+      "english_gloss": "exactly; a full amount"
+    },
+    {
+      "id": "math_money_I_0031",
+      "hanzi": "倍",
+      "pinyin": "bèi",
+      "english_answers": [
+        "times",
+        "multiple"
+      ],
+      "english_gloss": "times; multiple"
+    },
+    {
+      "id": "math_money_I_0032",
+      "hanzi": "两倍",
+      "pinyin": "liǎng bèi",
+      "english_answers": [
+        "twice as much"
+      ],
+      "english_gloss": "twice as much"
+    },
+    {
+      "id": "math_money_I_0033",
+      "hanzi": "一半",
+      "pinyin": "yíbàn",
+      "english_answers": [
+        "half"
+      ],
+      "english_gloss": "half"
+    },
+    {
+      "id": "math_money_I_0034",
+      "hanzi": "三分之一",
+      "pinyin": "sān fēn zhī yī",
+      "english_answers": [
+        "one third"
+      ],
+      "english_gloss": "one third"
+    },
+    {
+      "id": "math_money_I_0035",
+      "hanzi": "四分之一",
+      "pinyin": "sì fēn zhī yī",
+      "english_answers": [
+        "one quarter"
+      ],
+      "english_gloss": "one quarter"
+    },
+    {
+      "id": "math_money_I_0036",
+      "hanzi": "百分比",
+      "pinyin": "bǎifēnbǐ",
+      "english_answers": [
+        "percentage"
+      ],
+      "english_gloss": "percentage"
+    },
+    {
+      "id": "math_money_I_0037",
+      "hanzi": "百分之十",
+      "pinyin": "bǎifēn zhī shí",
+      "english_answers": [
+        "ten percent"
+      ],
+      "english_gloss": "ten percent"
+    },
+    {
+      "id": "math_money_I_0038",
+      "hanzi": "百分点",
+      "pinyin": "bǎifēndiǎn",
+      "english_answers": [
+        "percentage point"
+      ],
+      "english_gloss": "percentage point"
+    },
+    {
+      "id": "math_money_I_0039",
+      "hanzi": "小数",
+      "pinyin": "xiǎoshù",
+      "english_answers": [
+        "decimal"
+      ],
+      "english_gloss": "decimal"
+    },
+    {
+      "id": "math_money_I_0040",
+      "hanzi": "小数点",
+      "pinyin": "xiǎoshùdiǎn",
+      "english_answers": [
+        "decimal point"
+      ],
+      "english_gloss": "decimal point"
+    },
+    {
+      "id": "math_money_I_0041",
+      "hanzi": "零点五",
+      "pinyin": "líng diǎn wǔ",
+      "english_answers": [
+        "zero point five",
+        "0.5"
+      ],
+      "english_gloss": "zero point five; 0.5"
+    },
+    {
+      "id": "math_money_I_0042",
+      "hanzi": "四舍五入",
+      "pinyin": "sì shě wǔ rù",
+      "english_answers": [
+        "round to nearest"
+      ],
+      "english_gloss": "round to nearest"
+    },
+    {
+      "id": "math_money_I_0043",
+      "hanzi": "约等于",
+      "pinyin": "yuē děngyú",
+      "english_answers": [
+        "approximately equals"
+      ],
+      "english_gloss": "approximately equals"
+    },
+    {
+      "id": "math_money_I_0044",
+      "hanzi": "一百零一",
+      "pinyin": "yì bǎi líng yī",
+      "english_answers": [
+        "101"
+      ],
+      "english_gloss": "101"
+    },
+    {
+      "id": "math_money_I_0045",
+      "hanzi": "一百四十",
+      "pinyin": "yì bǎi sì shí",
+      "english_answers": [
+        "140"
+      ],
+      "english_gloss": "140"
+    },
+    {
+      "id": "math_money_I_0046",
+      "hanzi": "一百四",
+      "pinyin": "yì bǎi sì",
+      "english_answers": [
+        "140 (colloquial shorthand)"
+      ],
+      "english_gloss": "140 (colloquial shorthand)"
+    },
+    {
+      "id": "math_money_I_0047",
+      "hanzi": "一千零五",
+      "pinyin": "yì qiān líng wǔ",
+      "english_answers": [
+        "1005"
+      ],
+      "english_gloss": "1005"
+    },
+    {
+      "id": "math_money_I_0048",
+      "hanzi": "一万",
+      "pinyin": "yí wàn",
+      "english_answers": [
+        "10,000"
+      ],
+      "english_gloss": "10,000"
+    },
+    {
+      "id": "math_money_I_0049",
+      "hanzi": "十万",
+      "pinyin": "shí wàn",
+      "english_answers": [
+        "100,000"
+      ],
+      "english_gloss": "100,000"
+    },
+    {
+      "id": "math_money_I_0050",
+      "hanzi": "一百万",
+      "pinyin": "yì bǎi wàn",
+      "english_answers": [
+        "1,000,000"
+      ],
+      "english_gloss": "1,000,000"
+    },
+    {
+      "id": "math_money_I_0051",
+      "hanzi": "一亿",
+      "pinyin": "yí yì",
+      "english_answers": [
+        "100,000,000"
+      ],
+      "english_gloss": "100,000,000"
+    },
+    {
+      "id": "math_money_I_0052",
+      "hanzi": "两百",
+      "pinyin": "liǎng bǎi",
+      "english_answers": [
+        "200"
+      ],
+      "english_gloss": "200"
+    },
+    {
+      "id": "math_money_I_0053",
+      "hanzi": "二十二",
+      "pinyin": "èrshí'èr",
+      "english_answers": [
+        "22"
+      ],
+      "english_gloss": "22"
+    },
+    {
+      "id": "math_money_I_0054",
+      "hanzi": "价格",
+      "pinyin": "jiàgé",
+      "english_answers": [
+        "price"
+      ],
+      "english_gloss": "price"
+    },
+    {
+      "id": "math_money_I_0055",
+      "hanzi": "单价",
+      "pinyin": "dānjià",
+      "english_answers": [
+        "unit price"
+      ],
+      "english_gloss": "unit price"
+    },
+    {
+      "id": "math_money_I_0056",
+      "hanzi": "总价",
+      "pinyin": "zǒngjià",
+      "english_answers": [
+        "total price"
+      ],
+      "english_gloss": "total price"
+    },
+    {
+      "id": "math_money_I_0057",
+      "hanzi": "原价",
+      "pinyin": "yuánjià",
+      "english_answers": [
+        "original price"
+      ],
+      "english_gloss": "original price"
+    },
+    {
+      "id": "math_money_I_0058",
+      "hanzi": "现价",
+      "pinyin": "xiànjià",
+      "english_answers": [
+        "current price"
+      ],
+      "english_gloss": "current price"
+    },
+    {
+      "id": "math_money_I_0059",
+      "hanzi": "标价",
+      "pinyin": "biāojià",
+      "english_answers": [
+        "listed price"
+      ],
+      "english_gloss": "listed price"
+    },
+    {
+      "id": "math_money_I_0060",
+      "hanzi": "优惠",
+      "pinyin": "yōuhuì",
+      "english_answers": [
+        "discount",
+        "special offer"
+      ],
+      "english_gloss": "discount; special offer"
+    },
+    {
+      "id": "math_money_I_0061",
+      "hanzi": "折扣",
+      "pinyin": "zhékòu",
+      "english_answers": [
+        "discount"
+      ],
+      "english_gloss": "discount"
+    },
+    {
+      "id": "math_money_I_0062",
+      "hanzi": "打折",
+      "pinyin": "dǎzhé",
+      "english_answers": [
+        "discount",
+        "on sale"
+      ],
+      "english_gloss": "discount; on sale"
+    },
+    {
+      "id": "math_money_I_0063",
+      "hanzi": "八折",
+      "pinyin": "bā zhé",
+      "english_answers": [
+        "20% off",
+        "pay 80%"
+      ],
+      "english_gloss": "20% off; pay 80%"
+    },
+    {
+      "id": "math_money_I_0064",
+      "hanzi": "八五折",
+      "pinyin": "bā wǔ zhé",
+      "english_answers": [
+        "15% off",
+        "pay 85%"
+      ],
+      "english_gloss": "15% off; pay 85%"
+    },
+    {
+      "id": "math_money_I_0065",
+      "hanzi": "满减",
+      "pinyin": "mǎn jiǎn",
+      "english_answers": [
+        "spend-threshold discount"
+      ],
+      "english_gloss": "spend-threshold discount"
+    },
+    {
+      "id": "math_money_I_0066",
+      "hanzi": "含税",
+      "pinyin": "hán shuì",
+      "english_answers": [
+        "tax included"
+      ],
+      "english_gloss": "tax included"
+    },
+    {
+      "id": "math_money_I_0067",
+      "hanzi": "不含税",
+      "pinyin": "bù hán shuì",
+      "english_answers": [
+        "tax excluded"
+      ],
+      "english_gloss": "tax excluded"
+    },
+    {
+      "id": "math_money_I_0068",
+      "hanzi": "税率",
+      "pinyin": "shuìlǜ",
+      "english_answers": [
+        "tax rate"
+      ],
+      "english_gloss": "tax rate"
+    },
+    {
+      "id": "math_money_I_0069",
+      "hanzi": "增值税",
+      "pinyin": "zēngzhíshuì",
+      "english_answers": [
+        "value-added tax (VAT)"
+      ],
+      "english_gloss": "value-added tax (VAT)"
+    },
+    {
+      "id": "math_money_I_0070",
+      "hanzi": "发票",
+      "pinyin": "fāpiào",
+      "english_answers": [
+        "official invoice"
+      ],
+      "english_gloss": "official invoice"
+    },
+    {
+      "id": "math_money_I_0071",
+      "hanzi": "收据",
+      "pinyin": "shōujù",
+      "english_answers": [
+        "receipt"
+      ],
+      "english_gloss": "receipt"
+    },
+    {
+      "id": "math_money_I_0072",
+      "hanzi": "账单",
+      "pinyin": "zhàngdān",
+      "english_answers": [
+        "bill",
+        "statement"
+      ],
+      "english_gloss": "bill; statement"
+    },
+    {
+      "id": "math_money_I_0073",
+      "hanzi": "费用",
+      "pinyin": "fèiyòng",
+      "english_answers": [
+        "expense",
+        "fee"
+      ],
+      "english_gloss": "expense; fee"
+    },
+    {
+      "id": "math_money_I_0074",
+      "hanzi": "手续费",
+      "pinyin": "shǒuxùfèi",
+      "english_answers": [
+        "transaction",
+        "handling fee"
+      ],
+      "english_gloss": "transaction; handling fee"
+    },
+    {
+      "id": "math_money_I_0075",
+      "hanzi": "服务费",
+      "pinyin": "fúwùfèi",
+      "english_answers": [
+        "service fee"
+      ],
+      "english_gloss": "service fee"
+    },
+    {
+      "id": "math_money_I_0076",
+      "hanzi": "附加费",
+      "pinyin": "fùjiāfèi",
+      "english_answers": [
+        "surcharge"
+      ],
+      "english_gloss": "surcharge"
+    },
+    {
+      "id": "math_money_I_0077",
+      "hanzi": "押金",
+      "pinyin": "yājīn",
+      "english_answers": [
+        "security deposit"
+      ],
+      "english_gloss": "security deposit"
+    },
+    {
+      "id": "math_money_I_0078",
+      "hanzi": "定金",
+      "pinyin": "dìngjīn",
+      "english_answers": [
+        "earnest-money deposit"
+      ],
+      "english_gloss": "earnest-money deposit"
+    },
+    {
+      "id": "math_money_I_0079",
+      "hanzi": "预付款",
+      "pinyin": "yùfùkuǎn",
+      "english_answers": [
+        "advance payment"
+      ],
+      "english_gloss": "advance payment"
+    },
+    {
+      "id": "math_money_I_0080",
+      "hanzi": "尾款",
+      "pinyin": "wěikuǎn",
+      "english_answers": [
+        "remaining final payment"
+      ],
+      "english_gloss": "remaining final payment"
+    },
+    {
+      "id": "math_money_I_0081",
+      "hanzi": "余额",
+      "pinyin": "yú'é",
+      "english_answers": [
+        "remaining balance"
+      ],
+      "english_gloss": "remaining balance"
+    },
+    {
+      "id": "math_money_I_0082",
+      "hanzi": "退款",
+      "pinyin": "tuìkuǎn",
+      "english_answers": [
+        "refund"
+      ],
+      "english_gloss": "refund"
+    },
+    {
+      "id": "math_money_I_0083",
+      "hanzi": "找零",
+      "pinyin": "zhǎolíng",
+      "english_answers": [
+        "give change"
+      ],
+      "english_gloss": "give change"
+    },
+    {
+      "id": "math_money_I_0084",
+      "hanzi": "实付金额",
+      "pinyin": "shífù jīn'é",
+      "english_answers": [
+        "amount actually paid"
+      ],
+      "english_gloss": "amount actually paid"
+    },
+    {
+      "id": "math_money_I_0085",
+      "hanzi": "应付金额",
+      "pinyin": "yīngfù jīn'é",
+      "english_answers": [
+        "amount payable"
+      ],
+      "english_gloss": "amount payable"
+    },
+    {
+      "id": "math_money_I_0086",
+      "hanzi": "付款方式",
+      "pinyin": "fùkuǎn fāngshì",
+      "english_answers": [
+        "payment method"
+      ],
+      "english_gloss": "payment method"
+    },
+    {
+      "id": "math_money_I_0087",
+      "hanzi": "分期付款",
+      "pinyin": "fēnqī fùkuǎn",
+      "english_answers": [
+        "installment payments"
+      ],
+      "english_gloss": "installment payments"
+    },
+    {
+      "id": "math_money_I_0088",
+      "hanzi": "到期日",
+      "pinyin": "dàoqīrì",
+      "english_answers": [
+        "due date",
+        "expiry date"
+      ],
+      "english_gloss": "due date; expiry date"
+    },
+    {
+      "id": "math_money_I_0089",
+      "hanzi": "逾期",
+      "pinyin": "yúqī",
+      "english_answers": [
+        "overdue"
+      ],
+      "english_gloss": "overdue"
+    },
+    {
+      "id": "math_money_I_0090",
+      "hanzi": "滞纳金",
+      "pinyin": "zhìnàjīn",
+      "english_answers": [
+        "late payment surcharge"
+      ],
+      "english_gloss": "late payment surcharge"
+    },
+    {
+      "id": "math_money_I_0091",
+      "hanzi": "违约金",
+      "pinyin": "wéiyuējīn",
+      "english_answers": [
+        "contractual penalty"
+      ],
+      "english_gloss": "contractual penalty"
+    },
+    {
+      "id": "math_money_I_0092",
+      "hanzi": "这价格含税吗？",
+      "pinyin": "Zhè jiàgé hán shuì ma?",
+      "english_answers": [
+        "Does this price include tax?"
+      ],
+      "english_gloss": "Does this price include tax?"
+    },
+    {
+      "id": "math_money_I_0093",
+      "hanzi": "一共多少钱？",
+      "pinyin": "Yígòng duōshao qián?",
+      "english_answers": [
+        "How much altogether?"
+      ],
+      "english_gloss": "How much altogether?"
+    },
+    {
+      "id": "math_money_I_0094",
+      "hanzi": "多收了十块。",
+      "pinyin": "Duō shōu le shí kuài.",
+      "english_answers": [
+        "You charged ten yuan too much."
+      ],
+      "english_gloss": "You charged ten yuan too much."
+    },
+    {
+      "id": "math_money_I_0095",
+      "hanzi": "押金什么时候退？",
+      "pinyin": "Yājīn shénme shíhou tuì?",
+      "english_answers": [
+        "When is the deposit refunded?"
+      ],
+      "english_gloss": "When is the deposit refunded?"
+    },
+    {
+      "id": "math_money_I_0096",
+      "hanzi": "汇率",
+      "pinyin": "huìlǜ",
+      "english_answers": [
+        "exchange rate"
+      ],
+      "english_gloss": "exchange rate"
+    },
+    {
+      "id": "math_money_I_0097",
+      "hanzi": "利率",
+      "pinyin": "lìlǜ",
+      "english_answers": [
+        "interest rate"
+      ],
+      "english_gloss": "interest rate"
+    },
+    {
+      "id": "math_money_I_0098",
+      "hanzi": "本金",
+      "pinyin": "běnjīn",
+      "english_answers": [
+        "principal amount"
+      ],
+      "english_gloss": "principal amount"
+    },
+    {
+      "id": "math_money_I_0099",
+      "hanzi": "利息",
+      "pinyin": "lìxī",
+      "english_answers": [
+        "interest paid or earned"
+      ],
+      "english_gloss": "interest paid or earned"
+    },
+    {
+      "id": "math_money_I_0100",
+      "hanzi": "净收入",
+      "pinyin": "jìng shōurù",
+      "english_answers": [
+        "net income"
+      ],
+      "english_gloss": "net income"
+    }
+  ]
+}

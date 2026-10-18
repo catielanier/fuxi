@@ -1,0 +1,902 @@
+[
+  {
+    "id": "everyday_objects_II_001",
+    "hanzi": "碗",
+    "pinyin": "wǎn",
+    "english_answers": [
+      "bowl"
+    ],
+    "english_gloss": "bowl"
+  },
+  {
+    "id": "everyday_objects_II_002",
+    "hanzi": "盘子",
+    "pinyin": "pánzi",
+    "english_answers": [
+      "plate"
+    ],
+    "english_gloss": "plate"
+  },
+  {
+    "id": "everyday_objects_II_003",
+    "hanzi": "碟子",
+    "pinyin": "diézi",
+    "english_answers": [
+      "small plate / saucer"
+    ],
+    "english_gloss": "small plate / saucer"
+  },
+  {
+    "id": "everyday_objects_II_004",
+    "hanzi": "杯子",
+    "pinyin": "bēizi",
+    "english_answers": [
+      "cup"
+    ],
+    "english_gloss": "cup"
+  },
+  {
+    "id": "everyday_objects_II_005",
+    "hanzi": "玻璃杯",
+    "pinyin": "bōlibēi",
+    "english_answers": [
+      "drinking glass"
+    ],
+    "english_gloss": "drinking glass"
+  },
+  {
+    "id": "everyday_objects_II_006",
+    "hanzi": "马克杯",
+    "pinyin": "mǎkèbēi",
+    "english_answers": [
+      "mug"
+    ],
+    "english_gloss": "mug"
+  },
+  {
+    "id": "everyday_objects_II_007",
+    "hanzi": "保温杯",
+    "pinyin": "bǎowēnbēi",
+    "english_answers": [
+      "insulated cup / travel mug"
+    ],
+    "english_gloss": "insulated cup / travel mug"
+  },
+  {
+    "id": "everyday_objects_II_008",
+    "hanzi": "水壶",
+    "pinyin": "shuǐhú",
+    "english_answers": [
+      "water jug / kettle"
+    ],
+    "english_gloss": "water jug / kettle"
+  },
+  {
+    "id": "everyday_objects_II_009",
+    "hanzi": "烧水壶",
+    "pinyin": "shāoshuǐhú",
+    "english_answers": [
+      "kettle for boiling water"
+    ],
+    "english_gloss": "kettle for boiling water"
+  },
+  {
+    "id": "everyday_objects_II_010",
+    "hanzi": "茶壶",
+    "pinyin": "cháhú",
+    "english_answers": [
+      "teapot"
+    ],
+    "english_gloss": "teapot"
+  },
+  {
+    "id": "everyday_objects_II_011",
+    "hanzi": "筷子",
+    "pinyin": "kuàizi",
+    "english_answers": [
+      "chopsticks"
+    ],
+    "english_gloss": "chopsticks"
+  },
+  {
+    "id": "everyday_objects_II_012",
+    "hanzi": "勺子",
+    "pinyin": "sháozi",
+    "english_answers": [
+      "spoon"
+    ],
+    "english_gloss": "spoon"
+  },
+  {
+    "id": "everyday_objects_II_013",
+    "hanzi": "汤匙",
+    "pinyin": "tāngchí",
+    "english_answers": [
+      "soup spoon"
+    ],
+    "english_gloss": "soup spoon"
+  },
+  {
+    "id": "everyday_objects_II_014",
+    "hanzi": "叉子",
+    "pinyin": "chāzi",
+    "english_answers": [
+      "fork"
+    ],
+    "english_gloss": "fork"
+  },
+  {
+    "id": "everyday_objects_II_015",
+    "hanzi": "餐刀",
+    "pinyin": "cāndāo",
+    "english_answers": [
+      "table knife"
+    ],
+    "english_gloss": "table knife"
+  },
+  {
+    "id": "everyday_objects_II_016",
+    "hanzi": "菜刀",
+    "pinyin": "càidāo",
+    "english_answers": [
+      "kitchen knife"
+    ],
+    "english_gloss": "kitchen knife"
+  },
+  {
+    "id": "everyday_objects_II_017",
+    "hanzi": "砧板",
+    "pinyin": "zhēnbǎn",
+    "english_answers": [
+      "chopping board"
+    ],
+    "english_gloss": "chopping board"
+  },
+  {
+    "id": "everyday_objects_II_018",
+    "hanzi": "锅",
+    "pinyin": "guō",
+    "english_answers": [
+      "cooking pot / pan"
+    ],
+    "english_gloss": "cooking pot / pan"
+  },
+  {
+    "id": "everyday_objects_II_019",
+    "hanzi": "炒锅",
+    "pinyin": "chǎoguō",
+    "english_answers": [
+      "wok"
+    ],
+    "english_gloss": "wok"
+  },
+  {
+    "id": "everyday_objects_II_020",
+    "hanzi": "平底锅",
+    "pinyin": "píngdǐguō",
+    "english_answers": [
+      "frying pan / skillet"
+    ],
+    "english_gloss": "frying pan / skillet"
+  },
+  {
+    "id": "everyday_objects_II_021",
+    "hanzi": "汤锅",
+    "pinyin": "tāngguō",
+    "english_answers": [
+      "soup pot"
+    ],
+    "english_gloss": "soup pot"
+  },
+  {
+    "id": "everyday_objects_II_022",
+    "hanzi": "锅盖",
+    "pinyin": "guōgài",
+    "english_answers": [
+      "pot lid"
+    ],
+    "english_gloss": "pot lid"
+  },
+  {
+    "id": "everyday_objects_II_023",
+    "hanzi": "锅铲",
+    "pinyin": "guōchǎn",
+    "english_answers": [
+      "spatula / wok turner"
+    ],
+    "english_gloss": "spatula / wok turner"
+  },
+  {
+    "id": "everyday_objects_II_024",
+    "hanzi": "漏勺",
+    "pinyin": "lòusháo",
+    "english_answers": [
+      "slotted spoon / strainer ladle"
+    ],
+    "english_gloss": "slotted spoon / strainer ladle"
+  },
+  {
+    "id": "everyday_objects_II_025",
+    "hanzi": "饭勺",
+    "pinyin": "fànsháo",
+    "english_answers": [
+      "rice serving spoon"
+    ],
+    "english_gloss": "rice serving spoon"
+  },
+  {
+    "id": "everyday_objects_II_026",
+    "hanzi": "夹子",
+    "pinyin": "jiāzi",
+    "english_answers": [
+      "tongs / clip (context dependent)"
+    ],
+    "english_gloss": "tongs / clip (context dependent)"
+  },
+  {
+    "id": "everyday_objects_II_027",
+    "hanzi": "打蛋器",
+    "pinyin": "dǎdànqì",
+    "english_answers": [
+      "whisk / egg beater"
+    ],
+    "english_gloss": "whisk / egg beater"
+  },
+  {
+    "id": "everyday_objects_II_028",
+    "hanzi": "削皮器",
+    "pinyin": "xiāopíqì",
+    "english_answers": [
+      "vegetable peeler"
+    ],
+    "english_gloss": "vegetable peeler"
+  },
+  {
+    "id": "everyday_objects_II_029",
+    "hanzi": "开瓶器",
+    "pinyin": "kāipíngqì",
+    "english_answers": [
+      "bottle opener"
+    ],
+    "english_gloss": "bottle opener"
+  },
+  {
+    "id": "everyday_objects_II_030",
+    "hanzi": "开罐器",
+    "pinyin": "kāiguànqì",
+    "english_answers": [
+      "can opener"
+    ],
+    "english_gloss": "can opener"
+  },
+  {
+    "id": "everyday_objects_II_031",
+    "hanzi": "漏斗",
+    "pinyin": "lòudǒu",
+    "english_answers": [
+      "funnel"
+    ],
+    "english_gloss": "funnel"
+  },
+  {
+    "id": "everyday_objects_II_032",
+    "hanzi": "滤网",
+    "pinyin": "lǜwǎng",
+    "english_answers": [
+      "strainer / mesh filter"
+    ],
+    "english_gloss": "strainer / mesh filter"
+  },
+  {
+    "id": "everyday_objects_II_033",
+    "hanzi": "量杯",
+    "pinyin": "liángbēi",
+    "english_answers": [
+      "measuring cup"
+    ],
+    "english_gloss": "measuring cup"
+  },
+  {
+    "id": "everyday_objects_II_034",
+    "hanzi": "量勺",
+    "pinyin": "liángsháo",
+    "english_answers": [
+      "measuring spoon"
+    ],
+    "english_gloss": "measuring spoon"
+  },
+  {
+    "id": "everyday_objects_II_035",
+    "hanzi": "擀面杖",
+    "pinyin": "gǎnmiànzhàng",
+    "english_answers": [
+      "rolling pin"
+    ],
+    "english_gloss": "rolling pin"
+  },
+  {
+    "id": "everyday_objects_II_036",
+    "hanzi": "烤盘",
+    "pinyin": "kǎopán",
+    "english_answers": [
+      "baking tray"
+    ],
+    "english_gloss": "baking tray"
+  },
+  {
+    "id": "everyday_objects_II_037",
+    "hanzi": "烤架",
+    "pinyin": "kǎojià",
+    "english_answers": [
+      "oven rack / grill rack"
+    ],
+    "english_gloss": "oven rack / grill rack"
+  },
+  {
+    "id": "everyday_objects_II_038",
+    "hanzi": "隔热垫",
+    "pinyin": "gérèdiàn",
+    "english_answers": [
+      "heat-resistant mat / trivet"
+    ],
+    "english_gloss": "heat-resistant mat / trivet"
+  },
+  {
+    "id": "everyday_objects_II_039",
+    "hanzi": "锅垫",
+    "pinyin": "guōdiàn",
+    "english_answers": [
+      "pot stand / trivet"
+    ],
+    "english_gloss": "pot stand / trivet"
+  },
+  {
+    "id": "everyday_objects_II_040",
+    "hanzi": "围裙",
+    "pinyin": "wéiqún",
+    "english_answers": [
+      "apron"
+    ],
+    "english_gloss": "apron"
+  },
+  {
+    "id": "everyday_objects_II_041",
+    "hanzi": "冰箱",
+    "pinyin": "bīngxiāng",
+    "english_answers": [
+      "refrigerator"
+    ],
+    "english_gloss": "refrigerator"
+  },
+  {
+    "id": "everyday_objects_II_042",
+    "hanzi": "冷冻室",
+    "pinyin": "lěngdòngshì",
+    "english_answers": [
+      "freezer compartment"
+    ],
+    "english_gloss": "freezer compartment"
+  },
+  {
+    "id": "everyday_objects_II_043",
+    "hanzi": "微波炉",
+    "pinyin": "wēibōlú",
+    "english_answers": [
+      "microwave oven"
+    ],
+    "english_gloss": "microwave oven"
+  },
+  {
+    "id": "everyday_objects_II_044",
+    "hanzi": "烤箱",
+    "pinyin": "kǎoxiāng",
+    "english_answers": [
+      "oven"
+    ],
+    "english_gloss": "oven"
+  },
+  {
+    "id": "everyday_objects_II_045",
+    "hanzi": "电饭煲",
+    "pinyin": "diànfànbāo",
+    "english_answers": [
+      "rice cooker"
+    ],
+    "english_gloss": "rice cooker"
+  },
+  {
+    "id": "everyday_objects_II_046",
+    "hanzi": "电磁炉",
+    "pinyin": "diàncílú",
+    "english_answers": [
+      "induction cooker"
+    ],
+    "english_gloss": "induction cooker"
+  },
+  {
+    "id": "everyday_objects_II_047",
+    "hanzi": "燃气灶",
+    "pinyin": "ránqìzào",
+    "english_answers": [
+      "gas stove"
+    ],
+    "english_gloss": "gas stove"
+  },
+  {
+    "id": "everyday_objects_II_048",
+    "hanzi": "抽油烟机",
+    "pinyin": "chōuyóuyānjī",
+    "english_answers": [
+      "range hood / extractor fan"
+    ],
+    "english_gloss": "range hood / extractor fan"
+  },
+  {
+    "id": "everyday_objects_II_049",
+    "hanzi": "洗碗机",
+    "pinyin": "xǐwǎnjī",
+    "english_answers": [
+      "dishwasher"
+    ],
+    "english_gloss": "dishwasher"
+  },
+  {
+    "id": "everyday_objects_II_050",
+    "hanzi": "水槽",
+    "pinyin": "shuǐcáo",
+    "english_answers": [
+      "sink / basin"
+    ],
+    "english_gloss": "sink / basin"
+  },
+  {
+    "id": "everyday_objects_II_051",
+    "hanzi": "沥水架",
+    "pinyin": "lìshuǐjià",
+    "english_answers": [
+      "dish drying rack"
+    ],
+    "english_gloss": "dish drying rack"
+  },
+  {
+    "id": "everyday_objects_II_052",
+    "hanzi": "餐具",
+    "pinyin": "cānjù",
+    "english_answers": [
+      "tableware / cutlery"
+    ],
+    "english_gloss": "tableware / cutlery"
+  },
+  {
+    "id": "everyday_objects_II_053",
+    "hanzi": "厨具",
+    "pinyin": "chújù",
+    "english_answers": [
+      "kitchen utensils"
+    ],
+    "english_gloss": "kitchen utensils"
+  },
+  {
+    "id": "everyday_objects_II_054",
+    "hanzi": "饭盒",
+    "pinyin": "fànhé",
+    "english_answers": [
+      "lunch box"
+    ],
+    "english_gloss": "lunch box"
+  },
+  {
+    "id": "everyday_objects_II_055",
+    "hanzi": "保鲜盒",
+    "pinyin": "bǎoxiānhé",
+    "english_answers": [
+      "food storage container"
+    ],
+    "english_gloss": "food storage container"
+  },
+  {
+    "id": "everyday_objects_II_056",
+    "hanzi": "密封盒",
+    "pinyin": "mìfēnghé",
+    "english_answers": [
+      "airtight container"
+    ],
+    "english_gloss": "airtight container"
+  },
+  {
+    "id": "everyday_objects_II_057",
+    "hanzi": "玻璃罐",
+    "pinyin": "bōliguàn",
+    "english_answers": [
+      "glass jar"
+    ],
+    "english_gloss": "glass jar"
+  },
+  {
+    "id": "everyday_objects_II_058",
+    "hanzi": "罐子",
+    "pinyin": "guànzi",
+    "english_answers": [
+      "jar / canister"
+    ],
+    "english_gloss": "jar / canister"
+  },
+  {
+    "id": "everyday_objects_II_059",
+    "hanzi": "瓶子",
+    "pinyin": "píngzi",
+    "english_answers": [
+      "bottle"
+    ],
+    "english_gloss": "bottle"
+  },
+  {
+    "id": "everyday_objects_II_060",
+    "hanzi": "塑料瓶",
+    "pinyin": "sùliào píng",
+    "english_answers": [
+      "plastic bottle"
+    ],
+    "english_gloss": "plastic bottle"
+  },
+  {
+    "id": "everyday_objects_II_061",
+    "hanzi": "瓶盖",
+    "pinyin": "pínggài",
+    "english_answers": [
+      "bottle cap"
+    ],
+    "english_gloss": "bottle cap"
+  },
+  {
+    "id": "everyday_objects_II_062",
+    "hanzi": "盖子",
+    "pinyin": "gàizi",
+    "english_answers": [
+      "lid / cover"
+    ],
+    "english_gloss": "lid / cover"
+  },
+  {
+    "id": "everyday_objects_II_063",
+    "hanzi": "塞子",
+    "pinyin": "sāizi",
+    "english_answers": [
+      "stopper / plug"
+    ],
+    "english_gloss": "stopper / plug"
+  },
+  {
+    "id": "everyday_objects_II_064",
+    "hanzi": "吸管",
+    "pinyin": "xīguǎn",
+    "english_answers": [
+      "drinking straw"
+    ],
+    "english_gloss": "drinking straw"
+  },
+  {
+    "id": "everyday_objects_II_065",
+    "hanzi": "保鲜膜",
+    "pinyin": "bǎoxiānmó",
+    "english_answers": [
+      "cling film / plastic wrap"
+    ],
+    "english_gloss": "cling film / plastic wrap"
+  },
+  {
+    "id": "everyday_objects_II_066",
+    "hanzi": "铝箔纸",
+    "pinyin": "lǚbózhǐ",
+    "english_answers": [
+      "aluminium foil"
+    ],
+    "english_gloss": "aluminium foil"
+  },
+  {
+    "id": "everyday_objects_II_067",
+    "hanzi": "烘焙纸",
+    "pinyin": "hōngbèizhǐ",
+    "english_answers": [
+      "baking parchment"
+    ],
+    "english_gloss": "baking parchment"
+  },
+  {
+    "id": "everyday_objects_II_068",
+    "hanzi": "密封袋",
+    "pinyin": "mìfēngdài",
+    "english_answers": [
+      "resealable bag"
+    ],
+    "english_gloss": "resealable bag"
+  },
+  {
+    "id": "everyday_objects_II_069",
+    "hanzi": "自封袋",
+    "pinyin": "zìfēngdài",
+    "english_answers": [
+      "zip-top bag"
+    ],
+    "english_gloss": "zip-top bag"
+  },
+  {
+    "id": "everyday_objects_II_070",
+    "hanzi": "购物袋",
+    "pinyin": "gòuwùdài",
+    "english_answers": [
+      "shopping bag"
+    ],
+    "english_gloss": "shopping bag"
+  },
+  {
+    "id": "everyday_objects_II_071",
+    "hanzi": "包装袋",
+    "pinyin": "bāozhuāngdài",
+    "english_answers": [
+      "packaging bag"
+    ],
+    "english_gloss": "packaging bag"
+  },
+  {
+    "id": "everyday_objects_II_072",
+    "hanzi": "包装盒",
+    "pinyin": "bāozhuānghé",
+    "english_answers": [
+      "packaging box"
+    ],
+    "english_gloss": "packaging box"
+  },
+  {
+    "id": "everyday_objects_II_073",
+    "hanzi": "包装纸",
+    "pinyin": "bāozhuāngzhǐ",
+    "english_answers": [
+      "wrapping paper"
+    ],
+    "english_gloss": "wrapping paper"
+  },
+  {
+    "id": "everyday_objects_II_074",
+    "hanzi": "纸袋",
+    "pinyin": "zhǐdài",
+    "english_answers": [
+      "paper bag"
+    ],
+    "english_gloss": "paper bag"
+  },
+  {
+    "id": "everyday_objects_II_075",
+    "hanzi": "泡沫塑料",
+    "pinyin": "pàomò sùliào",
+    "english_answers": [
+      "foam plastic"
+    ],
+    "english_gloss": "foam plastic"
+  },
+  {
+    "id": "everyday_objects_II_076",
+    "hanzi": "气泡膜",
+    "pinyin": "qìpàomó",
+    "english_answers": [
+      "bubble wrap"
+    ],
+    "english_gloss": "bubble wrap"
+  },
+  {
+    "id": "everyday_objects_II_077",
+    "hanzi": "封口",
+    "pinyin": "fēngkǒu",
+    "english_answers": [
+      "seal / opening sealed shut"
+    ],
+    "english_gloss": "seal / opening sealed shut"
+  },
+  {
+    "id": "everyday_objects_II_078",
+    "hanzi": "封条",
+    "pinyin": "fēngtiáo",
+    "english_answers": [
+      "sealing strip / tamper seal"
+    ],
+    "english_gloss": "sealing strip / tamper seal"
+  },
+  {
+    "id": "everyday_objects_II_079",
+    "hanzi": "条形码",
+    "pinyin": "tiáoxíngmǎ",
+    "english_answers": [
+      "barcode"
+    ],
+    "english_gloss": "barcode"
+  },
+  {
+    "id": "everyday_objects_II_080",
+    "hanzi": "二维码",
+    "pinyin": "èrwéimǎ",
+    "english_answers": [
+      "QR code"
+    ],
+    "english_gloss": "QR code"
+  },
+  {
+    "id": "everyday_objects_II_081",
+    "hanzi": "说明书",
+    "pinyin": "shuōmíngshū",
+    "english_answers": [
+      "instruction manual"
+    ],
+    "english_gloss": "instruction manual"
+  },
+  {
+    "id": "everyday_objects_II_082",
+    "hanzi": "保修卡",
+    "pinyin": "bǎoxiūkǎ",
+    "english_answers": [
+      "warranty card"
+    ],
+    "english_gloss": "warranty card"
+  },
+  {
+    "id": "everyday_objects_II_083",
+    "hanzi": "收据",
+    "pinyin": "shōujù",
+    "english_answers": [
+      "receipt"
+    ],
+    "english_gloss": "receipt"
+  },
+  {
+    "id": "everyday_objects_II_084",
+    "hanzi": "挂钩",
+    "pinyin": "guàgōu",
+    "english_answers": [
+      "hook"
+    ],
+    "english_gloss": "hook"
+  },
+  {
+    "id": "everyday_objects_II_085",
+    "hanzi": "衣架",
+    "pinyin": "yījià",
+    "english_answers": [
+      "clothes hanger"
+    ],
+    "english_gloss": "clothes hanger"
+  },
+  {
+    "id": "everyday_objects_II_086",
+    "hanzi": "晾衣架",
+    "pinyin": "liàngyījià",
+    "english_answers": [
+      "drying rack"
+    ],
+    "english_gloss": "drying rack"
+  },
+  {
+    "id": "everyday_objects_II_087",
+    "hanzi": "储物柜",
+    "pinyin": "chǔwùguì",
+    "english_answers": [
+      "storage cabinet / locker"
+    ],
+    "english_gloss": "storage cabinet / locker"
+  },
+  {
+    "id": "everyday_objects_II_088",
+    "hanzi": "收纳箱",
+    "pinyin": "shōunàxiāng",
+    "english_answers": [
+      "storage bin / box"
+    ],
+    "english_gloss": "storage bin / box"
+  },
+  {
+    "id": "everyday_objects_II_089",
+    "hanzi": "收纳袋",
+    "pinyin": "shōunàdài",
+    "english_answers": [
+      "storage bag"
+    ],
+    "english_gloss": "storage bag"
+  },
+  {
+    "id": "everyday_objects_II_090",
+    "hanzi": "分隔板",
+    "pinyin": "fēngébǎn",
+    "english_answers": [
+      "divider panel"
+    ],
+    "english_gloss": "divider panel"
+  },
+  {
+    "id": "everyday_objects_II_091",
+    "hanzi": "隔层",
+    "pinyin": "gécéng",
+    "english_answers": [
+      "compartment / shelf layer"
+    ],
+    "english_gloss": "compartment / shelf layer"
+  },
+  {
+    "id": "everyday_objects_II_092",
+    "hanzi": "托盘",
+    "pinyin": "tuōpán",
+    "english_answers": [
+      "tray"
+    ],
+    "english_gloss": "tray"
+  },
+  {
+    "id": "everyday_objects_II_093",
+    "hanzi": "架子",
+    "pinyin": "jiàzi",
+    "english_answers": [
+      "rack / shelf / stand"
+    ],
+    "english_gloss": "rack / shelf / stand"
+  },
+  {
+    "id": "everyday_objects_II_094",
+    "hanzi": "盒盖",
+    "pinyin": "hégài",
+    "english_answers": [
+      "box lid"
+    ],
+    "english_gloss": "box lid"
+  },
+  {
+    "id": "everyday_objects_II_095",
+    "hanzi": "绳子",
+    "pinyin": "shéngzi",
+    "english_answers": [
+      "rope / cord"
+    ],
+    "english_gloss": "rope / cord"
+  },
+  {
+    "id": "everyday_objects_II_096",
+    "hanzi": "橡皮筋",
+    "pinyin": "xiàngpíjīn",
+    "english_answers": [
+      "rubber band"
+    ],
+    "english_gloss": "rubber band"
+  },
+  {
+    "id": "everyday_objects_II_097",
+    "hanzi": "扎带",
+    "pinyin": "zādài",
+    "english_answers": [
+      "cable tie / zip tie"
+    ],
+    "english_gloss": "cable tie / zip tie"
+  },
+  {
+    "id": "everyday_objects_II_098",
+    "hanzi": "夹链袋",
+    "pinyin": "jiāliàndài",
+    "english_answers": [
+      "zipper-seal bag"
+    ],
+    "english_gloss": "zipper-seal bag"
+  },
+  {
+    "id": "everyday_objects_II_099",
+    "hanzi": "餐垫",
+    "pinyin": "cāndiàn",
+    "english_answers": [
+      "placemat"
+    ],
+    "english_gloss": "placemat"
+  },
+  {
+    "id": "everyday_objects_II_100",
+    "hanzi": "针线盒",
+    "pinyin": "zhēnxiànhé",
+    "english_answers": [
+      "sewing kit box"
+    ],
+    "english_gloss": "sewing kit box"
+  }
+]
