@@ -292,6 +292,16 @@
       "cards": 100,
       "description": "Likes, dislikes, changing preferences, comparisons, agreement and disagreement.",
       "printable": "mandarin_opinions_I_100_cards.pdf"
+    },
+    {
+      "id": "opinions_II",
+      "filename": "decks/opinions_II.json",
+      "title": "Expressing Opinions II",
+      "category": "opinions",
+      "part": 2,
+      "cards": 100,
+      "description": "Fun, boring, annoying, strange, silly, aesthetic judgments and everyday reactions.",
+      "printable": "mandarin_opinions_II_100_cards.pdf"
     }
   ]
 }

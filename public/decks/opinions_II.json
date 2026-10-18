@@ -1,0 +1,995 @@
+{
+  "id": "opinions_II",
+  "title": "Expressing Opinions II — 形容、评价与反应",
+  "cards": [
+    {
+      "id": "opinions_II_0001",
+      "hanzi": "好玩",
+      "pinyin": "hǎowán",
+      "english_answers": [
+        "fun",
+        "enjoyable"
+      ],
+      "english_gloss": "fun; enjoyable"
+    },
+    {
+      "id": "opinions_II_0002",
+      "hanzi": "有趣",
+      "pinyin": "yǒuqù",
+      "english_answers": [
+        "interesting",
+        "engaging"
+      ],
+      "english_gloss": "interesting; engaging"
+    },
+    {
+      "id": "opinions_II_0003",
+      "hanzi": "有意思",
+      "pinyin": "yǒu yìsi",
+      "english_answers": [
+        "interesting",
+        "amusing"
+      ],
+      "english_gloss": "interesting; amusing"
+    },
+    {
+      "id": "opinions_II_0004",
+      "hanzi": "逗",
+      "pinyin": "dòu",
+      "english_answers": [
+        "funny",
+        "amusing (colloquial)"
+      ],
+      "english_gloss": "funny; amusing (colloquial)"
+    },
+    {
+      "id": "opinions_II_0005",
+      "hanzi": "搞笑",
+      "pinyin": "gǎoxiào",
+      "english_answers": [
+        "funny",
+        "comical"
+      ],
+      "english_gloss": "funny; comical"
+    },
+    {
+      "id": "opinions_II_0006",
+      "hanzi": "好笑",
+      "pinyin": "hǎoxiào",
+      "english_answers": [
+        "funny",
+        "laughable"
+      ],
+      "english_gloss": "funny; laughable"
+    },
+    {
+      "id": "opinions_II_0007",
+      "hanzi": "幽默",
+      "pinyin": "yōumò",
+      "english_answers": [
+        "humorous",
+        "witty"
+      ],
+      "english_gloss": "humorous; witty"
+    },
+    {
+      "id": "opinions_II_0008",
+      "hanzi": "有幽默感",
+      "pinyin": "yǒu yōumò gǎn",
+      "english_answers": [
+        "have a sense of humor"
+      ],
+      "english_gloss": "have a sense of humor"
+    },
+    {
+      "id": "opinions_II_0009",
+      "hanzi": "精彩",
+      "pinyin": "jīngcǎi",
+      "english_answers": [
+        "wonderful",
+        "exciting",
+        "brilliant"
+      ],
+      "english_gloss": "wonderful; exciting; brilliant"
+    },
+    {
+      "id": "opinions_II_0010",
+      "hanzi": "刺激",
+      "pinyin": "cìjī",
+      "english_answers": [
+        "thrilling",
+        "stimulating"
+      ],
+      "english_gloss": "thrilling; stimulating"
+    },
+    {
+      "id": "opinions_II_0011",
+      "hanzi": "过瘾",
+      "pinyin": "guòyǐn",
+      "english_answers": [
+        "satisfying",
+        "a real thrill"
+      ],
+      "english_gloss": "satisfying; a real thrill"
+    },
+    {
+      "id": "opinions_II_0012",
+      "hanzi": "酷",
+      "pinyin": "kù",
+      "english_answers": [
+        "cool"
+      ],
+      "english_gloss": "cool"
+    },
+    {
+      "id": "opinions_II_0013",
+      "hanzi": "太棒了！",
+      "pinyin": "Tài bàng le!",
+      "english_answers": [
+        "That's awesome!",
+        "Fantastic!"
+      ],
+      "english_gloss": "That's awesome!; Fantastic!"
+    },
+    {
+      "id": "opinions_II_0014",
+      "hanzi": "有创意",
+      "pinyin": "yǒu chuàngyì",
+      "english_answers": [
+        "creative",
+        "imaginative"
+      ],
+      "english_gloss": "creative; imaginative"
+    },
+    {
+      "id": "opinions_II_0015",
+      "hanzi": "新鲜",
+      "pinyin": "xīnxiān",
+      "english_answers": [
+        "fresh",
+        "novel"
+      ],
+      "english_gloss": "fresh; novel"
+    },
+    {
+      "id": "opinions_II_0016",
+      "hanzi": "吸引人",
+      "pinyin": "xīyǐn rén",
+      "english_answers": [
+        "appealing",
+        "captivating"
+      ],
+      "english_gloss": "appealing; captivating"
+    },
+    {
+      "id": "opinions_II_0017",
+      "hanzi": "令人兴奋",
+      "pinyin": "lìng rén xīngfèn",
+      "english_answers": [
+        "exciting"
+      ],
+      "english_gloss": "exciting"
+    },
+    {
+      "id": "opinions_II_0018",
+      "hanzi": "这游戏真好玩。",
+      "pinyin": "Zhè yóuxì zhēn hǎowán.",
+      "english_answers": [
+        "This game is really fun."
+      ],
+      "english_gloss": "This game is really fun."
+    },
+    {
+      "id": "opinions_II_0019",
+      "hanzi": "这个笑话挺逗的。",
+      "pinyin": "Zhège xiàohua tǐng dòu de.",
+      "english_answers": [
+        "This joke is pretty funny."
+      ],
+      "english_gloss": "This joke is pretty funny."
+    },
+    {
+      "id": "opinions_II_0020",
+      "hanzi": "这场演出太精彩了！",
+      "pinyin": "Zhè chǎng yǎnchū tài jīngcǎi le!",
+      "english_answers": [
+        "That performance was amazing!"
+      ],
+      "english_gloss": "That performance was amazing!"
+    },
+    {
+      "id": "opinions_II_0021",
+      "hanzi": "无聊",
+      "pinyin": "wúliáo",
+      "english_answers": [
+        "boring",
+        "bored"
+      ],
+      "english_gloss": "boring; bored"
+    },
+    {
+      "id": "opinions_II_0022",
+      "hanzi": "没劲",
+      "pinyin": "méi jìn",
+      "english_answers": [
+        "boring",
+        "no fun",
+        "dull"
+      ],
+      "english_gloss": "boring; no fun; dull"
+    },
+    {
+      "id": "opinions_II_0023",
+      "hanzi": "没意思",
+      "pinyin": "méi yìsi",
+      "english_answers": [
+        "uninteresting",
+        "pointless",
+        "no fun"
+      ],
+      "english_gloss": "uninteresting; pointless; no fun"
+    },
+    {
+      "id": "opinions_II_0024",
+      "hanzi": "枯燥",
+      "pinyin": "kūzào",
+      "english_answers": [
+        "dull",
+        "tedious"
+      ],
+      "english_gloss": "dull; tedious"
+    },
+    {
+      "id": "opinions_II_0025",
+      "hanzi": "乏味",
+      "pinyin": "fáwèi",
+      "english_answers": [
+        "boring",
+        "bland"
+      ],
+      "english_gloss": "boring; bland"
+    },
+    {
+      "id": "opinions_II_0026",
+      "hanzi": "单调",
+      "pinyin": "dāndiào",
+      "english_answers": [
+        "monotonous",
+        "repetitive"
+      ],
+      "english_gloss": "monotonous; repetitive"
+    },
+    {
+      "id": "opinions_II_0027",
+      "hanzi": "烦人",
+      "pinyin": "fánrén",
+      "english_answers": [
+        "annoying",
+        "bothersome"
+      ],
+      "english_gloss": "annoying; bothersome"
+    },
+    {
+      "id": "opinions_II_0028",
+      "hanzi": "讨人厌",
+      "pinyin": "tǎo rén yàn",
+      "english_answers": [
+        "unlikable",
+        "irritating"
+      ],
+      "english_gloss": "unlikable; irritating"
+    },
+    {
+      "id": "opinions_II_0029",
+      "hanzi": "烦死了！",
+      "pinyin": "Fán sǐ le!",
+      "english_answers": [
+        "So annoying!",
+        "I'm fed up!"
+      ],
+      "english_gloss": "So annoying!; I'm fed up!"
+    },
+    {
+      "id": "opinions_II_0030",
+      "hanzi": "吵",
+      "pinyin": "chǎo",
+      "english_answers": [
+        "noisy",
+        "loud (annoyingly)"
+      ],
+      "english_gloss": "noisy; loud (annoyingly)"
+    },
+    {
+      "id": "opinions_II_0031",
+      "hanzi": "吵死了！",
+      "pinyin": "Chǎo sǐ le!",
+      "english_answers": [
+        "It's so noisy!"
+      ],
+      "english_gloss": "It's so noisy!"
+    },
+    {
+      "id": "opinions_II_0032",
+      "hanzi": "啰嗦",
+      "pinyin": "luōsuo",
+      "english_answers": [
+        "long-winded",
+        "nagging"
+      ],
+      "english_gloss": "long-winded; nagging"
+    },
+    {
+      "id": "opinions_II_0033",
+      "hanzi": "磨叽",
+      "pinyin": "mòji",
+      "english_answers": [
+        "slow and fussy",
+        "dithering (regional colloquial)"
+      ],
+      "english_gloss": "slow and fussy; dithering (regional colloquial)"
+    },
+    {
+      "id": "opinions_II_0034",
+      "hanzi": "麻烦",
+      "pinyin": "máfan",
+      "english_answers": [
+        "troublesome",
+        "inconvenient"
+      ],
+      "english_gloss": "troublesome; inconvenient"
+    },
+    {
+      "id": "opinions_II_0035",
+      "hanzi": "费劲",
+      "pinyin": "fèi jìn",
+      "english_answers": [
+        "takes effort",
+        "a hassle"
+      ],
+      "english_gloss": "takes effort; a hassle"
+    },
+    {
+      "id": "opinions_II_0036",
+      "hanzi": "累人",
+      "pinyin": "lèirén",
+      "english_answers": [
+        "tiring",
+        "exhausting"
+      ],
+      "english_gloss": "tiring; exhausting"
+    },
+    {
+      "id": "opinions_II_0037",
+      "hanzi": "令人失望",
+      "pinyin": "lìng rén shīwàng",
+      "english_answers": [
+        "disappointing"
+      ],
+      "english_gloss": "disappointing"
+    },
+    {
+      "id": "opinions_II_0038",
+      "hanzi": "扫兴",
+      "pinyin": "sǎoxìng",
+      "english_answers": [
+        "a buzzkill",
+        "spoil the fun"
+      ],
+      "english_gloss": "a buzzkill; spoil the fun"
+    },
+    {
+      "id": "opinions_II_0039",
+      "hanzi": "没想到这么无聊。",
+      "pinyin": "Méi xiǎngdào zhème wúliáo.",
+      "english_answers": [
+        "I didn't expect it to be this boring."
+      ],
+      "english_gloss": "I didn't expect it to be this boring."
+    },
+    {
+      "id": "opinions_II_0040",
+      "hanzi": "别这么啰嗦。",
+      "pinyin": "Bié zhème luōsuo.",
+      "english_answers": [
+        "Don't be so long-winded."
+      ],
+      "english_gloss": "Don't be so long-winded."
+    },
+    {
+      "id": "opinions_II_0041",
+      "hanzi": "奇怪",
+      "pinyin": "qíguài",
+      "english_answers": [
+        "strange",
+        "weird",
+        "odd"
+      ],
+      "english_gloss": "strange; weird; odd"
+    },
+    {
+      "id": "opinions_II_0042",
+      "hanzi": "怪",
+      "pinyin": "guài",
+      "english_answers": [
+        "weird",
+        "odd"
+      ],
+      "english_gloss": "weird; odd"
+    },
+    {
+      "id": "opinions_II_0043",
+      "hanzi": "古怪",
+      "pinyin": "gǔguài",
+      "english_answers": [
+        "eccentric",
+        "peculiar"
+      ],
+      "english_gloss": "eccentric; peculiar"
+    },
+    {
+      "id": "opinions_II_0044",
+      "hanzi": "稀奇",
+      "pinyin": "xīqí",
+      "english_answers": [
+        "unusual",
+        "curious",
+        "rare"
+      ],
+      "english_gloss": "unusual; curious; rare"
+    },
+    {
+      "id": "opinions_II_0045",
+      "hanzi": "离奇",
+      "pinyin": "líqí",
+      "english_answers": [
+        "bizarre",
+        "uncanny"
+      ],
+      "english_gloss": "bizarre; uncanny"
+    },
+    {
+      "id": "opinions_II_0046",
+      "hanzi": "诡异",
+      "pinyin": "guǐyì",
+      "english_answers": [
+        "eerie",
+        "uncanny",
+        "weird"
+      ],
+      "english_gloss": "eerie; uncanny; weird"
+    },
+    {
+      "id": "opinions_II_0047",
+      "hanzi": "反常",
+      "pinyin": "fǎncháng",
+      "english_answers": [
+        "abnormal",
+        "out of character"
+      ],
+      "english_gloss": "abnormal; out of character"
+    },
+    {
+      "id": "opinions_II_0048",
+      "hanzi": "不对劲",
+      "pinyin": "bú duìjìn",
+      "english_answers": [
+        "something feels off",
+        "not quite right"
+      ],
+      "english_gloss": "something feels off; not quite right"
+    },
+    {
+      "id": "opinions_II_0049",
+      "hanzi": "莫名其妙",
+      "pinyin": "mòmíngqímiào",
+      "english_answers": [
+        "baffling",
+        "inexplicable",
+        "makes no sense"
+      ],
+      "english_gloss": "baffling; inexplicable; makes no sense"
+    },
+    {
+      "id": "opinions_II_0050",
+      "hanzi": "离谱",
+      "pinyin": "lípǔ",
+      "english_answers": [
+        "ridiculous",
+        "outrageous",
+        "absurd"
+      ],
+      "english_gloss": "ridiculous; outrageous; absurd"
+    },
+    {
+      "id": "opinions_II_0051",
+      "hanzi": "荒唐",
+      "pinyin": "huāngtáng",
+      "english_answers": [
+        "absurd",
+        "preposterous"
+      ],
+      "english_gloss": "absurd; preposterous"
+    },
+    {
+      "id": "opinions_II_0052",
+      "hanzi": "可笑",
+      "pinyin": "kěxiào",
+      "english_answers": [
+        "ridiculous",
+        "laughable"
+      ],
+      "english_gloss": "ridiculous; laughable"
+    },
+    {
+      "id": "opinions_II_0053",
+      "hanzi": "滑稽",
+      "pinyin": "huájī",
+      "english_answers": [
+        "comical",
+        "ludicrous"
+      ],
+      "english_gloss": "comical; ludicrous"
+    },
+    {
+      "id": "opinions_II_0054",
+      "hanzi": "傻",
+      "pinyin": "shǎ",
+      "english_answers": [
+        "silly",
+        "foolish",
+        "stupid"
+      ],
+      "english_gloss": "silly; foolish; stupid"
+    },
+    {
+      "id": "opinions_II_0055",
+      "hanzi": "傻乎乎",
+      "pinyin": "shǎhūhū",
+      "english_answers": [
+        "goofy",
+        "silly (often affectionate)"
+      ],
+      "english_gloss": "goofy; silly (often affectionate)"
+    },
+    {
+      "id": "opinions_II_0056",
+      "hanzi": "幼稚",
+      "pinyin": "yòuzhì",
+      "english_answers": [
+        "childish",
+        "immature"
+      ],
+      "english_gloss": "childish; immature"
+    },
+    {
+      "id": "opinions_II_0057",
+      "hanzi": "无厘头",
+      "pinyin": "wúlítóu",
+      "english_answers": [
+        "nonsensical",
+        "absurdist humor"
+      ],
+      "english_gloss": "nonsensical; absurdist humor"
+    },
+    {
+      "id": "opinions_II_0058",
+      "hanzi": "这也太离谱了吧！",
+      "pinyin": "Zhè yě tài lípǔ le ba!",
+      "english_answers": [
+        "That's just ridiculous!"
+      ],
+      "english_gloss": "That's just ridiculous!"
+    },
+    {
+      "id": "opinions_II_0059",
+      "hanzi": "他有点古怪。",
+      "pinyin": "Tā yǒudiǎn gǔguài.",
+      "english_answers": [
+        "He's a bit eccentric."
+      ],
+      "english_gloss": "He's a bit eccentric."
+    },
+    {
+      "id": "opinions_II_0060",
+      "hanzi": "怎么这么奇怪？",
+      "pinyin": "Zěnme zhème qíguài?",
+      "english_answers": [
+        "Why is it so strange?"
+      ],
+      "english_gloss": "Why is it so strange?"
+    },
+    {
+      "id": "opinions_II_0061",
+      "hanzi": "漂亮",
+      "pinyin": "piàoliang",
+      "english_answers": [
+        "beautiful",
+        "pretty"
+      ],
+      "english_gloss": "beautiful; pretty"
+    },
+    {
+      "id": "opinions_II_0062",
+      "hanzi": "好看",
+      "pinyin": "hǎokàn",
+      "english_answers": [
+        "good-looking",
+        "nice to look at"
+      ],
+      "english_gloss": "good-looking; nice to look at"
+    },
+    {
+      "id": "opinions_II_0063",
+      "hanzi": "难看",
+      "pinyin": "nánkàn",
+      "english_answers": [
+        "ugly",
+        "unpleasant-looking"
+      ],
+      "english_gloss": "ugly; unpleasant-looking"
+    },
+    {
+      "id": "opinions_II_0064",
+      "hanzi": "可爱",
+      "pinyin": "kě'ài",
+      "english_answers": [
+        "cute",
+        "adorable"
+      ],
+      "english_gloss": "cute; adorable"
+    },
+    {
+      "id": "opinions_II_0065",
+      "hanzi": "迷人",
+      "pinyin": "mírén",
+      "english_answers": [
+        "charming",
+        "captivating"
+      ],
+      "english_gloss": "charming; captivating"
+    },
+    {
+      "id": "opinions_II_0066",
+      "hanzi": "优雅",
+      "pinyin": "yōuyǎ",
+      "english_answers": [
+        "elegant",
+        "graceful"
+      ],
+      "english_gloss": "elegant; graceful"
+    },
+    {
+      "id": "opinions_II_0067",
+      "hanzi": "俗气",
+      "pinyin": "súqi",
+      "english_answers": [
+        "tacky",
+        "gaudy"
+      ],
+      "english_gloss": "tacky; gaudy"
+    },
+    {
+      "id": "opinions_II_0068",
+      "hanzi": "土",
+      "pinyin": "tǔ",
+      "english_answers": [
+        "uncool",
+        "unfashionable",
+        "provincial (slang)"
+      ],
+      "english_gloss": "uncool; unfashionable; provincial (slang)"
+    },
+    {
+      "id": "opinions_II_0069",
+      "hanzi": "高级",
+      "pinyin": "gāojí",
+      "english_answers": [
+        "high-end",
+        "sophisticated"
+      ],
+      "english_gloss": "high-end; sophisticated"
+    },
+    {
+      "id": "opinions_II_0070",
+      "hanzi": "廉价感",
+      "pinyin": "liánjià gǎn",
+      "english_answers": [
+        "cheap-looking",
+        "cheap feel"
+      ],
+      "english_gloss": "cheap-looking; cheap feel"
+    },
+    {
+      "id": "opinions_II_0071",
+      "hanzi": "精致",
+      "pinyin": "jīngzhì",
+      "english_answers": [
+        "exquisite",
+        "refined",
+        "well made"
+      ],
+      "english_gloss": "exquisite; refined; well made"
+    },
+    {
+      "id": "opinions_II_0072",
+      "hanzi": "粗糙",
+      "pinyin": "cūcāo",
+      "english_answers": [
+        "rough",
+        "poorly finished"
+      ],
+      "english_gloss": "rough; poorly finished"
+    },
+    {
+      "id": "opinions_II_0073",
+      "hanzi": "耐看",
+      "pinyin": "nàikàn",
+      "english_answers": [
+        "gets better the more you look",
+        "pleasing over time"
+      ],
+      "english_gloss": "gets better the more you look; pleasing over time"
+    },
+    {
+      "id": "opinions_II_0074",
+      "hanzi": "顺眼",
+      "pinyin": "shùnyǎn",
+      "english_answers": [
+        "pleasing to the eye",
+        "looks right"
+      ],
+      "english_gloss": "pleasing to the eye; looks right"
+    },
+    {
+      "id": "opinions_II_0075",
+      "hanzi": "不顺眼",
+      "pinyin": "bú shùnyǎn",
+      "english_answers": [
+        "looks wrong to me",
+        "rubs me the wrong way"
+      ],
+      "english_gloss": "looks wrong to me; rubs me the wrong way"
+    },
+    {
+      "id": "opinions_II_0076",
+      "hanzi": "有品味",
+      "pinyin": "yǒu pǐnwèi",
+      "english_answers": [
+        "tasteful",
+        "have good taste"
+      ],
+      "english_gloss": "tasteful; have good taste"
+    },
+    {
+      "id": "opinions_II_0077",
+      "hanzi": "很有特色",
+      "pinyin": "hěn yǒu tèsè",
+      "english_answers": [
+        "distinctive",
+        "full of character"
+      ],
+      "english_gloss": "distinctive; full of character"
+    },
+    {
+      "id": "opinions_II_0078",
+      "hanzi": "这个设计很耐看。",
+      "pinyin": "Zhège shèjì hěn nàikàn.",
+      "english_answers": [
+        "This design grows on you visually."
+      ],
+      "english_gloss": "This design grows on you visually."
+    },
+    {
+      "id": "opinions_II_0079",
+      "hanzi": "这个颜色有点俗气。",
+      "pinyin": "Zhège yánsè yǒudiǎn súqi.",
+      "english_answers": [
+        "This color is a little tacky."
+      ],
+      "english_gloss": "This color is a little tacky."
+    },
+    {
+      "id": "opinions_II_0080",
+      "hanzi": "我觉得挺顺眼的。",
+      "pinyin": "Wǒ juéde tǐng shùnyǎn de.",
+      "english_answers": [
+        "I think it looks pretty good."
+      ],
+      "english_gloss": "I think it looks pretty good."
+    },
+    {
+      "id": "opinions_II_0081",
+      "hanzi": "不错",
+      "pinyin": "búcuò",
+      "english_answers": [
+        "not bad",
+        "pretty good"
+      ],
+      "english_gloss": "not bad; pretty good"
+    },
+    {
+      "id": "opinions_II_0082",
+      "hanzi": "一般",
+      "pinyin": "yìbān",
+      "english_answers": [
+        "average",
+        "so-so"
+      ],
+      "english_gloss": "average; so-so"
+    },
+    {
+      "id": "opinions_II_0083",
+      "hanzi": "还行",
+      "pinyin": "hái xíng",
+      "english_answers": [
+        "okay",
+        "not bad"
+      ],
+      "english_gloss": "okay; not bad"
+    },
+    {
+      "id": "opinions_II_0084",
+      "hanzi": "凑合",
+      "pinyin": "còuhe",
+      "english_answers": [
+        "passable",
+        "it'll do"
+      ],
+      "english_gloss": "passable; it'll do"
+    },
+    {
+      "id": "opinions_II_0085",
+      "hanzi": "马马虎虎",
+      "pinyin": "mǎmǎhūhū",
+      "english_answers": [
+        "so-so",
+        "mediocre"
+      ],
+      "english_gloss": "so-so; mediocre"
+    },
+    {
+      "id": "opinions_II_0086",
+      "hanzi": "挺好的",
+      "pinyin": "tǐng hǎo de",
+      "english_answers": [
+        "pretty good"
+      ],
+      "english_gloss": "pretty good"
+    },
+    {
+      "id": "opinions_II_0087",
+      "hanzi": "还不错",
+      "pinyin": "hái búcuò",
+      "english_answers": [
+        "quite good",
+        "not bad"
+      ],
+      "english_gloss": "quite good; not bad"
+    },
+    {
+      "id": "opinions_II_0088",
+      "hanzi": "太夸张了",
+      "pinyin": "tài kuāzhāng le",
+      "english_answers": [
+        "that's exaggerated",
+        "that's too much"
+      ],
+      "english_gloss": "that's exaggerated; that's too much"
+    },
+    {
+      "id": "opinions_II_0089",
+      "hanzi": "有点过头了",
+      "pinyin": "yǒudiǎn guòtóu le",
+      "english_answers": [
+        "a bit over the top"
+      ],
+      "english_gloss": "a bit over the top"
+    },
+    {
+      "id": "opinions_II_0090",
+      "hanzi": "不怎么样",
+      "pinyin": "bù zěnmeyàng",
+      "english_answers": [
+        "not very good",
+        "nothing special"
+      ],
+      "english_gloss": "not very good; nothing special"
+    },
+    {
+      "id": "opinions_II_0091",
+      "hanzi": "值得",
+      "pinyin": "zhíde",
+      "english_answers": [
+        "worth it",
+        "worthwhile"
+      ],
+      "english_gloss": "worth it; worthwhile"
+    },
+    {
+      "id": "opinions_II_0092",
+      "hanzi": "不值得",
+      "pinyin": "bù zhíde",
+      "english_answers": [
+        "not worth it"
+      ],
+      "english_gloss": "not worth it"
+    },
+    {
+      "id": "opinions_II_0093",
+      "hanzi": "出乎意料",
+      "pinyin": "chūhū yìliào",
+      "english_answers": [
+        "unexpected",
+        "surprising"
+      ],
+      "english_gloss": "unexpected; surprising"
+    },
+    {
+      "id": "opinions_II_0094",
+      "hanzi": "意外地好",
+      "pinyin": "yìwài de hǎo",
+      "english_answers": [
+        "surprisingly good"
+      ],
+      "english_gloss": "surprisingly good"
+    },
+    {
+      "id": "opinions_II_0095",
+      "hanzi": "名不虚传",
+      "pinyin": "míng bù xū chuán",
+      "english_answers": [
+        "lives up to its reputation"
+      ],
+      "english_gloss": "lives up to its reputation"
+    },
+    {
+      "id": "opinions_II_0096",
+      "hanzi": "名过其实",
+      "pinyin": "míng guò qí shí",
+      "english_answers": [
+        "overrated",
+        "doesn't live up to the hype"
+      ],
+      "english_gloss": "overrated; doesn't live up to the hype"
+    },
+    {
+      "id": "opinions_II_0097",
+      "hanzi": "仁者见仁，智者见智",
+      "pinyin": "rén zhě jiàn rén, zhì zhě jiàn zhì",
+      "english_answers": [
+        "different people have different opinions"
+      ],
+      "english_gloss": "different people have different opinions"
+    },
+    {
+      "id": "opinions_II_0098",
+      "hanzi": "各有所爱",
+      "pinyin": "gè yǒu suǒ ài",
+      "english_answers": [
+        "to each their own",
+        "everyone has their preferences"
+      ],
+      "english_gloss": "to each their own; everyone has their preferences"
+    },
+    {
+      "id": "opinions_II_0099",
+      "hanzi": "见仁见智",
+      "pinyin": "jiàn rén jiàn zhì",
+      "english_answers": [
+        "a matter of opinion",
+        "opinions vary"
+      ],
+      "english_gloss": "a matter of opinion; opinions vary"
+    },
+    {
+      "id": "opinions_II_0100",
+      "hanzi": "我觉得也就那样。",
+      "pinyin": "Wǒ juéde yě jiù nàyàng.",
+      "english_answers": [
+        "I think it's just okay",
+        "nothing special."
+      ],
+      "english_gloss": "I think it's just okay; nothing special."
+    }
+  ]
+}
