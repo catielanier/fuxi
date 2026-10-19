@@ -1,902 +1,809 @@
-[
-  {
-    "id": "everyday_objects_I_001",
-    "hanzi": "纸",
-    "pinyin": "zhǐ",
-    "english_answers": [
-      "paper"
-    ],
-    "english_gloss": "paper"
-  },
-  {
-    "id": "everyday_objects_I_002",
-    "hanzi": "一张纸",
-    "pinyin": "yì zhāng zhǐ",
-    "english_answers": [
-      "a sheet of paper"
-    ],
-    "english_gloss": "a sheet of paper"
-  },
-  {
-    "id": "everyday_objects_I_003",
-    "hanzi": "纸张",
-    "pinyin": "zhǐzhāng",
-    "english_answers": [
-      "paper / sheets of paper"
-    ],
-    "english_gloss": "paper / sheets of paper"
-  },
-  {
-    "id": "everyday_objects_I_004",
-    "hanzi": "笔",
-    "pinyin": "bǐ",
-    "english_answers": [
-      "pen / writing instrument"
-    ],
-    "english_gloss": "pen / writing instrument"
-  },
-  {
-    "id": "everyday_objects_I_005",
-    "hanzi": "铅笔",
-    "pinyin": "qiānbǐ",
-    "english_answers": [
-      "pencil"
-    ],
-    "english_gloss": "pencil"
-  },
-  {
-    "id": "everyday_objects_I_006",
-    "hanzi": "自动铅笔",
-    "pinyin": "zìdòng qiānbǐ",
-    "english_answers": [
-      "mechanical pencil"
-    ],
-    "english_gloss": "mechanical pencil"
-  },
-  {
-    "id": "everyday_objects_I_007",
-    "hanzi": "钢笔",
-    "pinyin": "gāngbǐ",
-    "english_answers": [
-      "fountain pen"
-    ],
-    "english_gloss": "fountain pen"
-  },
-  {
-    "id": "everyday_objects_I_008",
-    "hanzi": "圆珠笔",
-    "pinyin": "yuánzhūbǐ",
-    "english_answers": [
-      "ballpoint pen"
-    ],
-    "english_gloss": "ballpoint pen"
-  },
-  {
-    "id": "everyday_objects_I_009",
-    "hanzi": "中性笔",
-    "pinyin": "zhōngxìngbǐ",
-    "english_answers": [
-      "gel pen"
-    ],
-    "english_gloss": "gel pen"
-  },
-  {
-    "id": "everyday_objects_I_010",
-    "hanzi": "马克笔",
-    "pinyin": "mǎkèbǐ",
-    "english_answers": [
-      "marker pen"
-    ],
-    "english_gloss": "marker pen"
-  },
-  {
-    "id": "everyday_objects_I_011",
-    "hanzi": "荧光笔",
-    "pinyin": "yíngguāngbǐ",
-    "english_answers": [
-      "highlighter"
-    ],
-    "english_gloss": "highlighter"
-  },
-  {
-    "id": "everyday_objects_I_012",
-    "hanzi": "彩色铅笔",
-    "pinyin": "cǎisè qiānbǐ",
-    "english_answers": [
-      "coloured pencil"
-    ],
-    "english_gloss": "coloured pencil"
-  },
-  {
-    "id": "everyday_objects_I_013",
-    "hanzi": "蜡笔",
-    "pinyin": "làbǐ",
-    "english_answers": [
-      "crayon"
-    ],
-    "english_gloss": "crayon"
-  },
-  {
-    "id": "everyday_objects_I_014",
-    "hanzi": "粉笔",
-    "pinyin": "fěnbǐ",
-    "english_answers": [
-      "chalk"
-    ],
-    "english_gloss": "chalk"
-  },
-  {
-    "id": "everyday_objects_I_015",
-    "hanzi": "橡皮",
-    "pinyin": "xiàngpí",
-    "english_answers": [
-      "eraser"
-    ],
-    "english_gloss": "eraser"
-  },
-  {
-    "id": "everyday_objects_I_016",
-    "hanzi": "橡皮擦",
-    "pinyin": "xiàngpícā",
-    "english_answers": [
-      "eraser"
-    ],
-    "english_gloss": "eraser"
-  },
-  {
-    "id": "everyday_objects_I_017",
-    "hanzi": "尺子",
-    "pinyin": "chǐzi",
-    "english_answers": [
-      "ruler"
-    ],
-    "english_gloss": "ruler"
-  },
-  {
-    "id": "everyday_objects_I_018",
-    "hanzi": "卷尺",
-    "pinyin": "juǎnchǐ",
-    "english_answers": [
-      "measuring tape"
-    ],
-    "english_gloss": "measuring tape"
-  },
-  {
-    "id": "everyday_objects_I_019",
-    "hanzi": "剪刀",
-    "pinyin": "jiǎndāo",
-    "english_answers": [
-      "scissors"
-    ],
-    "english_gloss": "scissors"
-  },
-  {
-    "id": "everyday_objects_I_020",
-    "hanzi": "美工刀",
-    "pinyin": "měigōngdāo",
-    "english_answers": [
-      "utility knife / craft knife"
-    ],
-    "english_gloss": "utility knife / craft knife"
-  },
-  {
-    "id": "everyday_objects_I_021",
-    "hanzi": "胶水",
-    "pinyin": "jiāoshuǐ",
-    "english_answers": [
-      "glue"
-    ],
-    "english_gloss": "glue"
-  },
-  {
-    "id": "everyday_objects_I_022",
-    "hanzi": "胶棒",
-    "pinyin": "jiāobàng",
-    "english_answers": [
-      "glue stick"
-    ],
-    "english_gloss": "glue stick"
-  },
-  {
-    "id": "everyday_objects_I_023",
-    "hanzi": "胶带",
-    "pinyin": "jiāodài",
-    "english_answers": [
-      "adhesive tape"
-    ],
-    "english_gloss": "adhesive tape"
-  },
-  {
-    "id": "everyday_objects_I_024",
-    "hanzi": "透明胶带",
-    "pinyin": "tòumíng jiāodài",
-    "english_answers": [
-      "clear tape"
-    ],
-    "english_gloss": "clear tape"
-  },
-  {
-    "id": "everyday_objects_I_025",
-    "hanzi": "双面胶",
-    "pinyin": "shuāngmiànjiāo",
-    "english_answers": [
-      "double-sided tape"
-    ],
-    "english_gloss": "double-sided tape"
-  },
-  {
-    "id": "everyday_objects_I_026",
-    "hanzi": "订书机",
-    "pinyin": "dìngshūjī",
-    "english_answers": [
-      "stapler"
-    ],
-    "english_gloss": "stapler"
-  },
-  {
-    "id": "everyday_objects_I_027",
-    "hanzi": "订书钉",
-    "pinyin": "dìngshūdīng",
-    "english_answers": [
-      "staples"
-    ],
-    "english_gloss": "staples"
-  },
-  {
-    "id": "everyday_objects_I_028",
-    "hanzi": "回形针",
-    "pinyin": "huíxíngzhēn",
-    "english_answers": [
-      "paper clip"
-    ],
-    "english_gloss": "paper clip"
-  },
-  {
-    "id": "everyday_objects_I_029",
-    "hanzi": "长尾夹",
-    "pinyin": "chángwěijiā",
-    "english_answers": [
-      "binder clip"
-    ],
-    "english_gloss": "binder clip"
-  },
-  {
-    "id": "everyday_objects_I_030",
-    "hanzi": "文件夹",
-    "pinyin": "wénjiànjiā",
-    "english_answers": [
-      "folder / binder"
-    ],
-    "english_gloss": "folder / binder"
-  },
-  {
-    "id": "everyday_objects_I_031",
-    "hanzi": "笔记本",
-    "pinyin": "bǐjìběn",
-    "english_answers": [
-      "notebook"
-    ],
-    "english_gloss": "notebook"
-  },
-  {
-    "id": "everyday_objects_I_032",
-    "hanzi": "便签纸",
-    "pinyin": "biànqiānzhǐ",
-    "english_answers": [
-      "sticky notes / note paper"
-    ],
-    "english_gloss": "sticky notes / note paper"
-  },
-  {
-    "id": "everyday_objects_I_033",
-    "hanzi": "信封",
-    "pinyin": "xìnfēng",
-    "english_answers": [
-      "envelope"
-    ],
-    "english_gloss": "envelope"
-  },
-  {
-    "id": "everyday_objects_I_034",
-    "hanzi": "信纸",
-    "pinyin": "xìnzhǐ",
-    "english_answers": [
-      "writing paper"
-    ],
-    "english_gloss": "writing paper"
-  },
-  {
-    "id": "everyday_objects_I_035",
-    "hanzi": "标签",
-    "pinyin": "biāoqiān",
-    "english_answers": [
-      "label / tag"
-    ],
-    "english_gloss": "label / tag"
-  },
-  {
-    "id": "everyday_objects_I_036",
-    "hanzi": "贴纸",
-    "pinyin": "tiēzhǐ",
-    "english_answers": [
-      "sticker"
-    ],
-    "english_gloss": "sticker"
-  },
-  {
-    "id": "everyday_objects_I_037",
-    "hanzi": "卡片",
-    "pinyin": "kǎpiàn",
-    "english_answers": [
-      "card"
-    ],
-    "english_gloss": "card"
-  },
-  {
-    "id": "everyday_objects_I_038",
-    "hanzi": "纸板",
-    "pinyin": "zhǐbǎn",
-    "english_answers": [
-      "cardboard"
-    ],
-    "english_gloss": "cardboard"
-  },
-  {
-    "id": "everyday_objects_I_039",
-    "hanzi": "打印纸",
-    "pinyin": "dǎyìnzhǐ",
-    "english_answers": [
-      "printer paper"
-    ],
-    "english_gloss": "printer paper"
-  },
-  {
-    "id": "everyday_objects_I_040",
-    "hanzi": "打印机",
-    "pinyin": "dǎyìnjī",
-    "english_answers": [
-      "printer"
-    ],
-    "english_gloss": "printer"
-  },
-  {
-    "id": "everyday_objects_I_041",
-    "hanzi": "墨水",
-    "pinyin": "mòshuǐ",
-    "english_answers": [
-      "ink"
-    ],
-    "english_gloss": "ink"
-  },
-  {
-    "id": "everyday_objects_I_042",
-    "hanzi": "墨盒",
-    "pinyin": "mòhé",
-    "english_answers": [
-      "ink cartridge"
-    ],
-    "english_gloss": "ink cartridge"
-  },
-  {
-    "id": "everyday_objects_I_043",
-    "hanzi": "颜料",
-    "pinyin": "yánliào",
-    "english_answers": [
-      "paint / pigment"
-    ],
-    "english_gloss": "paint / pigment"
-  },
-  {
-    "id": "everyday_objects_I_044",
-    "hanzi": "水彩",
-    "pinyin": "shuǐcǎi",
-    "english_answers": [
-      "watercolour paint"
-    ],
-    "english_gloss": "watercolour paint"
-  },
-  {
-    "id": "everyday_objects_I_045",
-    "hanzi": "水彩笔",
-    "pinyin": "shuǐcǎibǐ",
-    "english_answers": [
-      "felt-tip pen / watercolour marker"
-    ],
-    "english_gloss": "felt-tip pen / watercolour marker"
-  },
-  {
-    "id": "everyday_objects_I_046",
-    "hanzi": "丙烯颜料",
-    "pinyin": "bǐngxī yánliào",
-    "english_answers": [
-      "acrylic paint"
-    ],
-    "english_gloss": "acrylic paint"
-  },
-  {
-    "id": "everyday_objects_I_047",
-    "hanzi": "油画颜料",
-    "pinyin": "yóuhuà yánliào",
-    "english_answers": [
-      "oil paint"
-    ],
-    "english_gloss": "oil paint"
-  },
-  {
-    "id": "everyday_objects_I_048",
-    "hanzi": "油漆",
-    "pinyin": "yóuqī",
-    "english_answers": [
-      "paint for surfaces"
-    ],
-    "english_gloss": "paint for surfaces"
-  },
-  {
-    "id": "everyday_objects_I_049",
-    "hanzi": "画笔",
-    "pinyin": "huàbǐ",
-    "english_answers": [
-      "paintbrush / drawing brush"
-    ],
-    "english_gloss": "paintbrush / drawing brush"
-  },
-  {
-    "id": "everyday_objects_I_050",
-    "hanzi": "刷子",
-    "pinyin": "shuāzi",
-    "english_answers": [
-      "brush"
-    ],
-    "english_gloss": "brush"
-  },
-  {
-    "id": "everyday_objects_I_051",
-    "hanzi": "画布",
-    "pinyin": "huàbù",
-    "english_answers": [
-      "canvas for painting"
-    ],
-    "english_gloss": "canvas for painting"
-  },
-  {
-    "id": "everyday_objects_I_052",
-    "hanzi": "画纸",
-    "pinyin": "huàzhǐ",
-    "english_answers": [
-      "drawing paper"
-    ],
-    "english_gloss": "drawing paper"
-  },
-  {
-    "id": "everyday_objects_I_053",
-    "hanzi": "调色板",
-    "pinyin": "tiáosèbǎn",
-    "english_answers": [
-      "palette"
-    ],
-    "english_gloss": "palette"
-  },
-  {
-    "id": "everyday_objects_I_054",
-    "hanzi": "画架",
-    "pinyin": "huàjià",
-    "english_answers": [
-      "easel"
-    ],
-    "english_gloss": "easel"
-  },
-  {
-    "id": "everyday_objects_I_055",
-    "hanzi": "削笔刀",
-    "pinyin": "xiāobǐdāo",
-    "english_answers": [
-      "pencil sharpener"
-    ],
-    "english_gloss": "pencil sharpener"
-  },
-  {
-    "id": "everyday_objects_I_056",
-    "hanzi": "书包",
-    "pinyin": "shūbāo",
-    "english_answers": [
-      "school bag"
-    ],
-    "english_gloss": "school bag"
-  },
-  {
-    "id": "everyday_objects_I_057",
-    "hanzi": "笔袋",
-    "pinyin": "bǐdài",
-    "english_answers": [
-      "pencil case"
-    ],
-    "english_gloss": "pencil case"
-  },
-  {
-    "id": "everyday_objects_I_058",
-    "hanzi": "书签",
-    "pinyin": "shūqiān",
-    "english_answers": [
-      "bookmark"
-    ],
-    "english_gloss": "bookmark"
-  },
-  {
-    "id": "everyday_objects_I_059",
-    "hanzi": "书架",
-    "pinyin": "shūjià",
-    "english_answers": [
-      "bookshelf"
-    ],
-    "english_gloss": "bookshelf"
-  },
-  {
-    "id": "everyday_objects_I_060",
-    "hanzi": "桌子",
-    "pinyin": "zhuōzi",
-    "english_answers": [
-      "table / desk"
-    ],
-    "english_gloss": "table / desk"
-  },
-  {
-    "id": "everyday_objects_I_061",
-    "hanzi": "抽屉",
-    "pinyin": "chōuti",
-    "english_answers": [
-      "drawer"
-    ],
-    "english_gloss": "drawer"
-  },
-  {
-    "id": "everyday_objects_I_062",
-    "hanzi": "垃圾桶",
-    "pinyin": "lājītǒng",
-    "english_answers": [
-      "trash can / bin"
-    ],
-    "english_gloss": "trash can / bin"
-  },
-  {
-    "id": "everyday_objects_I_063",
-    "hanzi": "垃圾袋",
-    "pinyin": "lājīdài",
-    "english_answers": [
-      "garbage bag"
-    ],
-    "english_gloss": "garbage bag"
-  },
-  {
-    "id": "everyday_objects_I_064",
-    "hanzi": "纸巾",
-    "pinyin": "zhǐjīn",
-    "english_answers": [
-      "tissue"
-    ],
-    "english_gloss": "tissue"
-  },
-  {
-    "id": "everyday_objects_I_065",
-    "hanzi": "卫生纸",
-    "pinyin": "wèishēngzhǐ",
-    "english_answers": [
-      "toilet paper"
-    ],
-    "english_gloss": "toilet paper"
-  },
-  {
-    "id": "everyday_objects_I_066",
-    "hanzi": "餐巾纸",
-    "pinyin": "cānjīnzhǐ",
-    "english_answers": [
-      "napkin"
-    ],
-    "english_gloss": "napkin"
-  },
-  {
-    "id": "everyday_objects_I_067",
-    "hanzi": "湿纸巾",
-    "pinyin": "shīzhǐjīn",
-    "english_answers": [
-      "wet wipe"
-    ],
-    "english_gloss": "wet wipe"
-  },
-  {
-    "id": "everyday_objects_I_068",
-    "hanzi": "抹布",
-    "pinyin": "mābù",
-    "english_answers": [
-      "cleaning cloth / rag"
-    ],
-    "english_gloss": "cleaning cloth / rag"
-  },
-  {
-    "id": "everyday_objects_I_069",
-    "hanzi": "毛巾",
-    "pinyin": "máojīn",
-    "english_answers": [
-      "towel"
-    ],
-    "english_gloss": "towel"
-  },
-  {
-    "id": "everyday_objects_I_070",
-    "hanzi": "海绵",
-    "pinyin": "hǎimián",
-    "english_answers": [
-      "sponge"
-    ],
-    "english_gloss": "sponge"
-  },
-  {
-    "id": "everyday_objects_I_071",
-    "hanzi": "扫帚",
-    "pinyin": "sàozhou",
-    "english_answers": [
-      "broom"
-    ],
-    "english_gloss": "broom"
-  },
-  {
-    "id": "everyday_objects_I_072",
-    "hanzi": "簸箕",
-    "pinyin": "bòji",
-    "english_answers": [
-      "dustpan"
-    ],
-    "english_gloss": "dustpan"
-  },
-  {
-    "id": "everyday_objects_I_073",
-    "hanzi": "拖把",
-    "pinyin": "tuōbǎ",
-    "english_answers": [
-      "mop"
-    ],
-    "english_gloss": "mop"
-  },
-  {
-    "id": "everyday_objects_I_074",
-    "hanzi": "水桶",
-    "pinyin": "shuǐtǒng",
-    "english_answers": [
-      "bucket"
-    ],
-    "english_gloss": "bucket"
-  },
-  {
-    "id": "everyday_objects_I_075",
-    "hanzi": "喷壶",
-    "pinyin": "pēnhú",
-    "english_answers": [
-      "spray bottle / watering sprayer"
-    ],
-    "english_gloss": "spray bottle / watering sprayer"
-  },
-  {
-    "id": "everyday_objects_I_076",
-    "hanzi": "洗洁精",
-    "pinyin": "xǐjiéjīng",
-    "english_answers": [
-      "dishwashing liquid"
-    ],
-    "english_gloss": "dishwashing liquid"
-  },
-  {
-    "id": "everyday_objects_I_077",
-    "hanzi": "洗衣液",
-    "pinyin": "xǐyīyè",
-    "english_answers": [
-      "liquid laundry detergent"
-    ],
-    "english_gloss": "liquid laundry detergent"
-  },
-  {
-    "id": "everyday_objects_I_078",
-    "hanzi": "肥皂",
-    "pinyin": "féizào",
-    "english_answers": [
-      "soap"
-    ],
-    "english_gloss": "soap"
-  },
-  {
-    "id": "everyday_objects_I_079",
-    "hanzi": "电池",
-    "pinyin": "diànchí",
-    "english_answers": [
-      "battery"
-    ],
-    "english_gloss": "battery"
-  },
-  {
-    "id": "everyday_objects_I_080",
-    "hanzi": "充电器",
-    "pinyin": "chōngdiànqì",
-    "english_answers": [
-      "charger"
-    ],
-    "english_gloss": "charger"
-  },
-  {
-    "id": "everyday_objects_I_081",
-    "hanzi": "插头",
-    "pinyin": "chātóu",
-    "english_answers": [
-      "plug"
-    ],
-    "english_gloss": "plug"
-  },
-  {
-    "id": "everyday_objects_I_082",
-    "hanzi": "插座",
-    "pinyin": "chāzuò",
-    "english_answers": [
-      "electrical socket"
-    ],
-    "english_gloss": "electrical socket"
-  },
-  {
-    "id": "everyday_objects_I_083",
-    "hanzi": "延长线",
-    "pinyin": "yánchángxiàn",
-    "english_answers": [
-      "extension cord"
-    ],
-    "english_gloss": "extension cord"
-  },
-  {
-    "id": "everyday_objects_I_084",
-    "hanzi": "电线",
-    "pinyin": "diànxiàn",
-    "english_answers": [
-      "electric wire"
-    ],
-    "english_gloss": "electric wire"
-  },
-  {
-    "id": "everyday_objects_I_085",
-    "hanzi": "灯泡",
-    "pinyin": "dēngpào",
-    "english_answers": [
-      "light bulb"
-    ],
-    "english_gloss": "light bulb"
-  },
-  {
-    "id": "everyday_objects_I_086",
-    "hanzi": "手电筒",
-    "pinyin": "shǒudiàntǒng",
-    "english_answers": [
-      "flashlight / torch"
-    ],
-    "english_gloss": "flashlight / torch"
-  },
-  {
-    "id": "everyday_objects_I_087",
-    "hanzi": "开关",
-    "pinyin": "kāiguān",
-    "english_answers": [
-      "switch"
-    ],
-    "english_gloss": "switch"
-  },
-  {
-    "id": "everyday_objects_I_088",
-    "hanzi": "钥匙",
-    "pinyin": "yàoshi",
-    "english_answers": [
-      "key"
-    ],
-    "english_gloss": "key"
-  },
-  {
-    "id": "everyday_objects_I_089",
-    "hanzi": "锁",
-    "pinyin": "suǒ",
-    "english_answers": [
-      "lock"
-    ],
-    "english_gloss": "lock"
-  },
-  {
-    "id": "everyday_objects_I_090",
-    "hanzi": "螺丝",
-    "pinyin": "luósī",
-    "english_answers": [
-      "screw"
-    ],
-    "english_gloss": "screw"
-  },
-  {
-    "id": "everyday_objects_I_091",
-    "hanzi": "螺丝刀",
-    "pinyin": "luósīdāo",
-    "english_answers": [
-      "screwdriver"
-    ],
-    "english_gloss": "screwdriver"
-  },
-  {
-    "id": "everyday_objects_I_092",
-    "hanzi": "锤子",
-    "pinyin": "chuízi",
-    "english_answers": [
-      "hammer"
-    ],
-    "english_gloss": "hammer"
-  },
-  {
-    "id": "everyday_objects_I_093",
-    "hanzi": "钉子",
-    "pinyin": "dīngzi",
-    "english_answers": [
-      "nail"
-    ],
-    "english_gloss": "nail"
-  },
-  {
-    "id": "everyday_objects_I_094",
-    "hanzi": "钳子",
-    "pinyin": "qiánzi",
-    "english_answers": [
-      "pliers"
-    ],
-    "english_gloss": "pliers"
-  },
-  {
-    "id": "everyday_objects_I_095",
-    "hanzi": "扳手",
-    "pinyin": "bānshǒu",
-    "english_answers": [
-      "wrench / spanner"
-    ],
-    "english_gloss": "wrench / spanner"
-  },
-  {
-    "id": "everyday_objects_I_096",
-    "hanzi": "胶皮手套",
-    "pinyin": "jiāopí shǒutào",
-    "english_answers": [
-      "rubber gloves"
-    ],
-    "english_gloss": "rubber gloves"
-  },
-  {
-    "id": "everyday_objects_I_097",
-    "hanzi": "塑料袋",
-    "pinyin": "sùliàodài",
-    "english_answers": [
-      "plastic bag"
-    ],
-    "english_gloss": "plastic bag"
-  },
-  {
-    "id": "everyday_objects_I_098",
-    "hanzi": "纸箱",
-    "pinyin": "zhǐxiāng",
-    "english_answers": [
-      "cardboard box"
-    ],
-    "english_gloss": "cardboard box"
-  },
-  {
-    "id": "everyday_objects_I_099",
-    "hanzi": "收纳盒",
-    "pinyin": "shōunàhé",
-    "english_answers": [
-      "storage box"
-    ],
-    "english_gloss": "storage box"
-  },
-  {
-    "id": "everyday_objects_I_100",
-    "hanzi": "篮子",
-    "pinyin": "lánzi",
-    "english_answers": [
-      "basket"
-    ],
-    "english_gloss": "basket"
-  }
-]
+{
+  "id": "everyday_objects_I",
+  "title": "Everyday Objects I",
+  "language": "zh-Hans",
+  "source": "existing deck",
+  "card_count": 100,
+  "cards": [
+    {
+      "hanzi": "纸",
+      "pinyin": "zhǐ",
+      "english_answers": [
+        "paper"
+      ],
+      "english_gloss": "paper"
+    },
+    {
+      "hanzi": "一张纸",
+      "pinyin": "yì zhāng zhǐ",
+      "english_answers": [
+        "a sheet of paper"
+      ],
+      "english_gloss": "a sheet of paper"
+    },
+    {
+      "hanzi": "纸张",
+      "pinyin": "zhǐzhāng",
+      "english_answers": [
+        "paper / sheets of paper"
+      ],
+      "english_gloss": "paper / sheets of paper"
+    },
+    {
+      "hanzi": "笔",
+      "pinyin": "bǐ",
+      "english_answers": [
+        "pen / writing instrument"
+      ],
+      "english_gloss": "pen / writing instrument"
+    },
+    {
+      "hanzi": "铅笔",
+      "pinyin": "qiānbǐ",
+      "english_answers": [
+        "pencil"
+      ],
+      "english_gloss": "pencil"
+    },
+    {
+      "hanzi": "自动铅笔",
+      "pinyin": "zìdòng qiānbǐ",
+      "english_answers": [
+        "mechanical pencil"
+      ],
+      "english_gloss": "mechanical pencil"
+    },
+    {
+      "hanzi": "钢笔",
+      "pinyin": "gāngbǐ",
+      "english_answers": [
+        "fountain pen"
+      ],
+      "english_gloss": "fountain pen"
+    },
+    {
+      "hanzi": "圆珠笔",
+      "pinyin": "yuánzhūbǐ",
+      "english_answers": [
+        "ballpoint pen"
+      ],
+      "english_gloss": "ballpoint pen"
+    },
+    {
+      "hanzi": "中性笔",
+      "pinyin": "zhōngxìngbǐ",
+      "english_answers": [
+        "gel pen"
+      ],
+      "english_gloss": "gel pen"
+    },
+    {
+      "hanzi": "马克笔",
+      "pinyin": "mǎkèbǐ",
+      "english_answers": [
+        "marker pen"
+      ],
+      "english_gloss": "marker pen"
+    },
+    {
+      "hanzi": "荧光笔",
+      "pinyin": "yíngguāngbǐ",
+      "english_answers": [
+        "highlighter"
+      ],
+      "english_gloss": "highlighter"
+    },
+    {
+      "hanzi": "彩色铅笔",
+      "pinyin": "cǎisè qiānbǐ",
+      "english_answers": [
+        "coloured pencil"
+      ],
+      "english_gloss": "coloured pencil"
+    },
+    {
+      "hanzi": "蜡笔",
+      "pinyin": "làbǐ",
+      "english_answers": [
+        "crayon"
+      ],
+      "english_gloss": "crayon"
+    },
+    {
+      "hanzi": "粉笔",
+      "pinyin": "fěnbǐ",
+      "english_answers": [
+        "chalk"
+      ],
+      "english_gloss": "chalk"
+    },
+    {
+      "hanzi": "橡皮",
+      "pinyin": "xiàngpí",
+      "english_answers": [
+        "eraser"
+      ],
+      "english_gloss": "eraser"
+    },
+    {
+      "hanzi": "橡皮擦",
+      "pinyin": "xiàngpícā",
+      "english_answers": [
+        "eraser"
+      ],
+      "english_gloss": "eraser"
+    },
+    {
+      "hanzi": "尺子",
+      "pinyin": "chǐzi",
+      "english_answers": [
+        "ruler"
+      ],
+      "english_gloss": "ruler"
+    },
+    {
+      "hanzi": "卷尺",
+      "pinyin": "juǎnchǐ",
+      "english_answers": [
+        "measuring tape"
+      ],
+      "english_gloss": "measuring tape"
+    },
+    {
+      "hanzi": "剪刀",
+      "pinyin": "jiǎndāo",
+      "english_answers": [
+        "scissors"
+      ],
+      "english_gloss": "scissors"
+    },
+    {
+      "hanzi": "美工刀",
+      "pinyin": "měigōngdāo",
+      "english_answers": [
+        "utility knife / craft knife"
+      ],
+      "english_gloss": "utility knife / craft knife"
+    },
+    {
+      "hanzi": "胶水",
+      "pinyin": "jiāoshuǐ",
+      "english_answers": [
+        "glue"
+      ],
+      "english_gloss": "glue"
+    },
+    {
+      "hanzi": "胶棒",
+      "pinyin": "jiāobàng",
+      "english_answers": [
+        "glue stick"
+      ],
+      "english_gloss": "glue stick"
+    },
+    {
+      "hanzi": "胶带",
+      "pinyin": "jiāodài",
+      "english_answers": [
+        "adhesive tape"
+      ],
+      "english_gloss": "adhesive tape"
+    },
+    {
+      "hanzi": "透明胶带",
+      "pinyin": "tòumíng jiāodài",
+      "english_answers": [
+        "clear tape"
+      ],
+      "english_gloss": "clear tape"
+    },
+    {
+      "hanzi": "双面胶",
+      "pinyin": "shuāngmiànjiāo",
+      "english_answers": [
+        "double-sided tape"
+      ],
+      "english_gloss": "double-sided tape"
+    },
+    {
+      "hanzi": "订书机",
+      "pinyin": "dìngshūjī",
+      "english_answers": [
+        "stapler"
+      ],
+      "english_gloss": "stapler"
+    },
+    {
+      "hanzi": "订书钉",
+      "pinyin": "dìngshūdīng",
+      "english_answers": [
+        "staples"
+      ],
+      "english_gloss": "staples"
+    },
+    {
+      "hanzi": "回形针",
+      "pinyin": "huíxíngzhēn",
+      "english_answers": [
+        "paper clip"
+      ],
+      "english_gloss": "paper clip"
+    },
+    {
+      "hanzi": "长尾夹",
+      "pinyin": "chángwěijiā",
+      "english_answers": [
+        "binder clip"
+      ],
+      "english_gloss": "binder clip"
+    },
+    {
+      "hanzi": "文件夹",
+      "pinyin": "wénjiànjiā",
+      "english_answers": [
+        "folder / binder"
+      ],
+      "english_gloss": "folder / binder"
+    },
+    {
+      "hanzi": "笔记本",
+      "pinyin": "bǐjìběn",
+      "english_answers": [
+        "notebook"
+      ],
+      "english_gloss": "notebook"
+    },
+    {
+      "hanzi": "便签纸",
+      "pinyin": "biànqiānzhǐ",
+      "english_answers": [
+        "sticky notes / note paper"
+      ],
+      "english_gloss": "sticky notes / note paper"
+    },
+    {
+      "hanzi": "信封",
+      "pinyin": "xìnfēng",
+      "english_answers": [
+        "envelope"
+      ],
+      "english_gloss": "envelope"
+    },
+    {
+      "hanzi": "信纸",
+      "pinyin": "xìnzhǐ",
+      "english_answers": [
+        "writing paper"
+      ],
+      "english_gloss": "writing paper"
+    },
+    {
+      "hanzi": "标签",
+      "pinyin": "biāoqiān",
+      "english_answers": [
+        "label / tag"
+      ],
+      "english_gloss": "label / tag"
+    },
+    {
+      "hanzi": "贴纸",
+      "pinyin": "tiēzhǐ",
+      "english_answers": [
+        "sticker"
+      ],
+      "english_gloss": "sticker"
+    },
+    {
+      "hanzi": "卡片",
+      "pinyin": "kǎpiàn",
+      "english_answers": [
+        "card"
+      ],
+      "english_gloss": "card"
+    },
+    {
+      "hanzi": "纸板",
+      "pinyin": "zhǐbǎn",
+      "english_answers": [
+        "cardboard"
+      ],
+      "english_gloss": "cardboard"
+    },
+    {
+      "hanzi": "打印纸",
+      "pinyin": "dǎyìnzhǐ",
+      "english_answers": [
+        "printer paper"
+      ],
+      "english_gloss": "printer paper"
+    },
+    {
+      "hanzi": "打印机",
+      "pinyin": "dǎyìnjī",
+      "english_answers": [
+        "printer"
+      ],
+      "english_gloss": "printer"
+    },
+    {
+      "hanzi": "墨水",
+      "pinyin": "mòshuǐ",
+      "english_answers": [
+        "ink"
+      ],
+      "english_gloss": "ink"
+    },
+    {
+      "hanzi": "墨盒",
+      "pinyin": "mòhé",
+      "english_answers": [
+        "ink cartridge"
+      ],
+      "english_gloss": "ink cartridge"
+    },
+    {
+      "hanzi": "颜料",
+      "pinyin": "yánliào",
+      "english_answers": [
+        "paint / pigment"
+      ],
+      "english_gloss": "paint / pigment"
+    },
+    {
+      "hanzi": "水彩",
+      "pinyin": "shuǐcǎi",
+      "english_answers": [
+        "watercolour paint"
+      ],
+      "english_gloss": "watercolour paint"
+    },
+    {
+      "hanzi": "水彩笔",
+      "pinyin": "shuǐcǎibǐ",
+      "english_answers": [
+        "felt-tip pen / watercolour marker"
+      ],
+      "english_gloss": "felt-tip pen / watercolour marker"
+    },
+    {
+      "hanzi": "丙烯颜料",
+      "pinyin": "bǐngxī yánliào",
+      "english_answers": [
+        "acrylic paint"
+      ],
+      "english_gloss": "acrylic paint"
+    },
+    {
+      "hanzi": "油画颜料",
+      "pinyin": "yóuhuà yánliào",
+      "english_answers": [
+        "oil paint"
+      ],
+      "english_gloss": "oil paint"
+    },
+    {
+      "hanzi": "油漆",
+      "pinyin": "yóuqī",
+      "english_answers": [
+        "paint for surfaces"
+      ],
+      "english_gloss": "paint for surfaces"
+    },
+    {
+      "hanzi": "画笔",
+      "pinyin": "huàbǐ",
+      "english_answers": [
+        "paintbrush / drawing brush"
+      ],
+      "english_gloss": "paintbrush / drawing brush"
+    },
+    {
+      "hanzi": "刷子",
+      "pinyin": "shuāzi",
+      "english_answers": [
+        "brush"
+      ],
+      "english_gloss": "brush"
+    },
+    {
+      "hanzi": "画布",
+      "pinyin": "huàbù",
+      "english_answers": [
+        "canvas for painting"
+      ],
+      "english_gloss": "canvas for painting"
+    },
+    {
+      "hanzi": "画纸",
+      "pinyin": "huàzhǐ",
+      "english_answers": [
+        "drawing paper"
+      ],
+      "english_gloss": "drawing paper"
+    },
+    {
+      "hanzi": "调色板",
+      "pinyin": "tiáosèbǎn",
+      "english_answers": [
+        "palette"
+      ],
+      "english_gloss": "palette"
+    },
+    {
+      "hanzi": "画架",
+      "pinyin": "huàjià",
+      "english_answers": [
+        "easel"
+      ],
+      "english_gloss": "easel"
+    },
+    {
+      "hanzi": "削笔刀",
+      "pinyin": "xiāobǐdāo",
+      "english_answers": [
+        "pencil sharpener"
+      ],
+      "english_gloss": "pencil sharpener"
+    },
+    {
+      "hanzi": "书包",
+      "pinyin": "shūbāo",
+      "english_answers": [
+        "school bag"
+      ],
+      "english_gloss": "school bag"
+    },
+    {
+      "hanzi": "笔袋",
+      "pinyin": "bǐdài",
+      "english_answers": [
+        "pencil case"
+      ],
+      "english_gloss": "pencil case"
+    },
+    {
+      "hanzi": "书签",
+      "pinyin": "shūqiān",
+      "english_answers": [
+        "bookmark"
+      ],
+      "english_gloss": "bookmark"
+    },
+    {
+      "hanzi": "书架",
+      "pinyin": "shūjià",
+      "english_answers": [
+        "bookshelf"
+      ],
+      "english_gloss": "bookshelf"
+    },
+    {
+      "hanzi": "桌子",
+      "pinyin": "zhuōzi",
+      "english_answers": [
+        "table / desk"
+      ],
+      "english_gloss": "table / desk"
+    },
+    {
+      "hanzi": "抽屉",
+      "pinyin": "chōuti",
+      "english_answers": [
+        "drawer"
+      ],
+      "english_gloss": "drawer"
+    },
+    {
+      "hanzi": "垃圾桶",
+      "pinyin": "lājītǒng",
+      "english_answers": [
+        "trash can / bin"
+      ],
+      "english_gloss": "trash can / bin"
+    },
+    {
+      "hanzi": "垃圾袋",
+      "pinyin": "lājīdài",
+      "english_answers": [
+        "garbage bag"
+      ],
+      "english_gloss": "garbage bag"
+    },
+    {
+      "hanzi": "纸巾",
+      "pinyin": "zhǐjīn",
+      "english_answers": [
+        "tissue"
+      ],
+      "english_gloss": "tissue"
+    },
+    {
+      "hanzi": "卫生纸",
+      "pinyin": "wèishēngzhǐ",
+      "english_answers": [
+        "toilet paper"
+      ],
+      "english_gloss": "toilet paper"
+    },
+    {
+      "hanzi": "餐巾纸",
+      "pinyin": "cānjīnzhǐ",
+      "english_answers": [
+        "napkin"
+      ],
+      "english_gloss": "napkin"
+    },
+    {
+      "hanzi": "湿纸巾",
+      "pinyin": "shīzhǐjīn",
+      "english_answers": [
+        "wet wipe"
+      ],
+      "english_gloss": "wet wipe"
+    },
+    {
+      "hanzi": "抹布",
+      "pinyin": "mābù",
+      "english_answers": [
+        "cleaning cloth / rag"
+      ],
+      "english_gloss": "cleaning cloth / rag"
+    },
+    {
+      "hanzi": "毛巾",
+      "pinyin": "máojīn",
+      "english_answers": [
+        "towel"
+      ],
+      "english_gloss": "towel"
+    },
+    {
+      "hanzi": "海绵",
+      "pinyin": "hǎimián",
+      "english_answers": [
+        "sponge"
+      ],
+      "english_gloss": "sponge"
+    },
+    {
+      "hanzi": "扫帚",
+      "pinyin": "sàozhou",
+      "english_answers": [
+        "broom"
+      ],
+      "english_gloss": "broom"
+    },
+    {
+      "hanzi": "簸箕",
+      "pinyin": "bòji",
+      "english_answers": [
+        "dustpan"
+      ],
+      "english_gloss": "dustpan"
+    },
+    {
+      "hanzi": "拖把",
+      "pinyin": "tuōbǎ",
+      "english_answers": [
+        "mop"
+      ],
+      "english_gloss": "mop"
+    },
+    {
+      "hanzi": "水桶",
+      "pinyin": "shuǐtǒng",
+      "english_answers": [
+        "bucket"
+      ],
+      "english_gloss": "bucket"
+    },
+    {
+      "hanzi": "喷壶",
+      "pinyin": "pēnhú",
+      "english_answers": [
+        "spray bottle / watering sprayer"
+      ],
+      "english_gloss": "spray bottle / watering sprayer"
+    },
+    {
+      "hanzi": "洗洁精",
+      "pinyin": "xǐjiéjīng",
+      "english_answers": [
+        "dishwashing liquid"
+      ],
+      "english_gloss": "dishwashing liquid"
+    },
+    {
+      "hanzi": "洗衣液",
+      "pinyin": "xǐyīyè",
+      "english_answers": [
+        "liquid laundry detergent"
+      ],
+      "english_gloss": "liquid laundry detergent"
+    },
+    {
+      "hanzi": "肥皂",
+      "pinyin": "féizào",
+      "english_answers": [
+        "soap"
+      ],
+      "english_gloss": "soap"
+    },
+    {
+      "hanzi": "电池",
+      "pinyin": "diànchí",
+      "english_answers": [
+        "battery"
+      ],
+      "english_gloss": "battery"
+    },
+    {
+      "hanzi": "充电器",
+      "pinyin": "chōngdiànqì",
+      "english_answers": [
+        "charger"
+      ],
+      "english_gloss": "charger"
+    },
+    {
+      "hanzi": "插头",
+      "pinyin": "chātóu",
+      "english_answers": [
+        "plug"
+      ],
+      "english_gloss": "plug"
+    },
+    {
+      "hanzi": "插座",
+      "pinyin": "chāzuò",
+      "english_answers": [
+        "electrical socket"
+      ],
+      "english_gloss": "electrical socket"
+    },
+    {
+      "hanzi": "延长线",
+      "pinyin": "yánchángxiàn",
+      "english_answers": [
+        "extension cord"
+      ],
+      "english_gloss": "extension cord"
+    },
+    {
+      "hanzi": "电线",
+      "pinyin": "diànxiàn",
+      "english_answers": [
+        "electric wire"
+      ],
+      "english_gloss": "electric wire"
+    },
+    {
+      "hanzi": "灯泡",
+      "pinyin": "dēngpào",
+      "english_answers": [
+        "light bulb"
+      ],
+      "english_gloss": "light bulb"
+    },
+    {
+      "hanzi": "手电筒",
+      "pinyin": "shǒudiàntǒng",
+      "english_answers": [
+        "flashlight / torch"
+      ],
+      "english_gloss": "flashlight / torch"
+    },
+    {
+      "hanzi": "开关",
+      "pinyin": "kāiguān",
+      "english_answers": [
+        "switch"
+      ],
+      "english_gloss": "switch"
+    },
+    {
+      "hanzi": "钥匙",
+      "pinyin": "yàoshi",
+      "english_answers": [
+        "key"
+      ],
+      "english_gloss": "key"
+    },
+    {
+      "hanzi": "锁",
+      "pinyin": "suǒ",
+      "english_answers": [
+        "lock"
+      ],
+      "english_gloss": "lock"
+    },
+    {
+      "hanzi": "螺丝",
+      "pinyin": "luósī",
+      "english_answers": [
+        "screw"
+      ],
+      "english_gloss": "screw"
+    },
+    {
+      "hanzi": "螺丝刀",
+      "pinyin": "luósīdāo",
+      "english_answers": [
+        "screwdriver"
+      ],
+      "english_gloss": "screwdriver"
+    },
+    {
+      "hanzi": "锤子",
+      "pinyin": "chuízi",
+      "english_answers": [
+        "hammer"
+      ],
+      "english_gloss": "hammer"
+    },
+    {
+      "hanzi": "钉子",
+      "pinyin": "dīngzi",
+      "english_answers": [
+        "nail"
+      ],
+      "english_gloss": "nail"
+    },
+    {
+      "hanzi": "钳子",
+      "pinyin": "qiánzi",
+      "english_answers": [
+        "pliers"
+      ],
+      "english_gloss": "pliers"
+    },
+    {
+      "hanzi": "扳手",
+      "pinyin": "bānshǒu",
+      "english_answers": [
+        "wrench / spanner"
+      ],
+      "english_gloss": "wrench / spanner"
+    },
+    {
+      "hanzi": "胶皮手套",
+      "pinyin": "jiāopí shǒutào",
+      "english_answers": [
+        "rubber gloves"
+      ],
+      "english_gloss": "rubber gloves"
+    },
+    {
+      "hanzi": "塑料袋",
+      "pinyin": "sùliàodài",
+      "english_answers": [
+        "plastic bag"
+      ],
+      "english_gloss": "plastic bag"
+    },
+    {
+      "hanzi": "纸箱",
+      "pinyin": "zhǐxiāng",
+      "english_answers": [
+        "cardboard box"
+      ],
+      "english_gloss": "cardboard box"
+    },
+    {
+      "hanzi": "收纳盒",
+      "pinyin": "shōunàhé",
+      "english_answers": [
+        "storage box"
+      ],
+      "english_gloss": "storage box"
+    },
+    {
+      "hanzi": "篮子",
+      "pinyin": "lánzi",
+      "english_answers": [
+        "basket"
+      ],
+      "english_gloss": "basket"
+    }
+  ]
+}

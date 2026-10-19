@@ -1,902 +1,809 @@
-[
-  {
-    "id": "conversation_II_001",
-    "hanzi": "我想确认一下。",
-    "pinyin": "Wǒ xiǎng quèrèn yíxià.",
-    "english_answers": [
-      "I'd like to confirm something."
-    ],
-    "english_gloss": "I'd like to confirm something."
-  },
-  {
-    "id": "conversation_II_002",
-    "hanzi": "我没听清楚。",
-    "pinyin": "Wǒ méi tīng qīngchu.",
-    "english_answers": [
-      "I didn't hear clearly."
-    ],
-    "english_gloss": "I didn't hear clearly."
-  },
-  {
-    "id": "conversation_II_003",
-    "hanzi": "能再说一遍吗？",
-    "pinyin": "Néng zài shuō yí biàn ma?",
-    "english_answers": [
-      "Could you say that again?"
-    ],
-    "english_gloss": "Could you say that again?"
-  },
-  {
-    "id": "conversation_II_004",
-    "hanzi": "麻烦你说慢一点。",
-    "pinyin": "Máfan nǐ shuō màn yìdiǎn.",
-    "english_answers": [
-      "Please speak a little slower."
-    ],
-    "english_gloss": "Please speak a little slower."
-  },
-  {
-    "id": "conversation_II_005",
-    "hanzi": "能换个说法吗？",
-    "pinyin": "Néng huàn ge shuōfǎ ma?",
-    "english_answers": [
-      "Could you put it another way?"
-    ],
-    "english_gloss": "Could you put it another way?"
-  },
-  {
-    "id": "conversation_II_006",
-    "hanzi": "我的意思是……",
-    "pinyin": "Wǒ de yìsi shì…",
-    "english_answers": [
-      "What I mean is…"
-    ],
-    "english_gloss": "What I mean is…"
-  },
-  {
-    "id": "conversation_II_007",
-    "hanzi": "我不是那个意思。",
-    "pinyin": "Wǒ bú shì nàge yìsi.",
-    "english_answers": [
-      "That's not what I meant."
-    ],
-    "english_gloss": "That's not what I meant."
-  },
-  {
-    "id": "conversation_II_008",
-    "hanzi": "可能我没说清楚。",
-    "pinyin": "Kěnéng wǒ méi shuō qīngchu.",
-    "english_answers": [
-      "Maybe I didn't explain clearly."
-    ],
-    "english_gloss": "Maybe I didn't explain clearly."
-  },
-  {
-    "id": "conversation_II_009",
-    "hanzi": "让我重新说一下。",
-    "pinyin": "Ràng wǒ chóngxīn shuō yíxià.",
-    "english_answers": [
-      "Let me try saying that again."
-    ],
-    "english_gloss": "Let me try saying that again."
-  },
-  {
-    "id": "conversation_II_010",
-    "hanzi": "我理解得对吗？",
-    "pinyin": "Wǒ lǐjiě de duì ma?",
-    "english_answers": [
-      "Am I understanding correctly?"
-    ],
-    "english_gloss": "Am I understanding correctly?"
-  },
-  {
-    "id": "conversation_II_011",
-    "hanzi": "所以你的意思是……",
-    "pinyin": "Suǒyǐ nǐ de yìsi shì…",
-    "english_answers": [
-      "So what you're saying is…"
-    ],
-    "english_gloss": "So what you're saying is…"
-  },
-  {
-    "id": "conversation_II_012",
-    "hanzi": "你能举个例子吗？",
-    "pinyin": "Nǐ néng jǔ ge lìzi ma?",
-    "english_answers": [
-      "Could you give an example?"
-    ],
-    "english_gloss": "Could you give an example?"
-  },
-  {
-    "id": "conversation_II_013",
-    "hanzi": "能说具体一点吗？",
-    "pinyin": "Néng shuō jùtǐ yìdiǎn ma?",
-    "english_answers": [
-      "Could you be more specific?"
-    ],
-    "english_gloss": "Could you be more specific?"
-  },
-  {
-    "id": "conversation_II_014",
-    "hanzi": "你指的是哪个？",
-    "pinyin": "Nǐ zhǐ de shì nǎge?",
-    "english_answers": [
-      "Which one do you mean?"
-    ],
-    "english_gloss": "Which one do you mean?"
-  },
-  {
-    "id": "conversation_II_015",
-    "hanzi": "我有点跟不上。",
-    "pinyin": "Wǒ yǒudiǎn gēn bu shàng.",
-    "english_answers": [
-      "I'm having trouble keeping up."
-    ],
-    "english_gloss": "I'm having trouble keeping up."
-  },
-  {
-    "id": "conversation_II_016",
-    "hanzi": "我明白你的意思。",
-    "pinyin": "Wǒ míngbai nǐ de yìsi.",
-    "english_answers": [
-      "I understand what you mean."
-    ],
-    "english_gloss": "I understand what you mean."
-  },
-  {
-    "id": "conversation_II_017",
-    "hanzi": "这一点我同意。",
-    "pinyin": "Zhè yìdiǎn wǒ tóngyì.",
-    "english_answers": [
-      "I agree on that point."
-    ],
-    "english_gloss": "I agree on that point."
-  },
-  {
-    "id": "conversation_II_018",
-    "hanzi": "这一点我不太同意。",
-    "pinyin": "Zhè yìdiǎn wǒ bú tài tóngyì.",
-    "english_answers": [
-      "I don't quite agree on that point."
-    ],
-    "english_gloss": "I don't quite agree on that point."
-  },
-  {
-    "id": "conversation_II_019",
-    "hanzi": "我有不同的看法。",
-    "pinyin": "Wǒ yǒu bùtóng de kànfǎ.",
-    "english_answers": [
-      "I have a different perspective."
-    ],
-    "english_gloss": "I have a different perspective."
-  },
-  {
-    "id": "conversation_II_020",
-    "hanzi": "我不完全同意。",
-    "pinyin": "Wǒ bù wánquán tóngyì.",
-    "english_answers": [
-      "I don't entirely agree."
-    ],
-    "english_gloss": "I don't entirely agree."
-  },
-  {
-    "id": "conversation_II_021",
-    "hanzi": "我能理解，不过……",
-    "pinyin": "Wǒ néng lǐjiě, búguò…",
-    "english_answers": [
-      "I understand, but…"
-    ],
-    "english_gloss": "I understand, but…"
-  },
-  {
-    "id": "conversation_II_022",
-    "hanzi": "你说得有道理，但是……",
-    "pinyin": "Nǐ shuō de yǒu dàolǐ, dànshì…",
-    "english_answers": [
-      "You have a point, but…"
-    ],
-    "english_gloss": "You have a point, but…"
-  },
-  {
-    "id": "conversation_II_023",
-    "hanzi": "我倒觉得……",
-    "pinyin": "Wǒ dào juéde…",
-    "english_answers": [
-      "I actually think…"
-    ],
-    "english_gloss": "I actually think…"
-  },
-  {
-    "id": "conversation_II_024",
-    "hanzi": "这要看情况。",
-    "pinyin": "Zhè yào kàn qíngkuàng.",
-    "english_answers": [
-      "That depends on the situation."
-    ],
-    "english_gloss": "That depends on the situation."
-  },
-  {
-    "id": "conversation_II_025",
-    "hanzi": "我不太确定。",
-    "pinyin": "Wǒ bú tài quèdìng.",
-    "english_answers": [
-      "I'm not entirely sure."
-    ],
-    "english_gloss": "I'm not entirely sure."
-  },
-  {
-    "id": "conversation_II_026",
-    "hanzi": "我得再想想。",
-    "pinyin": "Wǒ děi zài xiǎngxiang.",
-    "english_answers": [
-      "I need to think more."
-    ],
-    "english_gloss": "I need to think more."
-  },
-  {
-    "id": "conversation_II_027",
-    "hanzi": "我需要一点时间。",
-    "pinyin": "Wǒ xūyào yìdiǎn shíjiān.",
-    "english_answers": [
-      "I need a little time."
-    ],
-    "english_gloss": "I need a little time."
-  },
-  {
-    "id": "conversation_II_028",
-    "hanzi": "我暂时没有答案。",
-    "pinyin": "Wǒ zànshí méiyǒu dá'àn.",
-    "english_answers": [
-      "I don't have an answer yet."
-    ],
-    "english_gloss": "I don't have an answer yet."
-  },
-  {
-    "id": "conversation_II_029",
-    "hanzi": "先听听你的想法。",
-    "pinyin": "Xiān tīngting nǐ de xiǎngfǎ.",
-    "english_answers": [
-      "I'd like to hear your thoughts first."
-    ],
-    "english_gloss": "I'd like to hear your thoughts first."
-  },
-  {
-    "id": "conversation_II_030",
-    "hanzi": "你为什么这么想？",
-    "pinyin": "Nǐ wèishénme zhème xiǎng?",
-    "english_answers": [
-      "Why do you think that?"
-    ],
-    "english_gloss": "Why do you think that?"
-  },
-  {
-    "id": "conversation_II_031",
-    "hanzi": "你是怎么得出这个结论的？",
-    "pinyin": "Nǐ shì zěnme déchū zhège jiélùn de?",
-    "english_answers": [
-      "How did you reach that conclusion?"
-    ],
-    "english_gloss": "How did you reach that conclusion?"
-  },
-  {
-    "id": "conversation_II_032",
-    "hanzi": "你怎么看这件事？",
-    "pinyin": "Nǐ zěnme kàn zhè jiàn shì?",
-    "english_answers": [
-      "What's your take on this?"
-    ],
-    "english_gloss": "What's your take on this?"
-  },
-  {
-    "id": "conversation_II_033",
-    "hanzi": "你比较倾向哪一个？",
-    "pinyin": "Nǐ bǐjiào qīngxiàng nǎ yí ge?",
-    "english_answers": [
-      "Which do you lean toward?"
-    ],
-    "english_gloss": "Which do you lean toward?"
-  },
-  {
-    "id": "conversation_II_034",
-    "hanzi": "我比较倾向第一个。",
-    "pinyin": "Wǒ bǐjiào qīngxiàng dì yī ge.",
-    "english_answers": [
-      "I'm leaning toward the first one."
-    ],
-    "english_gloss": "I'm leaning toward the first one."
-  },
-  {
-    "id": "conversation_II_035",
-    "hanzi": "我更在意质量。",
-    "pinyin": "Wǒ gèng zàiyì zhìliàng.",
-    "english_answers": [
-      "I care more about quality."
-    ],
-    "english_gloss": "I care more about quality."
-  },
-  {
-    "id": "conversation_II_036",
-    "hanzi": "对我来说价格更重要。",
-    "pinyin": "Duì wǒ lái shuō jiàgé gèng zhòngyào.",
-    "english_answers": [
-      "Price matters more to me."
-    ],
-    "english_gloss": "Price matters more to me."
-  },
-  {
-    "id": "conversation_II_037",
-    "hanzi": "这不是重点。",
-    "pinyin": "Zhè bú shì zhòngdiǎn.",
-    "english_answers": [
-      "That's not the main point."
-    ],
-    "english_gloss": "That's not the main point."
-  },
-  {
-    "id": "conversation_II_038",
-    "hanzi": "重点在于……",
-    "pinyin": "Zhòngdiǎn zài yú…",
-    "english_answers": [
-      "The key point is…"
-    ],
-    "english_gloss": "The key point is…"
-  },
-  {
-    "id": "conversation_II_039",
-    "hanzi": "问题是……",
-    "pinyin": "Wèntí shì…",
-    "english_answers": [
-      "The problem is…"
-    ],
-    "english_gloss": "The problem is…"
-  },
-  {
-    "id": "conversation_II_040",
-    "hanzi": "关键是……",
-    "pinyin": "Guānjiàn shì…",
-    "english_answers": [
-      "The crucial thing is…"
-    ],
-    "english_gloss": "The crucial thing is…"
-  },
-  {
-    "id": "conversation_II_041",
-    "hanzi": "我们先把话说清楚。",
-    "pinyin": "Wǒmen xiān bǎ huà shuō qīngchu.",
-    "english_answers": [
-      "Let's clear things up first."
-    ],
-    "english_gloss": "Let's clear things up first."
-  },
-  {
-    "id": "conversation_II_042",
-    "hanzi": "别急着下结论。",
-    "pinyin": "Bié jízhe xià jiélùn.",
-    "english_answers": [
-      "Don't jump to conclusions."
-    ],
-    "english_gloss": "Don't jump to conclusions."
-  },
-  {
-    "id": "conversation_II_043",
-    "hanzi": "我想补充一点。",
-    "pinyin": "Wǒ xiǎng bǔchōng yìdiǎn.",
-    "english_answers": [
-      "I'd like to add something."
-    ],
-    "english_gloss": "I'd like to add something."
-  },
-  {
-    "id": "conversation_II_044",
-    "hanzi": "我能插一句吗？",
-    "pinyin": "Wǒ néng chā yí jù ma?",
-    "english_answers": [
-      "Can I jump in for a second?"
-    ],
-    "english_gloss": "Can I jump in for a second?"
-  },
-  {
-    "id": "conversation_II_045",
-    "hanzi": "你先说完。",
-    "pinyin": "Nǐ xiān shuō wán.",
-    "english_answers": [
-      "Go ahead and finish."
-    ],
-    "english_gloss": "Go ahead and finish."
-  },
-  {
-    "id": "conversation_II_046",
-    "hanzi": "不好意思，打断一下。",
-    "pinyin": "Bù hǎoyìsi, dǎduàn yíxià.",
-    "english_answers": [
-      "Sorry to interrupt."
-    ],
-    "english_gloss": "Sorry to interrupt."
-  },
-  {
-    "id": "conversation_II_047",
-    "hanzi": "我刚才说到哪儿了？",
-    "pinyin": "Wǒ gāngcái shuō dào nǎr le?",
-    "english_answers": [
-      "Where was I?"
-    ],
-    "english_gloss": "Where was I?"
-  },
-  {
-    "id": "conversation_II_048",
-    "hanzi": "我们说回刚才的话题。",
-    "pinyin": "Wǒmen shuō huí gāngcái de huàtí.",
-    "english_answers": [
-      "Let's return to the earlier topic."
-    ],
-    "english_gloss": "Let's return to the earlier topic."
-  },
-  {
-    "id": "conversation_II_049",
-    "hanzi": "这个话题先放一放。",
-    "pinyin": "Zhège huàtí xiān fàng yi fàng.",
-    "english_answers": [
-      "Let's set this topic aside for now."
-    ],
-    "english_gloss": "Let's set this topic aside for now."
-  },
-  {
-    "id": "conversation_II_050",
-    "hanzi": "换个话题吧。",
-    "pinyin": "Huàn ge huàtí ba.",
-    "english_answers": [
-      "Let's change the subject."
-    ],
-    "english_gloss": "Let's change the subject."
-  },
-  {
-    "id": "conversation_II_051",
-    "hanzi": "我还没说完。",
-    "pinyin": "Wǒ hái méi shuō wán.",
-    "english_answers": [
-      "I haven't finished speaking."
-    ],
-    "english_gloss": "I haven't finished speaking."
-  },
-  {
-    "id": "conversation_II_052",
-    "hanzi": "我不是在责怪你。",
-    "pinyin": "Wǒ bú shì zài zéguài nǐ.",
-    "english_answers": [
-      "I'm not blaming you."
-    ],
-    "english_gloss": "I'm not blaming you."
-  },
-  {
-    "id": "conversation_II_053",
-    "hanzi": "我只是想弄明白。",
-    "pinyin": "Wǒ zhǐshì xiǎng nòng míngbai.",
-    "english_answers": [
-      "I'm just trying to understand."
-    ],
-    "english_gloss": "I'm just trying to understand."
-  },
-  {
-    "id": "conversation_II_054",
-    "hanzi": "我并没有那个意思。",
-    "pinyin": "Wǒ bìng méiyǒu nàge yìsi.",
-    "english_answers": [
-      "I really didn't mean that."
-    ],
-    "english_gloss": "I really didn't mean that."
-  },
-  {
-    "id": "conversation_II_055",
-    "hanzi": "我可能理解错了。",
-    "pinyin": "Wǒ kěnéng lǐjiě cuò le.",
-    "english_answers": [
-      "I may have misunderstood."
-    ],
-    "english_gloss": "I may have misunderstood."
-  },
-  {
-    "id": "conversation_II_056",
-    "hanzi": "我们是不是有误会？",
-    "pinyin": "Wǒmen shì bu shì yǒu wùhuì?",
-    "english_answers": [
-      "Is there a misunderstanding between us?"
-    ],
-    "english_gloss": "Is there a misunderstanding between us?"
-  },
-  {
-    "id": "conversation_II_057",
-    "hanzi": "谢谢你解释清楚。",
-    "pinyin": "Xièxie nǐ jiěshì qīngchu.",
-    "english_answers": [
-      "Thanks for clarifying."
-    ],
-    "english_gloss": "Thanks for clarifying."
-  },
-  {
-    "id": "conversation_II_058",
-    "hanzi": "抱歉，让你误会了。",
-    "pinyin": "Bàoqiàn, ràng nǐ wùhuì le.",
-    "english_answers": [
-      "Sorry I gave you the wrong impression."
-    ],
-    "english_gloss": "Sorry I gave you the wrong impression."
-  },
-  {
-    "id": "conversation_II_059",
-    "hanzi": "我不是故意的。",
-    "pinyin": "Wǒ bú shì gùyì de.",
-    "english_answers": [
-      "I didn't do it on purpose."
-    ],
-    "english_gloss": "I didn't do it on purpose."
-  },
-  {
-    "id": "conversation_II_060",
-    "hanzi": "我希望我们能好好谈。",
-    "pinyin": "Wǒ xīwàng wǒmen néng hǎohǎo tán.",
-    "english_answers": [
-      "I hope we can talk calmly."
-    ],
-    "english_gloss": "I hope we can talk calmly."
-  },
-  {
-    "id": "conversation_II_061",
-    "hanzi": "我们可以商量一下。",
-    "pinyin": "Wǒmen kěyǐ shāngliang yíxià.",
-    "english_answers": [
-      "We can discuss it."
-    ],
-    "english_gloss": "We can discuss it."
-  },
-  {
-    "id": "conversation_II_062",
-    "hanzi": "有没有别的办法？",
-    "pinyin": "Yǒu méiyǒu bié de bànfǎ?",
-    "english_answers": [
-      "Is there another way?"
-    ],
-    "english_gloss": "Is there another way?"
-  },
-  {
-    "id": "conversation_II_063",
-    "hanzi": "能不能折中一下？",
-    "pinyin": "Néng bu néng zhézhōng yíxià?",
-    "english_answers": [
-      "Could we compromise?"
-    ],
-    "english_gloss": "Could we compromise?"
-  },
-  {
-    "id": "conversation_II_064",
-    "hanzi": "我愿意考虑。",
-    "pinyin": "Wǒ yuànyì kǎolǜ.",
-    "english_answers": [
-      "I'm willing to consider it."
-    ],
-    "english_gloss": "I'm willing to consider it."
-  },
-  {
-    "id": "conversation_II_065",
-    "hanzi": "这个条件我能接受。",
-    "pinyin": "Zhège tiáojiàn wǒ néng jiēshòu.",
-    "english_answers": [
-      "I can accept this condition."
-    ],
-    "english_gloss": "I can accept this condition."
-  },
-  {
-    "id": "conversation_II_066",
-    "hanzi": "这个条件我接受不了。",
-    "pinyin": "Zhège tiáojiàn wǒ jiēshòu bu liǎo.",
-    "english_answers": [
-      "I can't accept this condition."
-    ],
-    "english_gloss": "I can't accept this condition."
-  },
-  {
-    "id": "conversation_II_067",
-    "hanzi": "能不能再便宜一点？",
-    "pinyin": "Néng bu néng zài piányi yìdiǎn?",
-    "english_answers": [
-      "Could it be a little cheaper?"
-    ],
-    "english_gloss": "Could it be a little cheaper?"
-  },
-  {
-    "id": "conversation_II_068",
-    "hanzi": "价格还有商量的余地吗？",
-    "pinyin": "Jiàgé hái yǒu shāngliang de yúdì ma?",
-    "english_answers": [
-      "Is the price negotiable?"
-    ],
-    "english_gloss": "Is the price negotiable?"
-  },
-  {
-    "id": "conversation_II_069",
-    "hanzi": "我想先比较一下。",
-    "pinyin": "Wǒ xiǎng xiān bǐjiào yíxià.",
-    "english_answers": [
-      "I'd like to compare first."
-    ],
-    "english_gloss": "I'd like to compare first."
-  },
-  {
-    "id": "conversation_II_070",
-    "hanzi": "这包括哪些费用？",
-    "pinyin": "Zhè bāokuò nǎxiē fèiyòng?",
-    "english_answers": [
-      "Which fees does this include?"
-    ],
-    "english_gloss": "Which fees does this include?"
-  },
-  {
-    "id": "conversation_II_071",
-    "hanzi": "有没有额外收费？",
-    "pinyin": "Yǒu méiyǒu éwài shōufèi?",
-    "english_answers": [
-      "Are there additional charges?"
-    ],
-    "english_gloss": "Are there additional charges?"
-  },
-  {
-    "id": "conversation_II_072",
-    "hanzi": "请把价格写清楚。",
-    "pinyin": "Qǐng bǎ jiàgé xiě qīngchu.",
-    "english_answers": [
-      "Please write out the price clearly."
-    ],
-    "english_gloss": "Please write out the price clearly."
-  },
-  {
-    "id": "conversation_II_073",
-    "hanzi": "我需要书面确认。",
-    "pinyin": "Wǒ xūyào shūmiàn quèrèn.",
-    "english_answers": [
-      "I need confirmation in writing."
-    ],
-    "english_gloss": "I need confirmation in writing."
-  },
-  {
-    "id": "conversation_II_074",
-    "hanzi": "我先看看合同。",
-    "pinyin": "Wǒ xiān kànkan hétong.",
-    "english_answers": [
-      "I'll read the contract first."
-    ],
-    "english_gloss": "I'll read the contract first."
-  },
-  {
-    "id": "conversation_II_075",
-    "hanzi": "这一条是什么意思？",
-    "pinyin": "Zhè yì tiáo shì shénme yìsi?",
-    "english_answers": [
-      "What does this clause mean?"
-    ],
-    "english_gloss": "What does this clause mean?"
-  },
-  {
-    "id": "conversation_II_076",
-    "hanzi": "可以修改这一条吗？",
-    "pinyin": "Kěyǐ xiūgǎi zhè yì tiáo ma?",
-    "english_answers": [
-      "Can this clause be changed?"
-    ],
-    "english_gloss": "Can this clause be changed?"
-  },
-  {
-    "id": "conversation_II_077",
-    "hanzi": "我不同意这一条。",
-    "pinyin": "Wǒ bù tóngyì zhè yì tiáo.",
-    "english_answers": [
-      "I don't agree to this clause."
-    ],
-    "english_gloss": "I don't agree to this clause."
-  },
-  {
-    "id": "conversation_II_078",
-    "hanzi": "我们能换个时间吗？",
-    "pinyin": "Wǒmen néng huàn ge shíjiān ma?",
-    "english_answers": [
-      "Can we reschedule?"
-    ],
-    "english_gloss": "Can we reschedule?"
-  },
-  {
-    "id": "conversation_II_079",
-    "hanzi": "我需要提前知道。",
-    "pinyin": "Wǒ xūyào tíqián zhīdào.",
-    "english_answers": [
-      "I need to know in advance."
-    ],
-    "english_gloss": "I need to know in advance."
-  },
-  {
-    "id": "conversation_II_080",
-    "hanzi": "请提前通知我。",
-    "pinyin": "Qǐng tíqián tōngzhī wǒ.",
-    "english_answers": [
-      "Please let me know ahead of time."
-    ],
-    "english_gloss": "Please let me know ahead of time."
-  },
-  {
-    "id": "conversation_II_081",
-    "hanzi": "我现在不方便。",
-    "pinyin": "Wǒ xiànzài bù fāngbiàn.",
-    "english_answers": [
-      "Now isn't a good time for me."
-    ],
-    "english_gloss": "Now isn't a good time for me."
-  },
-  {
-    "id": "conversation_II_082",
-    "hanzi": "晚一点可以吗？",
-    "pinyin": "Wǎn yìdiǎn kěyǐ ma?",
-    "english_answers": [
-      "Would a bit later work?"
-    ],
-    "english_gloss": "Would a bit later work?"
-  },
-  {
-    "id": "conversation_II_083",
-    "hanzi": "我们再约个时间。",
-    "pinyin": "Wǒmen zài yuē ge shíjiān.",
-    "english_answers": [
-      "Let's arrange another time."
-    ],
-    "english_gloss": "Let's arrange another time."
-  },
-  {
-    "id": "conversation_II_084",
-    "hanzi": "我想自己决定。",
-    "pinyin": "Wǒ xiǎng zìjǐ juédìng.",
-    "english_answers": [
-      "I'd like to decide for myself."
-    ],
-    "english_gloss": "I'd like to decide for myself."
-  },
-  {
-    "id": "conversation_II_085",
-    "hanzi": "这对我很重要。",
-    "pinyin": "Zhè duì wǒ hěn zhòngyào.",
-    "english_answers": [
-      "This is important to me."
-    ],
-    "english_gloss": "This is important to me."
-  },
-  {
-    "id": "conversation_II_086",
-    "hanzi": "我不太舒服。",
-    "pinyin": "Wǒ bú tài shūfu.",
-    "english_answers": [
-      "I'm not very comfortable."
-    ],
-    "english_gloss": "I'm not very comfortable."
-  },
-  {
-    "id": "conversation_II_087",
-    "hanzi": "我不想继续这个话题。",
-    "pinyin": "Wǒ bù xiǎng jìxù zhège huàtí.",
-    "english_answers": [
-      "I don't want to continue this topic."
-    ],
-    "english_gloss": "I don't want to continue this topic."
-  },
-  {
-    "id": "conversation_II_088",
-    "hanzi": "请尊重我的决定。",
-    "pinyin": "Qǐng zūnzhòng wǒ de juédìng.",
-    "english_answers": [
-      "Please respect my decision."
-    ],
-    "english_gloss": "Please respect my decision."
-  },
-  {
-    "id": "conversation_II_089",
-    "hanzi": "我需要一点空间。",
-    "pinyin": "Wǒ xūyào yìdiǎn kōngjiān.",
-    "english_answers": [
-      "I need some space."
-    ],
-    "english_gloss": "I need some space."
-  },
-  {
-    "id": "conversation_II_090",
-    "hanzi": "我想先冷静一下。",
-    "pinyin": "Wǒ xiǎng xiān lěngjìng yíxià.",
-    "english_answers": [
-      "I'd like to calm down first."
-    ],
-    "english_gloss": "I'd like to calm down first."
-  },
-  {
-    "id": "conversation_II_091",
-    "hanzi": "等我们都冷静了再谈。",
-    "pinyin": "Děng wǒmen dōu lěngjìng le zài tán.",
-    "english_answers": [
-      "Let's talk when we've both calmed down."
-    ],
-    "english_gloss": "Let's talk when we've both calmed down."
-  },
-  {
-    "id": "conversation_II_092",
-    "hanzi": "这件事我们慢慢商量。",
-    "pinyin": "Zhè jiàn shì wǒmen mànmàn shāngliang.",
-    "english_answers": [
-      "Let's take time to discuss this."
-    ],
-    "english_gloss": "Let's take time to discuss this."
-  },
-  {
-    "id": "conversation_II_093",
-    "hanzi": "那我们就这么定了。",
-    "pinyin": "Nà wǒmen jiù zhème dìng le.",
-    "english_answers": [
-      "Then it's settled."
-    ],
-    "english_gloss": "Then it's settled."
-  },
-  {
-    "id": "conversation_II_094",
-    "hanzi": "我再确认一遍。",
-    "pinyin": "Wǒ zài quèrèn yí biàn.",
-    "english_answers": [
-      "Let me confirm once more."
-    ],
-    "english_gloss": "Let me confirm once more."
-  },
-  {
-    "id": "conversation_II_095",
-    "hanzi": "如果有变化，请告诉我。",
-    "pinyin": "Rúguǒ yǒu biànhuà, qǐng gàosu wǒ.",
-    "english_answers": [
-      "Please tell me if anything changes."
-    ],
-    "english_gloss": "Please tell me if anything changes."
-  },
-  {
-    "id": "conversation_II_096",
-    "hanzi": "我回头联系你。",
-    "pinyin": "Wǒ huítóu liánxì nǐ.",
-    "english_answers": [
-      "I'll contact you later."
-    ],
-    "english_gloss": "I'll contact you later."
-  },
-  {
-    "id": "conversation_II_097",
-    "hanzi": "我们保持联系。",
-    "pinyin": "Wǒmen bǎochí liánxì.",
-    "english_answers": [
-      "Let's keep in touch."
-    ],
-    "english_gloss": "Let's keep in touch."
-  },
-  {
-    "id": "conversation_II_098",
-    "hanzi": "谢谢你花时间解释。",
-    "pinyin": "Xièxie nǐ huā shíjiān jiěshì.",
-    "english_answers": [
-      "Thanks for taking time to explain."
-    ],
-    "english_gloss": "Thanks for taking time to explain."
-  },
-  {
-    "id": "conversation_II_099",
-    "hanzi": "这次聊得很有帮助。",
-    "pinyin": "Zhè cì liáo de hěn yǒu bāngzhù.",
-    "english_answers": [
-      "This conversation was really helpful."
-    ],
-    "english_gloss": "This conversation was really helpful."
-  },
-  {
-    "id": "conversation_II_100",
-    "hanzi": "谢谢你的耐心。",
-    "pinyin": "Xièxie nǐ de nàixīn.",
-    "english_answers": [
-      "Thank you for your patience."
-    ],
-    "english_gloss": "Thank you for your patience."
-  }
-]
+{
+  "id": "conversation_II",
+  "title": "Conversational Mandarin II",
+  "language": "zh-Hans",
+  "source": "existing deck",
+  "card_count": 100,
+  "cards": [
+    {
+      "hanzi": "我想确认一下。",
+      "pinyin": "Wǒ xiǎng quèrèn yíxià.",
+      "english_answers": [
+        "I'd like to confirm something."
+      ],
+      "english_gloss": "I'd like to confirm something."
+    },
+    {
+      "hanzi": "我没听清楚。",
+      "pinyin": "Wǒ méi tīng qīngchu.",
+      "english_answers": [
+        "I didn't hear clearly."
+      ],
+      "english_gloss": "I didn't hear clearly."
+    },
+    {
+      "hanzi": "能再说一遍吗？",
+      "pinyin": "Néng zài shuō yí biàn ma?",
+      "english_answers": [
+        "Could you say that again?"
+      ],
+      "english_gloss": "Could you say that again?"
+    },
+    {
+      "hanzi": "麻烦你说慢一点。",
+      "pinyin": "Máfan nǐ shuō màn yìdiǎn.",
+      "english_answers": [
+        "Please speak a little slower."
+      ],
+      "english_gloss": "Please speak a little slower."
+    },
+    {
+      "hanzi": "能换个说法吗？",
+      "pinyin": "Néng huàn ge shuōfǎ ma?",
+      "english_answers": [
+        "Could you put it another way?"
+      ],
+      "english_gloss": "Could you put it another way?"
+    },
+    {
+      "hanzi": "我的意思是……",
+      "pinyin": "Wǒ de yìsi shì…",
+      "english_answers": [
+        "What I mean is…"
+      ],
+      "english_gloss": "What I mean is…"
+    },
+    {
+      "hanzi": "我不是那个意思。",
+      "pinyin": "Wǒ bú shì nàge yìsi.",
+      "english_answers": [
+        "That's not what I meant."
+      ],
+      "english_gloss": "That's not what I meant."
+    },
+    {
+      "hanzi": "可能我没说清楚。",
+      "pinyin": "Kěnéng wǒ méi shuō qīngchu.",
+      "english_answers": [
+        "Maybe I didn't explain clearly."
+      ],
+      "english_gloss": "Maybe I didn't explain clearly."
+    },
+    {
+      "hanzi": "让我重新说一下。",
+      "pinyin": "Ràng wǒ chóngxīn shuō yíxià.",
+      "english_answers": [
+        "Let me try saying that again."
+      ],
+      "english_gloss": "Let me try saying that again."
+    },
+    {
+      "hanzi": "我理解得对吗？",
+      "pinyin": "Wǒ lǐjiě de duì ma?",
+      "english_answers": [
+        "Am I understanding correctly?"
+      ],
+      "english_gloss": "Am I understanding correctly?"
+    },
+    {
+      "hanzi": "所以你的意思是……",
+      "pinyin": "Suǒyǐ nǐ de yìsi shì…",
+      "english_answers": [
+        "So what you're saying is…"
+      ],
+      "english_gloss": "So what you're saying is…"
+    },
+    {
+      "hanzi": "你能举个例子吗？",
+      "pinyin": "Nǐ néng jǔ ge lìzi ma?",
+      "english_answers": [
+        "Could you give an example?"
+      ],
+      "english_gloss": "Could you give an example?"
+    },
+    {
+      "hanzi": "能说具体一点吗？",
+      "pinyin": "Néng shuō jùtǐ yìdiǎn ma?",
+      "english_answers": [
+        "Could you be more specific?"
+      ],
+      "english_gloss": "Could you be more specific?"
+    },
+    {
+      "hanzi": "你指的是哪个？",
+      "pinyin": "Nǐ zhǐ de shì nǎge?",
+      "english_answers": [
+        "Which one do you mean?"
+      ],
+      "english_gloss": "Which one do you mean?"
+    },
+    {
+      "hanzi": "我有点跟不上。",
+      "pinyin": "Wǒ yǒudiǎn gēn bu shàng.",
+      "english_answers": [
+        "I'm having trouble keeping up."
+      ],
+      "english_gloss": "I'm having trouble keeping up."
+    },
+    {
+      "hanzi": "我明白你的意思。",
+      "pinyin": "Wǒ míngbai nǐ de yìsi.",
+      "english_answers": [
+        "I understand what you mean."
+      ],
+      "english_gloss": "I understand what you mean."
+    },
+    {
+      "hanzi": "这一点我同意。",
+      "pinyin": "Zhè yìdiǎn wǒ tóngyì.",
+      "english_answers": [
+        "I agree on that point."
+      ],
+      "english_gloss": "I agree on that point."
+    },
+    {
+      "hanzi": "这一点我不太同意。",
+      "pinyin": "Zhè yìdiǎn wǒ bú tài tóngyì.",
+      "english_answers": [
+        "I don't quite agree on that point."
+      ],
+      "english_gloss": "I don't quite agree on that point."
+    },
+    {
+      "hanzi": "我有不同的看法。",
+      "pinyin": "Wǒ yǒu bùtóng de kànfǎ.",
+      "english_answers": [
+        "I have a different perspective."
+      ],
+      "english_gloss": "I have a different perspective."
+    },
+    {
+      "hanzi": "我不完全同意。",
+      "pinyin": "Wǒ bù wánquán tóngyì.",
+      "english_answers": [
+        "I don't entirely agree."
+      ],
+      "english_gloss": "I don't entirely agree."
+    },
+    {
+      "hanzi": "我能理解，不过……",
+      "pinyin": "Wǒ néng lǐjiě, búguò…",
+      "english_answers": [
+        "I understand, but…"
+      ],
+      "english_gloss": "I understand, but…"
+    },
+    {
+      "hanzi": "你说得有道理，但是……",
+      "pinyin": "Nǐ shuō de yǒu dàolǐ, dànshì…",
+      "english_answers": [
+        "You have a point, but…"
+      ],
+      "english_gloss": "You have a point, but…"
+    },
+    {
+      "hanzi": "我倒觉得……",
+      "pinyin": "Wǒ dào juéde…",
+      "english_answers": [
+        "I actually think…"
+      ],
+      "english_gloss": "I actually think…"
+    },
+    {
+      "hanzi": "这要看情况。",
+      "pinyin": "Zhè yào kàn qíngkuàng.",
+      "english_answers": [
+        "That depends on the situation."
+      ],
+      "english_gloss": "That depends on the situation."
+    },
+    {
+      "hanzi": "我不太确定。",
+      "pinyin": "Wǒ bú tài quèdìng.",
+      "english_answers": [
+        "I'm not entirely sure."
+      ],
+      "english_gloss": "I'm not entirely sure."
+    },
+    {
+      "hanzi": "我得再想想。",
+      "pinyin": "Wǒ děi zài xiǎngxiang.",
+      "english_answers": [
+        "I need to think more."
+      ],
+      "english_gloss": "I need to think more."
+    },
+    {
+      "hanzi": "我需要一点时间。",
+      "pinyin": "Wǒ xūyào yìdiǎn shíjiān.",
+      "english_answers": [
+        "I need a little time."
+      ],
+      "english_gloss": "I need a little time."
+    },
+    {
+      "hanzi": "我暂时没有答案。",
+      "pinyin": "Wǒ zànshí méiyǒu dá'àn.",
+      "english_answers": [
+        "I don't have an answer yet."
+      ],
+      "english_gloss": "I don't have an answer yet."
+    },
+    {
+      "hanzi": "先听听你的想法。",
+      "pinyin": "Xiān tīngting nǐ de xiǎngfǎ.",
+      "english_answers": [
+        "I'd like to hear your thoughts first."
+      ],
+      "english_gloss": "I'd like to hear your thoughts first."
+    },
+    {
+      "hanzi": "你为什么这么想？",
+      "pinyin": "Nǐ wèishénme zhème xiǎng?",
+      "english_answers": [
+        "Why do you think that?"
+      ],
+      "english_gloss": "Why do you think that?"
+    },
+    {
+      "hanzi": "你是怎么得出这个结论的？",
+      "pinyin": "Nǐ shì zěnme déchū zhège jiélùn de?",
+      "english_answers": [
+        "How did you reach that conclusion?"
+      ],
+      "english_gloss": "How did you reach that conclusion?"
+    },
+    {
+      "hanzi": "你怎么看这件事？",
+      "pinyin": "Nǐ zěnme kàn zhè jiàn shì?",
+      "english_answers": [
+        "What's your take on this?"
+      ],
+      "english_gloss": "What's your take on this?"
+    },
+    {
+      "hanzi": "你比较倾向哪一个？",
+      "pinyin": "Nǐ bǐjiào qīngxiàng nǎ yí ge?",
+      "english_answers": [
+        "Which do you lean toward?"
+      ],
+      "english_gloss": "Which do you lean toward?"
+    },
+    {
+      "hanzi": "我比较倾向第一个。",
+      "pinyin": "Wǒ bǐjiào qīngxiàng dì yī ge.",
+      "english_answers": [
+        "I'm leaning toward the first one."
+      ],
+      "english_gloss": "I'm leaning toward the first one."
+    },
+    {
+      "hanzi": "我更在意质量。",
+      "pinyin": "Wǒ gèng zàiyì zhìliàng.",
+      "english_answers": [
+        "I care more about quality."
+      ],
+      "english_gloss": "I care more about quality."
+    },
+    {
+      "hanzi": "对我来说价格更重要。",
+      "pinyin": "Duì wǒ lái shuō jiàgé gèng zhòngyào.",
+      "english_answers": [
+        "Price matters more to me."
+      ],
+      "english_gloss": "Price matters more to me."
+    },
+    {
+      "hanzi": "这不是重点。",
+      "pinyin": "Zhè bú shì zhòngdiǎn.",
+      "english_answers": [
+        "That's not the main point."
+      ],
+      "english_gloss": "That's not the main point."
+    },
+    {
+      "hanzi": "重点在于……",
+      "pinyin": "Zhòngdiǎn zài yú…",
+      "english_answers": [
+        "The key point is…"
+      ],
+      "english_gloss": "The key point is…"
+    },
+    {
+      "hanzi": "问题是……",
+      "pinyin": "Wèntí shì…",
+      "english_answers": [
+        "The problem is…"
+      ],
+      "english_gloss": "The problem is…"
+    },
+    {
+      "hanzi": "关键是……",
+      "pinyin": "Guānjiàn shì…",
+      "english_answers": [
+        "The crucial thing is…"
+      ],
+      "english_gloss": "The crucial thing is…"
+    },
+    {
+      "hanzi": "我们先把话说清楚。",
+      "pinyin": "Wǒmen xiān bǎ huà shuō qīngchu.",
+      "english_answers": [
+        "Let's clear things up first."
+      ],
+      "english_gloss": "Let's clear things up first."
+    },
+    {
+      "hanzi": "别急着下结论。",
+      "pinyin": "Bié jízhe xià jiélùn.",
+      "english_answers": [
+        "Don't jump to conclusions."
+      ],
+      "english_gloss": "Don't jump to conclusions."
+    },
+    {
+      "hanzi": "我想补充一点。",
+      "pinyin": "Wǒ xiǎng bǔchōng yìdiǎn.",
+      "english_answers": [
+        "I'd like to add something."
+      ],
+      "english_gloss": "I'd like to add something."
+    },
+    {
+      "hanzi": "我能插一句吗？",
+      "pinyin": "Wǒ néng chā yí jù ma?",
+      "english_answers": [
+        "Can I jump in for a second?"
+      ],
+      "english_gloss": "Can I jump in for a second?"
+    },
+    {
+      "hanzi": "你先说完。",
+      "pinyin": "Nǐ xiān shuō wán.",
+      "english_answers": [
+        "Go ahead and finish."
+      ],
+      "english_gloss": "Go ahead and finish."
+    },
+    {
+      "hanzi": "不好意思，打断一下。",
+      "pinyin": "Bù hǎoyìsi, dǎduàn yíxià.",
+      "english_answers": [
+        "Sorry to interrupt."
+      ],
+      "english_gloss": "Sorry to interrupt."
+    },
+    {
+      "hanzi": "我刚才说到哪儿了？",
+      "pinyin": "Wǒ gāngcái shuō dào nǎr le?",
+      "english_answers": [
+        "Where was I?"
+      ],
+      "english_gloss": "Where was I?"
+    },
+    {
+      "hanzi": "我们说回刚才的话题。",
+      "pinyin": "Wǒmen shuō huí gāngcái de huàtí.",
+      "english_answers": [
+        "Let's return to the earlier topic."
+      ],
+      "english_gloss": "Let's return to the earlier topic."
+    },
+    {
+      "hanzi": "这个话题先放一放。",
+      "pinyin": "Zhège huàtí xiān fàng yi fàng.",
+      "english_answers": [
+        "Let's set this topic aside for now."
+      ],
+      "english_gloss": "Let's set this topic aside for now."
+    },
+    {
+      "hanzi": "换个话题吧。",
+      "pinyin": "Huàn ge huàtí ba.",
+      "english_answers": [
+        "Let's change the subject."
+      ],
+      "english_gloss": "Let's change the subject."
+    },
+    {
+      "hanzi": "我还没说完。",
+      "pinyin": "Wǒ hái méi shuō wán.",
+      "english_answers": [
+        "I haven't finished speaking."
+      ],
+      "english_gloss": "I haven't finished speaking."
+    },
+    {
+      "hanzi": "我不是在责怪你。",
+      "pinyin": "Wǒ bú shì zài zéguài nǐ.",
+      "english_answers": [
+        "I'm not blaming you."
+      ],
+      "english_gloss": "I'm not blaming you."
+    },
+    {
+      "hanzi": "我只是想弄明白。",
+      "pinyin": "Wǒ zhǐshì xiǎng nòng míngbai.",
+      "english_answers": [
+        "I'm just trying to understand."
+      ],
+      "english_gloss": "I'm just trying to understand."
+    },
+    {
+      "hanzi": "我并没有那个意思。",
+      "pinyin": "Wǒ bìng méiyǒu nàge yìsi.",
+      "english_answers": [
+        "I really didn't mean that."
+      ],
+      "english_gloss": "I really didn't mean that."
+    },
+    {
+      "hanzi": "我可能理解错了。",
+      "pinyin": "Wǒ kěnéng lǐjiě cuò le.",
+      "english_answers": [
+        "I may have misunderstood."
+      ],
+      "english_gloss": "I may have misunderstood."
+    },
+    {
+      "hanzi": "我们是不是有误会？",
+      "pinyin": "Wǒmen shì bu shì yǒu wùhuì?",
+      "english_answers": [
+        "Is there a misunderstanding between us?"
+      ],
+      "english_gloss": "Is there a misunderstanding between us?"
+    },
+    {
+      "hanzi": "谢谢你解释清楚。",
+      "pinyin": "Xièxie nǐ jiěshì qīngchu.",
+      "english_answers": [
+        "Thanks for clarifying."
+      ],
+      "english_gloss": "Thanks for clarifying."
+    },
+    {
+      "hanzi": "抱歉，让你误会了。",
+      "pinyin": "Bàoqiàn, ràng nǐ wùhuì le.",
+      "english_answers": [
+        "Sorry I gave you the wrong impression."
+      ],
+      "english_gloss": "Sorry I gave you the wrong impression."
+    },
+    {
+      "hanzi": "我不是故意的。",
+      "pinyin": "Wǒ bú shì gùyì de.",
+      "english_answers": [
+        "I didn't do it on purpose."
+      ],
+      "english_gloss": "I didn't do it on purpose."
+    },
+    {
+      "hanzi": "我希望我们能好好谈。",
+      "pinyin": "Wǒ xīwàng wǒmen néng hǎohǎo tán.",
+      "english_answers": [
+        "I hope we can talk calmly."
+      ],
+      "english_gloss": "I hope we can talk calmly."
+    },
+    {
+      "hanzi": "我们可以商量一下。",
+      "pinyin": "Wǒmen kěyǐ shāngliang yíxià.",
+      "english_answers": [
+        "We can discuss it."
+      ],
+      "english_gloss": "We can discuss it."
+    },
+    {
+      "hanzi": "有没有别的办法？",
+      "pinyin": "Yǒu méiyǒu bié de bànfǎ?",
+      "english_answers": [
+        "Is there another way?"
+      ],
+      "english_gloss": "Is there another way?"
+    },
+    {
+      "hanzi": "能不能折中一下？",
+      "pinyin": "Néng bu néng zhézhōng yíxià?",
+      "english_answers": [
+        "Could we compromise?"
+      ],
+      "english_gloss": "Could we compromise?"
+    },
+    {
+      "hanzi": "我愿意考虑。",
+      "pinyin": "Wǒ yuànyì kǎolǜ.",
+      "english_answers": [
+        "I'm willing to consider it."
+      ],
+      "english_gloss": "I'm willing to consider it."
+    },
+    {
+      "hanzi": "这个条件我能接受。",
+      "pinyin": "Zhège tiáojiàn wǒ néng jiēshòu.",
+      "english_answers": [
+        "I can accept this condition."
+      ],
+      "english_gloss": "I can accept this condition."
+    },
+    {
+      "hanzi": "这个条件我接受不了。",
+      "pinyin": "Zhège tiáojiàn wǒ jiēshòu bu liǎo.",
+      "english_answers": [
+        "I can't accept this condition."
+      ],
+      "english_gloss": "I can't accept this condition."
+    },
+    {
+      "hanzi": "能不能再便宜一点？",
+      "pinyin": "Néng bu néng zài piányi yìdiǎn?",
+      "english_answers": [
+        "Could it be a little cheaper?"
+      ],
+      "english_gloss": "Could it be a little cheaper?"
+    },
+    {
+      "hanzi": "价格还有商量的余地吗？",
+      "pinyin": "Jiàgé hái yǒu shāngliang de yúdì ma?",
+      "english_answers": [
+        "Is the price negotiable?"
+      ],
+      "english_gloss": "Is the price negotiable?"
+    },
+    {
+      "hanzi": "我想先比较一下。",
+      "pinyin": "Wǒ xiǎng xiān bǐjiào yíxià.",
+      "english_answers": [
+        "I'd like to compare first."
+      ],
+      "english_gloss": "I'd like to compare first."
+    },
+    {
+      "hanzi": "这包括哪些费用？",
+      "pinyin": "Zhè bāokuò nǎxiē fèiyòng?",
+      "english_answers": [
+        "Which fees does this include?"
+      ],
+      "english_gloss": "Which fees does this include?"
+    },
+    {
+      "hanzi": "有没有额外收费？",
+      "pinyin": "Yǒu méiyǒu éwài shōufèi?",
+      "english_answers": [
+        "Are there additional charges?"
+      ],
+      "english_gloss": "Are there additional charges?"
+    },
+    {
+      "hanzi": "请把价格写清楚。",
+      "pinyin": "Qǐng bǎ jiàgé xiě qīngchu.",
+      "english_answers": [
+        "Please write out the price clearly."
+      ],
+      "english_gloss": "Please write out the price clearly."
+    },
+    {
+      "hanzi": "我需要书面确认。",
+      "pinyin": "Wǒ xūyào shūmiàn quèrèn.",
+      "english_answers": [
+        "I need confirmation in writing."
+      ],
+      "english_gloss": "I need confirmation in writing."
+    },
+    {
+      "hanzi": "我先看看合同。",
+      "pinyin": "Wǒ xiān kànkan hétong.",
+      "english_answers": [
+        "I'll read the contract first."
+      ],
+      "english_gloss": "I'll read the contract first."
+    },
+    {
+      "hanzi": "这一条是什么意思？",
+      "pinyin": "Zhè yì tiáo shì shénme yìsi?",
+      "english_answers": [
+        "What does this clause mean?"
+      ],
+      "english_gloss": "What does this clause mean?"
+    },
+    {
+      "hanzi": "可以修改这一条吗？",
+      "pinyin": "Kěyǐ xiūgǎi zhè yì tiáo ma?",
+      "english_answers": [
+        "Can this clause be changed?"
+      ],
+      "english_gloss": "Can this clause be changed?"
+    },
+    {
+      "hanzi": "我不同意这一条。",
+      "pinyin": "Wǒ bù tóngyì zhè yì tiáo.",
+      "english_answers": [
+        "I don't agree to this clause."
+      ],
+      "english_gloss": "I don't agree to this clause."
+    },
+    {
+      "hanzi": "我们能换个时间吗？",
+      "pinyin": "Wǒmen néng huàn ge shíjiān ma?",
+      "english_answers": [
+        "Can we reschedule?"
+      ],
+      "english_gloss": "Can we reschedule?"
+    },
+    {
+      "hanzi": "我需要提前知道。",
+      "pinyin": "Wǒ xūyào tíqián zhīdào.",
+      "english_answers": [
+        "I need to know in advance."
+      ],
+      "english_gloss": "I need to know in advance."
+    },
+    {
+      "hanzi": "请提前通知我。",
+      "pinyin": "Qǐng tíqián tōngzhī wǒ.",
+      "english_answers": [
+        "Please let me know ahead of time."
+      ],
+      "english_gloss": "Please let me know ahead of time."
+    },
+    {
+      "hanzi": "我现在不方便。",
+      "pinyin": "Wǒ xiànzài bù fāngbiàn.",
+      "english_answers": [
+        "Now isn't a good time for me."
+      ],
+      "english_gloss": "Now isn't a good time for me."
+    },
+    {
+      "hanzi": "晚一点可以吗？",
+      "pinyin": "Wǎn yìdiǎn kěyǐ ma?",
+      "english_answers": [
+        "Would a bit later work?"
+      ],
+      "english_gloss": "Would a bit later work?"
+    },
+    {
+      "hanzi": "我们再约个时间。",
+      "pinyin": "Wǒmen zài yuē ge shíjiān.",
+      "english_answers": [
+        "Let's arrange another time."
+      ],
+      "english_gloss": "Let's arrange another time."
+    },
+    {
+      "hanzi": "我想自己决定。",
+      "pinyin": "Wǒ xiǎng zìjǐ juédìng.",
+      "english_answers": [
+        "I'd like to decide for myself."
+      ],
+      "english_gloss": "I'd like to decide for myself."
+    },
+    {
+      "hanzi": "这对我很重要。",
+      "pinyin": "Zhè duì wǒ hěn zhòngyào.",
+      "english_answers": [
+        "This is important to me."
+      ],
+      "english_gloss": "This is important to me."
+    },
+    {
+      "hanzi": "我不太舒服。",
+      "pinyin": "Wǒ bú tài shūfu.",
+      "english_answers": [
+        "I'm not very comfortable."
+      ],
+      "english_gloss": "I'm not very comfortable."
+    },
+    {
+      "hanzi": "我不想继续这个话题。",
+      "pinyin": "Wǒ bù xiǎng jìxù zhège huàtí.",
+      "english_answers": [
+        "I don't want to continue this topic."
+      ],
+      "english_gloss": "I don't want to continue this topic."
+    },
+    {
+      "hanzi": "请尊重我的决定。",
+      "pinyin": "Qǐng zūnzhòng wǒ de juédìng.",
+      "english_answers": [
+        "Please respect my decision."
+      ],
+      "english_gloss": "Please respect my decision."
+    },
+    {
+      "hanzi": "我需要一点空间。",
+      "pinyin": "Wǒ xūyào yìdiǎn kōngjiān.",
+      "english_answers": [
+        "I need some space."
+      ],
+      "english_gloss": "I need some space."
+    },
+    {
+      "hanzi": "我想先冷静一下。",
+      "pinyin": "Wǒ xiǎng xiān lěngjìng yíxià.",
+      "english_answers": [
+        "I'd like to calm down first."
+      ],
+      "english_gloss": "I'd like to calm down first."
+    },
+    {
+      "hanzi": "等我们都冷静了再谈。",
+      "pinyin": "Děng wǒmen dōu lěngjìng le zài tán.",
+      "english_answers": [
+        "Let's talk when we've both calmed down."
+      ],
+      "english_gloss": "Let's talk when we've both calmed down."
+    },
+    {
+      "hanzi": "这件事我们慢慢商量。",
+      "pinyin": "Zhè jiàn shì wǒmen mànmàn shāngliang.",
+      "english_answers": [
+        "Let's take time to discuss this."
+      ],
+      "english_gloss": "Let's take time to discuss this."
+    },
+    {
+      "hanzi": "那我们就这么定了。",
+      "pinyin": "Nà wǒmen jiù zhème dìng le.",
+      "english_answers": [
+        "Then it's settled."
+      ],
+      "english_gloss": "Then it's settled."
+    },
+    {
+      "hanzi": "我再确认一遍。",
+      "pinyin": "Wǒ zài quèrèn yí biàn.",
+      "english_answers": [
+        "Let me confirm once more."
+      ],
+      "english_gloss": "Let me confirm once more."
+    },
+    {
+      "hanzi": "如果有变化，请告诉我。",
+      "pinyin": "Rúguǒ yǒu biànhuà, qǐng gàosu wǒ.",
+      "english_answers": [
+        "Please tell me if anything changes."
+      ],
+      "english_gloss": "Please tell me if anything changes."
+    },
+    {
+      "hanzi": "我回头联系你。",
+      "pinyin": "Wǒ huítóu liánxì nǐ.",
+      "english_answers": [
+        "I'll contact you later."
+      ],
+      "english_gloss": "I'll contact you later."
+    },
+    {
+      "hanzi": "我们保持联系。",
+      "pinyin": "Wǒmen bǎochí liánxì.",
+      "english_answers": [
+        "Let's keep in touch."
+      ],
+      "english_gloss": "Let's keep in touch."
+    },
+    {
+      "hanzi": "谢谢你花时间解释。",
+      "pinyin": "Xièxie nǐ huā shíjiān jiěshì.",
+      "english_answers": [
+        "Thanks for taking time to explain."
+      ],
+      "english_gloss": "Thanks for taking time to explain."
+    },
+    {
+      "hanzi": "这次聊得很有帮助。",
+      "pinyin": "Zhè cì liáo de hěn yǒu bāngzhù.",
+      "english_answers": [
+        "This conversation was really helpful."
+      ],
+      "english_gloss": "This conversation was really helpful."
+    },
+    {
+      "hanzi": "谢谢你的耐心。",
+      "pinyin": "Xièxie nǐ de nàixīn.",
+      "english_answers": [
+        "Thank you for your patience."
+      ],
+      "english_gloss": "Thank you for your patience."
+    }
+  ]
+}

@@ -1,12 +1,11 @@
 {
   "id": "storytelling_I",
   "title": "Storytelling & Experiences I",
-  "category": "storytelling",
-  "part": 1,
-  "description": "Time, sequence, memories, cause and effect, personal experiences",
+  "language": "zh-Hans",
+  "source": "existing deck",
+  "card_count": 100,
   "cards": [
     {
-      "id": "storytelling_I_0001",
       "hanzi": "以前",
       "pinyin": "yǐqián",
       "english_answers": [
@@ -16,7 +15,6 @@
       "english_gloss": "before; formerly"
     },
     {
-      "id": "storytelling_I_0002",
       "hanzi": "后来",
       "pinyin": "hòulái",
       "english_answers": [
@@ -26,7 +24,6 @@
       "english_gloss": "later; afterward"
     },
     {
-      "id": "storytelling_I_0003",
       "hanzi": "当时",
       "pinyin": "dāngshí",
       "english_answers": [
@@ -35,7 +32,6 @@
       "english_gloss": "at that time"
     },
     {
-      "id": "storytelling_I_0004",
       "hanzi": "那时候",
       "pinyin": "nà shíhou",
       "english_answers": [
@@ -44,7 +40,6 @@
       "english_gloss": "back then"
     },
     {
-      "id": "storytelling_I_0005",
       "hanzi": "从前",
       "pinyin": "cóngqián",
       "english_answers": [
@@ -54,7 +49,6 @@
       "english_gloss": "long ago; in the past"
     },
     {
-      "id": "storytelling_I_0006",
       "hanzi": "过去",
       "pinyin": "guòqù",
       "english_answers": [
@@ -64,7 +58,6 @@
       "english_gloss": "the past; previously"
     },
     {
-      "id": "storytelling_I_0007",
       "hanzi": "现在",
       "pinyin": "xiànzài",
       "english_answers": [
@@ -74,7 +67,6 @@
       "english_gloss": "now; nowadays"
     },
     {
-      "id": "storytelling_I_0008",
       "hanzi": "将来",
       "pinyin": "jiānglái",
       "english_answers": [
@@ -83,7 +75,6 @@
       "english_gloss": "in the future"
     },
     {
-      "id": "storytelling_I_0009",
       "hanzi": "最近",
       "pinyin": "zuìjìn",
       "english_answers": [
@@ -93,7 +84,6 @@
       "english_gloss": "recently; lately"
     },
     {
-      "id": "storytelling_I_0010",
       "hanzi": "不久前",
       "pinyin": "bùjiǔ qián",
       "english_answers": [
@@ -102,7 +92,6 @@
       "english_gloss": "not long ago"
     },
     {
-      "id": "storytelling_I_0011",
       "hanzi": "几年前",
       "pinyin": "jǐ nián qián",
       "english_answers": [
@@ -111,7 +100,6 @@
       "english_gloss": "a few years ago"
     },
     {
-      "id": "storytelling_I_0012",
       "hanzi": "好多年前",
       "pinyin": "hǎo duō nián qián",
       "english_answers": [
@@ -120,7 +108,6 @@
       "english_gloss": "many years ago"
     },
     {
-      "id": "storytelling_I_0013",
       "hanzi": "从那以后",
       "pinyin": "cóng nà yǐhòu",
       "english_answers": [
@@ -129,7 +116,6 @@
       "english_gloss": "ever since then"
     },
     {
-      "id": "storytelling_I_0014",
       "hanzi": "直到现在",
       "pinyin": "zhídào xiànzài",
       "english_answers": [
@@ -138,7 +124,6 @@
       "english_gloss": "until now"
     },
     {
-      "id": "storytelling_I_0015",
       "hanzi": "一开始",
       "pinyin": "yì kāishǐ",
       "english_answers": [
@@ -147,7 +132,6 @@
       "english_gloss": "at first"
     },
     {
-      "id": "storytelling_I_0016",
       "hanzi": "起初",
       "pinyin": "qǐchū",
       "english_answers": [
@@ -156,7 +140,6 @@
       "english_gloss": "initially"
     },
     {
-      "id": "storytelling_I_0017",
       "hanzi": "后来才发现",
       "pinyin": "hòulái cái fāxiàn",
       "english_answers": [
@@ -165,7 +148,6 @@
       "english_gloss": "only later did I discover"
     },
     {
-      "id": "storytelling_I_0018",
       "hanzi": "最后",
       "pinyin": "zuìhòu",
       "english_answers": [
@@ -175,7 +157,6 @@
       "english_gloss": "finally; in the end"
     },
     {
-      "id": "storytelling_I_0019",
       "hanzi": "最终",
       "pinyin": "zuìzhōng",
       "english_answers": [
@@ -184,7 +165,6 @@
       "english_gloss": "ultimately"
     },
     {
-      "id": "storytelling_I_0020",
       "hanzi": "终于",
       "pinyin": "zhōngyú",
       "english_answers": [
@@ -193,7 +173,6 @@
       "english_gloss": "finally (after waiting or effort)"
     },
     {
-      "id": "storytelling_I_0021",
       "hanzi": "首先",
       "pinyin": "shǒuxiān",
       "english_answers": [
@@ -202,7 +181,6 @@
       "english_gloss": "first of all"
     },
     {
-      "id": "storytelling_I_0022",
       "hanzi": "然后",
       "pinyin": "ránhòu",
       "english_answers": [
@@ -212,7 +190,6 @@
       "english_gloss": "then; afterward"
     },
     {
-      "id": "storytelling_I_0023",
       "hanzi": "接着",
       "pinyin": "jiēzhe",
       "english_answers": [
@@ -222,7 +199,6 @@
       "english_gloss": "next; following that"
     },
     {
-      "id": "storytelling_I_0024",
       "hanzi": "与此同时",
       "pinyin": "yǔ cǐ tóngshí",
       "english_answers": [
@@ -232,7 +208,6 @@
       "english_gloss": "meanwhile; at the same time"
     },
     {
-      "id": "storytelling_I_0025",
       "hanzi": "之后",
       "pinyin": "zhīhòu",
       "english_answers": [
@@ -241,7 +216,6 @@
       "english_gloss": "afterward"
     },
     {
-      "id": "storytelling_I_0026",
       "hanzi": "之前",
       "pinyin": "zhīqián",
       "english_answers": [
@@ -250,7 +224,6 @@
       "english_gloss": "beforehand"
     },
     {
-      "id": "storytelling_I_0027",
       "hanzi": "期间",
       "pinyin": "qījiān",
       "english_answers": [
@@ -260,7 +233,6 @@
       "english_gloss": "during; throughout the period"
     },
     {
-      "id": "storytelling_I_0028",
       "hanzi": "突然",
       "pinyin": "tūrán",
       "english_answers": [
@@ -269,7 +241,6 @@
       "english_gloss": "suddenly"
     },
     {
-      "id": "storytelling_I_0029",
       "hanzi": "忽然",
       "pinyin": "hūrán",
       "english_answers": [
@@ -278,7 +249,6 @@
       "english_gloss": "all of a sudden"
     },
     {
-      "id": "storytelling_I_0030",
       "hanzi": "马上",
       "pinyin": "mǎshàng",
       "english_answers": [
@@ -287,7 +257,6 @@
       "english_gloss": "right away"
     },
     {
-      "id": "storytelling_I_0031",
       "hanzi": "立刻",
       "pinyin": "lìkè",
       "english_answers": [
@@ -296,7 +265,6 @@
       "english_gloss": "immediately"
     },
     {
-      "id": "storytelling_I_0032",
       "hanzi": "过了一会儿",
       "pinyin": "guò le yíhuìr",
       "english_answers": [
@@ -305,7 +273,6 @@
       "english_gloss": "after a little while"
     },
     {
-      "id": "storytelling_I_0033",
       "hanzi": "过了几天",
       "pinyin": "guò le jǐ tiān",
       "english_answers": [
@@ -314,7 +281,6 @@
       "english_gloss": "a few days later"
     },
     {
-      "id": "storytelling_I_0034",
       "hanzi": "有一天",
       "pinyin": "yǒu yì tiān",
       "english_answers": [
@@ -323,7 +289,6 @@
       "english_gloss": "one day"
     },
     {
-      "id": "storytelling_I_0035",
       "hanzi": "有一次",
       "pinyin": "yǒu yí cì",
       "english_answers": [
@@ -333,7 +298,6 @@
       "english_gloss": "once; on one occasion"
     },
     {
-      "id": "storytelling_I_0036",
       "hanzi": "每次",
       "pinyin": "měi cì",
       "english_answers": [
@@ -342,7 +306,6 @@
       "english_gloss": "every time"
     },
     {
-      "id": "storytelling_I_0037",
       "hanzi": "第一次",
       "pinyin": "dì yī cì",
       "english_answers": [
@@ -351,7 +314,6 @@
       "english_gloss": "the first time"
     },
     {
-      "id": "storytelling_I_0038",
       "hanzi": "上次",
       "pinyin": "shàng cì",
       "english_answers": [
@@ -360,7 +322,6 @@
       "english_gloss": "last time"
     },
     {
-      "id": "storytelling_I_0039",
       "hanzi": "下次",
       "pinyin": "xià cì",
       "english_answers": [
@@ -369,7 +330,6 @@
       "english_gloss": "next time"
     },
     {
-      "id": "storytelling_I_0040",
       "hanzi": "当……的时候",
       "pinyin": "dāng… de shíhou",
       "english_answers": [
@@ -379,7 +339,6 @@
       "english_gloss": "when; at the time that"
     },
     {
-      "id": "storytelling_I_0041",
       "hanzi": "自从……以来",
       "pinyin": "zìcóng… yǐlái",
       "english_answers": [
@@ -388,7 +347,6 @@
       "english_gloss": "ever since"
     },
     {
-      "id": "storytelling_I_0042",
       "hanzi": "本来",
       "pinyin": "běnlái",
       "english_answers": [
@@ -398,7 +356,6 @@
       "english_gloss": "originally; was supposed to"
     },
     {
-      "id": "storytelling_I_0043",
       "hanzi": "原来",
       "pinyin": "yuánlái",
       "english_answers": [
@@ -408,7 +365,6 @@
       "english_gloss": "as it turns out; originally"
     },
     {
-      "id": "storytelling_I_0044",
       "hanzi": "原本",
       "pinyin": "yuánběn",
       "english_answers": [
@@ -418,7 +374,6 @@
       "english_gloss": "originally; at first"
     },
     {
-      "id": "storytelling_I_0045",
       "hanzi": "结果",
       "pinyin": "jiéguǒ",
       "english_answers": [
@@ -428,7 +383,6 @@
       "english_gloss": "as a result; it turned out"
     },
     {
-      "id": "storytelling_I_0046",
       "hanzi": "没想到",
       "pinyin": "méi xiǎngdào",
       "english_answers": [
@@ -438,7 +392,6 @@
       "english_gloss": "unexpectedly; I didn't expect"
     },
     {
-      "id": "storytelling_I_0047",
       "hanzi": "想不到",
       "pinyin": "xiǎngbudào",
       "english_answers": [
@@ -447,7 +400,6 @@
       "english_gloss": "never would have thought"
     },
     {
-      "id": "storytelling_I_0048",
       "hanzi": "果然",
       "pinyin": "guǒrán",
       "english_answers": [
@@ -457,7 +409,6 @@
       "english_gloss": "sure enough; as expected"
     },
     {
-      "id": "storytelling_I_0049",
       "hanzi": "竟然",
       "pinyin": "jìngrán",
       "english_answers": [
@@ -467,7 +418,6 @@
       "english_gloss": "unexpectedly; surprisingly"
     },
     {
-      "id": "storytelling_I_0050",
       "hanzi": "居然",
       "pinyin": "jūrán",
       "english_answers": [
@@ -477,7 +427,6 @@
       "english_gloss": "actually; unexpectedly"
     },
     {
-      "id": "storytelling_I_0051",
       "hanzi": "幸好",
       "pinyin": "xìnghǎo",
       "english_answers": [
@@ -487,7 +436,6 @@
       "english_gloss": "fortunately; luckily"
     },
     {
-      "id": "storytelling_I_0052",
       "hanzi": "可惜",
       "pinyin": "kěxī",
       "english_answers": [
@@ -497,7 +445,6 @@
       "english_gloss": "unfortunately; what a pity"
     },
     {
-      "id": "storytelling_I_0053",
       "hanzi": "难怪",
       "pinyin": "nánguài",
       "english_answers": [
@@ -506,7 +453,6 @@
       "english_gloss": "no wonder"
     },
     {
-      "id": "storytelling_I_0054",
       "hanzi": "怪不得",
       "pinyin": "guàibude",
       "english_answers": [
@@ -515,7 +461,6 @@
       "english_gloss": "no wonder"
     },
     {
-      "id": "storytelling_I_0055",
       "hanzi": "偏偏",
       "pinyin": "piānpiān",
       "english_answers": [
@@ -525,7 +470,6 @@
       "english_gloss": "contrary to expectations; unfortunately"
     },
     {
-      "id": "storytelling_I_0056",
       "hanzi": "反而",
       "pinyin": "fǎn'ér",
       "english_answers": [
@@ -535,7 +479,6 @@
       "english_gloss": "instead; on the contrary"
     },
     {
-      "id": "storytelling_I_0057",
       "hanzi": "差点儿",
       "pinyin": "chàdiǎnr",
       "english_answers": [
@@ -545,7 +488,6 @@
       "english_gloss": "almost; nearly"
     },
     {
-      "id": "storytelling_I_0058",
       "hanzi": "差一点就……",
       "pinyin": "chà yìdiǎn jiù…",
       "english_answers": [
@@ -554,7 +496,6 @@
       "english_gloss": "came close to…"
     },
     {
-      "id": "storytelling_I_0059",
       "hanzi": "没来得及",
       "pinyin": "méi láidejí",
       "english_answers": [
@@ -563,7 +504,6 @@
       "english_gloss": "didn't have time to"
     },
     {
-      "id": "storytelling_I_0060",
       "hanzi": "来得及",
       "pinyin": "láidejí",
       "english_answers": [
@@ -572,7 +512,6 @@
       "english_gloss": "have enough time to"
     },
     {
-      "id": "storytelling_I_0061",
       "hanzi": "经历",
       "pinyin": "jīnglì",
       "english_answers": [
@@ -582,7 +521,6 @@
       "english_gloss": "to experience; an experience"
     },
     {
-      "id": "storytelling_I_0062",
       "hanzi": "经验",
       "pinyin": "jīngyàn",
       "english_answers": [
@@ -592,7 +530,6 @@
       "english_gloss": "experience; know-how"
     },
     {
-      "id": "storytelling_I_0063",
       "hanzi": "回忆",
       "pinyin": "huíyì",
       "english_answers": [
@@ -602,7 +539,6 @@
       "english_gloss": "to recall; a memory"
     },
     {
-      "id": "storytelling_I_0064",
       "hanzi": "记忆",
       "pinyin": "jìyì",
       "english_answers": [
@@ -611,7 +547,6 @@
       "english_gloss": "memory"
     },
     {
-      "id": "storytelling_I_0065",
       "hanzi": "印象",
       "pinyin": "yìnxiàng",
       "english_answers": [
@@ -620,7 +555,6 @@
       "english_gloss": "impression"
     },
     {
-      "id": "storytelling_I_0066",
       "hanzi": "印象深刻",
       "pinyin": "yìnxiàng shēnkè",
       "english_answers": [
@@ -629,7 +563,6 @@
       "english_gloss": "make a deep impression"
     },
     {
-      "id": "storytelling_I_0067",
       "hanzi": "难忘",
       "pinyin": "nánwàng",
       "english_answers": [
@@ -638,7 +571,6 @@
       "english_gloss": "unforgettable"
     },
     {
-      "id": "storytelling_I_0068",
       "hanzi": "怀念",
       "pinyin": "huáiniàn",
       "english_answers": [
@@ -648,7 +580,6 @@
       "english_gloss": "to miss; remember fondly"
     },
     {
-      "id": "storytelling_I_0069",
       "hanzi": "想起",
       "pinyin": "xiǎngqǐ",
       "english_answers": [
@@ -658,7 +589,6 @@
       "english_gloss": "to remember; come to mind"
     },
     {
-      "id": "storytelling_I_0070",
       "hanzi": "记得",
       "pinyin": "jìde",
       "english_answers": [
@@ -667,7 +597,6 @@
       "english_gloss": "to remember"
     },
     {
-      "id": "storytelling_I_0071",
       "hanzi": "忘记",
       "pinyin": "wàngjì",
       "english_answers": [
@@ -676,7 +605,6 @@
       "english_gloss": "to forget"
     },
     {
-      "id": "storytelling_I_0072",
       "hanzi": "回想起来",
       "pinyin": "huíxiǎng qǐlái",
       "english_answers": [
@@ -685,7 +613,6 @@
       "english_gloss": "looking back on it"
     },
     {
-      "id": "storytelling_I_0073",
       "hanzi": "发生",
       "pinyin": "fāshēng",
       "english_answers": [
@@ -695,7 +622,6 @@
       "english_gloss": "to happen; occur"
     },
     {
-      "id": "storytelling_I_0074",
       "hanzi": "出现",
       "pinyin": "chūxiàn",
       "english_answers": [
@@ -705,7 +631,6 @@
       "english_gloss": "to appear; emerge"
     },
     {
-      "id": "storytelling_I_0075",
       "hanzi": "变化",
       "pinyin": "biànhuà",
       "english_answers": [
@@ -715,7 +640,6 @@
       "english_gloss": "change; transformation"
     },
     {
-      "id": "storytelling_I_0076",
       "hanzi": "改变",
       "pinyin": "gǎibiàn",
       "english_answers": [
@@ -725,7 +649,6 @@
       "english_gloss": "to change; alter"
     },
     {
-      "id": "storytelling_I_0077",
       "hanzi": "决定",
       "pinyin": "juédìng",
       "english_answers": [
@@ -734,7 +657,6 @@
       "english_gloss": "to decide"
     },
     {
-      "id": "storytelling_I_0078",
       "hanzi": "选择",
       "pinyin": "xuǎnzé",
       "english_answers": [
@@ -743,7 +665,6 @@
       "english_gloss": "to choose"
     },
     {
-      "id": "storytelling_I_0079",
       "hanzi": "原因",
       "pinyin": "yuányīn",
       "english_answers": [
@@ -753,7 +674,6 @@
       "english_gloss": "reason; cause"
     },
     {
-      "id": "storytelling_I_0080",
       "hanzi": "因为……所以……",
       "pinyin": "yīnwèi… suǒyǐ…",
       "english_answers": [
@@ -762,7 +682,6 @@
       "english_gloss": "because… therefore…"
     },
     {
-      "id": "storytelling_I_0081",
       "hanzi": "因此",
       "pinyin": "yīncǐ",
       "english_answers": [
@@ -772,7 +691,6 @@
       "english_gloss": "therefore; as a result"
     },
     {
-      "id": "storytelling_I_0082",
       "hanzi": "导致",
       "pinyin": "dǎozhì",
       "english_answers": [
@@ -782,7 +700,6 @@
       "english_gloss": "to cause; lead to"
     },
     {
-      "id": "storytelling_I_0083",
       "hanzi": "影响",
       "pinyin": "yǐngxiǎng",
       "english_answers": [
@@ -792,7 +709,6 @@
       "english_gloss": "to influence; impact"
     },
     {
-      "id": "storytelling_I_0084",
       "hanzi": "没办法",
       "pinyin": "méi bànfǎ",
       "english_answers": [
@@ -802,7 +718,6 @@
       "english_gloss": "there was no way; couldn't help it"
     },
     {
-      "id": "storytelling_I_0085",
       "hanzi": "只好",
       "pinyin": "zhǐhǎo",
       "english_answers": [
@@ -811,7 +726,6 @@
       "english_gloss": "have no choice but to"
     },
     {
-      "id": "storytelling_I_0086",
       "hanzi": "不得不",
       "pinyin": "bùdébù",
       "english_answers": [
@@ -821,7 +735,6 @@
       "english_gloss": "have to; cannot avoid"
     },
     {
-      "id": "storytelling_I_0087",
       "hanzi": "好不容易",
       "pinyin": "hǎobùróngyì",
       "english_answers": [
@@ -830,7 +743,6 @@
       "english_gloss": "only after much difficulty"
     },
     {
-      "id": "storytelling_I_0088",
       "hanzi": "总算",
       "pinyin": "zǒngsuàn",
       "english_answers": [
@@ -840,7 +752,6 @@
       "english_gloss": "finally; at long last"
     },
     {
-      "id": "storytelling_I_0089",
       "hanzi": "我以前住在青岛。",
       "pinyin": "Wǒ yǐqián zhù zài Qīngdǎo.",
       "english_answers": [
@@ -849,7 +760,6 @@
       "english_gloss": "I used to live in Qingdao."
     },
     {
-      "id": "storytelling_I_0090",
       "hanzi": "后来我搬回加拿大了。",
       "pinyin": "Hòulái wǒ bān huí Jiānádà le.",
       "english_answers": [
@@ -858,7 +768,6 @@
       "english_gloss": "Later I moved back to Canada."
     },
     {
-      "id": "storytelling_I_0091",
       "hanzi": "那时候我在教英语。",
       "pinyin": "Nà shíhou wǒ zài jiāo Yīngyǔ.",
       "english_answers": [
@@ -867,7 +776,6 @@
       "english_gloss": "I was teaching English back then."
     },
     {
-      "id": "storytelling_I_0092",
       "hanzi": "我已经忘了很多。",
       "pinyin": "Wǒ yǐjīng wàng le hěn duō.",
       "english_answers": [
@@ -876,7 +784,6 @@
       "english_gloss": "I've already forgotten a lot."
     },
     {
-      "id": "storytelling_I_0093",
       "hanzi": "没想到我还记得。",
       "pinyin": "Méi xiǎngdào wǒ hái jìde.",
       "english_answers": [
@@ -885,7 +792,6 @@
       "english_gloss": "I didn't expect to still remember."
     },
     {
-      "id": "storytelling_I_0094",
       "hanzi": "这件事让我改变了看法。",
       "pinyin": "Zhè jiàn shì ràng wǒ gǎibiàn le kànfǎ.",
       "english_answers": [
@@ -894,7 +800,6 @@
       "english_gloss": "That experience changed my opinion."
     },
     {
-      "id": "storytelling_I_0095",
       "hanzi": "回想起来挺有意思的。",
       "pinyin": "Huíxiǎng qǐlái tǐng yǒu yìsi de.",
       "english_answers": [
@@ -903,7 +808,6 @@
       "english_gloss": "Looking back, it was pretty interesting."
     },
     {
-      "id": "storytelling_I_0096",
       "hanzi": "如果有机会，我想再去一次。",
       "pinyin": "Rúguǒ yǒu jīhuì, wǒ xiǎng zài qù yí cì.",
       "english_answers": [
@@ -912,7 +816,6 @@
       "english_gloss": "If I get the chance, I'd like to go again."
     },
     {
-      "id": "storytelling_I_0097",
       "hanzi": "说来话长。",
       "pinyin": "Shuō lái huà cháng.",
       "english_answers": [
@@ -921,7 +824,6 @@
       "english_gloss": "It's a long story."
     },
     {
-      "id": "storytelling_I_0098",
       "hanzi": "曾经",
       "pinyin": "céngjīng",
       "english_answers": [
@@ -931,7 +833,6 @@
       "english_gloss": "once; formerly"
     },
     {
-      "id": "storytelling_I_0099",
       "hanzi": "偶尔",
       "pinyin": "ǒu'ěr",
       "english_answers": [
@@ -940,7 +841,6 @@
       "english_gloss": "occasionally"
     },
     {
-      "id": "storytelling_I_0100",
       "hanzi": "一直",
       "pinyin": "yìzhí",
       "english_answers": [

@@ -1,12 +1,11 @@
 {
   "id": "emotions_I",
   "title": "Emotions & Social Situations I",
-  "category": "emotions",
-  "part": 1,
-  "description": "Feelings, empathy, boundaries and interpersonal communication",
+  "language": "zh-Hans",
+  "source": "existing deck",
+  "card_count": 100,
   "cards": [
     {
-      "id": "emotions_I_0001",
       "hanzi": "开心",
       "pinyin": "kāixīn",
       "english_answers": [
@@ -16,7 +15,6 @@
       "english_gloss": "happy; glad"
     },
     {
-      "id": "emotions_I_0002",
       "hanzi": "高兴",
       "pinyin": "gāoxìng",
       "english_answers": [
@@ -26,7 +24,6 @@
       "english_gloss": "happy; pleased"
     },
     {
-      "id": "emotions_I_0003",
       "hanzi": "快乐",
       "pinyin": "kuàilè",
       "english_answers": [
@@ -36,7 +33,6 @@
       "english_gloss": "happy; joyful"
     },
     {
-      "id": "emotions_I_0004",
       "hanzi": "兴奋",
       "pinyin": "xīngfèn",
       "english_answers": [
@@ -45,7 +41,6 @@
       "english_gloss": "excited"
     },
     {
-      "id": "emotions_I_0005",
       "hanzi": "激动",
       "pinyin": "jīdòng",
       "english_answers": [
@@ -55,7 +50,6 @@
       "english_gloss": "excited; emotionally stirred"
     },
     {
-      "id": "emotions_I_0006",
       "hanzi": "期待",
       "pinyin": "qīdài",
       "english_answers": [
@@ -64,7 +58,6 @@
       "english_gloss": "look forward to"
     },
     {
-      "id": "emotions_I_0007",
       "hanzi": "满意",
       "pinyin": "mǎnyì",
       "english_answers": [
@@ -73,7 +66,6 @@
       "english_gloss": "satisfied"
     },
     {
-      "id": "emotions_I_0008",
       "hanzi": "满足",
       "pinyin": "mǎnzú",
       "english_answers": [
@@ -83,7 +75,6 @@
       "english_gloss": "content; fulfilled"
     },
     {
-      "id": "emotions_I_0009",
       "hanzi": "自豪",
       "pinyin": "zìháo",
       "english_answers": [
@@ -92,7 +83,6 @@
       "english_gloss": "proud"
     },
     {
-      "id": "emotions_I_0010",
       "hanzi": "骄傲",
       "pinyin": "jiāo'ào",
       "english_answers": [
@@ -102,7 +92,6 @@
       "english_gloss": "proud; arrogant (depending on context)"
     },
     {
-      "id": "emotions_I_0011",
       "hanzi": "放心",
       "pinyin": "fàngxīn",
       "english_answers": [
@@ -112,7 +101,6 @@
       "english_gloss": "feel reassured; stop worrying"
     },
     {
-      "id": "emotions_I_0012",
       "hanzi": "安心",
       "pinyin": "ānxīn",
       "english_answers": [
@@ -122,7 +110,6 @@
       "english_gloss": "at ease; reassured"
     },
     {
-      "id": "emotions_I_0013",
       "hanzi": "轻松",
       "pinyin": "qīngsōng",
       "english_answers": [
@@ -131,7 +118,6 @@
       "english_gloss": "relaxed"
     },
     {
-      "id": "emotions_I_0014",
       "hanzi": "冷静",
       "pinyin": "lěngjìng",
       "english_answers": [
@@ -141,7 +127,6 @@
       "english_gloss": "calm; cool-headed"
     },
     {
-      "id": "emotions_I_0015",
       "hanzi": "感动",
       "pinyin": "gǎndòng",
       "english_answers": [
@@ -150,7 +135,6 @@
       "english_gloss": "emotionally moved"
     },
     {
-      "id": "emotions_I_0016",
       "hanzi": "感激",
       "pinyin": "gǎnjī",
       "english_answers": [
@@ -159,7 +143,6 @@
       "english_gloss": "grateful"
     },
     {
-      "id": "emotions_I_0017",
       "hanzi": "感谢",
       "pinyin": "gǎnxiè",
       "english_answers": [
@@ -169,7 +152,6 @@
       "english_gloss": "to thank; appreciate"
     },
     {
-      "id": "emotions_I_0018",
       "hanzi": "感恩",
       "pinyin": "gǎn'ēn",
       "english_answers": [
@@ -179,7 +161,6 @@
       "english_gloss": "grateful; thankful"
     },
     {
-      "id": "emotions_I_0019",
       "hanzi": "佩服",
       "pinyin": "pèifu",
       "english_answers": [
@@ -189,7 +170,6 @@
       "english_gloss": "admire; respect"
     },
     {
-      "id": "emotions_I_0020",
       "hanzi": "尊重",
       "pinyin": "zūnzhòng",
       "english_answers": [
@@ -198,7 +178,6 @@
       "english_gloss": "respect"
     },
     {
-      "id": "emotions_I_0021",
       "hanzi": "难过",
       "pinyin": "nánguò",
       "english_answers": [
@@ -208,7 +187,6 @@
       "english_gloss": "sad; upset"
     },
     {
-      "id": "emotions_I_0022",
       "hanzi": "伤心",
       "pinyin": "shāngxīn",
       "english_answers": [
@@ -218,7 +196,6 @@
       "english_gloss": "heartbroken; sad"
     },
     {
-      "id": "emotions_I_0023",
       "hanzi": "失望",
       "pinyin": "shīwàng",
       "english_answers": [
@@ -227,7 +204,6 @@
       "english_gloss": "disappointed"
     },
     {
-      "id": "emotions_I_0024",
       "hanzi": "沮丧",
       "pinyin": "jǔsàng",
       "english_answers": [
@@ -237,7 +213,6 @@
       "english_gloss": "discouraged; dejected"
     },
     {
-      "id": "emotions_I_0025",
       "hanzi": "郁闷",
       "pinyin": "yùmèn",
       "english_answers": [
@@ -247,7 +222,6 @@
       "english_gloss": "depressed; frustrated"
     },
     {
-      "id": "emotions_I_0026",
       "hanzi": "委屈",
       "pinyin": "wěiqu",
       "english_answers": [
@@ -257,7 +231,6 @@
       "english_gloss": "feel wronged; unfairly treated"
     },
     {
-      "id": "emotions_I_0027",
       "hanzi": "难受",
       "pinyin": "nánshòu",
       "english_answers": [
@@ -267,7 +240,6 @@
       "english_gloss": "feel bad; uncomfortable"
     },
     {
-      "id": "emotions_I_0028",
       "hanzi": "孤独",
       "pinyin": "gūdú",
       "english_answers": [
@@ -276,7 +248,6 @@
       "english_gloss": "lonely"
     },
     {
-      "id": "emotions_I_0029",
       "hanzi": "寂寞",
       "pinyin": "jìmò",
       "english_answers": [
@@ -286,7 +257,6 @@
       "english_gloss": "lonely; isolated"
     },
     {
-      "id": "emotions_I_0030",
       "hanzi": "无助",
       "pinyin": "wúzhù",
       "english_answers": [
@@ -295,7 +265,6 @@
       "english_gloss": "helpless"
     },
     {
-      "id": "emotions_I_0031",
       "hanzi": "累",
       "pinyin": "lèi",
       "english_answers": [
@@ -304,7 +273,6 @@
       "english_gloss": "tired"
     },
     {
-      "id": "emotions_I_0032",
       "hanzi": "疲惫",
       "pinyin": "píbèi",
       "english_answers": [
@@ -313,7 +281,6 @@
       "english_gloss": "exhausted"
     },
     {
-      "id": "emotions_I_0033",
       "hanzi": "压力",
       "pinyin": "yālì",
       "english_answers": [
@@ -323,7 +290,6 @@
       "english_gloss": "pressure; stress"
     },
     {
-      "id": "emotions_I_0034",
       "hanzi": "紧张",
       "pinyin": "jǐnzhāng",
       "english_answers": [
@@ -333,7 +299,6 @@
       "english_gloss": "nervous; tense"
     },
     {
-      "id": "emotions_I_0035",
       "hanzi": "焦虑",
       "pinyin": "jiāolǜ",
       "english_answers": [
@@ -342,7 +307,6 @@
       "english_gloss": "anxious"
     },
     {
-      "id": "emotions_I_0036",
       "hanzi": "担心",
       "pinyin": "dānxīn",
       "english_answers": [
@@ -351,7 +315,6 @@
       "english_gloss": "worry"
     },
     {
-      "id": "emotions_I_0037",
       "hanzi": "害怕",
       "pinyin": "hàipà",
       "english_answers": [
@@ -360,7 +323,6 @@
       "english_gloss": "afraid"
     },
     {
-      "id": "emotions_I_0038",
       "hanzi": "恐惧",
       "pinyin": "kǒngjù",
       "english_answers": [
@@ -370,7 +332,6 @@
       "english_gloss": "fear; dread"
     },
     {
-      "id": "emotions_I_0039",
       "hanzi": "慌张",
       "pinyin": "huāngzhāng",
       "english_answers": [
@@ -380,7 +341,6 @@
       "english_gloss": "flustered; panicked"
     },
     {
-      "id": "emotions_I_0040",
       "hanzi": "不安",
       "pinyin": "bù'ān",
       "english_answers": [
@@ -390,7 +350,6 @@
       "english_gloss": "uneasy; anxious"
     },
     {
-      "id": "emotions_I_0041",
       "hanzi": "生气",
       "pinyin": "shēngqì",
       "english_answers": [
@@ -399,7 +358,6 @@
       "english_gloss": "angry"
     },
     {
-      "id": "emotions_I_0042",
       "hanzi": "愤怒",
       "pinyin": "fènnù",
       "english_answers": [
@@ -409,7 +367,6 @@
       "english_gloss": "furious; angry"
     },
     {
-      "id": "emotions_I_0043",
       "hanzi": "烦躁",
       "pinyin": "fánzào",
       "english_answers": [
@@ -419,7 +376,6 @@
       "english_gloss": "irritable; restless"
     },
     {
-      "id": "emotions_I_0044",
       "hanzi": "不耐烦",
       "pinyin": "bú nàifán",
       "english_answers": [
@@ -428,7 +384,6 @@
       "english_gloss": "impatient"
     },
     {
-      "id": "emotions_I_0045",
       "hanzi": "嫉妒",
       "pinyin": "jídù",
       "english_answers": [
@@ -438,7 +393,6 @@
       "english_gloss": "jealous; envious"
     },
     {
-      "id": "emotions_I_0046",
       "hanzi": "羡慕",
       "pinyin": "xiànmù",
       "english_answers": [
@@ -448,7 +402,6 @@
       "english_gloss": "envy; admire someone's good fortune"
     },
     {
-      "id": "emotions_I_0047",
       "hanzi": "尴尬",
       "pinyin": "gāngà",
       "english_answers": [
@@ -458,7 +411,6 @@
       "english_gloss": "awkward; embarrassed"
     },
     {
-      "id": "emotions_I_0048",
       "hanzi": "害羞",
       "pinyin": "hàixiū",
       "english_answers": [
@@ -468,7 +420,6 @@
       "english_gloss": "shy; bashful"
     },
     {
-      "id": "emotions_I_0049",
       "hanzi": "丢脸",
       "pinyin": "diūliǎn",
       "english_answers": [
@@ -478,7 +429,6 @@
       "english_gloss": "lose face; embarrassing"
     },
     {
-      "id": "emotions_I_0050",
       "hanzi": "后悔",
       "pinyin": "hòuhuǐ",
       "english_answers": [
@@ -487,7 +437,6 @@
       "english_gloss": "regret"
     },
     {
-      "id": "emotions_I_0051",
       "hanzi": "内疚",
       "pinyin": "nèijiù",
       "english_answers": [
@@ -496,7 +445,6 @@
       "english_gloss": "feel guilty"
     },
     {
-      "id": "emotions_I_0052",
       "hanzi": "愧疚",
       "pinyin": "kuìjiù",
       "english_answers": [
@@ -506,7 +454,6 @@
       "english_gloss": "feel guilty; remorseful"
     },
     {
-      "id": "emotions_I_0053",
       "hanzi": "羞愧",
       "pinyin": "xiūkuì",
       "english_answers": [
@@ -515,7 +462,6 @@
       "english_gloss": "ashamed"
     },
     {
-      "id": "emotions_I_0054",
       "hanzi": "抱歉",
       "pinyin": "bàoqiàn",
       "english_answers": [
@@ -525,7 +471,6 @@
       "english_gloss": "sorry; apologetic"
     },
     {
-      "id": "emotions_I_0055",
       "hanzi": "对不起",
       "pinyin": "duìbuqǐ",
       "english_answers": [
@@ -534,7 +479,6 @@
       "english_gloss": "I'm sorry"
     },
     {
-      "id": "emotions_I_0056",
       "hanzi": "没关系",
       "pinyin": "méi guānxi",
       "english_answers": [
@@ -544,7 +488,6 @@
       "english_gloss": "It's okay; no problem"
     },
     {
-      "id": "emotions_I_0057",
       "hanzi": "没事",
       "pinyin": "méi shì",
       "english_answers": [
@@ -554,7 +497,6 @@
       "english_gloss": "It's fine; nothing's wrong"
     },
     {
-      "id": "emotions_I_0058",
       "hanzi": "别担心。",
       "pinyin": "Bié dānxīn.",
       "english_answers": [
@@ -563,7 +505,6 @@
       "english_gloss": "Don't worry."
     },
     {
-      "id": "emotions_I_0059",
       "hanzi": "别着急。",
       "pinyin": "Bié zháojí.",
       "english_answers": [
@@ -573,7 +514,6 @@
       "english_gloss": "Don't rush; don't panic."
     },
     {
-      "id": "emotions_I_0060",
       "hanzi": "慢慢来。",
       "pinyin": "Mànmàn lái.",
       "english_answers": [
@@ -582,7 +522,6 @@
       "english_gloss": "Take your time."
     },
     {
-      "id": "emotions_I_0061",
       "hanzi": "我有点紧张。",
       "pinyin": "Wǒ yǒudiǎn jǐnzhāng.",
       "english_answers": [
@@ -591,7 +530,6 @@
       "english_gloss": "I'm a little nervous."
     },
     {
-      "id": "emotions_I_0062",
       "hanzi": "我心情不好。",
       "pinyin": "Wǒ xīnqíng bù hǎo.",
       "english_answers": [
@@ -600,7 +538,6 @@
       "english_gloss": "I'm in a bad mood."
     },
     {
-      "id": "emotions_I_0063",
       "hanzi": "我今天心情不错。",
       "pinyin": "Wǒ jīntiān xīnqíng búcuò.",
       "english_answers": [
@@ -609,7 +546,6 @@
       "english_gloss": "I'm in a good mood today."
     },
     {
-      "id": "emotions_I_0064",
       "hanzi": "我真的很感动。",
       "pinyin": "Wǒ zhēn de hěn gǎndòng.",
       "english_answers": [
@@ -618,7 +554,6 @@
       "english_gloss": "I'm really touched."
     },
     {
-      "id": "emotions_I_0065",
       "hanzi": "我替你高兴。",
       "pinyin": "Wǒ tì nǐ gāoxìng.",
       "english_answers": [
@@ -627,7 +562,6 @@
       "english_gloss": "I'm happy for you."
     },
     {
-      "id": "emotions_I_0066",
       "hanzi": "我理解你的感受。",
       "pinyin": "Wǒ lǐjiě nǐ de gǎnshòu.",
       "english_answers": [
@@ -636,7 +570,6 @@
       "english_gloss": "I understand how you feel."
     },
     {
-      "id": "emotions_I_0067",
       "hanzi": "我能理解。",
       "pinyin": "Wǒ néng lǐjiě.",
       "english_answers": [
@@ -645,7 +578,6 @@
       "english_gloss": "I can understand."
     },
     {
-      "id": "emotions_I_0068",
       "hanzi": "听起来很难。",
       "pinyin": "Tīng qǐlái hěn nán.",
       "english_answers": [
@@ -654,7 +586,6 @@
       "english_gloss": "That sounds difficult."
     },
     {
-      "id": "emotions_I_0069",
       "hanzi": "你辛苦了。",
       "pinyin": "Nǐ xīnkǔ le.",
       "english_answers": [
@@ -664,7 +595,6 @@
       "english_gloss": "You've worked hard; thanks for your effort."
     },
     {
-      "id": "emotions_I_0070",
       "hanzi": "委屈你了。",
       "pinyin": "Wěiqu nǐ le.",
       "english_answers": [
@@ -673,7 +603,6 @@
       "english_gloss": "Sorry you had to put up with that."
     },
     {
-      "id": "emotions_I_0071",
       "hanzi": "我需要一点时间。",
       "pinyin": "Wǒ xūyào yìdiǎn shíjiān.",
       "english_answers": [
@@ -682,7 +611,6 @@
       "english_gloss": "I need a little time."
     },
     {
-      "id": "emotions_I_0072",
       "hanzi": "我想一个人静一静。",
       "pinyin": "Wǒ xiǎng yí ge rén jìng yí jìng.",
       "english_answers": [
@@ -691,7 +619,6 @@
       "english_gloss": "I want some time alone to calm down."
     },
     {
-      "id": "emotions_I_0073",
       "hanzi": "我们好好谈谈。",
       "pinyin": "Wǒmen hǎohāo tántan.",
       "english_answers": [
@@ -700,7 +627,6 @@
       "english_gloss": "Let's talk this through calmly."
     },
     {
-      "id": "emotions_I_0074",
       "hanzi": "我们之间有误会。",
       "pinyin": "Wǒmen zhījiān yǒu wùhuì.",
       "english_answers": [
@@ -709,7 +635,6 @@
       "english_gloss": "There's a misunderstanding between us."
     },
     {
-      "id": "emotions_I_0075",
       "hanzi": "误会",
       "pinyin": "wùhuì",
       "english_answers": [
@@ -719,7 +644,6 @@
       "english_gloss": "misunderstanding; misunderstand"
     },
     {
-      "id": "emotions_I_0076",
       "hanzi": "沟通",
       "pinyin": "gōutōng",
       "english_answers": [
@@ -728,7 +652,6 @@
       "english_gloss": "communicate"
     },
     {
-      "id": "emotions_I_0077",
       "hanzi": "表达",
       "pinyin": "biǎodá",
       "english_answers": [
@@ -737,7 +660,6 @@
       "english_gloss": "express"
     },
     {
-      "id": "emotions_I_0078",
       "hanzi": "感受",
       "pinyin": "gǎnshòu",
       "english_answers": [
@@ -747,7 +669,6 @@
       "english_gloss": "feelings; experience"
     },
     {
-      "id": "emotions_I_0079",
       "hanzi": "情绪",
       "pinyin": "qíngxù",
       "english_answers": [
@@ -757,7 +678,6 @@
       "english_gloss": "emotion; mood"
     },
     {
-      "id": "emotions_I_0080",
       "hanzi": "心情",
       "pinyin": "xīnqíng",
       "english_answers": [
@@ -766,7 +686,6 @@
       "english_gloss": "mood"
     },
     {
-      "id": "emotions_I_0081",
       "hanzi": "态度",
       "pinyin": "tàidu",
       "english_answers": [
@@ -775,7 +694,6 @@
       "english_gloss": "attitude"
     },
     {
-      "id": "emotions_I_0082",
       "hanzi": "信任",
       "pinyin": "xìnrèn",
       "english_answers": [
@@ -784,7 +702,6 @@
       "english_gloss": "trust"
     },
     {
-      "id": "emotions_I_0083",
       "hanzi": "支持",
       "pinyin": "zhīchí",
       "english_answers": [
@@ -793,7 +710,6 @@
       "english_gloss": "support"
     },
     {
-      "id": "emotions_I_0084",
       "hanzi": "鼓励",
       "pinyin": "gǔlì",
       "english_answers": [
@@ -802,7 +718,6 @@
       "english_gloss": "encourage"
     },
     {
-      "id": "emotions_I_0085",
       "hanzi": "安慰",
       "pinyin": "ānwèi",
       "english_answers": [
@@ -812,7 +727,6 @@
       "english_gloss": "comfort; console"
     },
     {
-      "id": "emotions_I_0086",
       "hanzi": "原谅",
       "pinyin": "yuánliàng",
       "english_answers": [
@@ -821,7 +735,6 @@
       "english_gloss": "forgive"
     },
     {
-      "id": "emotions_I_0087",
       "hanzi": "道歉",
       "pinyin": "dàoqiàn",
       "english_answers": [
@@ -830,7 +743,6 @@
       "english_gloss": "apologize"
     },
     {
-      "id": "emotions_I_0088",
       "hanzi": "解释",
       "pinyin": "jiěshì",
       "english_answers": [
@@ -839,7 +751,6 @@
       "english_gloss": "explain"
     },
     {
-      "id": "emotions_I_0089",
       "hanzi": "尊严",
       "pinyin": "zūnyán",
       "english_answers": [
@@ -848,7 +759,6 @@
       "english_gloss": "dignity"
     },
     {
-      "id": "emotions_I_0090",
       "hanzi": "界限",
       "pinyin": "jièxiàn",
       "english_answers": [
@@ -858,7 +768,6 @@
       "english_gloss": "boundary; limit"
     },
     {
-      "id": "emotions_I_0091",
       "hanzi": "隐私",
       "pinyin": "yǐnsī",
       "english_answers": [
@@ -867,7 +776,6 @@
       "english_gloss": "privacy"
     },
     {
-      "id": "emotions_I_0092",
       "hanzi": "诚实",
       "pinyin": "chéngshí",
       "english_answers": [
@@ -876,7 +784,6 @@
       "english_gloss": "honest"
     },
     {
-      "id": "emotions_I_0093",
       "hanzi": "坦诚",
       "pinyin": "tǎnchéng",
       "english_answers": [
@@ -886,7 +793,6 @@
       "english_gloss": "frank; open"
     },
     {
-      "id": "emotions_I_0094",
       "hanzi": "体谅",
       "pinyin": "tǐliàng",
       "english_answers": [
@@ -896,7 +802,6 @@
       "english_gloss": "be considerate; understand someone's difficulties"
     },
     {
-      "id": "emotions_I_0095",
       "hanzi": "理解",
       "pinyin": "lǐjiě",
       "english_answers": [
@@ -905,7 +810,6 @@
       "english_gloss": "understand"
     },
     {
-      "id": "emotions_I_0096",
       "hanzi": "接受",
       "pinyin": "jiēshòu",
       "english_answers": [
@@ -914,7 +818,6 @@
       "english_gloss": "accept"
     },
     {
-      "id": "emotions_I_0097",
       "hanzi": "拒绝",
       "pinyin": "jùjué",
       "english_answers": [
@@ -924,7 +827,6 @@
       "english_gloss": "refuse; reject"
     },
     {
-      "id": "emotions_I_0098",
       "hanzi": "不舒服",
       "pinyin": "bù shūfu",
       "english_answers": [
@@ -934,7 +836,6 @@
       "english_gloss": "uncomfortable; unwell"
     },
     {
-      "id": "emotions_I_0099",
       "hanzi": "我需要你尊重我。",
       "pinyin": "Wǒ xūyào nǐ zūnzhòng wǒ.",
       "english_answers": [
@@ -943,7 +844,6 @@
       "english_gloss": "I need you to respect me."
     },
     {
-      "id": "emotions_I_0100",
       "hanzi": "谢谢你告诉我。",
       "pinyin": "Xièxie nǐ gàosu wǒ.",
       "english_answers": [

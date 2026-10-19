@@ -1,913 +1,820 @@
-[
-  {
-    "id": "materials_I_001",
-    "hanzi": "材料",
-    "pinyin": "cáiliào",
-    "english_answers": [
-      "material"
-    ],
-    "english_gloss": "material"
-  },
-  {
-    "id": "materials_I_002",
-    "hanzi": "物质",
-    "pinyin": "wùzhì",
-    "english_answers": [
-      "substance",
-      "matter"
-    ],
-    "english_gloss": "substance / matter"
-  },
-  {
-    "id": "materials_I_003",
-    "hanzi": "原料",
-    "pinyin": "yuánliào",
-    "english_answers": [
-      "raw material"
-    ],
-    "english_gloss": "raw material"
-  },
-  {
-    "id": "materials_I_004",
-    "hanzi": "材质",
-    "pinyin": "cáizhì",
-    "english_answers": [
-      "material composition"
-    ],
-    "english_gloss": "material composition"
-  },
-  {
-    "id": "materials_I_005",
-    "hanzi": "天然材料",
-    "pinyin": "tiānrán cáiliào",
-    "english_answers": [
-      "natural material"
-    ],
-    "english_gloss": "natural material"
-  },
-  {
-    "id": "materials_I_006",
-    "hanzi": "人造材料",
-    "pinyin": "rénzào cáiliào",
-    "english_answers": [
-      "man-made material"
-    ],
-    "english_gloss": "man-made material"
-  },
-  {
-    "id": "materials_I_007",
-    "hanzi": "合成材料",
-    "pinyin": "héchéng cáiliào",
-    "english_answers": [
-      "synthetic material"
-    ],
-    "english_gloss": "synthetic material"
-  },
-  {
-    "id": "materials_I_008",
-    "hanzi": "可回收材料",
-    "pinyin": "kě huíshōu cáiliào",
-    "english_answers": [
-      "recyclable material"
-    ],
-    "english_gloss": "recyclable material"
-  },
-  {
-    "id": "materials_I_009",
-    "hanzi": "木头",
-    "pinyin": "mùtou",
-    "english_answers": [
-      "wood"
-    ],
-    "english_gloss": "wood"
-  },
-  {
-    "id": "materials_I_010",
-    "hanzi": "木材",
-    "pinyin": "mùcái",
-    "english_answers": [
-      "timber",
-      "lumber"
-    ],
-    "english_gloss": "timber / lumber"
-  },
-  {
-    "id": "materials_I_011",
-    "hanzi": "实木",
-    "pinyin": "shímù",
-    "english_answers": [
-      "solid wood"
-    ],
-    "english_gloss": "solid wood"
-  },
-  {
-    "id": "materials_I_012",
-    "hanzi": "胶合板",
-    "pinyin": "jiāohébǎn",
-    "english_answers": [
-      "plywood"
-    ],
-    "english_gloss": "plywood"
-  },
-  {
-    "id": "materials_I_013",
-    "hanzi": "竹子",
-    "pinyin": "zhúzi",
-    "english_answers": [
-      "bamboo"
-    ],
-    "english_gloss": "bamboo"
-  },
-  {
-    "id": "materials_I_014",
-    "hanzi": "竹制品",
-    "pinyin": "zhú zhìpǐn",
-    "english_answers": [
-      "bamboo product"
-    ],
-    "english_gloss": "bamboo product"
-  },
-  {
-    "id": "materials_I_015",
-    "hanzi": "纸张",
-    "pinyin": "zhǐzhāng",
-    "english_answers": [
-      "paper (sheets)"
-    ],
-    "english_gloss": "paper (sheets)"
-  },
-  {
-    "id": "materials_I_016",
-    "hanzi": "纸板",
-    "pinyin": "zhǐbǎn",
-    "english_answers": [
-      "cardboard"
-    ],
-    "english_gloss": "cardboard"
-  },
-  {
-    "id": "materials_I_017",
-    "hanzi": "瓦楞纸板",
-    "pinyin": "wǎléng zhǐbǎn",
-    "english_answers": [
-      "corrugated cardboard"
-    ],
-    "english_gloss": "corrugated cardboard"
-  },
-  {
-    "id": "materials_I_018",
-    "hanzi": "纸浆",
-    "pinyin": "zhǐjiāng",
-    "english_answers": [
-      "paper pulp"
-    ],
-    "english_gloss": "paper pulp"
-  },
-  {
-    "id": "materials_I_019",
-    "hanzi": "塑料",
-    "pinyin": "sùliào",
-    "english_answers": [
-      "plastic"
-    ],
-    "english_gloss": "plastic"
-  },
-  {
-    "id": "materials_I_020",
-    "hanzi": "塑料袋",
-    "pinyin": "sùliàodài",
-    "english_answers": [
-      "plastic bag"
-    ],
-    "english_gloss": "plastic bag"
-  },
-  {
-    "id": "materials_I_021",
-    "hanzi": "塑料薄膜",
-    "pinyin": "sùliào bómó",
-    "english_answers": [
-      "plastic film"
-    ],
-    "english_gloss": "plastic film"
-  },
-  {
-    "id": "materials_I_022",
-    "hanzi": "泡沫塑料",
-    "pinyin": "pàomò sùliào",
-    "english_answers": [
-      "foam plastic"
-    ],
-    "english_gloss": "foam plastic"
-  },
-  {
-    "id": "materials_I_023",
-    "hanzi": "树脂",
-    "pinyin": "shùzhī",
-    "english_answers": [
-      "resin"
-    ],
-    "english_gloss": "resin"
-  },
-  {
-    "id": "materials_I_024",
-    "hanzi": "橡胶",
-    "pinyin": "xiàngjiāo",
-    "english_answers": [
-      "rubber"
-    ],
-    "english_gloss": "rubber"
-  },
-  {
-    "id": "materials_I_025",
-    "hanzi": "天然橡胶",
-    "pinyin": "tiānrán xiàngjiāo",
-    "english_answers": [
-      "natural rubber"
-    ],
-    "english_gloss": "natural rubber"
-  },
-  {
-    "id": "materials_I_026",
-    "hanzi": "硅胶",
-    "pinyin": "guījiāo",
-    "english_answers": [
-      "silicone material"
-    ],
-    "english_gloss": "silicone material"
-  },
-  {
-    "id": "materials_I_027",
-    "hanzi": "海绵",
-    "pinyin": "hǎimián",
-    "english_answers": [
-      "sponge",
-      "foam"
-    ],
-    "english_gloss": "sponge / foam"
-  },
-  {
-    "id": "materials_I_028",
-    "hanzi": "乳胶",
-    "pinyin": "rǔjiāo",
-    "english_answers": [
-      "latex"
-    ],
-    "english_gloss": "latex"
-  },
-  {
-    "id": "materials_I_029",
-    "hanzi": "玻璃",
-    "pinyin": "bōli",
-    "english_answers": [
-      "glass"
-    ],
-    "english_gloss": "glass"
-  },
-  {
-    "id": "materials_I_030",
-    "hanzi": "钢化玻璃",
-    "pinyin": "gānghuà bōli",
-    "english_answers": [
-      "tempered glass"
-    ],
-    "english_gloss": "tempered glass"
-  },
-  {
-    "id": "materials_I_031",
-    "hanzi": "玻璃纤维",
-    "pinyin": "bōli xiānwéi",
-    "english_answers": [
-      "fiberglass"
-    ],
-    "english_gloss": "fiberglass"
-  },
-  {
-    "id": "materials_I_032",
-    "hanzi": "陶瓷",
-    "pinyin": "táocí",
-    "english_answers": [
-      "ceramic"
-    ],
-    "english_gloss": "ceramic"
-  },
-  {
-    "id": "materials_I_033",
-    "hanzi": "瓷器",
-    "pinyin": "cíqì",
-    "english_answers": [
-      "porcelain"
-    ],
-    "english_gloss": "porcelain"
-  },
-  {
-    "id": "materials_I_034",
-    "hanzi": "陶器",
-    "pinyin": "táoqì",
-    "english_answers": [
-      "earthenware",
-      "pottery"
-    ],
-    "english_gloss": "earthenware / pottery"
-  },
-  {
-    "id": "materials_I_035",
-    "hanzi": "黏土",
-    "pinyin": "niántǔ",
-    "english_answers": [
-      "clay"
-    ],
-    "english_gloss": "clay"
-  },
-  {
-    "id": "materials_I_036",
-    "hanzi": "砖",
-    "pinyin": "zhuān",
-    "english_answers": [
-      "brick"
-    ],
-    "english_gloss": "brick"
-  },
-  {
-    "id": "materials_I_037",
-    "hanzi": "水泥",
-    "pinyin": "shuǐní",
-    "english_answers": [
-      "cement"
-    ],
-    "english_gloss": "cement"
-  },
-  {
-    "id": "materials_I_038",
-    "hanzi": "混凝土",
-    "pinyin": "hùnníngtǔ",
-    "english_answers": [
-      "concrete"
-    ],
-    "english_gloss": "concrete"
-  },
-  {
-    "id": "materials_I_039",
-    "hanzi": "石头",
-    "pinyin": "shítou",
-    "english_answers": [
-      "stone"
-    ],
-    "english_gloss": "stone"
-  },
-  {
-    "id": "materials_I_040",
-    "hanzi": "大理石",
-    "pinyin": "dàlǐshí",
-    "english_answers": [
-      "marble"
-    ],
-    "english_gloss": "marble"
-  },
-  {
-    "id": "materials_I_041",
-    "hanzi": "花岗岩",
-    "pinyin": "huāgāngyán",
-    "english_answers": [
-      "granite"
-    ],
-    "english_gloss": "granite"
-  },
-  {
-    "id": "materials_I_042",
-    "hanzi": "石膏",
-    "pinyin": "shígāo",
-    "english_answers": [
-      "plaster",
-      "gypsum"
-    ],
-    "english_gloss": "plaster / gypsum"
-  },
-  {
-    "id": "materials_I_043",
-    "hanzi": "沙子",
-    "pinyin": "shāzi",
-    "english_answers": [
-      "sand"
-    ],
-    "english_gloss": "sand"
-  },
-  {
-    "id": "materials_I_044",
-    "hanzi": "砂砾",
-    "pinyin": "shālì",
-    "english_answers": [
-      "gravel"
-    ],
-    "english_gloss": "gravel"
-  },
-  {
-    "id": "materials_I_045",
-    "hanzi": "金属",
-    "pinyin": "jīnshǔ",
-    "english_answers": [
-      "metal"
-    ],
-    "english_gloss": "metal"
-  },
-  {
-    "id": "materials_I_046",
-    "hanzi": "钢",
-    "pinyin": "gāng",
-    "english_answers": [
-      "steel"
-    ],
-    "english_gloss": "steel"
-  },
-  {
-    "id": "materials_I_047",
-    "hanzi": "不锈钢",
-    "pinyin": "bùxiùgāng",
-    "english_answers": [
-      "stainless steel"
-    ],
-    "english_gloss": "stainless steel"
-  },
-  {
-    "id": "materials_I_048",
-    "hanzi": "铁",
-    "pinyin": "tiě",
-    "english_answers": [
-      "iron"
-    ],
-    "english_gloss": "iron"
-  },
-  {
-    "id": "materials_I_049",
-    "hanzi": "生铁",
-    "pinyin": "shēngtiě",
-    "english_answers": [
-      "pig iron",
-      "cast iron (raw)"
-    ],
-    "english_gloss": "pig iron / cast iron (raw)"
-  },
-  {
-    "id": "materials_I_050",
-    "hanzi": "铸铁",
-    "pinyin": "zhùtiě",
-    "english_answers": [
-      "cast iron"
-    ],
-    "english_gloss": "cast iron"
-  },
-  {
-    "id": "materials_I_051",
-    "hanzi": "铝",
-    "pinyin": "lǚ",
-    "english_answers": [
-      "aluminum"
-    ],
-    "english_gloss": "aluminum"
-  },
-  {
-    "id": "materials_I_052",
-    "hanzi": "铜",
-    "pinyin": "tóng",
-    "english_answers": [
-      "copper"
-    ],
-    "english_gloss": "copper"
-  },
-  {
-    "id": "materials_I_053",
-    "hanzi": "黄铜",
-    "pinyin": "huángtóng",
-    "english_answers": [
-      "brass"
-    ],
-    "english_gloss": "brass"
-  },
-  {
-    "id": "materials_I_054",
-    "hanzi": "青铜",
-    "pinyin": "qīngtóng",
-    "english_answers": [
-      "bronze"
-    ],
-    "english_gloss": "bronze"
-  },
-  {
-    "id": "materials_I_055",
-    "hanzi": "锡",
-    "pinyin": "xī",
-    "english_answers": [
-      "tin"
-    ],
-    "english_gloss": "tin"
-  },
-  {
-    "id": "materials_I_056",
-    "hanzi": "锌",
-    "pinyin": "xīn",
-    "english_answers": [
-      "zinc"
-    ],
-    "english_gloss": "zinc"
-  },
-  {
-    "id": "materials_I_057",
-    "hanzi": "镍",
-    "pinyin": "niè",
-    "english_answers": [
-      "nickel"
-    ],
-    "english_gloss": "nickel"
-  },
-  {
-    "id": "materials_I_058",
-    "hanzi": "铅",
-    "pinyin": "qiān",
-    "english_answers": [
-      "lead (metal)"
-    ],
-    "english_gloss": "lead (metal)"
-  },
-  {
-    "id": "materials_I_059",
-    "hanzi": "银",
-    "pinyin": "yín",
-    "english_answers": [
-      "silver"
-    ],
-    "english_gloss": "silver"
-  },
-  {
-    "id": "materials_I_060",
-    "hanzi": "金",
-    "pinyin": "jīn",
-    "english_answers": [
-      "gold"
-    ],
-    "english_gloss": "gold"
-  },
-  {
-    "id": "materials_I_061",
-    "hanzi": "合金",
-    "pinyin": "héjīn",
-    "english_answers": [
-      "alloy"
-    ],
-    "english_gloss": "alloy"
-  },
-  {
-    "id": "materials_I_062",
-    "hanzi": "金属丝",
-    "pinyin": "jīnshǔsī",
-    "english_answers": [
-      "metal wire"
-    ],
-    "english_gloss": "metal wire"
-  },
-  {
-    "id": "materials_I_063",
-    "hanzi": "金属板",
-    "pinyin": "jīnshǔbǎn",
-    "english_answers": [
-      "sheet metal"
-    ],
-    "english_gloss": "sheet metal"
-  },
-  {
-    "id": "materials_I_064",
-    "hanzi": "纤维",
-    "pinyin": "xiānwéi",
-    "english_answers": [
-      "fiber"
-    ],
-    "english_gloss": "fiber"
-  },
-  {
-    "id": "materials_I_065",
-    "hanzi": "布料",
-    "pinyin": "bùliào",
-    "english_answers": [
-      "fabric"
-    ],
-    "english_gloss": "fabric"
-  },
-  {
-    "id": "materials_I_066",
-    "hanzi": "棉花",
-    "pinyin": "miánhua",
-    "english_answers": [
-      "cotton"
-    ],
-    "english_gloss": "cotton"
-  },
-  {
-    "id": "materials_I_067",
-    "hanzi": "棉布",
-    "pinyin": "miánbù",
-    "english_answers": [
-      "cotton fabric"
-    ],
-    "english_gloss": "cotton fabric"
-  },
-  {
-    "id": "materials_I_068",
-    "hanzi": "麻布",
-    "pinyin": "mábù",
-    "english_answers": [
-      "linen",
-      "hemp fabric"
-    ],
-    "english_gloss": "linen / hemp fabric"
-  },
-  {
-    "id": "materials_I_069",
-    "hanzi": "亚麻",
-    "pinyin": "yàmá",
-    "english_answers": [
-      "flax",
-      "linen"
-    ],
-    "english_gloss": "flax / linen"
-  },
-  {
-    "id": "materials_I_070",
-    "hanzi": "羊毛",
-    "pinyin": "yángmáo",
-    "english_answers": [
-      "wool"
-    ],
-    "english_gloss": "wool"
-  },
-  {
-    "id": "materials_I_071",
-    "hanzi": "丝绸",
-    "pinyin": "sīchóu",
-    "english_answers": [
-      "silk"
-    ],
-    "english_gloss": "silk"
-  },
-  {
-    "id": "materials_I_072",
-    "hanzi": "真丝",
-    "pinyin": "zhēnsī",
-    "english_answers": [
-      "pure silk"
-    ],
-    "english_gloss": "pure silk"
-  },
-  {
-    "id": "materials_I_073",
-    "hanzi": "涤纶",
-    "pinyin": "dílún",
-    "english_answers": [
-      "polyester"
-    ],
-    "english_gloss": "polyester"
-  },
-  {
-    "id": "materials_I_074",
-    "hanzi": "尼龙",
-    "pinyin": "nílóng",
-    "english_answers": [
-      "nylon"
-    ],
-    "english_gloss": "nylon"
-  },
-  {
-    "id": "materials_I_075",
-    "hanzi": "氨纶",
-    "pinyin": "ānlún",
-    "english_answers": [
-      "spandex",
-      "elastane"
-    ],
-    "english_gloss": "spandex / elastane"
-  },
-  {
-    "id": "materials_I_076",
-    "hanzi": "人造革",
-    "pinyin": "rénzào gé",
-    "english_answers": [
-      "synthetic leather"
-    ],
-    "english_gloss": "synthetic leather"
-  },
-  {
-    "id": "materials_I_077",
-    "hanzi": "皮革",
-    "pinyin": "pígé",
-    "english_answers": [
-      "leather"
-    ],
-    "english_gloss": "leather"
-  },
-  {
-    "id": "materials_I_078",
-    "hanzi": "绒布",
-    "pinyin": "róngbù",
-    "english_answers": [
-      "velvet-like fabric"
-    ],
-    "english_gloss": "velvet-like fabric"
-  },
-  {
-    "id": "materials_I_079",
-    "hanzi": "毛毡",
-    "pinyin": "máozhān",
-    "english_answers": [
-      "felt"
-    ],
-    "english_gloss": "felt"
-  },
-  {
-    "id": "materials_I_080",
-    "hanzi": "胶水",
-    "pinyin": "jiāoshuǐ",
-    "english_answers": [
-      "glue"
-    ],
-    "english_gloss": "glue"
-  },
-  {
-    "id": "materials_I_081",
-    "hanzi": "黏合剂",
-    "pinyin": "niánhéjì",
-    "english_answers": [
-      "adhesive"
-    ],
-    "english_gloss": "adhesive"
-  },
-  {
-    "id": "materials_I_082",
-    "hanzi": "胶带",
-    "pinyin": "jiāodài",
-    "english_answers": [
-      "adhesive tape"
-    ],
-    "english_gloss": "adhesive tape"
-  },
-  {
-    "id": "materials_I_083",
-    "hanzi": "油漆",
-    "pinyin": "yóuqī",
-    "english_answers": [
-      "paint (for surfaces)"
-    ],
-    "english_gloss": "paint (for surfaces)"
-  },
-  {
-    "id": "materials_I_084",
-    "hanzi": "涂料",
-    "pinyin": "túliào",
-    "english_answers": [
-      "coating",
-      "paint"
-    ],
-    "english_gloss": "coating / paint"
-  },
-  {
-    "id": "materials_I_085",
-    "hanzi": "清漆",
-    "pinyin": "qīngqī",
-    "english_answers": [
-      "clear varnish"
-    ],
-    "english_gloss": "clear varnish"
-  },
-  {
-    "id": "materials_I_086",
-    "hanzi": "墨水",
-    "pinyin": "mòshuǐ",
-    "english_answers": [
-      "ink"
-    ],
-    "english_gloss": "ink"
-  },
-  {
-    "id": "materials_I_087",
-    "hanzi": "染料",
-    "pinyin": "rǎnliào",
-    "english_answers": [
-      "dye"
-    ],
-    "english_gloss": "dye"
-  },
-  {
-    "id": "materials_I_088",
-    "hanzi": "颜料",
-    "pinyin": "yánliào",
-    "english_answers": [
-      "pigment",
-      "artist's paint"
-    ],
-    "english_gloss": "pigment / artist's paint"
-  },
-  {
-    "id": "materials_I_089",
-    "hanzi": "蜡",
-    "pinyin": "là",
-    "english_answers": [
-      "wax"
-    ],
-    "english_gloss": "wax"
-  },
-  {
-    "id": "materials_I_090",
-    "hanzi": "石蜡",
-    "pinyin": "shílà",
-    "english_answers": [
-      "paraffin wax"
-    ],
-    "english_gloss": "paraffin wax"
-  },
-  {
-    "id": "materials_I_091",
-    "hanzi": "食用油",
-    "pinyin": "shíyòngyóu",
-    "english_answers": [
-      "cooking oil"
-    ],
-    "english_gloss": "cooking oil"
-  },
-  {
-    "id": "materials_I_092",
-    "hanzi": "润滑油",
-    "pinyin": "rùnhuáyóu",
-    "english_answers": [
-      "lubricating oil"
-    ],
-    "english_gloss": "lubricating oil"
-  },
-  {
-    "id": "materials_I_093",
-    "hanzi": "汽油",
-    "pinyin": "qìyóu",
-    "english_answers": [
-      "gasoline"
-    ],
-    "english_gloss": "gasoline"
-  },
-  {
-    "id": "materials_I_094",
-    "hanzi": "柴油",
-    "pinyin": "cháiyóu",
-    "english_answers": [
-      "diesel fuel"
-    ],
-    "english_gloss": "diesel fuel"
-  },
-  {
-    "id": "materials_I_095",
-    "hanzi": "酒精",
-    "pinyin": "jiǔjīng",
-    "english_answers": [
-      "alcohol (substance)"
-    ],
-    "english_gloss": "alcohol (substance)"
-  },
-  {
-    "id": "materials_I_096",
-    "hanzi": "醋",
-    "pinyin": "cù",
-    "english_answers": [
-      "vinegar"
-    ],
-    "english_gloss": "vinegar"
-  },
-  {
-    "id": "materials_I_097",
-    "hanzi": "盐",
-    "pinyin": "yán",
-    "english_answers": [
-      "salt"
-    ],
-    "english_gloss": "salt"
-  },
-  {
-    "id": "materials_I_098",
-    "hanzi": "小苏打",
-    "pinyin": "xiǎosūdǎ",
-    "english_answers": [
-      "baking soda"
-    ],
-    "english_gloss": "baking soda"
-  },
-  {
-    "id": "materials_I_099",
-    "hanzi": "漂白剂",
-    "pinyin": "piǎobáijì",
-    "english_answers": [
-      "bleach"
-    ],
-    "english_gloss": "bleach"
-  },
-  {
-    "id": "materials_I_100",
-    "hanzi": "洗涤剂",
-    "pinyin": "xǐdíjì",
-    "english_answers": [
-      "detergent"
-    ],
-    "english_gloss": "detergent"
-  }
-]
+{
+  "id": "materials_I",
+  "title": "Materials I",
+  "language": "zh-Hans",
+  "source": "existing deck",
+  "card_count": 100,
+  "cards": [
+    {
+      "hanzi": "材料",
+      "pinyin": "cáiliào",
+      "english_answers": [
+        "material"
+      ],
+      "english_gloss": "material"
+    },
+    {
+      "hanzi": "物质",
+      "pinyin": "wùzhì",
+      "english_answers": [
+        "substance",
+        "matter"
+      ],
+      "english_gloss": "substance / matter"
+    },
+    {
+      "hanzi": "原料",
+      "pinyin": "yuánliào",
+      "english_answers": [
+        "raw material"
+      ],
+      "english_gloss": "raw material"
+    },
+    {
+      "hanzi": "材质",
+      "pinyin": "cáizhì",
+      "english_answers": [
+        "material composition"
+      ],
+      "english_gloss": "material composition"
+    },
+    {
+      "hanzi": "天然材料",
+      "pinyin": "tiānrán cáiliào",
+      "english_answers": [
+        "natural material"
+      ],
+      "english_gloss": "natural material"
+    },
+    {
+      "hanzi": "人造材料",
+      "pinyin": "rénzào cáiliào",
+      "english_answers": [
+        "man-made material"
+      ],
+      "english_gloss": "man-made material"
+    },
+    {
+      "hanzi": "合成材料",
+      "pinyin": "héchéng cáiliào",
+      "english_answers": [
+        "synthetic material"
+      ],
+      "english_gloss": "synthetic material"
+    },
+    {
+      "hanzi": "可回收材料",
+      "pinyin": "kě huíshōu cáiliào",
+      "english_answers": [
+        "recyclable material"
+      ],
+      "english_gloss": "recyclable material"
+    },
+    {
+      "hanzi": "木头",
+      "pinyin": "mùtou",
+      "english_answers": [
+        "wood"
+      ],
+      "english_gloss": "wood"
+    },
+    {
+      "hanzi": "木材",
+      "pinyin": "mùcái",
+      "english_answers": [
+        "timber",
+        "lumber"
+      ],
+      "english_gloss": "timber / lumber"
+    },
+    {
+      "hanzi": "实木",
+      "pinyin": "shímù",
+      "english_answers": [
+        "solid wood"
+      ],
+      "english_gloss": "solid wood"
+    },
+    {
+      "hanzi": "胶合板",
+      "pinyin": "jiāohébǎn",
+      "english_answers": [
+        "plywood"
+      ],
+      "english_gloss": "plywood"
+    },
+    {
+      "hanzi": "竹子",
+      "pinyin": "zhúzi",
+      "english_answers": [
+        "bamboo"
+      ],
+      "english_gloss": "bamboo"
+    },
+    {
+      "hanzi": "竹制品",
+      "pinyin": "zhú zhìpǐn",
+      "english_answers": [
+        "bamboo product"
+      ],
+      "english_gloss": "bamboo product"
+    },
+    {
+      "hanzi": "纸张",
+      "pinyin": "zhǐzhāng",
+      "english_answers": [
+        "paper (sheets)"
+      ],
+      "english_gloss": "paper (sheets)"
+    },
+    {
+      "hanzi": "纸板",
+      "pinyin": "zhǐbǎn",
+      "english_answers": [
+        "cardboard"
+      ],
+      "english_gloss": "cardboard"
+    },
+    {
+      "hanzi": "瓦楞纸板",
+      "pinyin": "wǎléng zhǐbǎn",
+      "english_answers": [
+        "corrugated cardboard"
+      ],
+      "english_gloss": "corrugated cardboard"
+    },
+    {
+      "hanzi": "纸浆",
+      "pinyin": "zhǐjiāng",
+      "english_answers": [
+        "paper pulp"
+      ],
+      "english_gloss": "paper pulp"
+    },
+    {
+      "hanzi": "塑料",
+      "pinyin": "sùliào",
+      "english_answers": [
+        "plastic"
+      ],
+      "english_gloss": "plastic"
+    },
+    {
+      "hanzi": "塑料袋",
+      "pinyin": "sùliàodài",
+      "english_answers": [
+        "plastic bag"
+      ],
+      "english_gloss": "plastic bag"
+    },
+    {
+      "hanzi": "塑料薄膜",
+      "pinyin": "sùliào bómó",
+      "english_answers": [
+        "plastic film"
+      ],
+      "english_gloss": "plastic film"
+    },
+    {
+      "hanzi": "泡沫塑料",
+      "pinyin": "pàomò sùliào",
+      "english_answers": [
+        "foam plastic"
+      ],
+      "english_gloss": "foam plastic"
+    },
+    {
+      "hanzi": "树脂",
+      "pinyin": "shùzhī",
+      "english_answers": [
+        "resin"
+      ],
+      "english_gloss": "resin"
+    },
+    {
+      "hanzi": "橡胶",
+      "pinyin": "xiàngjiāo",
+      "english_answers": [
+        "rubber"
+      ],
+      "english_gloss": "rubber"
+    },
+    {
+      "hanzi": "天然橡胶",
+      "pinyin": "tiānrán xiàngjiāo",
+      "english_answers": [
+        "natural rubber"
+      ],
+      "english_gloss": "natural rubber"
+    },
+    {
+      "hanzi": "硅胶",
+      "pinyin": "guījiāo",
+      "english_answers": [
+        "silicone material"
+      ],
+      "english_gloss": "silicone material"
+    },
+    {
+      "hanzi": "海绵",
+      "pinyin": "hǎimián",
+      "english_answers": [
+        "sponge",
+        "foam"
+      ],
+      "english_gloss": "sponge / foam"
+    },
+    {
+      "hanzi": "乳胶",
+      "pinyin": "rǔjiāo",
+      "english_answers": [
+        "latex"
+      ],
+      "english_gloss": "latex"
+    },
+    {
+      "hanzi": "玻璃",
+      "pinyin": "bōli",
+      "english_answers": [
+        "glass"
+      ],
+      "english_gloss": "glass"
+    },
+    {
+      "hanzi": "钢化玻璃",
+      "pinyin": "gānghuà bōli",
+      "english_answers": [
+        "tempered glass"
+      ],
+      "english_gloss": "tempered glass"
+    },
+    {
+      "hanzi": "玻璃纤维",
+      "pinyin": "bōli xiānwéi",
+      "english_answers": [
+        "fiberglass"
+      ],
+      "english_gloss": "fiberglass"
+    },
+    {
+      "hanzi": "陶瓷",
+      "pinyin": "táocí",
+      "english_answers": [
+        "ceramic"
+      ],
+      "english_gloss": "ceramic"
+    },
+    {
+      "hanzi": "瓷器",
+      "pinyin": "cíqì",
+      "english_answers": [
+        "porcelain"
+      ],
+      "english_gloss": "porcelain"
+    },
+    {
+      "hanzi": "陶器",
+      "pinyin": "táoqì",
+      "english_answers": [
+        "earthenware",
+        "pottery"
+      ],
+      "english_gloss": "earthenware / pottery"
+    },
+    {
+      "hanzi": "黏土",
+      "pinyin": "niántǔ",
+      "english_answers": [
+        "clay"
+      ],
+      "english_gloss": "clay"
+    },
+    {
+      "hanzi": "砖",
+      "pinyin": "zhuān",
+      "english_answers": [
+        "brick"
+      ],
+      "english_gloss": "brick"
+    },
+    {
+      "hanzi": "水泥",
+      "pinyin": "shuǐní",
+      "english_answers": [
+        "cement"
+      ],
+      "english_gloss": "cement"
+    },
+    {
+      "hanzi": "混凝土",
+      "pinyin": "hùnníngtǔ",
+      "english_answers": [
+        "concrete"
+      ],
+      "english_gloss": "concrete"
+    },
+    {
+      "hanzi": "石头",
+      "pinyin": "shítou",
+      "english_answers": [
+        "stone"
+      ],
+      "english_gloss": "stone"
+    },
+    {
+      "hanzi": "大理石",
+      "pinyin": "dàlǐshí",
+      "english_answers": [
+        "marble"
+      ],
+      "english_gloss": "marble"
+    },
+    {
+      "hanzi": "花岗岩",
+      "pinyin": "huāgāngyán",
+      "english_answers": [
+        "granite"
+      ],
+      "english_gloss": "granite"
+    },
+    {
+      "hanzi": "石膏",
+      "pinyin": "shígāo",
+      "english_answers": [
+        "plaster",
+        "gypsum"
+      ],
+      "english_gloss": "plaster / gypsum"
+    },
+    {
+      "hanzi": "沙子",
+      "pinyin": "shāzi",
+      "english_answers": [
+        "sand"
+      ],
+      "english_gloss": "sand"
+    },
+    {
+      "hanzi": "砂砾",
+      "pinyin": "shālì",
+      "english_answers": [
+        "gravel"
+      ],
+      "english_gloss": "gravel"
+    },
+    {
+      "hanzi": "金属",
+      "pinyin": "jīnshǔ",
+      "english_answers": [
+        "metal"
+      ],
+      "english_gloss": "metal"
+    },
+    {
+      "hanzi": "钢",
+      "pinyin": "gāng",
+      "english_answers": [
+        "steel"
+      ],
+      "english_gloss": "steel"
+    },
+    {
+      "hanzi": "不锈钢",
+      "pinyin": "bùxiùgāng",
+      "english_answers": [
+        "stainless steel"
+      ],
+      "english_gloss": "stainless steel"
+    },
+    {
+      "hanzi": "铁",
+      "pinyin": "tiě",
+      "english_answers": [
+        "iron"
+      ],
+      "english_gloss": "iron"
+    },
+    {
+      "hanzi": "生铁",
+      "pinyin": "shēngtiě",
+      "english_answers": [
+        "pig iron",
+        "cast iron (raw)"
+      ],
+      "english_gloss": "pig iron / cast iron (raw)"
+    },
+    {
+      "hanzi": "铸铁",
+      "pinyin": "zhùtiě",
+      "english_answers": [
+        "cast iron"
+      ],
+      "english_gloss": "cast iron"
+    },
+    {
+      "hanzi": "铝",
+      "pinyin": "lǚ",
+      "english_answers": [
+        "aluminum"
+      ],
+      "english_gloss": "aluminum"
+    },
+    {
+      "hanzi": "铜",
+      "pinyin": "tóng",
+      "english_answers": [
+        "copper"
+      ],
+      "english_gloss": "copper"
+    },
+    {
+      "hanzi": "黄铜",
+      "pinyin": "huángtóng",
+      "english_answers": [
+        "brass"
+      ],
+      "english_gloss": "brass"
+    },
+    {
+      "hanzi": "青铜",
+      "pinyin": "qīngtóng",
+      "english_answers": [
+        "bronze"
+      ],
+      "english_gloss": "bronze"
+    },
+    {
+      "hanzi": "锡",
+      "pinyin": "xī",
+      "english_answers": [
+        "tin"
+      ],
+      "english_gloss": "tin"
+    },
+    {
+      "hanzi": "锌",
+      "pinyin": "xīn",
+      "english_answers": [
+        "zinc"
+      ],
+      "english_gloss": "zinc"
+    },
+    {
+      "hanzi": "镍",
+      "pinyin": "niè",
+      "english_answers": [
+        "nickel"
+      ],
+      "english_gloss": "nickel"
+    },
+    {
+      "hanzi": "铅",
+      "pinyin": "qiān",
+      "english_answers": [
+        "lead (metal)"
+      ],
+      "english_gloss": "lead (metal)"
+    },
+    {
+      "hanzi": "银",
+      "pinyin": "yín",
+      "english_answers": [
+        "silver"
+      ],
+      "english_gloss": "silver"
+    },
+    {
+      "hanzi": "金",
+      "pinyin": "jīn",
+      "english_answers": [
+        "gold"
+      ],
+      "english_gloss": "gold"
+    },
+    {
+      "hanzi": "合金",
+      "pinyin": "héjīn",
+      "english_answers": [
+        "alloy"
+      ],
+      "english_gloss": "alloy"
+    },
+    {
+      "hanzi": "金属丝",
+      "pinyin": "jīnshǔsī",
+      "english_answers": [
+        "metal wire"
+      ],
+      "english_gloss": "metal wire"
+    },
+    {
+      "hanzi": "金属板",
+      "pinyin": "jīnshǔbǎn",
+      "english_answers": [
+        "sheet metal"
+      ],
+      "english_gloss": "sheet metal"
+    },
+    {
+      "hanzi": "纤维",
+      "pinyin": "xiānwéi",
+      "english_answers": [
+        "fiber"
+      ],
+      "english_gloss": "fiber"
+    },
+    {
+      "hanzi": "布料",
+      "pinyin": "bùliào",
+      "english_answers": [
+        "fabric"
+      ],
+      "english_gloss": "fabric"
+    },
+    {
+      "hanzi": "棉花",
+      "pinyin": "miánhua",
+      "english_answers": [
+        "cotton"
+      ],
+      "english_gloss": "cotton"
+    },
+    {
+      "hanzi": "棉布",
+      "pinyin": "miánbù",
+      "english_answers": [
+        "cotton fabric"
+      ],
+      "english_gloss": "cotton fabric"
+    },
+    {
+      "hanzi": "麻布",
+      "pinyin": "mábù",
+      "english_answers": [
+        "linen",
+        "hemp fabric"
+      ],
+      "english_gloss": "linen / hemp fabric"
+    },
+    {
+      "hanzi": "亚麻",
+      "pinyin": "yàmá",
+      "english_answers": [
+        "flax",
+        "linen"
+      ],
+      "english_gloss": "flax / linen"
+    },
+    {
+      "hanzi": "羊毛",
+      "pinyin": "yángmáo",
+      "english_answers": [
+        "wool"
+      ],
+      "english_gloss": "wool"
+    },
+    {
+      "hanzi": "丝绸",
+      "pinyin": "sīchóu",
+      "english_answers": [
+        "silk"
+      ],
+      "english_gloss": "silk"
+    },
+    {
+      "hanzi": "真丝",
+      "pinyin": "zhēnsī",
+      "english_answers": [
+        "pure silk"
+      ],
+      "english_gloss": "pure silk"
+    },
+    {
+      "hanzi": "涤纶",
+      "pinyin": "dílún",
+      "english_answers": [
+        "polyester"
+      ],
+      "english_gloss": "polyester"
+    },
+    {
+      "hanzi": "尼龙",
+      "pinyin": "nílóng",
+      "english_answers": [
+        "nylon"
+      ],
+      "english_gloss": "nylon"
+    },
+    {
+      "hanzi": "氨纶",
+      "pinyin": "ānlún",
+      "english_answers": [
+        "spandex",
+        "elastane"
+      ],
+      "english_gloss": "spandex / elastane"
+    },
+    {
+      "hanzi": "人造革",
+      "pinyin": "rénzào gé",
+      "english_answers": [
+        "synthetic leather"
+      ],
+      "english_gloss": "synthetic leather"
+    },
+    {
+      "hanzi": "皮革",
+      "pinyin": "pígé",
+      "english_answers": [
+        "leather"
+      ],
+      "english_gloss": "leather"
+    },
+    {
+      "hanzi": "绒布",
+      "pinyin": "róngbù",
+      "english_answers": [
+        "velvet-like fabric"
+      ],
+      "english_gloss": "velvet-like fabric"
+    },
+    {
+      "hanzi": "毛毡",
+      "pinyin": "máozhān",
+      "english_answers": [
+        "felt"
+      ],
+      "english_gloss": "felt"
+    },
+    {
+      "hanzi": "胶水",
+      "pinyin": "jiāoshuǐ",
+      "english_answers": [
+        "glue"
+      ],
+      "english_gloss": "glue"
+    },
+    {
+      "hanzi": "黏合剂",
+      "pinyin": "niánhéjì",
+      "english_answers": [
+        "adhesive"
+      ],
+      "english_gloss": "adhesive"
+    },
+    {
+      "hanzi": "胶带",
+      "pinyin": "jiāodài",
+      "english_answers": [
+        "adhesive tape"
+      ],
+      "english_gloss": "adhesive tape"
+    },
+    {
+      "hanzi": "油漆",
+      "pinyin": "yóuqī",
+      "english_answers": [
+        "paint (for surfaces)"
+      ],
+      "english_gloss": "paint (for surfaces)"
+    },
+    {
+      "hanzi": "涂料",
+      "pinyin": "túliào",
+      "english_answers": [
+        "coating",
+        "paint"
+      ],
+      "english_gloss": "coating / paint"
+    },
+    {
+      "hanzi": "清漆",
+      "pinyin": "qīngqī",
+      "english_answers": [
+        "clear varnish"
+      ],
+      "english_gloss": "clear varnish"
+    },
+    {
+      "hanzi": "墨水",
+      "pinyin": "mòshuǐ",
+      "english_answers": [
+        "ink"
+      ],
+      "english_gloss": "ink"
+    },
+    {
+      "hanzi": "染料",
+      "pinyin": "rǎnliào",
+      "english_answers": [
+        "dye"
+      ],
+      "english_gloss": "dye"
+    },
+    {
+      "hanzi": "颜料",
+      "pinyin": "yánliào",
+      "english_answers": [
+        "pigment",
+        "artist's paint"
+      ],
+      "english_gloss": "pigment / artist's paint"
+    },
+    {
+      "hanzi": "蜡",
+      "pinyin": "là",
+      "english_answers": [
+        "wax"
+      ],
+      "english_gloss": "wax"
+    },
+    {
+      "hanzi": "石蜡",
+      "pinyin": "shílà",
+      "english_answers": [
+        "paraffin wax"
+      ],
+      "english_gloss": "paraffin wax"
+    },
+    {
+      "hanzi": "食用油",
+      "pinyin": "shíyòngyóu",
+      "english_answers": [
+        "cooking oil"
+      ],
+      "english_gloss": "cooking oil"
+    },
+    {
+      "hanzi": "润滑油",
+      "pinyin": "rùnhuáyóu",
+      "english_answers": [
+        "lubricating oil"
+      ],
+      "english_gloss": "lubricating oil"
+    },
+    {
+      "hanzi": "汽油",
+      "pinyin": "qìyóu",
+      "english_answers": [
+        "gasoline"
+      ],
+      "english_gloss": "gasoline"
+    },
+    {
+      "hanzi": "柴油",
+      "pinyin": "cháiyóu",
+      "english_answers": [
+        "diesel fuel"
+      ],
+      "english_gloss": "diesel fuel"
+    },
+    {
+      "hanzi": "酒精",
+      "pinyin": "jiǔjīng",
+      "english_answers": [
+        "alcohol (substance)"
+      ],
+      "english_gloss": "alcohol (substance)"
+    },
+    {
+      "hanzi": "醋",
+      "pinyin": "cù",
+      "english_answers": [
+        "vinegar"
+      ],
+      "english_gloss": "vinegar"
+    },
+    {
+      "hanzi": "盐",
+      "pinyin": "yán",
+      "english_answers": [
+        "salt"
+      ],
+      "english_gloss": "salt"
+    },
+    {
+      "hanzi": "小苏打",
+      "pinyin": "xiǎosūdǎ",
+      "english_answers": [
+        "baking soda"
+      ],
+      "english_gloss": "baking soda"
+    },
+    {
+      "hanzi": "漂白剂",
+      "pinyin": "piǎobáijì",
+      "english_answers": [
+        "bleach"
+      ],
+      "english_gloss": "bleach"
+    },
+    {
+      "hanzi": "洗涤剂",
+      "pinyin": "xǐdíjì",
+      "english_answers": [
+        "detergent"
+      ],
+      "english_gloss": "detergent"
+    }
+  ]
+}

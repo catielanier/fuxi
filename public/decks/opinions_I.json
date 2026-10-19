@@ -1,9 +1,11 @@
 {
   "id": "opinions_I",
   "title": "Expressing Opinions I — 喜好、看法与态度",
+  "language": "zh-Hans",
+  "source": "existing deck",
+  "card_count": 100,
   "cards": [
     {
-      "id": "opinions_I_0001",
       "hanzi": "喜欢",
       "pinyin": "xǐhuan",
       "english_answers": [
@@ -12,7 +14,6 @@
       "english_gloss": "to like"
     },
     {
-      "id": "opinions_I_0002",
       "hanzi": "我喜欢这个。",
       "pinyin": "Wǒ xǐhuan zhège.",
       "english_answers": [
@@ -21,7 +22,6 @@
       "english_gloss": "I like this."
     },
     {
-      "id": "opinions_I_0003",
       "hanzi": "很喜欢",
       "pinyin": "hěn xǐhuan",
       "english_answers": [
@@ -30,7 +30,6 @@
       "english_gloss": "really like"
     },
     {
-      "id": "opinions_I_0004",
       "hanzi": "特别喜欢",
       "pinyin": "tèbié xǐhuan",
       "english_answers": [
@@ -39,7 +38,6 @@
       "english_gloss": "especially like"
     },
     {
-      "id": "opinions_I_0005",
       "hanzi": "最喜欢",
       "pinyin": "zuì xǐhuan",
       "english_answers": [
@@ -49,7 +47,6 @@
       "english_gloss": "like the most; favorite"
     },
     {
-      "id": "opinions_I_0006",
       "hanzi": "我最喜欢这首歌。",
       "pinyin": "Wǒ zuì xǐhuan zhè shǒu gē.",
       "english_answers": [
@@ -58,7 +55,6 @@
       "english_gloss": "This is my favorite song."
     },
     {
-      "id": "opinions_I_0007",
       "hanzi": "喜爱",
       "pinyin": "xǐ'ài",
       "english_answers": [
@@ -68,7 +64,6 @@
       "english_gloss": "to love; to be fond of (somewhat formal)"
     },
     {
-      "id": "opinions_I_0008",
       "hanzi": "热爱",
       "pinyin": "rè'ài",
       "english_answers": [
@@ -78,7 +73,6 @@
       "english_gloss": "to love passionately; be devoted to"
     },
     {
-      "id": "opinions_I_0009",
       "hanzi": "我热爱音乐。",
       "pinyin": "Wǒ rè'ài yīnyuè.",
       "english_answers": [
@@ -87,7 +81,6 @@
       "english_gloss": "I'm passionate about music."
     },
     {
-      "id": "opinions_I_0010",
       "hanzi": "爱好",
       "pinyin": "àihào",
       "english_answers": [
@@ -98,7 +91,6 @@
       "english_gloss": "hobby; interest; to be fond of"
     },
     {
-      "id": "opinions_I_0011",
       "hanzi": "感兴趣",
       "pinyin": "gǎn xìngqù",
       "english_answers": [
@@ -107,7 +99,6 @@
       "english_gloss": "to be interested"
     },
     {
-      "id": "opinions_I_0012",
       "hanzi": "我对音乐感兴趣。",
       "pinyin": "Wǒ duì yīnyuè gǎn xìngqù.",
       "english_answers": [
@@ -116,7 +107,6 @@
       "english_gloss": "I'm interested in music."
     },
     {
-      "id": "opinions_I_0013",
       "hanzi": "有兴趣",
       "pinyin": "yǒu xìngqù",
       "english_answers": [
@@ -125,7 +115,6 @@
       "english_gloss": "to have an interest"
     },
     {
-      "id": "opinions_I_0014",
       "hanzi": "没兴趣",
       "pinyin": "méi xìngqù",
       "english_answers": [
@@ -134,7 +123,6 @@
       "english_gloss": "not interested"
     },
     {
-      "id": "opinions_I_0015",
       "hanzi": "不感兴趣",
       "pinyin": "bù gǎn xìngqù",
       "english_answers": [
@@ -143,7 +131,6 @@
       "english_gloss": "not interested in"
     },
     {
-      "id": "opinions_I_0016",
       "hanzi": "欣赏",
       "pinyin": "xīnshǎng",
       "english_answers": [
@@ -153,7 +140,6 @@
       "english_gloss": "to appreciate; admire"
     },
     {
-      "id": "opinions_I_0017",
       "hanzi": "我很欣赏她的作品。",
       "pinyin": "Wǒ hěn xīnshǎng tā de zuòpǐn.",
       "english_answers": [
@@ -162,7 +148,6 @@
       "english_gloss": "I really appreciate her work."
     },
     {
-      "id": "opinions_I_0018",
       "hanzi": "享受",
       "pinyin": "xiǎngshòu",
       "english_answers": [
@@ -172,7 +157,6 @@
       "english_gloss": "to enjoy; take pleasure in"
     },
     {
-      "id": "opinions_I_0019",
       "hanzi": "我很享受这个过程。",
       "pinyin": "Wǒ hěn xiǎngshòu zhège guòchéng.",
       "english_answers": [
@@ -181,7 +165,6 @@
       "english_gloss": "I really enjoy the process."
     },
     {
-      "id": "opinions_I_0020",
       "hanzi": "合我的口味",
       "pinyin": "hé wǒ de kǒuwèi",
       "english_answers": [
@@ -190,7 +173,6 @@
       "english_gloss": "suits my taste"
     },
     {
-      "id": "opinions_I_0021",
       "hanzi": "不喜欢",
       "pinyin": "bù xǐhuan",
       "english_answers": [
@@ -200,7 +182,6 @@
       "english_gloss": "to dislike; not like"
     },
     {
-      "id": "opinions_I_0022",
       "hanzi": "不太喜欢",
       "pinyin": "bú tài xǐhuan",
       "english_answers": [
@@ -209,7 +190,6 @@
       "english_gloss": "don't really like"
     },
     {
-      "id": "opinions_I_0023",
       "hanzi": "不是很喜欢",
       "pinyin": "bú shì hěn xǐhuan",
       "english_answers": [
@@ -218,7 +198,6 @@
       "english_gloss": "not particularly fond of"
     },
     {
-      "id": "opinions_I_0024",
       "hanzi": "讨厌",
       "pinyin": "tǎoyàn",
       "english_answers": [
@@ -228,7 +207,6 @@
       "english_gloss": "to hate; find annoying"
     },
     {
-      "id": "opinions_I_0025",
       "hanzi": "我讨厌排队。",
       "pinyin": "Wǒ tǎoyàn páiduì.",
       "english_answers": [
@@ -237,7 +215,6 @@
       "english_gloss": "I hate waiting in line."
     },
     {
-      "id": "opinions_I_0026",
       "hanzi": "厌恶",
       "pinyin": "yànwù",
       "english_answers": [
@@ -247,7 +224,6 @@
       "english_gloss": "to loathe; detest"
     },
     {
-      "id": "opinions_I_0027",
       "hanzi": "反感",
       "pinyin": "fǎngǎn",
       "english_answers": [
@@ -256,7 +232,6 @@
       "english_gloss": "to feel aversion or dislike"
     },
     {
-      "id": "opinions_I_0028",
       "hanzi": "我对这种态度很反感。",
       "pinyin": "Wǒ duì zhè zhǒng tàidu hěn fǎngǎn.",
       "english_answers": [
@@ -265,7 +240,6 @@
       "english_gloss": "That attitude really puts me off."
     },
     {
-      "id": "opinions_I_0029",
       "hanzi": "受不了",
       "pinyin": "shòu bu liǎo",
       "english_answers": [
@@ -275,7 +249,6 @@
       "english_gloss": "can't stand; can't bear"
     },
     {
-      "id": "opinions_I_0030",
       "hanzi": "我受不了这个声音。",
       "pinyin": "Wǒ shòu bu liǎo zhège shēngyīn.",
       "english_answers": [
@@ -284,7 +257,6 @@
       "english_gloss": "I can't stand this sound."
     },
     {
-      "id": "opinions_I_0031",
       "hanzi": "烦",
       "pinyin": "fán",
       "english_answers": [
@@ -294,7 +266,6 @@
       "english_gloss": "annoying; fed up"
     },
     {
-      "id": "opinions_I_0032",
       "hanzi": "真烦！",
       "pinyin": "Zhēn fán!",
       "english_answers": [
@@ -303,7 +274,6 @@
       "english_gloss": "So annoying!"
     },
     {
-      "id": "opinions_I_0033",
       "hanzi": "无聊",
       "pinyin": "wúliáo",
       "english_answers": [
@@ -313,7 +283,6 @@
       "english_gloss": "boring; bored"
     },
     {
-      "id": "opinions_I_0034",
       "hanzi": "没意思",
       "pinyin": "méi yìsi",
       "english_answers": [
@@ -323,7 +292,6 @@
       "english_gloss": "uninteresting; no fun"
     },
     {
-      "id": "opinions_I_0035",
       "hanzi": "有意思",
       "pinyin": "yǒu yìsi",
       "english_answers": [
@@ -333,7 +301,6 @@
       "english_gloss": "interesting; amusing"
     },
     {
-      "id": "opinions_I_0036",
       "hanzi": "没什么感觉",
       "pinyin": "méi shénme gǎnjué",
       "english_answers": [
@@ -342,7 +309,6 @@
       "english_gloss": "don't feel much about it"
     },
     {
-      "id": "opinions_I_0037",
       "hanzi": "无所谓",
       "pinyin": "wúsuǒwèi",
       "english_answers": [
@@ -352,7 +318,6 @@
       "english_gloss": "don't mind; don't particularly care"
     },
     {
-      "id": "opinions_I_0038",
       "hanzi": "随便",
       "pinyin": "suíbiàn",
       "english_answers": [
@@ -362,7 +327,6 @@
       "english_gloss": "whatever; either is fine"
     },
     {
-      "id": "opinions_I_0039",
       "hanzi": "我不介意。",
       "pinyin": "Wǒ bú jièyì.",
       "english_answers": [
@@ -371,7 +335,6 @@
       "english_gloss": "I don't mind."
     },
     {
-      "id": "opinions_I_0040",
       "hanzi": "我介意。",
       "pinyin": "Wǒ jièyì.",
       "english_answers": [
@@ -380,7 +343,6 @@
       "english_gloss": "I do mind."
     },
     {
-      "id": "opinions_I_0041",
       "hanzi": "开始喜欢",
       "pinyin": "kāishǐ xǐhuan",
       "english_answers": [
@@ -389,7 +351,6 @@
       "english_gloss": "start to like"
     },
     {
-      "id": "opinions_I_0042",
       "hanzi": "我开始喜欢中文了。",
       "pinyin": "Wǒ kāishǐ xǐhuan Zhōngwén le.",
       "english_answers": [
@@ -398,7 +359,6 @@
       "english_gloss": "I'm starting to like Chinese."
     },
     {
-      "id": "opinions_I_0043",
       "hanzi": "喜欢上",
       "pinyin": "xǐhuan shàng",
       "english_answers": [
@@ -408,7 +368,6 @@
       "english_gloss": "come to like; develop a liking for"
     },
     {
-      "id": "opinions_I_0044",
       "hanzi": "我喜欢上了这座城市。",
       "pinyin": "Wǒ xǐhuan shàng le zhè zuò chéngshì.",
       "english_answers": [
@@ -417,7 +376,6 @@
       "english_gloss": "I've grown fond of this city."
     },
     {
-      "id": "opinions_I_0045",
       "hanzi": "爱上",
       "pinyin": "ài shàng",
       "english_answers": [
@@ -426,7 +384,6 @@
       "english_gloss": "fall in love with"
     },
     {
-      "id": "opinions_I_0046",
       "hanzi": "越来越喜欢",
       "pinyin": "yuè lái yuè xǐhuan",
       "english_answers": [
@@ -435,7 +392,6 @@
       "english_gloss": "like more and more"
     },
     {
-      "id": "opinions_I_0047",
       "hanzi": "我越来越喜欢这里了。",
       "pinyin": "Wǒ yuè lái yuè xǐhuan zhèlǐ le.",
       "english_answers": [
@@ -444,7 +400,6 @@
       "english_gloss": "I like it here more and more."
     },
     {
-      "id": "opinions_I_0048",
       "hanzi": "慢慢喜欢上",
       "pinyin": "mànmàn xǐhuan shàng",
       "english_answers": [
@@ -453,7 +408,6 @@
       "english_gloss": "gradually come to like"
     },
     {
-      "id": "opinions_I_0049",
       "hanzi": "渐渐习惯",
       "pinyin": "jiànjiàn xíguàn",
       "english_answers": [
@@ -462,7 +416,6 @@
       "english_gloss": "gradually get used to"
     },
     {
-      "id": "opinions_I_0050",
       "hanzi": "习惯了",
       "pinyin": "xíguàn le",
       "english_answers": [
@@ -471,7 +424,6 @@
       "english_gloss": "have gotten used to it"
     },
     {
-      "id": "opinions_I_0051",
       "hanzi": "曾经喜欢",
       "pinyin": "céngjīng xǐhuan",
       "english_answers": [
@@ -481,7 +433,6 @@
       "english_gloss": "used to like; liked before"
     },
     {
-      "id": "opinions_I_0052",
       "hanzi": "以前不喜欢",
       "pinyin": "yǐqián bù xǐhuan",
       "english_answers": [
@@ -490,7 +441,6 @@
       "english_gloss": "didn't like before"
     },
     {
-      "id": "opinions_I_0053",
       "hanzi": "现在喜欢了",
       "pinyin": "xiànzài xǐhuan le",
       "english_answers": [
@@ -499,7 +449,6 @@
       "english_gloss": "like it now"
     },
     {
-      "id": "opinions_I_0054",
       "hanzi": "不再喜欢",
       "pinyin": "bú zài xǐhuan",
       "english_answers": [
@@ -508,7 +457,6 @@
       "english_gloss": "no longer like"
     },
     {
-      "id": "opinions_I_0055",
       "hanzi": "没那么喜欢了",
       "pinyin": "méi nàme xǐhuan le",
       "english_answers": [
@@ -517,7 +465,6 @@
       "english_gloss": "don't like it as much anymore"
     },
     {
-      "id": "opinions_I_0056",
       "hanzi": "喜欢得不得了",
       "pinyin": "xǐhuan de bùdéliǎo",
       "english_answers": [
@@ -526,7 +473,6 @@
       "english_gloss": "like it immensely"
     },
     {
-      "id": "opinions_I_0057",
       "hanzi": "看腻了",
       "pinyin": "kàn nì le",
       "english_answers": [
@@ -535,7 +481,6 @@
       "english_gloss": "tired of seeing/watching it"
     },
     {
-      "id": "opinions_I_0058",
       "hanzi": "听腻了",
       "pinyin": "tīng nì le",
       "english_answers": [
@@ -544,7 +489,6 @@
       "english_gloss": "tired of hearing/listening to it"
     },
     {
-      "id": "opinions_I_0059",
       "hanzi": "舍不得",
       "pinyin": "shěbude",
       "english_answers": [
@@ -554,7 +498,6 @@
       "english_gloss": "reluctant to part with; can't bear to"
     },
     {
-      "id": "opinions_I_0060",
       "hanzi": "改变看法",
       "pinyin": "gǎibiàn kànfǎ",
       "english_answers": [
@@ -563,7 +506,6 @@
       "english_gloss": "change one's opinion"
     },
     {
-      "id": "opinions_I_0061",
       "hanzi": "更喜欢",
       "pinyin": "gèng xǐhuan",
       "english_answers": [
@@ -573,7 +515,6 @@
       "english_gloss": "prefer; like more"
     },
     {
-      "id": "opinions_I_0062",
       "hanzi": "比较喜欢",
       "pinyin": "bǐjiào xǐhuan",
       "english_answers": [
@@ -583,7 +524,6 @@
       "english_gloss": "relatively prefer; quite like"
     },
     {
-      "id": "opinions_I_0063",
       "hanzi": "我比较喜欢摇滚乐。",
       "pinyin": "Wǒ bǐjiào xǐhuan yáogǔnyuè.",
       "english_answers": [
@@ -592,7 +532,6 @@
       "english_gloss": "I tend to prefer rock."
     },
     {
-      "id": "opinions_I_0064",
       "hanzi": "最爱",
       "pinyin": "zuì ài",
       "english_answers": [
@@ -602,7 +541,6 @@
       "english_gloss": "favorite; love the most"
     },
     {
-      "id": "opinions_I_0065",
       "hanzi": "宁愿",
       "pinyin": "nìngyuàn",
       "english_answers": [
@@ -611,7 +549,6 @@
       "english_gloss": "would rather"
     },
     {
-      "id": "opinions_I_0066",
       "hanzi": "我宁愿待在家里。",
       "pinyin": "Wǒ nìngyuàn dāi zài jiālǐ.",
       "english_answers": [
@@ -620,7 +557,6 @@
       "english_gloss": "I'd rather stay home."
     },
     {
-      "id": "opinions_I_0067",
       "hanzi": "比起……更喜欢……",
       "pinyin": "bǐqǐ… gèng xǐhuan…",
       "english_answers": [
@@ -629,7 +565,6 @@
       "english_gloss": "prefer … to …"
     },
     {
-      "id": "opinions_I_0068",
       "hanzi": "两个都喜欢",
       "pinyin": "liǎng ge dōu xǐhuan",
       "english_answers": [
@@ -638,7 +573,6 @@
       "english_gloss": "like both"
     },
     {
-      "id": "opinions_I_0069",
       "hanzi": "两个都不喜欢",
       "pinyin": "liǎng ge dōu bù xǐhuan",
       "english_answers": [
@@ -647,7 +581,6 @@
       "english_gloss": "like neither"
     },
     {
-      "id": "opinions_I_0070",
       "hanzi": "各有各的好处",
       "pinyin": "gè yǒu gè de hǎochù",
       "english_answers": [
@@ -656,7 +589,6 @@
       "english_gloss": "each has its advantages"
     },
     {
-      "id": "opinions_I_0071",
       "hanzi": "我选这个。",
       "pinyin": "Wǒ xuǎn zhège.",
       "english_answers": [
@@ -665,7 +597,6 @@
       "english_gloss": "I choose this one."
     },
     {
-      "id": "opinions_I_0072",
       "hanzi": "我更倾向于这个。",
       "pinyin": "Wǒ gèng qīngxiàng yú zhège.",
       "english_answers": [
@@ -674,7 +605,6 @@
       "english_gloss": "I'm more inclined toward this."
     },
     {
-      "id": "opinions_I_0073",
       "hanzi": "看情况",
       "pinyin": "kàn qíngkuàng",
       "english_answers": [
@@ -683,7 +613,6 @@
       "english_gloss": "it depends on the situation"
     },
     {
-      "id": "opinions_I_0074",
       "hanzi": "都可以",
       "pinyin": "dōu kěyǐ",
       "english_answers": [
@@ -693,7 +622,6 @@
       "english_gloss": "either is fine; all are okay"
     },
     {
-      "id": "opinions_I_0075",
       "hanzi": "我无所谓。",
       "pinyin": "Wǒ wúsuǒwèi.",
       "english_answers": [
@@ -702,7 +630,6 @@
       "english_gloss": "I don't mind either way."
     },
     {
-      "id": "opinions_I_0076",
       "hanzi": "还是……好",
       "pinyin": "háishi… hǎo",
       "english_answers": [
@@ -711,7 +638,6 @@
       "english_gloss": "… is better, after all"
     },
     {
-      "id": "opinions_I_0077",
       "hanzi": "不如",
       "pinyin": "bùrú",
       "english_answers": [
@@ -721,7 +647,6 @@
       "english_gloss": "not as good as; better to"
     },
     {
-      "id": "opinions_I_0078",
       "hanzi": "看法",
       "pinyin": "kànfǎ",
       "english_answers": [
@@ -731,7 +656,6 @@
       "english_gloss": "opinion; point of view"
     },
     {
-      "id": "opinions_I_0079",
       "hanzi": "意见",
       "pinyin": "yìjiàn",
       "english_answers": [
@@ -742,7 +666,6 @@
       "english_gloss": "opinion; suggestion; objection"
     },
     {
-      "id": "opinions_I_0080",
       "hanzi": "观点",
       "pinyin": "guāndiǎn",
       "english_answers": [
@@ -752,7 +675,6 @@
       "english_gloss": "viewpoint; standpoint"
     },
     {
-      "id": "opinions_I_0081",
       "hanzi": "态度",
       "pinyin": "tàidu",
       "english_answers": [
@@ -761,7 +683,6 @@
       "english_gloss": "attitude"
     },
     {
-      "id": "opinions_I_0082",
       "hanzi": "我觉得",
       "pinyin": "wǒ juéde",
       "english_answers": [
@@ -771,7 +692,6 @@
       "english_gloss": "I think; I feel"
     },
     {
-      "id": "opinions_I_0083",
       "hanzi": "我认为",
       "pinyin": "wǒ rènwéi",
       "english_answers": [
@@ -781,7 +701,6 @@
       "english_gloss": "I believe; I consider"
     },
     {
-      "id": "opinions_I_0084",
       "hanzi": "我感觉",
       "pinyin": "wǒ gǎnjué",
       "english_answers": [
@@ -791,7 +710,6 @@
       "english_gloss": "I feel; I get the impression"
     },
     {
-      "id": "opinions_I_0085",
       "hanzi": "我以为",
       "pinyin": "wǒ yǐwéi",
       "english_answers": [
@@ -800,7 +718,6 @@
       "english_gloss": "I thought/assumed (often mistakenly)"
     },
     {
-      "id": "opinions_I_0086",
       "hanzi": "在我看来",
       "pinyin": "zài wǒ kàn lái",
       "english_answers": [
@@ -809,7 +726,6 @@
       "english_gloss": "in my view"
     },
     {
-      "id": "opinions_I_0087",
       "hanzi": "对我来说",
       "pinyin": "duì wǒ lái shuō",
       "english_answers": [
@@ -819,7 +735,6 @@
       "english_gloss": "for me; as far as I'm concerned"
     },
     {
-      "id": "opinions_I_0088",
       "hanzi": "依我看",
       "pinyin": "yī wǒ kàn",
       "english_answers": [
@@ -828,7 +743,6 @@
       "english_gloss": "in my opinion"
     },
     {
-      "id": "opinions_I_0089",
       "hanzi": "我倒觉得……",
       "pinyin": "wǒ dào juéde…",
       "english_answers": [
@@ -837,7 +751,6 @@
       "english_gloss": "I actually think… (contrast)"
     },
     {
-      "id": "opinions_I_0090",
       "hanzi": "我同意。",
       "pinyin": "Wǒ tóngyì.",
       "english_answers": [
@@ -846,7 +759,6 @@
       "english_gloss": "I agree."
     },
     {
-      "id": "opinions_I_0091",
       "hanzi": "我不同意。",
       "pinyin": "Wǒ bù tóngyì.",
       "english_answers": [
@@ -855,7 +767,6 @@
       "english_gloss": "I disagree."
     },
     {
-      "id": "opinions_I_0092",
       "hanzi": "有道理",
       "pinyin": "yǒu dàolǐ",
       "english_answers": [
@@ -865,7 +776,6 @@
       "english_gloss": "that makes sense; reasonable"
     },
     {
-      "id": "opinions_I_0093",
       "hanzi": "说得对",
       "pinyin": "shuō de duì",
       "english_answers": [
@@ -875,7 +785,6 @@
       "english_gloss": "that's right; well said"
     },
     {
-      "id": "opinions_I_0094",
       "hanzi": "不一定",
       "pinyin": "bù yídìng",
       "english_answers": [
@@ -884,7 +793,6 @@
       "english_gloss": "not necessarily"
     },
     {
-      "id": "opinions_I_0095",
       "hanzi": "我不这么认为。",
       "pinyin": "Wǒ bù zhème rènwéi.",
       "english_answers": [
@@ -893,7 +801,6 @@
       "english_gloss": "I don't think so."
     },
     {
-      "id": "opinions_I_0096",
       "hanzi": "我有不同的看法。",
       "pinyin": "Wǒ yǒu bùtóng de kànfǎ.",
       "english_answers": [
@@ -902,7 +809,6 @@
       "english_gloss": "I have a different opinion."
     },
     {
-      "id": "opinions_I_0097",
       "hanzi": "你怎么看？",
       "pinyin": "Nǐ zěnme kàn?",
       "english_answers": [
@@ -911,7 +817,6 @@
       "english_gloss": "What do you think?"
     },
     {
-      "id": "opinions_I_0098",
       "hanzi": "你觉得怎么样？",
       "pinyin": "Nǐ juéde zěnmeyàng?",
       "english_answers": [
@@ -920,7 +825,6 @@
       "english_gloss": "What do you think of it?"
     },
     {
-      "id": "opinions_I_0099",
       "hanzi": "说实话",
       "pinyin": "shuō shíhuà",
       "english_answers": [
@@ -929,7 +833,6 @@
       "english_gloss": "to be honest"
     },
     {
-      "id": "opinions_I_0100",
       "hanzi": "不好说",
       "pinyin": "bù hǎo shuō",
       "english_answers": [
