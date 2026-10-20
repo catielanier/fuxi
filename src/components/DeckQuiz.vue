@@ -4,6 +4,7 @@ import { useRoute, useRouter } from 'vue-router'
 import { getAuth } from 'firebase/auth'
 import { getDatabase, push, ref as dbRef, set } from 'firebase/database'
 import firebase from '@/utils/firebase'
+import QuizCard from '@/components/SubComponents/QuizCard.vue'
 import { formatPinyin } from '@/utils/pinyin'
 import type {
   Deck,
@@ -33,16 +34,15 @@ const answered = ref(false)
 
 const pinyinInput = ref('')
 const englishInput = ref('')
+
 const pinyinResult = ref<QuizAnswer | null>(null)
 const englishResult = ref<QuizAnswer | null>(null)
 
 const results = ref<QuizCardResult[]>([])
 const startedAt = ref('')
 
-const pinyinInputElement = ref<HTMLInputElement | null>(null)
-const englishInputElement = ref<HTMLInputElement | null>(null)
+const quizCardElement = ref<InstanceType<typeof QuizCard> | null>(null)
 
-// Keep the shuffled order independently of the source JSON.
 const shuffledCards = ref<{ card: VocabularyCard; originalIndex: number }[]>([])
 
 const currentEntry = computed(() => shuffledCards.value[currentIndex.value] ?? null)
@@ -55,19 +55,10 @@ const progress = computed(() =>
   totalCards.value ? Math.round((currentIndex.value / totalCards.value) * 100) : 0,
 )
 
-const formattedPinyin = computed(() => {
-  try {
-    return formatPinyin(pinyinInput.value)
-  } catch {
-    return ''
-  }
-})
-
 const currentResult = computed(() =>
   stage.value === 'pinyin' ? pinyinResult.value : englishResult.value,
 )
 
-// Normalize formatting before grading.
 const normalizePinyin = (value: string): string =>
   value.normalize('NFC').toLowerCase().replace(/\s+/g, '')
 
@@ -79,7 +70,6 @@ const normalizeEnglish = (value: string): string =>
     .replace(/\s+/g, ' ')
     .replace(/[.!?]+$/g, '')
 
-// Fisher-Yates shuffle.
 const shuffleCards = (cards: VocabularyCard[]) => {
   const entries = cards.map((card, originalIndex) => ({
     card,
@@ -108,38 +98,11 @@ const resetCard = (): void => {
 
 const focusInput = async (): Promise<void> => {
   await nextTick()
-
-  if (stage.value === 'pinyin') {
-    pinyinInputElement.value?.focus()
-  } else {
-    englishInputElement.value?.focus()
-  }
-}
-
-// Insert a tone number at the current cursor position.
-const insertTone = (tone: number): void => {
-  if (answered.value) return
-
-  const input = pinyinInputElement.value
-
-  if (!input) {
-    pinyinInput.value += String(tone)
-    return
-  }
-
-  const start = input.selectionStart ?? pinyinInput.value.length
-  const end = input.selectionEnd ?? start
-
-  pinyinInput.value = pinyinInput.value.slice(0, start) + tone + pinyinInput.value.slice(end)
-
-  void nextTick(() => {
-    input.focus()
-    input.setSelectionRange(start + 1, start + 1)
-  })
+  await quizCardElement.value?.focusInput()
 }
 
 const submitPinyin = (): void => {
-  if (!currentCard.value || answered.value) return
+  if (!currentCard.value || answered.value || isSaving.value) return
   if (!pinyinInput.value.trim()) return
 
   let submitted: string
@@ -165,7 +128,7 @@ const submitPinyin = (): void => {
 }
 
 const submitEnglish = (): void => {
-  if (!currentCard.value || answered.value) return
+  if (!currentCard.value || answered.value || isSaving.value) return
   if (!englishInput.value.trim()) return
 
   const submitted = englishInput.value.trim()
@@ -174,9 +137,12 @@ const submitEnglish = (): void => {
   englishResult.value = {
     submitted,
     expected: [...expected],
-    correct: expected.some((answer) => normalizeEnglish(answer) === normalizeEnglish(submitted)),
+    correct: expected.some(
+      (answer) => normalizeEnglish(answer) === normalizeEnglish(submitted),
+    ),
   }
 
+  error.value = ''
   answered.value = true
 }
 
@@ -240,11 +206,12 @@ const completeQuiz = async (): Promise<void> => {
 }
 
 const nextStage = async (): Promise<void> => {
-  if (!answered.value || !currentCard.value) return
+  if (!answered.value || !currentCard.value || isSaving.value) return
 
   if (stage.value === 'pinyin') {
     stage.value = 'english'
     answered.value = false
+    error.value = ''
 
     await focusInput()
     return
@@ -253,6 +220,18 @@ const nextStage = async (): Promise<void> => {
   if (!pinyinResult.value || !englishResult.value) return
   if (!currentEntry.value) return
 
+  if (currentIndex.value + 1 >= totalCards.value) {
+    results.value.push({
+      cardIndex: currentEntry.value.originalIndex,
+      hanzi: currentCard.value.hanzi,
+      pinyin: { ...pinyinResult.value },
+      english: { ...englishResult.value },
+    })
+
+    await completeQuiz()
+    return
+  }
+
   results.value.push({
     cardIndex: currentEntry.value.originalIndex,
     hanzi: currentCard.value.hanzi,
@@ -260,13 +239,9 @@ const nextStage = async (): Promise<void> => {
     english: { ...englishResult.value },
   })
 
-  if (currentIndex.value + 1 >= totalCards.value) {
-    await completeQuiz()
-    return
-  }
-
   currentIndex.value++
   resetCard()
+  error.value = ''
 
   await focusInput()
 }
@@ -274,11 +249,14 @@ const nextStage = async (): Promise<void> => {
 const loadDeck = async (deckId: string, signal?: AbortSignal): Promise<void> => {
   isLoading.value = true
   error.value = ''
+
   deck.value = null
   vocabulary.value = null
+  shuffledCards.value = []
 
   results.value = []
   currentIndex.value = 0
+
   resetCard()
 
   try {
@@ -308,6 +286,8 @@ const loadDeck = async (deckId: string, signal?: AbortSignal): Promise<void> => 
 
     const data: VocabularyDeck = await deckResponse.json()
 
+    if (signal?.aborted) return
+
     if (data.id !== selectedDeck.id) {
       throw new Error('Deck ID does not match its manifest.')
     }
@@ -328,6 +308,10 @@ const loadDeck = async (deckId: string, signal?: AbortSignal): Promise<void> => 
   } finally {
     if (!signal?.aborted) {
       isLoading.value = false
+
+      if (currentCard.value && deck.value) {
+        await focusInput()
+      }
     }
   }
 }
@@ -350,13 +334,17 @@ watch(
 <template>
   <main>
     <section class="content-container quiz">
-      <p v-if="isLoading">Loading vocabulary...</p>
+      <p v-if="isLoading">
+        Loading vocabulary...
+      </p>
 
       <template v-else-if="currentCard && deck">
         <header class="quiz-header">
           <h3>{{ deck.title }}</h3>
 
-          <span> Card {{ currentIndex + 1 }} of {{ totalCards }} </span>
+          <span>
+            Card {{ currentIndex + 1 }} of {{ totalCards }}
+          </span>
         </header>
 
         <div
@@ -367,100 +355,28 @@ watch(
           aria-valuemax="100"
           :aria-label="`${progress}% of deck completed`"
         >
-          <div class="quiz-progress-fill" :style="{ width: `${progress}%` }" />
+          <div
+            class="quiz-progress-fill"
+            :style="{ width: `${progress}%` }"
+          />
         </div>
 
-        <div class="quiz-card">
-          <h1 class="hanzi" lang="zh-Hans">
-            {{ currentCard.hanzi }}
-          </h1>
-        </div>
-
-        <form class="quiz-form" @submit.prevent="answered ? nextStage() : submitAnswer()">
-          <template v-if="stage === 'pinyin'">
-            <label for="pinyin-answer"> Enter the Pinyin </label>
-
-            <input
-              id="pinyin-answer"
-              ref="pinyinInputElement"
-              v-model="pinyinInput"
-              type="text"
-              inputmode="text"
-              autocomplete="off"
-              autocapitalize="off"
-              spellcheck="false"
-              placeholder="e.g. ni3hao3"
-              :disabled="answered"
-            />
-
-            <div class="tone-buttons">
-              <button
-                v-for="tone in 4"
-                :key="tone"
-                type="button"
-                :disabled="answered"
-                @pointerdown.prevent
-                @click="insertTone(tone)"
-              >
-                {{ tone }}
-              </button>
-            </div>
-
-            <p class="pinyin-preview" aria-live="polite">
-              {{ formattedPinyin || ' ' }}
-            </p>
-          </template>
-
-          <template v-else>
-            <label for="english-answer"> Enter the English meaning </label>
-
-            <input
-              id="english-answer"
-              ref="englishInputElement"
-              v-model="englishInput"
-              type="text"
-              autocomplete="off"
-              spellcheck="false"
-              placeholder="English definition"
-              :disabled="answered"
-            />
-          </template>
-
-          <p
-            v-if="answered && currentResult"
-            class="answer-feedback"
-            :class="{
-              correct: currentResult.correct,
-              incorrect: !currentResult.correct,
-            }"
-            role="status"
-          >
-            {{ currentResult.correct ? 'Correct!' : 'Incorrect.' }}
-          </p>
-
-          <p v-if="error" class="quiz-error" role="alert">
-            {{ error }}
-          </p>
-
-          <button
-            type="submit"
-            class="quiz-submit"
-            :disabled="
-              isSaving ||
-              (!answered && !(stage === 'pinyin' ? pinyinInput.trim() : englishInput.trim()))
-            "
-          >
-            <template v-if="isSaving"> Saving results... </template>
-
-            <template v-else-if="!answered"> Submit Answer </template>
-
-            <template v-else-if="stage === 'pinyin'"> Continue to English </template>
-
-            <template v-else-if="currentIndex + 1 === totalCards"> Finish Review </template>
-
-            <template v-else> Next Card </template>
-          </button>
-        </form>
+        <QuizCard
+          ref="quizCardElement"
+          :key="currentIndex"
+          v-model:pinyin-input="pinyinInput"
+          v-model:english-input="englishInput"
+          :card="currentCard"
+          :stage="stage"
+          :answered="answered"
+          :current-result="currentResult"
+          :card-number="currentIndex + 1"
+          :total-cards="totalCards"
+          :is-saving="isSaving"
+          :error="error"
+          @submit="submitAnswer"
+          @continue="nextStage"
+        />
       </template>
 
       <p v-else-if="error" role="alert">
@@ -500,124 +416,5 @@ watch(
   background: var(--color-text);
   border-radius: inherit;
   transition: width 0.25s ease;
-}
-
-.quiz-card {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 15rem;
-  padding: 2rem;
-}
-
-.hanzi {
-  margin: 0;
-  font-family: var(--font-hanzi);
-  font-size: clamp(4rem, 12vw, 7rem);
-  font-weight: 400;
-  line-height: 1.3;
-  text-align: center;
-  overflow-wrap: anywhere;
-}
-
-.quiz-form {
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
-  width: 100%;
-  max-width: 36rem;
-  margin-inline: auto;
-  font-family: var(--font-ui);
-}
-
-.quiz-form label {
-  font-weight: 600;
-}
-
-.quiz-form input {
-  width: 100%;
-  min-width: 0;
-  padding: 0.85rem 1rem;
-  border: 1px solid var(--color-text);
-  border-radius: 0.5rem;
-  background: var(--color-background);
-  color: var(--color-text);
-  font: inherit;
-}
-
-.quiz-form input:focus-visible {
-  outline: 2px solid var(--color-text);
-  outline-offset: 2px;
-}
-
-.tone-buttons {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 0.5rem;
-}
-
-.tone-buttons button {
-  padding: 0.75rem;
-  border: 1px solid var(--color-text);
-  border-radius: 0.5rem;
-  background: var(--color-background);
-  color: var(--color-text);
-  font: inherit;
-  cursor: pointer;
-}
-
-.tone-buttons button:hover:not(:disabled) {
-  background: var(--color-text);
-  color: var(--color-background);
-}
-
-.tone-buttons button:disabled {
-  opacity: 0.4;
-  cursor: not-allowed;
-}
-
-.pinyin-preview {
-  min-height: 2rem;
-  margin: 0;
-  text-align: center;
-  font-family: var(--font-ui);
-  font-size: 1.4rem;
-}
-
-.answer-feedback {
-  margin: 0;
-  padding: 0.75rem;
-  border-radius: 0.5rem;
-  font-weight: 600;
-  text-align: center;
-}
-
-.answer-feedback.correct {
-  color: #167a39;
-  background: rgb(22 122 57 / 0.1);
-}
-
-.answer-feedback.incorrect {
-  color: #b42318;
-  background: rgb(180 35 24 / 0.1);
-}
-
-.quiz-error {
-  color: #b42318;
-}
-
-.quiz-submit {
-  padding: 0.85rem 1.5rem;
-  border: 1px solid var(--color-text);
-  border-radius: 0.5rem;
-  background: var(--color-text);
-  color: var(--color-background);
-  font: inherit;
-  cursor: pointer;
-}
-
-.quiz-submit:disabled {
-  opacity: 0.4;
-  cursor: not-allowed;
 }
 </style>
