@@ -1,13 +1,18 @@
 <script setup lang="ts">
-import { computed, onUnmounted, ref, watch } from 'vue'
+import { computed, onMounted, onUnmounted, ref, watch } from 'vue'
 import { RouterLink, useRoute } from 'vue-router'
 import { getAuth, onAuthStateChanged } from 'firebase/auth'
+import type { User } from 'firebase/auth'
 import { getDatabase, get, ref as dbRef } from 'firebase/database'
 import firebase from '@/utils/firebase'
-import type { QuizResult, QuizCardResult } from '@/data/types'
-import { STROKE_ORDER_URI, SPEECHER_URI } from '@/data/constants'
-
-type CardStatus = 'correct' | 'partial' | 'incorrect'
+import ResultCard from '@/components/SubComponents/ResultCard.vue'
+import type {
+  DeckManifest,
+  QuizResult,
+  QuizCardResult,
+  VocabularyCard,
+  VocabularyDeck,
+} from '@/data/types'
 
 const props = defineProps<{
   result?: QuizResult | null
@@ -15,67 +20,95 @@ const props = defineProps<{
 }>()
 
 const route = useRoute()
+const auth = getAuth(firebase)
+const db = getDatabase(firebase)
 
-// eslint-disable-next-line vue/no-dupe-keys
+const audioFiles = import.meta.glob('../assets/audio/*.mp3', {
+  eager: true,
+  query: '?url',
+  import: 'default',
+}) as Record<string, string>
+
 const result = ref<QuizResult | null>(null)
+const vocabularyCards = ref<VocabularyCard[]>([])
+
 const isLoading = ref(true)
+const isVocabularyLoading = ref(false)
 const error = ref('')
 
+const authReady = ref(false)
+const currentUser = ref<User | null>(null)
+
+const playingCardIndex = ref<number | null>(null)
+
+let audioPlayer: HTMLAudioElement | null = null
 let unsubscribeAuth: (() => void) | null = null
-let loadVersion = 0
+let requestVersion = 0
+let audioRequestVersion = 0
 
 const activeResultId = computed(() => {
   const id = props.resultId ?? route.params.resultId
-  return typeof id === 'string' ? id : null
+  return typeof id === 'string' ? id : undefined
 })
 
+const totalCards = computed(
+  () => result.value?.totalCards ?? 0,
+)
+
+const totalPoints = computed(
+  () => totalCards.value * 2,
+)
+
 const correctPinyin = computed(
-  () => result.value?.results.filter((card) => card.pinyin.correct).length ?? 0,
+  () =>
+    result.value?.results.reduce(
+      (total, card) => total + Number(card.pinyin.correct),
+      0,
+    ) ?? 0,
 )
 
 const correctEnglish = computed(
-  () => result.value?.results.filter((card) => card.english.correct).length ?? 0,
+  () =>
+    result.value?.results.reduce(
+      (total, card) => total + Number(card.english.correct),
+      0,
+    ) ?? 0,
 )
 
-const totalPoints = computed(() => (result.value?.totalCards ?? 0) * 2)
-
-const score = computed(() => correctPinyin.value + correctEnglish.value)
-
-const percentage = computed(() =>
-  totalPoints.value ? Math.round((score.value / totalPoints.value) * 100) : 0,
+const score = computed(
+  () => correctPinyin.value + correctEnglish.value,
 )
 
-const getCardStatus = (card: QuizCardResult): CardStatus => {
-  const pinyinCorrect = card.pinyin.correct
-  const englishCorrect = card.english.correct
+const percentage = computed(() => {
+  if (!totalPoints.value) return 0
 
-  if (pinyinCorrect && englishCorrect) return 'correct'
-  if (pinyinCorrect || englishCorrect) return 'partial'
-
-  return 'incorrect'
-}
-
-const statusLabels: Record<CardStatus, string> = {
-  correct: 'Correct',
-  partial: 'Half-correct',
-  incorrect: 'Incorrect',
-}
-
-const cardCounts = computed(() => {
-  const counts = {
-    correct: 0,
-    partial: 0,
-    incorrect: 0,
-  }
-
-  for (const card of result.value?.results ?? []) {
-    counts[getCardStatus(card)]++
-  }
-
-  return counts
+  return (score.value / totalPoints.value) * 100
 })
 
-const formatExpected = (answers: string[]): string => answers.join(' / ')
+const correctCards = computed(
+  () =>
+    result.value?.results.filter(
+      (card) => card.pinyin.correct && card.english.correct,
+    ).length ?? 0,
+)
+
+const partialCards = computed(
+  () =>
+    result.value?.results.filter(
+      (card) => card.pinyin.correct !== card.english.correct,
+    ).length ?? 0,
+)
+
+const incorrectCards = computed(
+  () =>
+    result.value?.results.filter(
+      (card) => !card.pinyin.correct && !card.english.correct,
+    ).length ?? 0,
+)
+
+const sortedResults = computed<QuizCardResult[]>(() =>
+  result.value?.results ?? [],
+)
 
 const formatDate = (date: string): string =>
   new Intl.DateTimeFormat('en-CA', {
@@ -83,301 +116,360 @@ const formatDate = (date: string): string =>
     timeStyle: 'short',
   }).format(new Date(date))
 
-const getStrokeOrderUrl = (hanzi: string): string => `${STROKE_ORDER_URI}${hanzi}`
+const getVocabularyCard = (
+  card: QuizCardResult,
+): VocabularyCard | undefined => {
+  const indexedCard = vocabularyCards.value[card.cardIndex]
 
-const getPronunciationUrl = (hanzi: string): string => `${SPEECHER_URI}${encodeURIComponent(hanzi)}`
-
-const loadResult = async (
-  resultId: string | null,
-  guestResult: QuizResult | null | undefined,
-): Promise<void> => {
-  unsubscribeAuth?.()
-  unsubscribeAuth = null
-
-  const currentVersion = ++loadVersion
-  const isCurrent = (): boolean => currentVersion === loadVersion
-
-  isLoading.value = true
-  error.value = ''
-  result.value = null
-
-  if (!resultId) {
-    if (guestResult) {
-      result.value = guestResult
-    } else {
-      error.value = 'No results were provided.'
-    }
-
-    isLoading.value = false
-    return
+  if (indexedCard?.hanzi === card.hanzi) {
+    return indexedCard
   }
 
-  const auth = getAuth(firebase)
-  const database = getDatabase(firebase)
-
-  unsubscribeAuth = onAuthStateChanged(
-    auth,
-    async (user) => {
-      if (!isCurrent()) return
-
-      if (!user) {
-        result.value = null
-        error.value = 'Please sign in to view these results.'
-        isLoading.value = false
-        return
-      }
-
-      isLoading.value = true
-
-      try {
-        const resultRef = dbRef(database, `users/${user.uid}/results/${resultId}`)
-
-        const snapshot = await get(resultRef)
-
-        if (!isCurrent() || auth.currentUser?.uid !== user.uid) return
-
-        if (!snapshot.exists()) {
-          throw new Error('Results not found.')
-        }
-
-        result.value = snapshot.val() as QuizResult
-        error.value = ''
-      } catch (err) {
-        if (!isCurrent() || auth.currentUser?.uid !== user.uid) return
-
-        result.value = null
-        error.value = err instanceof Error ? err.message : 'Unable to retrieve results.'
-      } finally {
-        if (isCurrent() && auth.currentUser?.uid === user.uid) {
-          isLoading.value = false
-        }
-      }
-    },
-    (err) => {
-      if (!isCurrent()) return
-
-      error.value = err.message
-      isLoading.value = false
-    },
+  return vocabularyCards.value.find(
+    (vocabularyCard) => vocabularyCard.hanzi === card.hanzi,
   )
 }
 
-watch(
-  [activeResultId, () => props.result],
-  ([resultId, guestResult], _, onCleanup) => {
-    void loadResult(resultId, guestResult)
+const getAudioUrl = (card: QuizCardResult): string | null => {
+  const filename = getVocabularyCard(card)?.audio
 
-    onCleanup(() => {
-      loadVersion++
-      unsubscribeAuth?.()
-      unsubscribeAuth = null
-    })
+  if (!filename) return null
+
+  return audioFiles[`../assets/audio/${filename}`] ?? null
+}
+
+const stopAudio = (): void => {
+  ++audioRequestVersion
+
+  if (audioPlayer) {
+    audioPlayer.pause()
+    audioPlayer.currentTime = 0
+  }
+
+  playingCardIndex.value = null
+}
+
+const playAudio = async (cardIndex: number): Promise<void> => {
+  const card = result.value?.results.find(
+    (item) => item.cardIndex === cardIndex,
+  )
+
+  if (!card || !audioPlayer) return
+
+  const url = getAudioUrl(card)
+
+  if (!url) return
+
+  if (
+    playingCardIndex.value === cardIndex &&
+    !audioPlayer.paused
+  ) {
+    stopAudio()
+    return
+  }
+
+  stopAudio()
+
+  const currentRequest = audioRequestVersion
+
+  audioPlayer.src = url
+  playingCardIndex.value = cardIndex
+
+  try {
+    await audioPlayer.play()
+
+    if (currentRequest !== audioRequestVersion) {
+      audioPlayer.pause()
+    }
+  } catch (err) {
+    if (currentRequest !== audioRequestVersion) return
+
+    console.error('Unable to play audio:', err)
+    playingCardIndex.value = null
+  }
+}
+
+const handleAudioEnded = (): void => {
+  playingCardIndex.value = null
+}
+
+const handleAudioError = (): void => {
+  playingCardIndex.value = null
+}
+
+const loadVocabulary = async (
+  deckId: string,
+  version: number,
+): Promise<void> => {
+  isVocabularyLoading.value = true
+  vocabularyCards.value = []
+
+  try {
+    const manifestResponse = await fetch(
+      `${import.meta.env.BASE_URL}deck-manifest.json`,
+    )
+
+    if (!manifestResponse.ok) {
+      throw new Error('Unable to load deck manifest.')
+    }
+
+    const manifest: DeckManifest = await manifestResponse.json()
+
+    const deck = manifest.decks.find(
+      (item) => item.id === deckId,
+    )
+
+    if (!deck) {
+      throw new Error(`Deck not found: ${deckId}`)
+    }
+
+    const vocabularyResponse = await fetch(
+      `${import.meta.env.BASE_URL}decks/${deck.filename}`,
+    )
+
+    if (!vocabularyResponse.ok) {
+      throw new Error('Unable to load vocabulary.')
+    }
+
+    const vocabulary: VocabularyDeck =
+      await vocabularyResponse.json()
+
+    if (version !== requestVersion) return
+
+    vocabularyCards.value = vocabulary.cards
+  } catch (err) {
+    if (version !== requestVersion) return
+
+    console.error('Unable to load vocabulary audio:', err)
+    vocabularyCards.value = []
+  } finally {
+    if (version === requestVersion) {
+      isVocabularyLoading.value = false
+    }
+  }
+}
+
+const loadResult = async (): Promise<void> => {
+  const version = ++requestVersion
+
+  stopAudio()
+
+  result.value = null
+  vocabularyCards.value = []
+  isLoading.value = true
+  isVocabularyLoading.value = false
+  error.value = ''
+
+  try {
+    let loadedResult: QuizResult | null = null
+
+    if (props.result && !activeResultId.value) {
+      loadedResult = props.result
+    } else if (activeResultId.value) {
+      if (!currentUser.value) {
+        throw new Error('Please log in to view this result.')
+      }
+
+      const resultRef = dbRef(
+        db,
+        `users/${currentUser.value.uid}/results/${activeResultId.value}`,
+      )
+
+      const snapshot = await get(resultRef)
+
+      if (!snapshot.exists()) {
+        throw new Error('Result not found.')
+      }
+
+      loadedResult = snapshot.val() as QuizResult
+    } else if (props.result) {
+      loadedResult = props.result
+    }
+
+    if (version !== requestVersion) return
+
+    if (!loadedResult) {
+      throw new Error('No quiz result is available.')
+    }
+
+    result.value = loadedResult
+    isLoading.value = false
+
+    await loadVocabulary(loadedResult.deckId, version)
+  } catch (err) {
+    if (version !== requestVersion) return
+
+    error.value =
+      err instanceof Error
+        ? err.message
+        : 'Unable to load results.'
+
+    isLoading.value = false
+    isVocabularyLoading.value = false
+  }
+}
+
+watch(
+  [authReady, currentUser, activeResultId, () => props.result],
+  () => {
+    if (!authReady.value) return
+
+    void loadResult()
   },
-  { immediate: true },
 )
 
+onMounted(() => {
+  audioPlayer = new Audio()
+  audioPlayer.preload = 'none'
+  audioPlayer.autoplay = false
+
+  audioPlayer.addEventListener('ended', handleAudioEnded)
+  audioPlayer.addEventListener('error', handleAudioError)
+
+  unsubscribeAuth = onAuthStateChanged(
+    auth,
+    (user) => {
+      currentUser.value = user
+      authReady.value = true
+    },
+    (err) => {
+      console.error('Authentication error:', err)
+      currentUser.value = null
+      authReady.value = true
+    },
+  )
+})
+
 onUnmounted(() => {
-  loadVersion++
+  ++requestVersion
+
   unsubscribeAuth?.()
-  unsubscribeAuth = null
+
+  stopAudio()
+
+  if (audioPlayer) {
+    audioPlayer.removeEventListener('ended', handleAudioEnded)
+    audioPlayer.removeEventListener('error', handleAudioError)
+    audioPlayer.removeAttribute('src')
+    audioPlayer.load()
+    audioPlayer = null
+  }
 })
 </script>
 
 <template>
   <main>
     <section class="content-container results-page">
-      <p v-if="isLoading" role="status">Loading results...</p>
+      <h3><span>复习结果</span> · Results</h3>
 
-      <div v-else-if="error" class="results-error" role="alert">
-        <h3>Unable to display results</h3>
-        <p>{{ error }}</p>
+      <p v-if="isLoading" role="status">
+        Loading results...
+      </p>
 
-        <RouterLink to="/decks">Return to Decks</RouterLink>
-      </div>
+      <p v-else-if="error" role="alert" class="results-error">
+        {{ error }}
+      </p>
 
       <template v-else-if="result">
-        <header class="results-header">
-          <div class="results-heading">
-            <h3>成绩 · Results</h3>
+        <div class="results-heading">
+          <div>
             <h4>{{ result.deckTitle }}</h4>
 
-            <p class="results-date">Started {{ formatDate(result.startedAt) }}</p>
+            <p>
+              Completed {{ formatDate(result.completedAt) }}
+            </p>
           </div>
 
-          <div class="results-score">
-            <span class="score-value">
-              {{ score }}<span class="score-divider">/</span>{{ totalPoints }}
+          <RouterLink
+            :to="{
+              name: 'quiz',
+              params: { deckId: result.deckId },
+            }"
+            class="review-button"
+          >
+            Review Again
+          </RouterLink>
+        </div>
+
+        <div class="score-summary">
+          <div class="score-primary">
+            <span class="score-label">Your Score</span>
+
+            <strong class="score-percentage">
+              {{ percentage.toFixed(1) }}%
+            </strong>
+
+            <span class="score-points">
+              {{ score }} / {{ totalPoints }} points
             </span>
-
-            <span class="score-percentage"> {{ percentage }}% Correct </span>
-          </div>
-        </header>
-
-        <div
-          class="score-progress"
-          role="progressbar"
-          :aria-valuenow="score"
-          aria-valuemin="0"
-          :aria-valuemax="totalPoints"
-          aria-label="Review score"
-        >
-          <div class="score-progress-fill" :style="{ width: `${percentage}%` }" />
-        </div>
-
-        <div class="results-summary">
-          <div class="summary-item">
-            <span class="summary-label">Pinyin</span>
-            <strong>{{ correctPinyin }}/{{ result.totalCards }}</strong>
           </div>
 
-          <div class="summary-item">
-            <span class="summary-label">English</span>
-            <strong>{{ correctEnglish }}/{{ result.totalCards }}</strong>
-          </div>
+          <div class="score-breakdown">
+            <div class="score-stat">
+              <span>Pinyin Correct</span>
+              <strong>
+                {{ correctPinyin }} / {{ totalCards }}
+              </strong>
+            </div>
 
-          <div class="summary-item">
-            <span class="summary-label">Fully Correct</span>
-            <strong>{{ cardCounts.correct }}</strong>
-          </div>
-
-          <div class="summary-item">
-            <span class="summary-label">Half-correct</span>
-            <strong>{{ cardCounts.partial }}</strong>
-          </div>
-
-          <div class="summary-item">
-            <span class="summary-label">Incorrect</span>
-            <strong>{{ cardCounts.incorrect }}</strong>
+            <div class="score-stat">
+              <span>English Correct</span>
+              <strong>
+                {{ correctEnglish }} / {{ totalCards }}
+              </strong>
+            </div>
           </div>
         </div>
 
-        <h4 class="results-section-title">Vocabulary Review</h4>
+        <div class="card-summary">
+          <div class="summary-item summary-correct">
+            <strong>{{ correctCards }}</strong>
+            <span>Fully Correct</span>
+          </div>
 
-        <div class="results-grid-container">
-          <div class="results-grid">
-            <article
-              v-for="(card, index) in result.results"
-              :key="`${card.cardIndex}-${index}`"
-              class="result-card"
-              :class="`status-${getCardStatus(card)}`"
-            >
-              <div class="result-card-header">
-                <span class="card-number">
-                  {{ index + 1 }}
-                </span>
+          <div class="summary-item summary-partial">
+            <strong>{{ partialCards }}</strong>
+            <span>Partially Correct</span>
+          </div>
 
-                <span class="card-status">
-                  {{ statusLabels[getCardStatus(card)] }}
-                </span>
-              </div>
-
-              <h5 class="result-hanzi" lang="zh-Hans">
-                {{ card.hanzi }}
-              </h5>
-
-              <div class="result-answers">
-                <template v-if="card.pinyin.correct && card.english.correct">
-                  <div class="answer-field">
-                    <span class="answer-label">Pinyin</span>
-
-                    <span class="answer-value">
-                      {{ formatExpected(card.pinyin.expected) }}
-                    </span>
-                  </div>
-
-                  <div class="answer-field">
-                    <span class="answer-label">English</span>
-
-                    <span class="answer-value">
-                      {{ formatExpected(card.english.expected) }}
-                    </span>
-                  </div>
-                </template>
-
-                <template v-else>
-                  <div class="answer-field">
-                    <span class="answer-label">
-                      Pinyin
-                      <span :class="card.pinyin.correct ? 'answer-correct' : 'answer-incorrect'">
-                        {{ card.pinyin.correct ? '✓' : '✗' }}
-                      </span>
-                    </span>
-
-                    <template v-if="card.pinyin.correct">
-                      <span class="answer-value">
-                        {{ formatExpected(card.pinyin.expected) }}
-                      </span>
-                    </template>
-
-                    <template v-else>
-                      <span class="answer-submitted">
-                        <span>Your answer:</span>
-                        {{ card.pinyin.submitted }}
-                      </span>
-
-                      <span class="answer-expected">
-                        <span>Correct answer:</span>
-                        {{ formatExpected(card.pinyin.expected) }}
-                      </span>
-                    </template>
-                  </div>
-
-                  <div class="answer-field">
-                    <span class="answer-label">
-                      English
-                      <span :class="card.english.correct ? 'answer-correct' : 'answer-incorrect'">
-                        {{ card.english.correct ? '✓' : '✗' }}
-                      </span>
-                    </span>
-
-                    <template v-if="card.english.correct">
-                      <span class="answer-value">
-                        {{ formatExpected(card.english.expected) }}
-                      </span>
-                    </template>
-
-                    <template v-else>
-                      <span class="answer-submitted">
-                        <span>Your answer:</span>
-                        {{ card.english.submitted }}
-                      </span>
-
-                      <span class="answer-expected">
-                        <span>Correct answer:</span>
-                        {{ formatExpected(card.english.expected) }}
-                      </span>
-                    </template>
-                  </div>
-                </template>
-              </div>
-
-              <div class="result-card-actions">
-                <a
-                  :href="getStrokeOrderUrl(card.hanzi)"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="result-action"
-                >
-                  Stroke Order
-                  <span aria-hidden="true">↗</span>
-                </a>
-
-                <a
-                  :href="getPronunciationUrl(card.hanzi)"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="result-action"
-                >
-                  Pronunciation
-                  <span aria-hidden="true">↗</span>
-                </a>
-              </div>
-            </article>
+          <div class="summary-item summary-incorrect">
+            <strong>{{ incorrectCards }}</strong>
+            <span>Incorrect</span>
           </div>
         </div>
 
-        <div class="results-footer">
-          <RouterLink to="/decks" class="back-to-decks"> Back to Decks </RouterLink>
+        <div class="results-list-heading">
+          <h4>Vocabulary Review</h4>
+
+          <p v-if="isVocabularyLoading" role="status">
+            Loading pronunciation files...
+          </p>
+        </div>
+
+        <div class="results-grid">
+          <ResultCard
+            v-for="(card, index) in sortedResults"
+            :key="`${card.cardIndex}-${index}`"
+            :card="card"
+            :number="index + 1"
+            :audio-url="getAudioUrl(card)"
+            :is-playing="playingCardIndex === card.cardIndex"
+            @play-audio="playAudio"
+          />
+        </div>
+
+        <div class="results-actions">
+          <RouterLink to="/decks" class="back-button">
+            Back to Decks
+          </RouterLink>
+
+          <RouterLink
+            v-if="currentUser"
+            to="/history"
+            class="back-button"
+          >
+            View History
+          </RouterLink>
         </div>
       </template>
     </section>
@@ -387,356 +479,235 @@ onUnmounted(() => {
 <style scoped>
 .results-page {
   font-family: var(--font-ui);
-  min-width: 0;
 }
 
-.results-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 2rem;
+h3 {
+  margin: 0 0 1.5rem;
+  font-family: var(--font-ui);
+  font-size: 1.5rem;
+  line-height: 1.2;
+  color: var(--color-text);
+}
+
+h3 span {
+  font-family: var(--font-brand);
 }
 
 .results-heading {
-  min-width: 0;
-}
-
-.results-heading h3 {
-  margin: 0 0 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
 }
 
 .results-heading h4 {
-  margin: 0;
+  margin: 0 0 0.5rem;
   font-size: 1.25rem;
-  overflow-wrap: anywhere;
 }
 
-.results-date {
-  margin: 0.5rem 0 0;
-  font-size: 0.85rem;
-  opacity: 0.65;
+.results-heading p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
 }
 
-.results-score {
+.score-summary {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 1.5rem;
+  padding: 1.5rem;
+  border: 1px solid var(--color-border);
+  border-radius: 1rem;
+  background: rgb(from var(--color-surface) r g b / 75%);
+}
+
+.score-primary {
   display: flex;
   flex-direction: column;
-  align-items: flex-end;
+  justify-content: center;
+  gap: 0.5rem;
 }
 
-.score-value {
-  font-size: clamp(2.5rem, 5vw, 4rem);
-  font-weight: 700;
-  line-height: 1;
-  font-variant-numeric: tabular-nums;
-}
-
-.score-divider {
-  opacity: 0.4;
+.score-label {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
 }
 
 .score-percentage {
-  margin-top: 0.5rem;
-  font-size: 1rem;
+  font-size: clamp(2.5rem, 7vw, 4rem);
+  line-height: 1.1;
+  font-variant-numeric: tabular-nums;
+  color: var(--color-primary);
 }
 
-.score-progress {
-  height: 0.5rem;
-  margin: 2rem 0;
-  overflow: hidden;
-  border-radius: 999px;
-  background: var(--color-border);
+.score-points {
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
 }
 
-.score-progress-fill {
-  height: 100%;
-  border-radius: inherit;
-  background: var(--color-primary);
-}
-
-.results-summary {
-  display: grid;
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+.score-breakdown {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   gap: 1rem;
-  padding: 1.5rem 0;
-  border-block: 1px solid var(--color-border);
+}
+
+.score-stat {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.score-stat span {
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+}
+
+.score-stat strong {
+  font-variant-numeric: tabular-nums;
+}
+
+.card-summary {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
 }
 
 .summary-item {
   display: flex;
   flex-direction: column;
-  min-width: 0;
-  gap: 0.5rem;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 1rem;
+  border: 1px solid var(--color-border);
+  border-radius: 0.75rem;
+  background: rgb(from var(--color-surface) r g b / 65%);
   text-align: center;
 }
 
-.summary-label {
-  font-size: 0.8rem;
-  opacity: 0.7;
-}
-
 .summary-item strong {
-  font-size: 1.4rem;
+  font-size: 1.75rem;
   font-variant-numeric: tabular-nums;
 }
 
-.results-section-title {
-  margin: 2rem 0 1.25rem;
+.summary-item span {
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
 }
 
-/* Responsive Vocabulary Card Grid */
+.summary-correct strong {
+  color: #54877b;
+}
 
-.results-grid-container {
-  container-type: inline-size;
-  min-width: 0;
+.summary-partial strong {
+  color: var(--color-accent);
+}
+
+.summary-incorrect strong {
+  color: #b85c5c;
+}
+
+.results-list-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.results-list-heading h4 {
+  margin: 0;
+  font-size: 1.25rem;
+}
+
+.results-list-heading p {
+  margin: 0;
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
 }
 
 .results-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1.25rem;
-}
-
-@container (max-width: 820px) {
-  .results-grid {
-    grid-template-columns: minmax(0, 1fr);
-  }
-}
-
-/* Vocabulary Cards */
-
-.result-card {
-  --status-color: var(--color-text);
-
-  display: flex;
-  flex-direction: column;
-  box-sizing: border-box;
-  min-width: 0;
-  padding: 1.25rem;
-
-  border: 1px solid var(--status-color);
-  border-radius: 0.75rem;
-  background: var(--color-background);
-
-  overflow-wrap: anywhere;
-}
-
-.result-card.status-correct {
-  --status-color: #28834b;
-  background: rgb(40 131 75 / 0.045);
-}
-
-.result-card.status-partial {
-  --status-color: #bb8a37;
-  background: rgb(187 138 55 / 0.065);
-}
-
-.result-card.status-incorrect {
-  --status-color: #bc4444;
-  background: rgb(188 68 68 / 0.045);
-}
-
-.result-card-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
   gap: 1rem;
 }
 
-.card-number {
-  font-size: 0.8rem;
-  opacity: 0.6;
-}
-
-.card-status {
-  font-size: 0.8rem;
-  font-weight: 600;
-  color: var(--status-color);
-}
-
-.result-hanzi {
-  margin: 1.5rem 0;
-  font-family: var(--font-hanzi);
-  font-size: clamp(3rem, 6vw, 4.5rem);
-  font-weight: 400;
-  line-height: 1.3;
-  text-align: center;
-  overflow-wrap: anywhere;
-}
-
-.result-answers {
+.results-actions {
   display: flex;
-  flex-direction: column;
-  gap: 1.25rem;
-  flex: 1;
-  font-family: var(--font-ui);
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 2rem;
 }
 
-.answer-field {
-  display: flex;
-  flex-direction: column;
-  gap: 0.35rem;
-  min-width: 0;
-}
-
-.answer-label {
-  display: flex;
-  justify-content: space-between;
-  gap: 0.5rem;
-  font-size: 0.8rem;
-  font-weight: 600;
-  opacity: 0.75;
-}
-
-.answer-value {
-  font-size: 1rem;
-}
-
-.answer-submitted,
-.answer-expected {
-  display: flex;
-  flex-direction: column;
-  gap: 0.15rem;
-  font-size: 0.95rem;
-}
-
-.answer-submitted span,
-.answer-expected span {
-  font-size: 0.75rem;
-  opacity: 0.65;
-}
-
-.answer-submitted {
-  color: #bc4444;
-}
-
-.answer-expected {
-  color: var(--color-text);
-  font-weight: 600;
-}
-
-.answer-correct {
-  color: #28834b;
-  opacity: 1;
-}
-
-.answer-incorrect {
-  color: #bc4444;
-  opacity: 1;
-}
-
-/* Card Actions */
-
-.result-card-actions {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 0.5rem;
-  margin-top: 1.5rem;
-}
-
-.result-action {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 0.5rem;
-
-  min-width: 0;
-  padding: 0.7rem 0.5rem;
-
-  border: 1px solid var(--color-text);
-  border-radius: 0.5rem;
-
-  color: var(--color-text);
-  background: transparent;
-
-  font-family: var(--font-ui);
-  font-size: 0.8rem;
-  text-align: center;
-  text-decoration: none;
-
-  overflow-wrap: anywhere;
-
-  transition:
-    background-color 0.2s ease,
-    color 0.2s ease;
-}
-
-.result-action:hover {
-  background: var(--color-text);
-  color: var(--color-background);
-}
-
-.result-action:focus-visible {
-  outline: 2px solid var(--color-text);
-  outline-offset: 2px;
-}
-
-/* Footer */
-
-.results-footer {
-  display: flex;
-  justify-content: center;
-  margin-top: 2.5rem;
-}
-
-.back-to-decks {
+.review-button,
+.back-button {
   display: inline-flex;
-  padding: 0.85rem 1.5rem;
-
+  align-items: center;
+  justify-content: center;
+  padding: 0.75rem 1.5rem;
   border: 1px solid var(--color-text);
   border-radius: 0.5rem;
+  font: inherit;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+}
 
+.review-button {
   background: var(--color-text);
   color: var(--color-background);
-  text-decoration: none;
+}
+
+.back-button {
+  background: transparent;
+  color: var(--color-text);
+}
+
+.review-button:hover,
+.back-button:hover {
+  opacity: 0.8;
 }
 
 .results-error {
-  padding: 2rem 0;
+  color: #b85c5c;
 }
 
-/* Tablet */
-
-@media (max-width: 900px) {
-  .results-summary {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-}
-
-/* Mobile */
-
-@media (max-width: 640px) {
-  .results-header {
-    align-items: flex-start;
-    gap: 1.5rem;
+@media (max-width: 700px) {
+  .results-grid {
+    grid-template-columns: 1fr;
   }
 
-  .results-score {
-    align-items: flex-start;
-  }
-
-  .results-summary {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-
-  .result-card {
-    padding: 1rem;
-  }
-
-  .result-card-actions {
-    grid-template-columns: minmax(0, 1fr);
-  }
-
-  .results-section-title {
-    margin-top: 1.5rem;
+  .score-summary {
+    grid-template-columns: 1fr;
   }
 }
 
-/* Reduced Motion */
+@media (max-width: 480px) {
+  .card-summary {
+    gap: 0.5rem;
+  }
 
-@media (prefers-reduced-motion: reduce) {
-  .result-action {
-    transition: none;
+  .summary-item {
+    padding: 0.75rem 0.5rem;
+  }
+
+  .summary-item strong {
+    font-size: 1.4rem;
+  }
+
+  .summary-item span {
+    font-size: 0.7rem;
+  }
+
+  .results-actions > * {
+    flex: 1;
   }
 }
 </style>

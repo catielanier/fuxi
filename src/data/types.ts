@@ -21,6 +21,7 @@ export interface VocabularyCard {
   pinyin: string
   english_answers: string[]
   english_gloss: string
+  audio?: string
 }
 
 export interface VocabularyDeck {
