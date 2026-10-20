@@ -11,7 +11,8 @@
       "english_answers": [
         "to like"
       ],
-      "english_gloss": "to like"
+      "english_gloss": "to like",
+      "audio": "喜欢.mp3"
     },
     {
       "hanzi": "我喜欢这个。",
@@ -19,7 +20,8 @@
       "english_answers": [
         "I like this."
       ],
-      "english_gloss": "I like this."
+      "english_gloss": "I like this.",
+      "audio": "我喜欢这个。.mp3"
     },
     {
       "hanzi": "很喜欢",
@@ -27,7 +29,8 @@
       "english_answers": [
         "really like"
       ],
-      "english_gloss": "really like"
+      "english_gloss": "really like",
+      "audio": "很喜欢.mp3"
     },
     {
       "hanzi": "特别喜欢",
@@ -52,7 +55,8 @@
       "english_answers": [
         "This is my favorite song."
       ],
-      "english_gloss": "This is my favorite song."
+      "english_gloss": "This is my favorite song.",
+      "audio": "我最喜欢这首歌。.mp3"
     },
     {
       "hanzi": "喜爱",
@@ -61,7 +65,8 @@
         "to love",
         "to be fond of (somewhat formal)"
       ],
-      "english_gloss": "to love; to be fond of (somewhat formal)"
+      "english_gloss": "to love; to be fond of (somewhat formal)",
+      "audio": "喜爱.mp3"
     },
     {
       "hanzi": "热爱",
@@ -78,7 +83,8 @@
       "english_answers": [
         "I'm passionate about music."
       ],
-      "english_gloss": "I'm passionate about music."
+      "english_gloss": "I'm passionate about music.",
+      "audio": "我热爱音乐。.mp3"
     },
     {
       "hanzi": "爱好",
@@ -96,7 +102,8 @@
       "english_answers": [
         "to be interested"
       ],
-      "english_gloss": "to be interested"
+      "english_gloss": "to be interested",
+      "audio": "感兴趣.mp3"
     },
     {
       "hanzi": "我对音乐感兴趣。",
@@ -104,7 +111,8 @@
       "english_answers": [
         "I'm interested in music."
       ],
-      "english_gloss": "I'm interested in music."
+      "english_gloss": "I'm interested in music.",
+      "audio": "我对音乐感兴趣。.mp3"
     },
     {
       "hanzi": "有兴趣",
@@ -128,7 +136,8 @@
       "english_answers": [
         "not interested in"
       ],
-      "english_gloss": "not interested in"
+      "english_gloss": "not interested in",
+      "audio": "不感兴趣.mp3"
     },
     {
       "hanzi": "欣赏",
@@ -145,7 +154,8 @@
       "english_answers": [
         "I really appreciate her work."
       ],
-      "english_gloss": "I really appreciate her work."
+      "english_gloss": "I really appreciate her work.",
+      "audio": "我很欣赏她的作品。.mp3"
     },
     {
       "hanzi": "享受",
@@ -154,7 +164,8 @@
         "to enjoy",
         "take pleasure in"
       ],
-      "english_gloss": "to enjoy; take pleasure in"
+      "english_gloss": "to enjoy; take pleasure in",
+      "audio": "享受.mp3"
     },
     {
       "hanzi": "我很享受这个过程。",
@@ -162,7 +173,8 @@
       "english_answers": [
         "I really enjoy the process."
       ],
-      "english_gloss": "I really enjoy the process."
+      "english_gloss": "I really enjoy the process.",
+      "audio": "我很享受这个过程。.mp3"
     },
     {
       "hanzi": "合我的口味",
@@ -170,7 +182,8 @@
       "english_answers": [
         "suits my taste"
       ],
-      "english_gloss": "suits my taste"
+      "english_gloss": "suits my taste",
+      "audio": "合我的口味.mp3"
     },
     {
       "hanzi": "不喜欢",
@@ -179,7 +192,8 @@
         "to dislike",
         "not like"
       ],
-      "english_gloss": "to dislike; not like"
+      "english_gloss": "to dislike; not like",
+      "audio": "不喜欢.mp3"
     },
     {
       "hanzi": "不太喜欢",
@@ -187,7 +201,8 @@
       "english_answers": [
         "don't really like"
       ],
-      "english_gloss": "don't really like"
+      "english_gloss": "don't really like",
+      "audio": "不太喜欢.mp3"
     },
     {
       "hanzi": "不是很喜欢",
@@ -195,7 +210,8 @@
       "english_answers": [
         "not particularly fond of"
       ],
-      "english_gloss": "not particularly fond of"
+      "english_gloss": "not particularly fond of",
+      "audio": "不是很喜欢.mp3"
     },
     {
       "hanzi": "讨厌",
@@ -212,7 +228,8 @@
       "english_answers": [
         "I hate waiting in line."
       ],
-      "english_gloss": "I hate waiting in line."
+      "english_gloss": "I hate waiting in line.",
+      "audio": "我讨厌排队。.mp3"
     },
     {
       "hanzi": "厌恶",
@@ -221,7 +238,8 @@
         "to loathe",
         "detest"
       ],
-      "english_gloss": "to loathe; detest"
+      "english_gloss": "to loathe; detest",
+      "audio": "厌恶.mp3"
     },
     {
       "hanzi": "反感",
@@ -229,7 +247,8 @@
       "english_answers": [
         "to feel aversion or dislike"
       ],
-      "english_gloss": "to feel aversion or dislike"
+      "english_gloss": "to feel aversion or dislike",
+      "audio": "反感.mp3"
     },
     {
       "hanzi": "我对这种态度很反感。",
@@ -237,7 +256,8 @@
       "english_answers": [
         "That attitude really puts me off."
       ],
-      "english_gloss": "That attitude really puts me off."
+      "english_gloss": "That attitude really puts me off.",
+      "audio": "我对这种态度很反感。.mp3"
     },
     {
       "hanzi": "受不了",
@@ -246,7 +266,8 @@
         "can't stand",
         "can't bear"
       ],
-      "english_gloss": "can't stand; can't bear"
+      "english_gloss": "can't stand; can't bear",
+      "audio": "受不了.mp3"
     },
     {
       "hanzi": "我受不了这个声音。",
@@ -254,7 +275,8 @@
       "english_answers": [
         "I can't stand this sound."
       ],
-      "english_gloss": "I can't stand this sound."
+      "english_gloss": "I can't stand this sound.",
+      "audio": "我受不了这个声音。.mp3"
     },
     {
       "hanzi": "烦",
@@ -280,7 +302,8 @@
         "boring",
         "bored"
       ],
-      "english_gloss": "boring; bored"
+      "english_gloss": "boring; bored",
+      "audio": "无聊.mp3"
     },
     {
       "hanzi": "没意思",
@@ -315,7 +338,8 @@
         "don't mind",
         "don't particularly care"
       ],
-      "english_gloss": "don't mind; don't particularly care"
+      "english_gloss": "don't mind; don't particularly care",
+      "audio": "无所谓.mp3"
     },
     {
       "hanzi": "随便",
@@ -332,7 +356,8 @@
       "english_answers": [
         "I don't mind."
       ],
-      "english_gloss": "I don't mind."
+      "english_gloss": "I don't mind.",
+      "audio": "我不介意。.mp3"
     },
     {
       "hanzi": "我介意。",
@@ -340,7 +365,8 @@
       "english_answers": [
         "I do mind."
       ],
-      "english_gloss": "I do mind."
+      "english_gloss": "I do mind.",
+      "audio": "我介意。.mp3"
     },
     {
       "hanzi": "开始喜欢",
@@ -348,7 +374,8 @@
       "english_answers": [
         "start to like"
       ],
-      "english_gloss": "start to like"
+      "english_gloss": "start to like",
+      "audio": "开始喜欢.mp3"
     },
     {
       "hanzi": "我开始喜欢中文了。",
@@ -356,7 +383,8 @@
       "english_answers": [
         "I'm starting to like Chinese."
       ],
-      "english_gloss": "I'm starting to like Chinese."
+      "english_gloss": "I'm starting to like Chinese.",
+      "audio": "我开始喜欢中文了。.mp3"
     },
     {
       "hanzi": "喜欢上",
@@ -365,7 +393,8 @@
         "come to like",
         "develop a liking for"
       ],
-      "english_gloss": "come to like; develop a liking for"
+      "english_gloss": "come to like; develop a liking for",
+      "audio": "喜欢上.mp3"
     },
     {
       "hanzi": "我喜欢上了这座城市。",
@@ -373,7 +402,8 @@
       "english_answers": [
         "I've grown fond of this city."
       ],
-      "english_gloss": "I've grown fond of this city."
+      "english_gloss": "I've grown fond of this city.",
+      "audio": "我喜欢上了这座城市。.mp3"
     },
     {
       "hanzi": "爱上",
@@ -397,7 +427,8 @@
       "english_answers": [
         "I like it here more and more."
       ],
-      "english_gloss": "I like it here more and more."
+      "english_gloss": "I like it here more and more.",
+      "audio": "我越来越喜欢这里了。.mp3"
     },
     {
       "hanzi": "慢慢喜欢上",
@@ -405,7 +436,8 @@
       "english_answers": [
         "gradually come to like"
       ],
-      "english_gloss": "gradually come to like"
+      "english_gloss": "gradually come to like",
+      "audio": "慢慢喜欢上.mp3"
     },
     {
       "hanzi": "渐渐习惯",
@@ -421,7 +453,8 @@
       "english_answers": [
         "have gotten used to it"
       ],
-      "english_gloss": "have gotten used to it"
+      "english_gloss": "have gotten used to it",
+      "audio": "习惯了.mp3"
     },
     {
       "hanzi": "曾经喜欢",
@@ -438,7 +471,8 @@
       "english_answers": [
         "didn't like before"
       ],
-      "english_gloss": "didn't like before"
+      "english_gloss": "didn't like before",
+      "audio": "以前不喜欢.mp3"
     },
     {
       "hanzi": "现在喜欢了",
@@ -454,7 +488,8 @@
       "english_answers": [
         "no longer like"
       ],
-      "english_gloss": "no longer like"
+      "english_gloss": "no longer like",
+      "audio": "不再喜欢.mp3"
     },
     {
       "hanzi": "没那么喜欢了",
@@ -470,7 +505,8 @@
       "english_answers": [
         "like it immensely"
       ],
-      "english_gloss": "like it immensely"
+      "english_gloss": "like it immensely",
+      "audio": "喜欢得不得了.mp3"
     },
     {
       "hanzi": "看腻了",
@@ -486,7 +522,8 @@
       "english_answers": [
         "tired of hearing/listening to it"
       ],
-      "english_gloss": "tired of hearing/listening to it"
+      "english_gloss": "tired of hearing/listening to it",
+      "audio": "听腻了.mp3"
     },
     {
       "hanzi": "舍不得",
@@ -503,7 +540,8 @@
       "english_answers": [
         "change one's opinion"
       ],
-      "english_gloss": "change one's opinion"
+      "english_gloss": "change one's opinion",
+      "audio": "改变看法.mp3"
     },
     {
       "hanzi": "更喜欢",
@@ -529,7 +567,8 @@
       "english_answers": [
         "I tend to prefer rock."
       ],
-      "english_gloss": "I tend to prefer rock."
+      "english_gloss": "I tend to prefer rock.",
+      "audio": "我比较喜欢摇滚乐。.mp3"
     },
     {
       "hanzi": "最爱",
@@ -546,7 +585,8 @@
       "english_answers": [
         "would rather"
       ],
-      "english_gloss": "would rather"
+      "english_gloss": "would rather",
+      "audio": "宁愿.mp3"
     },
     {
       "hanzi": "我宁愿待在家里。",
@@ -554,7 +594,8 @@
       "english_answers": [
         "I'd rather stay home."
       ],
-      "english_gloss": "I'd rather stay home."
+      "english_gloss": "I'd rather stay home.",
+      "audio": "我宁愿待在家里。.mp3"
     },
     {
       "hanzi": "比起……更喜欢……",
@@ -570,7 +611,8 @@
       "english_answers": [
         "like both"
       ],
-      "english_gloss": "like both"
+      "english_gloss": "like both",
+      "audio": "两个都喜欢.mp3"
     },
     {
       "hanzi": "两个都不喜欢",
@@ -578,7 +620,8 @@
       "english_answers": [
         "like neither"
       ],
-      "english_gloss": "like neither"
+      "english_gloss": "like neither",
+      "audio": "两个都不喜欢.mp3"
     },
     {
       "hanzi": "各有各的好处",
@@ -586,7 +629,8 @@
       "english_answers": [
         "each has its advantages"
       ],
-      "english_gloss": "each has its advantages"
+      "english_gloss": "each has its advantages",
+      "audio": "各有各的好处.mp3"
     },
     {
       "hanzi": "我选这个。",
@@ -594,7 +638,8 @@
       "english_answers": [
         "I choose this one."
       ],
-      "english_gloss": "I choose this one."
+      "english_gloss": "I choose this one.",
+      "audio": "我选这个。.mp3"
     },
     {
       "hanzi": "我更倾向于这个。",
@@ -602,7 +647,8 @@
       "english_answers": [
         "I'm more inclined toward this."
       ],
-      "english_gloss": "I'm more inclined toward this."
+      "english_gloss": "I'm more inclined toward this.",
+      "audio": "我更倾向于这个。.mp3"
     },
     {
       "hanzi": "看情况",
@@ -627,7 +673,8 @@
       "english_answers": [
         "I don't mind either way."
       ],
-      "english_gloss": "I don't mind either way."
+      "english_gloss": "I don't mind either way.",
+      "audio": "我无所谓。.mp3"
     },
     {
       "hanzi": "还是……好",
@@ -644,7 +691,8 @@
         "not as good as",
         "better to"
       ],
-      "english_gloss": "not as good as; better to"
+      "english_gloss": "not as good as; better to",
+      "audio": "不如.mp3"
     },
     {
       "hanzi": "看法",
@@ -663,7 +711,8 @@
         "suggestion",
         "objection"
       ],
-      "english_gloss": "opinion; suggestion; objection"
+      "english_gloss": "opinion; suggestion; objection",
+      "audio": "意见.mp3"
     },
     {
       "hanzi": "观点",
@@ -680,7 +729,8 @@
       "english_answers": [
         "attitude"
       ],
-      "english_gloss": "attitude"
+      "english_gloss": "attitude",
+      "audio": "态度.mp3"
     },
     {
       "hanzi": "我觉得",
@@ -689,7 +739,8 @@
         "I think",
         "I feel"
       ],
-      "english_gloss": "I think; I feel"
+      "english_gloss": "I think; I feel",
+      "audio": "我觉得.mp3"
     },
     {
       "hanzi": "我认为",
@@ -698,7 +749,8 @@
         "I believe",
         "I consider"
       ],
-      "english_gloss": "I believe; I consider"
+      "english_gloss": "I believe; I consider",
+      "audio": "我认为.mp3"
     },
     {
       "hanzi": "我感觉",
@@ -707,7 +759,8 @@
         "I feel",
         "I get the impression"
       ],
-      "english_gloss": "I feel; I get the impression"
+      "english_gloss": "I feel; I get the impression",
+      "audio": "我感觉.mp3"
     },
     {
       "hanzi": "我以为",
@@ -715,7 +768,8 @@
       "english_answers": [
         "I thought/assumed (often mistakenly)"
       ],
-      "english_gloss": "I thought/assumed (often mistakenly)"
+      "english_gloss": "I thought/assumed (often mistakenly)",
+      "audio": "我以为.mp3"
     },
     {
       "hanzi": "在我看来",
@@ -723,7 +777,8 @@
       "english_answers": [
         "in my view"
       ],
-      "english_gloss": "in my view"
+      "english_gloss": "in my view",
+      "audio": "在我看来.mp3"
     },
     {
       "hanzi": "对我来说",
@@ -732,7 +787,8 @@
         "for me",
         "as far as I'm concerned"
       ],
-      "english_gloss": "for me; as far as I'm concerned"
+      "english_gloss": "for me; as far as I'm concerned",
+      "audio": "对我来说.mp3"
     },
     {
       "hanzi": "依我看",
@@ -740,7 +796,8 @@
       "english_answers": [
         "in my opinion"
       ],
-      "english_gloss": "in my opinion"
+      "english_gloss": "in my opinion",
+      "audio": "依我看.mp3"
     },
     {
       "hanzi": "我倒觉得……",
@@ -748,7 +805,8 @@
       "english_answers": [
         "I actually think… (contrast)"
       ],
-      "english_gloss": "I actually think… (contrast)"
+      "english_gloss": "I actually think… (contrast)",
+      "audio": "我倒觉得…….mp3"
     },
     {
       "hanzi": "我同意。",
@@ -756,7 +814,8 @@
       "english_answers": [
         "I agree."
       ],
-      "english_gloss": "I agree."
+      "english_gloss": "I agree.",
+      "audio": "我同意。.mp3"
     },
     {
       "hanzi": "我不同意。",
@@ -764,7 +823,8 @@
       "english_answers": [
         "I disagree."
       ],
-      "english_gloss": "I disagree."
+      "english_gloss": "I disagree.",
+      "audio": "我不同意。.mp3"
     },
     {
       "hanzi": "有道理",
@@ -790,7 +850,8 @@
       "english_answers": [
         "not necessarily"
       ],
-      "english_gloss": "not necessarily"
+      "english_gloss": "not necessarily",
+      "audio": "不一定.mp3"
     },
     {
       "hanzi": "我不这么认为。",
@@ -798,7 +859,8 @@
       "english_answers": [
         "I don't think so."
       ],
-      "english_gloss": "I don't think so."
+      "english_gloss": "I don't think so.",
+      "audio": "我不这么认为。.mp3"
     },
     {
       "hanzi": "我有不同的看法。",
@@ -806,7 +868,8 @@
       "english_answers": [
         "I have a different opinion."
       ],
-      "english_gloss": "I have a different opinion."
+      "english_gloss": "I have a different opinion.",
+      "audio": "我有不同的看法。.mp3"
     },
     {
       "hanzi": "你怎么看？",
@@ -814,7 +877,8 @@
       "english_answers": [
         "What do you think?"
       ],
-      "english_gloss": "What do you think?"
+      "english_gloss": "What do you think?",
+      "audio": "你怎么看？.mp3"
     },
     {
       "hanzi": "你觉得怎么样？",
@@ -822,7 +886,8 @@
       "english_answers": [
         "What do you think of it?"
       ],
-      "english_gloss": "What do you think of it?"
+      "english_gloss": "What do you think of it?",
+      "audio": "你觉得怎么样？.mp3"
     },
     {
       "hanzi": "说实话",
@@ -838,7 +903,8 @@
       "english_answers": [
         "hard to say"
       ],
-      "english_gloss": "hard to say"
+      "english_gloss": "hard to say",
+      "audio": "不好说.mp3"
     }
   ]
 }

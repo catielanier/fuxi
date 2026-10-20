@@ -12,7 +12,8 @@
         "actually",
         "in fact"
       ],
-      "english_gloss": "actually; in fact"
+      "english_gloss": "actually; in fact",
+      "audio": "其实.mp3"
     },
     {
       "hanzi": "说实话",
@@ -28,7 +29,8 @@
       "english_answers": [
         "of course"
       ],
-      "english_gloss": "of course"
+      "english_gloss": "of course",
+      "audio": "当然.mp3"
     },
     {
       "hanzi": "不过",
@@ -37,7 +39,8 @@
         "however",
         "but"
       ],
-      "english_gloss": "however; but"
+      "english_gloss": "however; but",
+      "audio": "不过.mp3"
     },
     {
       "hanzi": "但是",
@@ -46,7 +49,8 @@
         "but",
         "however"
       ],
-      "english_gloss": "but; however"
+      "english_gloss": "but; however",
+      "audio": "但是.mp3"
     },
     {
       "hanzi": "可是",
@@ -55,7 +59,8 @@
         "but",
         "yet"
       ],
-      "english_gloss": "but; yet"
+      "english_gloss": "but; yet",
+      "audio": "可是.mp3"
     },
     {
       "hanzi": "而且",
@@ -73,7 +78,8 @@
         "besides",
         "additionally"
       ],
-      "english_gloss": "besides; additionally"
+      "english_gloss": "besides; additionally",
+      "audio": "另外.mp3"
     },
     {
       "hanzi": "还有",
@@ -107,7 +113,8 @@
         "in short",
         "in any case"
       ],
-      "english_gloss": "in short; in any case"
+      "english_gloss": "in short; in any case",
+      "audio": "总之.mp3"
     },
     {
       "hanzi": "反正",
@@ -116,7 +123,8 @@
         "anyway",
         "regardless"
       ],
-      "english_gloss": "anyway; regardless"
+      "english_gloss": "anyway; regardless",
+      "audio": "反正.mp3"
     },
     {
       "hanzi": "总的来说",
@@ -124,7 +132,8 @@
       "english_answers": [
         "generally speaking"
       ],
-      "english_gloss": "generally speaking"
+      "english_gloss": "generally speaking",
+      "audio": "总的来说.mp3"
     },
     {
       "hanzi": "简单来说",
@@ -140,7 +149,8 @@
       "english_answers": [
         "in other words"
       ],
-      "english_gloss": "in other words"
+      "english_gloss": "in other words",
+      "audio": "换句话说.mp3"
     },
     {
       "hanzi": "也就是说",
@@ -148,7 +158,8 @@
       "english_answers": [
         "that is to say"
       ],
-      "english_gloss": "that is to say"
+      "english_gloss": "that is to say",
+      "audio": "也就是说.mp3"
     },
     {
       "hanzi": "问题是",
@@ -164,7 +175,8 @@
       "english_answers": [
         "the key is"
       ],
-      "english_gloss": "the key is"
+      "english_gloss": "the key is",
+      "audio": "关键是.mp3"
     },
     {
       "hanzi": "首先",
@@ -190,7 +202,8 @@
         "next",
         "following that"
       ],
-      "english_gloss": "next; following that"
+      "english_gloss": "next; following that",
+      "audio": "接着.mp3"
     },
     {
       "hanzi": "后来",
@@ -198,7 +211,8 @@
       "english_answers": [
         "later on"
       ],
-      "english_gloss": "later on"
+      "english_gloss": "later on",
+      "audio": "后来.mp3"
     },
     {
       "hanzi": "最后",
@@ -224,7 +238,8 @@
         "so",
         "therefore"
       ],
-      "english_gloss": "so; therefore"
+      "english_gloss": "so; therefore",
+      "audio": "所以.mp3"
     },
     {
       "hanzi": "因此",
@@ -232,7 +247,8 @@
       "english_answers": [
         "therefore (formal)"
       ],
-      "english_gloss": "therefore (formal)"
+      "english_gloss": "therefore (formal)",
+      "audio": "因此.mp3"
     },
     {
       "hanzi": "因为",
@@ -240,7 +256,8 @@
       "english_answers": [
         "because"
       ],
-      "english_gloss": "because"
+      "english_gloss": "because",
+      "audio": "因为.mp3"
     },
     {
       "hanzi": "既然",
@@ -249,7 +266,8 @@
         "since",
         "given that"
       ],
-      "english_gloss": "since; given that"
+      "english_gloss": "since; given that",
+      "audio": "既然.mp3"
     },
     {
       "hanzi": "虽然",
@@ -265,7 +283,8 @@
       "english_answers": [
         "even if"
       ],
-      "english_gloss": "even if"
+      "english_gloss": "even if",
+      "audio": "即使.mp3"
     },
     {
       "hanzi": "除非",
@@ -289,7 +308,8 @@
       "english_answers": [
         "otherwise (formal)"
       ],
-      "english_gloss": "otherwise (formal)"
+      "english_gloss": "otherwise (formal)",
+      "audio": "否则.mp3"
     },
     {
       "hanzi": "不管",
@@ -297,7 +317,8 @@
       "english_answers": [
         "regardless of"
       ],
-      "english_gloss": "regardless of"
+      "english_gloss": "regardless of",
+      "audio": "不管.mp3"
     },
     {
       "hanzi": "无论",
@@ -306,7 +327,8 @@
         "no matter",
         "regardless"
       ],
-      "english_gloss": "no matter; regardless"
+      "english_gloss": "no matter; regardless",
+      "audio": "无论.mp3"
     },
     {
       "hanzi": "至少",
@@ -323,7 +345,8 @@
         "approximately",
         "probably"
       ],
-      "english_gloss": "approximately; probably"
+      "english_gloss": "approximately; probably",
+      "audio": "大概.mp3"
     },
     {
       "hanzi": "差不多",
@@ -332,7 +355,8 @@
         "about the same",
         "almost"
       ],
-      "english_gloss": "about the same; almost"
+      "english_gloss": "about the same; almost",
+      "audio": "差不多.mp3"
     },
     {
       "hanzi": "也许",
@@ -340,7 +364,8 @@
       "english_answers": [
         "perhaps"
       ],
-      "english_gloss": "perhaps"
+      "english_gloss": "perhaps",
+      "audio": "也许.mp3"
     },
     {
       "hanzi": "可能",
@@ -349,7 +374,8 @@
         "possibly",
         "might"
       ],
-      "english_gloss": "possibly; might"
+      "english_gloss": "possibly; might",
+      "audio": "可能.mp3"
     },
     {
       "hanzi": "应该",
@@ -358,7 +384,8 @@
         "should",
         "probably"
       ],
-      "english_gloss": "should; probably"
+      "english_gloss": "should; probably",
+      "audio": "应该.mp3"
     },
     {
       "hanzi": "恐怕",
@@ -367,7 +394,8 @@
         "I'm afraid",
         "probably (unwelcome)"
       ],
-      "english_gloss": "I'm afraid; probably (unwelcome)"
+      "english_gloss": "I'm afraid; probably (unwelcome)",
+      "audio": "恐怕.mp3"
     },
     {
       "hanzi": "估计",
@@ -376,7 +404,8 @@
         "I reckon",
         "estimate"
       ],
-      "english_gloss": "I reckon; estimate"
+      "english_gloss": "I reckon; estimate",
+      "audio": "估计.mp3"
     },
     {
       "hanzi": "甚至",
@@ -393,7 +422,8 @@
       "english_answers": [
         "especially"
       ],
-      "english_gloss": "especially"
+      "english_gloss": "especially",
+      "audio": "尤其.mp3"
     },
     {
       "hanzi": "毕竟",
@@ -409,7 +439,8 @@
       "english_answers": [
         "Actually, I think…"
       ],
-      "english_gloss": "Actually, I think…"
+      "english_gloss": "Actually, I think…",
+      "audio": "其实我觉得…….mp3"
     },
     {
       "hanzi": "我不太确定。",
@@ -417,7 +448,8 @@
       "english_answers": [
         "I'm not quite sure."
       ],
-      "english_gloss": "I'm not quite sure."
+      "english_gloss": "I'm not quite sure.",
+      "audio": "我不太确定。.mp3"
     },
     {
       "hanzi": "我也这么觉得。",
@@ -425,7 +457,8 @@
       "english_answers": [
         "I feel the same way."
       ],
-      "english_gloss": "I feel the same way."
+      "english_gloss": "I feel the same way.",
+      "audio": "我也这么觉得。.mp3"
     },
     {
       "hanzi": "有可能。",
@@ -441,7 +474,8 @@
       "english_answers": [
         "Not necessarily."
       ],
-      "english_gloss": "Not necessarily."
+      "english_gloss": "Not necessarily.",
+      "audio": "不一定。.mp3"
     },
     {
       "hanzi": "说不定。",
@@ -466,7 +500,8 @@
       "english_answers": [
         "You have a point."
       ],
-      "english_gloss": "You have a point."
+      "english_gloss": "You have a point.",
+      "audio": "你说得有道理。.mp3"
     },
     {
       "hanzi": "这倒也是。",
@@ -482,7 +517,8 @@
       "english_answers": [
         "I see what you mean."
       ],
-      "english_gloss": "I see what you mean."
+      "english_gloss": "I see what you mean.",
+      "audio": "我明白你的意思。.mp3"
     },
     {
       "hanzi": "我懂了。",
@@ -490,7 +526,8 @@
       "english_answers": [
         "I get it now."
       ],
-      "english_gloss": "I get it now."
+      "english_gloss": "I get it now.",
+      "audio": "我懂了。.mp3"
     },
     {
       "hanzi": "明白了。",
@@ -514,7 +551,8 @@
       "english_answers": [
         "Say it again."
       ],
-      "english_gloss": "Say it again."
+      "english_gloss": "Say it again.",
+      "audio": "再说一遍。.mp3"
     },
     {
       "hanzi": "你能再说一遍吗？",
@@ -522,7 +560,8 @@
       "english_answers": [
         "Could you say it again?"
       ],
-      "english_gloss": "Could you say it again?"
+      "english_gloss": "Could you say it again?",
+      "audio": "你能再说一遍吗？.mp3"
     },
     {
       "hanzi": "你能说慢一点吗？",
@@ -530,7 +569,8 @@
       "english_answers": [
         "Could you speak more slowly?"
       ],
-      "english_gloss": "Could you speak more slowly?"
+      "english_gloss": "Could you speak more slowly?",
+      "audio": "你能说慢一点吗？.mp3"
     },
     {
       "hanzi": "这是什么意思？",
@@ -546,7 +586,8 @@
       "english_answers": [
         "What are you referring to?"
       ],
-      "english_gloss": "What are you referring to?"
+      "english_gloss": "What are you referring to?",
+      "audio": "你指的是什么？.mp3"
     },
     {
       "hanzi": "你是说……吗？",
@@ -554,7 +595,8 @@
       "english_answers": [
         "Do you mean…?"
       ],
-      "english_gloss": "Do you mean…?"
+      "english_gloss": "Do you mean…?",
+      "audio": "你是说……吗？.mp3"
     },
     {
       "hanzi": "怎么说呢？",
@@ -562,7 +604,8 @@
       "english_answers": [
         "How should I put it?"
       ],
-      "english_gloss": "How should I put it?"
+      "english_gloss": "How should I put it?",
+      "audio": "怎么说呢？.mp3"
     },
     {
       "hanzi": "我想想。",
@@ -570,7 +613,8 @@
       "english_answers": [
         "Let me think."
       ],
-      "english_gloss": "Let me think."
+      "english_gloss": "Let me think.",
+      "audio": "我想想。.mp3"
     },
     {
       "hanzi": "等一下。",
@@ -594,7 +638,8 @@
       "english_answers": [
         "I forgot how to say it."
       ],
-      "english_gloss": "I forgot how to say it."
+      "english_gloss": "I forgot how to say it.",
+      "audio": "我忘了怎么说。.mp3"
     },
     {
       "hanzi": "这个词怎么说？",
@@ -610,7 +655,8 @@
       "english_answers": [
         "Can you give an example?"
       ],
-      "english_gloss": "Can you give an example?"
+      "english_gloss": "Can you give an example?",
+      "audio": "你能举个例子吗？.mp3"
     },
     {
       "hanzi": "让我解释一下。",
@@ -626,7 +672,8 @@
       "english_answers": [
         "What I mean is…"
       ],
-      "english_gloss": "What I mean is…"
+      "english_gloss": "What I mean is…",
+      "audio": "我的意思是…….mp3"
     },
     {
       "hanzi": "原来如此。",
@@ -634,7 +681,8 @@
       "english_answers": [
         "Oh, so that's how it is."
       ],
-      "english_gloss": "Oh, so that's how it is."
+      "english_gloss": "Oh, so that's how it is.",
+      "audio": "原来如此。.mp3"
     },
     {
       "hanzi": "怪不得。",
@@ -642,7 +690,8 @@
       "english_answers": [
         "No wonder."
       ],
-      "english_gloss": "No wonder."
+      "english_gloss": "No wonder.",
+      "audio": "怪不得。.mp3"
     },
     {
       "hanzi": "难怪。",
@@ -674,7 +723,8 @@
       "english_answers": [
         "No way!"
       ],
-      "english_gloss": "No way!"
+      "english_gloss": "No way!",
+      "audio": "不会吧！.mp3"
     },
     {
       "hanzi": "太巧了！",
@@ -682,7 +732,8 @@
       "english_answers": [
         "What a coincidence!"
       ],
-      "english_gloss": "What a coincidence!"
+      "english_gloss": "What a coincidence!",
+      "audio": "太巧了！.mp3"
     },
     {
       "hanzi": "没办法。",
@@ -716,7 +767,8 @@
       "english_answers": [
         "What do you think?"
       ],
-      "english_gloss": "What do you think?"
+      "english_gloss": "What do you think?",
+      "audio": "你说呢？.mp3"
     },
     {
       "hanzi": "你怎么看？",
@@ -724,7 +776,8 @@
       "english_answers": [
         "What's your take?"
       ],
-      "english_gloss": "What's your take?"
+      "english_gloss": "What's your take?",
+      "audio": "你怎么看？.mp3"
     },
     {
       "hanzi": "对了，……",
@@ -733,7 +786,8 @@
         "Oh, right",
         "by the way…"
       ],
-      "english_gloss": "Oh, right; by the way…"
+      "english_gloss": "Oh, right; by the way…",
+      "audio": "对了，…….mp3"
     },
     {
       "hanzi": "话说回来，……",
@@ -765,7 +819,8 @@
       "english_answers": [
         "I almost forgot."
       ],
-      "english_gloss": "I almost forgot."
+      "english_gloss": "I almost forgot.",
+      "audio": "我差点忘了。.mp3"
     },
     {
       "hanzi": "先这样吧。",
@@ -773,7 +828,8 @@
       "english_answers": [
         "Let's leave it at that for now."
       ],
-      "english_gloss": "Let's leave it at that for now."
+      "english_gloss": "Let's leave it at that for now.",
+      "audio": "先这样吧。.mp3"
     },
     {
       "hanzi": "回头再说。",
@@ -781,7 +837,8 @@
       "english_answers": [
         "Let's talk about it later."
       ],
-      "english_gloss": "Let's talk about it later."
+      "english_gloss": "Let's talk about it later.",
+      "audio": "回头再说。.mp3"
     },
     {
       "hanzi": "我再确认一下。",
@@ -789,7 +846,8 @@
       "english_answers": [
         "Let me double-check."
       ],
-      "english_gloss": "Let me double-check."
+      "english_gloss": "Let me double-check.",
+      "audio": "我再确认一下。.mp3"
     },
     {
       "hanzi": "说得也是。",
@@ -814,7 +872,8 @@
       "english_answers": [
         "Not exactly."
       ],
-      "english_gloss": "Not exactly."
+      "english_gloss": "Not exactly.",
+      "audio": "不完全是。.mp3"
     },
     {
       "hanzi": "我不是那个意思。",
@@ -822,7 +881,8 @@
       "english_answers": [
         "That's not what I meant."
       ],
-      "english_gloss": "That's not what I meant."
+      "english_gloss": "That's not what I meant.",
+      "audio": "我不是那个意思。.mp3"
     },
     {
       "hanzi": "先不说这个。",
@@ -830,7 +890,8 @@
       "english_answers": [
         "Let's set that aside for now."
       ],
-      "english_gloss": "Let's set that aside for now."
+      "english_gloss": "Let's set that aside for now.",
+      "audio": "先不说这个。.mp3"
     }
   ]
 }

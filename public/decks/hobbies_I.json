@@ -20,7 +20,8 @@
       "english_answers": [
         "interest"
       ],
-      "english_gloss": "interest"
+      "english_gloss": "interest",
+      "audio": "兴趣.mp3"
     },
     {
       "hanzi": "业余时间",
@@ -28,7 +29,8 @@
       "english_answers": [
         "spare time"
       ],
-      "english_gloss": "spare time"
+      "english_gloss": "spare time",
+      "audio": "业余时间.mp3"
     },
     {
       "hanzi": "参加",
@@ -37,7 +39,8 @@
         "participate",
         "join"
       ],
-      "english_gloss": "participate / join"
+      "english_gloss": "participate / join",
+      "audio": "参加.mp3"
     },
     {
       "hanzi": "社团",
@@ -63,7 +66,8 @@
       "english_answers": [
         "make friends"
       ],
-      "english_gloss": "make friends"
+      "english_gloss": "make friends",
+      "audio": "交朋友.mp3"
     },
     {
       "hanzi": "电子游戏",
@@ -104,7 +108,8 @@
       "english_answers": [
         "game controller"
       ],
-      "english_gloss": "game controller"
+      "english_gloss": "game controller",
+      "audio": "手柄.mp3"
     },
     {
       "hanzi": "摇杆",
@@ -113,7 +118,8 @@
         "joystick",
         "arcade stick"
       ],
-      "english_gloss": "joystick / arcade stick"
+      "english_gloss": "joystick / arcade stick",
+      "audio": "摇杆.mp3"
     },
     {
       "hanzi": "角色",
@@ -130,7 +136,8 @@
       "english_answers": [
         "main character (gaming)"
       ],
-      "english_gloss": "main character (gaming)"
+      "english_gloss": "main character (gaming)",
+      "audio": "主力角色.mp3"
     },
     {
       "hanzi": "对战",
@@ -138,7 +145,8 @@
       "english_answers": [
         "versus match"
       ],
-      "english_gloss": "versus match"
+      "english_gloss": "versus match",
+      "audio": "对战.mp3"
     },
     {
       "hanzi": "比赛",
@@ -173,7 +181,8 @@
         "sign up",
         "register"
       ],
-      "english_gloss": "sign up / register"
+      "english_gloss": "sign up / register",
+      "audio": "报名.mp3"
     },
     {
       "hanzi": "选手",
@@ -198,7 +207,8 @@
       "english_answers": [
         "double elimination"
       ],
-      "english_gloss": "double elimination"
+      "english_gloss": "double elimination",
+      "audio": "双败淘汰.mp3"
     },
     {
       "hanzi": "半决赛",
@@ -206,7 +216,8 @@
       "english_answers": [
         "semifinals"
       ],
-      "english_gloss": "semifinals"
+      "english_gloss": "semifinals",
+      "audio": "半决赛.mp3"
     },
     {
       "hanzi": "决赛",
@@ -214,7 +225,8 @@
       "english_answers": [
         "finals"
       ],
-      "english_gloss": "finals"
+      "english_gloss": "finals",
+      "audio": "决赛.mp3"
     },
     {
       "hanzi": "冠军",
@@ -222,7 +234,8 @@
       "english_answers": [
         "champion"
       ],
-      "english_gloss": "champion"
+      "english_gloss": "champion",
+      "audio": "冠军.mp3"
     },
     {
       "hanzi": "连招",
@@ -238,7 +251,8 @@
       "english_answers": [
         "special move"
       ],
-      "english_gloss": "special move"
+      "english_gloss": "special move",
+      "audio": "必杀技.mp3"
     },
     {
       "hanzi": "判定",
@@ -247,7 +261,8 @@
         "hit detection",
         "move judgment"
       ],
-      "english_gloss": "hit detection / move judgment"
+      "english_gloss": "hit detection / move judgment",
+      "audio": "判定.mp3"
     },
     {
       "hanzi": "帧数",
@@ -255,7 +270,8 @@
       "english_answers": [
         "frame count"
       ],
-      "english_gloss": "frame count"
+      "english_gloss": "frame count",
+      "audio": "帧数.mp3"
     },
     {
       "hanzi": "防御",
@@ -272,7 +288,8 @@
       "english_answers": [
         "counterattack"
       ],
-      "english_gloss": "counterattack"
+      "english_gloss": "counterattack",
+      "audio": "反击.mp3"
     },
     {
       "hanzi": "练习模式",
@@ -288,7 +305,8 @@
       "english_answers": [
         "retro video games"
       ],
-      "english_gloss": "retro video games"
+      "english_gloss": "retro video games",
+      "audio": "复古游戏.mp3"
     },
     {
       "hanzi": "动漫",
@@ -297,7 +315,8 @@
         "anime",
         "comics"
       ],
-      "english_gloss": "anime / comics"
+      "english_gloss": "anime / comics",
+      "audio": "动漫.mp3"
     },
     {
       "hanzi": "漫画",
@@ -356,7 +375,8 @@
       "english_answers": [
         "adult ballet"
       ],
-      "english_gloss": "adult ballet"
+      "english_gloss": "adult ballet",
+      "audio": "成人芭蕾.mp3"
     },
     {
       "hanzi": "舞蹈教室",
@@ -405,7 +425,8 @@
       "english_answers": [
         "ballet barre"
       ],
-      "english_gloss": "ballet barre"
+      "english_gloss": "ballet barre",
+      "audio": "把杆.mp3"
     },
     {
       "hanzi": "扶把练习",
@@ -413,7 +434,8 @@
       "english_answers": [
         "barre exercises"
       ],
-      "english_gloss": "barre exercises"
+      "english_gloss": "barre exercises",
+      "audio": "扶把练习.mp3"
     },
     {
       "hanzi": "地面练习",
@@ -421,7 +443,8 @@
       "english_answers": [
         "floor exercises"
       ],
-      "english_gloss": "floor exercises"
+      "english_gloss": "floor exercises",
+      "audio": "地面练习.mp3"
     },
     {
       "hanzi": "脚尖",
@@ -445,7 +468,8 @@
       "english_answers": [
         "flex the feet"
       ],
-      "english_gloss": "flex the feet"
+      "english_gloss": "flex the feet",
+      "audio": "勾脚.mp3"
     },
     {
       "hanzi": "踮脚",
@@ -471,7 +495,8 @@
         "rotation",
         "turn"
       ],
-      "english_gloss": "rotation / turn"
+      "english_gloss": "rotation / turn",
+      "audio": "旋转.mp3"
     },
     {
       "hanzi": "跳跃",
@@ -496,7 +521,8 @@
       "english_answers": [
         "balance"
       ],
-      "english_gloss": "balance"
+      "english_gloss": "balance",
+      "audio": "平衡.mp3"
     },
     {
       "hanzi": "姿势",
@@ -505,7 +531,8 @@
         "posture",
         "position"
       ],
-      "english_gloss": "posture / position"
+      "english_gloss": "posture / position",
+      "audio": "姿势.mp3"
     },
     {
       "hanzi": "热身",
@@ -521,7 +548,8 @@
       "english_answers": [
         "stretch"
       ],
-      "english_gloss": "stretch"
+      "english_gloss": "stretch",
+      "audio": "拉伸.mp3"
     },
     {
       "hanzi": "瑜伽",
@@ -554,7 +582,8 @@
         "yoga pose",
         "asana"
       ],
-      "english_gloss": "yoga pose / asana"
+      "english_gloss": "yoga pose / asana",
+      "audio": "体式.mp3"
     },
     {
       "hanzi": "呼吸",
@@ -563,7 +592,8 @@
         "breathing",
         "breathe"
       ],
-      "english_gloss": "breathing / breathe"
+      "english_gloss": "breathing / breathe",
+      "audio": "呼吸.mp3"
     },
     {
       "hanzi": "深呼吸",
@@ -579,7 +609,8 @@
       "english_answers": [
         "meditation"
       ],
-      "english_gloss": "meditation"
+      "english_gloss": "meditation",
+      "audio": "冥想.mp3"
     },
     {
       "hanzi": "放松",
@@ -587,7 +618,8 @@
       "english_answers": [
         "relax"
       ],
-      "english_gloss": "relax"
+      "english_gloss": "relax",
+      "audio": "放松.mp3"
     },
     {
       "hanzi": "核心力量",
@@ -603,7 +635,8 @@
       "english_answers": [
         "nightclub"
       ],
-      "english_gloss": "nightclub"
+      "english_gloss": "nightclub",
+      "audio": "夜店.mp3"
     },
     {
       "hanzi": "蹦迪",
@@ -635,7 +668,8 @@
       "english_answers": [
         "karaoke"
       ],
-      "english_gloss": "karaoke"
+      "english_gloss": "karaoke",
+      "audio": "卡拉OK.mp3"
     },
     {
       "hanzi": "扑克",
@@ -644,7 +678,8 @@
         "playing cards",
         "poker"
       ],
-      "english_gloss": "playing cards / poker"
+      "english_gloss": "playing cards / poker",
+      "audio": "扑克.mp3"
     },
     {
       "hanzi": "德州扑克",
@@ -652,7 +687,8 @@
       "english_answers": [
         "Texas Hold'em"
       ],
-      "english_gloss": "Texas Hold'em"
+      "english_gloss": "Texas Hold'em",
+      "audio": "德州扑克.mp3"
     },
     {
       "hanzi": "筹码",
@@ -668,7 +704,8 @@
       "english_answers": [
         "place a bet"
       ],
-      "english_gloss": "place a bet"
+      "english_gloss": "place a bet",
+      "audio": "下注.mp3"
     },
     {
       "hanzi": "全押",
@@ -676,7 +713,8 @@
       "english_answers": [
         "all-in"
       ],
-      "english_gloss": "all-in"
+      "english_gloss": "all-in",
+      "audio": "全押.mp3"
     },
     {
       "hanzi": "冰球",
@@ -684,7 +722,8 @@
       "english_answers": [
         "ice hockey"
       ],
-      "english_gloss": "ice hockey"
+      "english_gloss": "ice hockey",
+      "audio": "冰球.mp3"
     },
     {
       "hanzi": "球员",
@@ -701,7 +740,8 @@
         "goalkeeper",
         "goalie"
       ],
-      "english_gloss": "goalkeeper / goalie"
+      "english_gloss": "goalkeeper / goalie",
+      "audio": "守门员.mp3"
     },
     {
       "hanzi": "摄影",
@@ -709,7 +749,8 @@
       "english_answers": [
         "photography"
       ],
-      "english_gloss": "photography"
+      "english_gloss": "photography",
+      "audio": "摄影.mp3"
     },
     {
       "hanzi": "拍照",
@@ -717,7 +758,8 @@
       "english_answers": [
         "take photographs"
       ],
-      "english_gloss": "take photographs"
+      "english_gloss": "take photographs",
+      "audio": "拍照.mp3"
     },
     {
       "hanzi": "旅行",
@@ -725,7 +767,8 @@
       "english_answers": [
         "travel"
       ],
-      "english_gloss": "travel"
+      "english_gloss": "travel",
+      "audio": "旅行.mp3"
     },
     {
       "hanzi": "徒步",
@@ -734,7 +777,8 @@
         "hiking",
         "trekking"
       ],
-      "english_gloss": "hiking / trekking"
+      "english_gloss": "hiking / trekking",
+      "audio": "徒步.mp3"
     },
     {
       "hanzi": "露营",
@@ -776,7 +820,8 @@
         "fitness",
         "working out"
       ],
-      "english_gloss": "fitness / working out"
+      "english_gloss": "fitness / working out",
+      "audio": "健身.mp3"
     },
     {
       "hanzi": "读书",
@@ -800,7 +845,8 @@
       "english_answers": [
         "play board games such as chess"
       ],
-      "english_gloss": "play board games such as chess"
+      "english_gloss": "play board games such as chess",
+      "audio": "下棋.mp3"
     },
     {
       "hanzi": "绘画",
@@ -817,7 +863,8 @@
       "english_answers": [
         "do arts and crafts"
       ],
-      "english_gloss": "do arts and crafts"
+      "english_gloss": "do arts and crafts",
+      "audio": "做手工.mp3"
     },
     {
       "hanzi": "钓鱼",
@@ -833,7 +880,8 @@
       "english_answers": [
         "gardening"
       ],
-      "english_gloss": "gardening"
+      "english_gloss": "gardening",
+      "audio": "园艺.mp3"
     }
   ]
 }

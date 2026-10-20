@@ -35,7 +35,8 @@
       "english_answers": [
         "cola"
       ],
-      "english_gloss": "cola"
+      "english_gloss": "cola",
+      "audio": "可乐.mp3"
     },
     {
       "hanzi": "汽水",
@@ -68,7 +69,8 @@
       "english_answers": [
         "ice water"
       ],
-      "english_gloss": "ice water"
+      "english_gloss": "ice water",
+      "audio": "冰水.mp3"
     },
     {
       "hanzi": "啤酒",
@@ -76,7 +78,8 @@
       "english_answers": [
         "beer"
       ],
-      "english_gloss": "beer"
+      "english_gloss": "beer",
+      "audio": "啤酒.mp3"
     },
     {
       "hanzi": "红酒",
@@ -100,7 +103,8 @@
       "english_answers": [
         "milk tea"
       ],
-      "english_gloss": "milk tea"
+      "english_gloss": "milk tea",
+      "audio": "奶茶.mp3"
     },
     {
       "hanzi": "珍珠奶茶",
@@ -124,7 +128,8 @@
       "english_answers": [
         "ice cubes"
       ],
-      "english_gloss": "ice cubes"
+      "english_gloss": "ice cubes",
+      "audio": "冰块.mp3"
     },
     {
       "hanzi": "糖",
@@ -231,7 +236,8 @@
       "english_answers": [
         "cheese"
       ],
-      "english_gloss": "cheese"
+      "english_gloss": "cheese",
+      "audio": "奶酪.mp3"
     },
     {
       "hanzi": "酸奶",
@@ -255,7 +261,8 @@
       "english_answers": [
         "lunch"
       ],
-      "english_gloss": "lunch"
+      "english_gloss": "lunch",
+      "audio": "午餐.mp3"
     },
     {
       "hanzi": "晚餐",
@@ -279,7 +286,8 @@
       "english_answers": [
         "lunch"
       ],
-      "english_gloss": "lunch"
+      "english_gloss": "lunch",
+      "audio": "午饭.mp3"
     },
     {
       "hanzi": "晚饭",
@@ -344,7 +352,8 @@
       "english_answers": [
         "chocolate"
       ],
-      "english_gloss": "chocolate"
+      "english_gloss": "chocolate",
+      "audio": "巧克力.mp3"
     },
     {
       "hanzi": "冰淇淋",
@@ -352,7 +361,8 @@
       "english_answers": [
         "ice cream"
       ],
-      "english_gloss": "ice cream"
+      "english_gloss": "ice cream",
+      "audio": "冰淇淋.mp3"
     },
     {
       "hanzi": "甜点",
@@ -408,7 +418,8 @@
       "english_answers": [
         "nuts"
       ],
-      "english_gloss": "nuts"
+      "english_gloss": "nuts",
+      "audio": "坚果.mp3"
     },
     {
       "hanzi": "热狗",
@@ -458,7 +469,8 @@
         "combo meal",
         "set meal"
       ],
-      "english_gloss": "combo meal / set meal"
+      "english_gloss": "combo meal / set meal",
+      "audio": "套餐.mp3"
     },
     {
       "hanzi": "大份",
@@ -466,7 +478,8 @@
       "english_answers": [
         "large portion"
       ],
-      "english_gloss": "large portion"
+      "english_gloss": "large portion",
+      "audio": "大份.mp3"
     },
     {
       "hanzi": "小份",
@@ -474,7 +487,8 @@
       "english_answers": [
         "small portion"
       ],
-      "english_gloss": "small portion"
+      "english_gloss": "small portion",
+      "audio": "小份.mp3"
     },
     {
       "hanzi": "加大",
@@ -483,7 +497,8 @@
         "upsize",
         "make larger"
       ],
-      "english_gloss": "upsize / make larger"
+      "english_gloss": "upsize / make larger",
+      "audio": "加大.mp3"
     },
     {
       "hanzi": "堂食",
@@ -491,7 +506,8 @@
       "english_answers": [
         "dine in"
       ],
-      "english_gloss": "dine in"
+      "english_gloss": "dine in",
+      "audio": "堂食.mp3"
     },
     {
       "hanzi": "打包",
@@ -500,7 +516,8 @@
         "pack to go",
         "take away"
       ],
-      "english_gloss": "pack to go / take away"
+      "english_gloss": "pack to go / take away",
+      "audio": "打包.mp3"
     },
     {
       "hanzi": "带走",
@@ -508,7 +525,8 @@
       "english_answers": [
         "take away"
       ],
-      "english_gloss": "take away"
+      "english_gloss": "take away",
+      "audio": "带走.mp3"
     },
     {
       "hanzi": "外带",
@@ -517,7 +535,8 @@
         "takeaway",
         "to go"
       ],
-      "english_gloss": "takeaway / to go"
+      "english_gloss": "takeaway / to go",
+      "audio": "外带.mp3"
     },
     {
       "hanzi": "加",
@@ -526,7 +545,8 @@
         "add",
         "extra"
       ],
-      "english_gloss": "add / extra"
+      "english_gloss": "add / extra",
+      "audio": "加.mp3"
     },
     {
       "hanzi": "不要",
@@ -535,7 +555,8 @@
         "don't want",
         "no"
       ],
-      "english_gloss": "don't want / no"
+      "english_gloss": "don't want / no",
+      "audio": "不要.mp3"
     },
     {
       "hanzi": "少放",
@@ -543,7 +564,8 @@
       "english_answers": [
         "put in less"
       ],
-      "english_gloss": "put in less"
+      "english_gloss": "put in less",
+      "audio": "少放.mp3"
     },
     {
       "hanzi": "多放",
@@ -551,7 +573,8 @@
       "english_answers": [
         "put in more"
       ],
-      "english_gloss": "put in more"
+      "english_gloss": "put in more",
+      "audio": "多放.mp3"
     },
     {
       "hanzi": "不放",
@@ -560,7 +583,8 @@
         "don't add",
         "leave out"
       ],
-      "english_gloss": "don't add / leave out"
+      "english_gloss": "don't add / leave out",
+      "audio": "不放.mp3"
     },
     {
       "hanzi": "少盐",
@@ -568,7 +592,8 @@
       "english_answers": [
         "less salt"
       ],
-      "english_gloss": "less salt"
+      "english_gloss": "less salt",
+      "audio": "少盐.mp3"
     },
     {
       "hanzi": "少糖",
@@ -576,7 +601,8 @@
       "english_answers": [
         "less sugar"
       ],
-      "english_gloss": "less sugar"
+      "english_gloss": "less sugar",
+      "audio": "少糖.mp3"
     },
     {
       "hanzi": "无糖",
@@ -584,7 +610,8 @@
       "english_answers": [
         "sugar-free"
       ],
-      "english_gloss": "sugar-free"
+      "english_gloss": "sugar-free",
+      "audio": "无糖.mp3"
     },
     {
       "hanzi": "微辣",
@@ -592,7 +619,8 @@
       "english_answers": [
         "mildly spicy"
       ],
-      "english_gloss": "mildly spicy"
+      "english_gloss": "mildly spicy",
+      "audio": "微辣.mp3"
     },
     {
       "hanzi": "中辣",
@@ -600,7 +628,8 @@
       "english_answers": [
         "medium spicy"
       ],
-      "english_gloss": "medium spicy"
+      "english_gloss": "medium spicy",
+      "audio": "中辣.mp3"
     },
     {
       "hanzi": "特辣",
@@ -617,7 +646,8 @@
         "well-done",
         "fully cooked"
       ],
-      "english_gloss": "well-done / fully cooked"
+      "english_gloss": "well-done / fully cooked",
+      "audio": "全熟.mp3"
     },
     {
       "hanzi": "半熟",
@@ -626,7 +656,8 @@
         "half-cooked",
         "partially cooked"
       ],
-      "english_gloss": "half-cooked / partially cooked"
+      "english_gloss": "half-cooked / partially cooked",
+      "audio": "半熟.mp3"
     },
     {
       "hanzi": "五分熟",
@@ -634,7 +665,8 @@
       "english_answers": [
         "medium steak doneness"
       ],
-      "english_gloss": "medium steak doneness"
+      "english_gloss": "medium steak doneness",
+      "audio": "五分熟.mp3"
     },
     {
       "hanzi": "七分熟",
@@ -642,7 +674,8 @@
       "english_answers": [
         "medium-well steak doneness"
       ],
-      "english_gloss": "medium-well steak doneness"
+      "english_gloss": "medium-well steak doneness",
+      "audio": "七分熟.mp3"
     },
     {
       "hanzi": "去皮",
@@ -651,7 +684,8 @@
         "remove the skin",
         "peel"
       ],
-      "english_gloss": "remove the skin / peel"
+      "english_gloss": "remove the skin / peel",
+      "audio": "去皮.mp3"
     },
     {
       "hanzi": "去骨",
@@ -660,7 +694,8 @@
         "debone",
         "boneless"
       ],
-      "english_gloss": "debone / boneless"
+      "english_gloss": "debone / boneless",
+      "audio": "去骨.mp3"
     },
     {
       "hanzi": "切片",
@@ -668,7 +703,8 @@
       "english_answers": [
         "slice"
       ],
-      "english_gloss": "slice"
+      "english_gloss": "slice",
+      "audio": "切片.mp3"
     },
     {
       "hanzi": "切块",
@@ -676,7 +712,8 @@
       "english_answers": [
         "cut into chunks"
       ],
-      "english_gloss": "cut into chunks"
+      "english_gloss": "cut into chunks",
+      "audio": "切块.mp3"
     },
     {
       "hanzi": "切碎",
@@ -684,7 +721,8 @@
       "english_answers": [
         "chop finely"
       ],
-      "english_gloss": "chop finely"
+      "english_gloss": "chop finely",
+      "audio": "切碎.mp3"
     },
     {
       "hanzi": "清蒸",
@@ -752,7 +790,8 @@
         "pay the bill",
         "check please"
       ],
-      "english_gloss": "pay the bill / check please"
+      "english_gloss": "pay the bill / check please",
+      "audio": "买单.mp3"
     },
     {
       "hanzi": "结账",
@@ -779,7 +818,8 @@
         "recommend",
         "recommendation"
       ],
-      "english_gloss": "recommend / recommendation"
+      "english_gloss": "recommend / recommendation",
+      "audio": "推荐.mp3"
     },
     {
       "hanzi": "招牌菜",
@@ -787,7 +827,8 @@
       "english_answers": [
         "signature dish"
       ],
-      "english_gloss": "signature dish"
+      "english_gloss": "signature dish",
+      "audio": "招牌菜.mp3"
     },
     {
       "hanzi": "过敏",
@@ -828,7 +869,8 @@
       "english_answers": [
         "cannot eat"
       ],
-      "english_gloss": "cannot eat"
+      "english_gloss": "cannot eat",
+      "audio": "不能吃.mp3"
     }
   ]
 }

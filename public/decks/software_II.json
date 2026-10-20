@@ -11,7 +11,8 @@
       "english_answers": [
         "coworker"
       ],
-      "english_gloss": "coworker"
+      "english_gloss": "coworker",
+      "audio": "同事.mp3"
     },
     {
       "hanzi": "团队",
@@ -19,7 +20,8 @@
       "english_answers": [
         "team"
       ],
-      "english_gloss": "team"
+      "english_gloss": "team",
+      "audio": "团队.mp3"
     },
     {
       "hanzi": "主管",
@@ -28,7 +30,8 @@
         "supervisor",
         "manager"
       ],
-      "english_gloss": "supervisor / manager"
+      "english_gloss": "supervisor / manager",
+      "audio": "主管.mp3"
     },
     {
       "hanzi": "经理",
@@ -52,7 +55,8 @@
       "english_answers": [
         "product manager"
       ],
-      "english_gloss": "product manager"
+      "english_gloss": "product manager",
+      "audio": "产品经理.mp3"
     },
     {
       "hanzi": "设计师",
@@ -68,7 +72,8 @@
       "english_answers": [
         "client"
       ],
-      "english_gloss": "client"
+      "english_gloss": "client",
+      "audio": "客户.mp3"
     },
     {
       "hanzi": "利益相关者",
@@ -76,7 +81,8 @@
       "english_answers": [
         "stakeholder"
       ],
-      "english_gloss": "stakeholder"
+      "english_gloss": "stakeholder",
+      "audio": "利益相关者.mp3"
     },
     {
       "hanzi": "会议",
@@ -84,7 +90,8 @@
       "english_answers": [
         "meeting"
       ],
-      "english_gloss": "meeting"
+      "english_gloss": "meeting",
+      "audio": "会议.mp3"
     },
     {
       "hanzi": "开会",
@@ -93,7 +100,8 @@
         "hold",
         "attend a meeting"
       ],
-      "english_gloss": "hold / attend a meeting"
+      "english_gloss": "hold / attend a meeting",
+      "audio": "开会.mp3"
     },
     {
       "hanzi": "例会",
@@ -101,7 +109,8 @@
       "english_answers": [
         "regular meeting"
       ],
-      "english_gloss": "regular meeting"
+      "english_gloss": "regular meeting",
+      "audio": "例会.mp3"
     },
     {
       "hanzi": "站会",
@@ -133,7 +142,8 @@
       "english_answers": [
         "meeting minutes"
       ],
-      "english_gloss": "meeting minutes"
+      "english_gloss": "meeting minutes",
+      "audio": "会议纪要.mp3"
     },
     {
       "hanzi": "议程",
@@ -149,7 +159,8 @@
       "english_answers": [
         "speak at a meeting"
       ],
-      "english_gloss": "speak at a meeting"
+      "english_gloss": "speak at a meeting",
+      "audio": "发言.mp3"
     },
     {
       "hanzi": "提问",
@@ -157,7 +168,8 @@
       "english_answers": [
         "ask a question"
       ],
-      "english_gloss": "ask a question"
+      "english_gloss": "ask a question",
+      "audio": "提问.mp3"
     },
     {
       "hanzi": "讨论",
@@ -182,7 +194,8 @@
       "english_answers": [
         "collaborate"
       ],
-      "english_gloss": "collaborate"
+      "english_gloss": "collaborate",
+      "audio": "协作.mp3"
     },
     {
       "hanzi": "配合",
@@ -199,7 +212,8 @@
       "english_answers": [
         "feedback"
       ],
-      "english_gloss": "feedback"
+      "english_gloss": "feedback",
+      "audio": "反馈.mp3"
     },
     {
       "hanzi": "建议",
@@ -207,7 +221,8 @@
       "english_answers": [
         "suggestion"
       ],
-      "english_gloss": "suggestion"
+      "english_gloss": "suggestion",
+      "audio": "建议.mp3"
     },
     {
       "hanzi": "意见",
@@ -216,7 +231,8 @@
         "opinion",
         "input"
       ],
-      "english_gloss": "opinion / input"
+      "english_gloss": "opinion / input",
+      "audio": "意见.mp3"
     },
     {
       "hanzi": "确认",
@@ -256,7 +272,8 @@
       "english_answers": [
         "sync on progress"
       ],
-      "english_gloss": "sync on progress"
+      "english_gloss": "sync on progress",
+      "audio": "同步进度.mp3"
     },
     {
       "hanzi": "汇报",
@@ -290,7 +307,8 @@
       "english_answers": [
         "division of responsibilities"
       ],
-      "english_gloss": "division of responsibilities"
+      "english_gloss": "division of responsibilities",
+      "audio": "分工.mp3"
     },
     {
       "hanzi": "交接",
@@ -298,7 +316,8 @@
       "english_answers": [
         "handover"
       ],
-      "english_gloss": "handover"
+      "english_gloss": "handover",
+      "audio": "交接.mp3"
     },
     {
       "hanzi": "优先级",
@@ -306,7 +325,8 @@
       "english_answers": [
         "priority level"
       ],
-      "english_gloss": "priority level"
+      "english_gloss": "priority level",
+      "audio": "优先级.mp3"
     },
     {
       "hanzi": "紧急",
@@ -331,7 +351,8 @@
       "english_answers": [
         "dependency"
       ],
-      "english_gloss": "dependency"
+      "english_gloss": "dependency",
+      "audio": "依赖关系.mp3"
     },
     {
       "hanzi": "需求",
@@ -347,7 +368,8 @@
       "english_answers": [
         "business requirement"
       ],
-      "english_gloss": "business requirement"
+      "english_gloss": "business requirement",
+      "audio": "业务需求.mp3"
     },
     {
       "hanzi": "功能需求",
@@ -355,7 +377,8 @@
       "english_answers": [
         "functional requirement"
       ],
-      "english_gloss": "functional requirement"
+      "english_gloss": "functional requirement",
+      "audio": "功能需求.mp3"
     },
     {
       "hanzi": "用户故事",
@@ -395,7 +418,8 @@
       "english_answers": [
         "task"
       ],
-      "english_gloss": "task"
+      "english_gloss": "task",
+      "audio": "任务.mp3"
     },
     {
       "hanzi": "待办事项",
@@ -403,7 +427,8 @@
       "english_answers": [
         "to-do item"
       ],
-      "english_gloss": "to-do item"
+      "english_gloss": "to-do item",
+      "audio": "待办事项.mp3"
     },
     {
       "hanzi": "任务分配",
@@ -411,7 +436,8 @@
       "english_answers": [
         "task assignment"
       ],
-      "english_gloss": "task assignment"
+      "english_gloss": "task assignment",
+      "audio": "任务分配.mp3"
     },
     {
       "hanzi": "截止日期",
@@ -419,7 +445,8 @@
       "english_answers": [
         "deadline"
       ],
-      "english_gloss": "deadline"
+      "english_gloss": "deadline",
+      "audio": "截止日期.mp3"
     },
     {
       "hanzi": "里程碑",
@@ -444,7 +471,8 @@
       "english_answers": [
         "estimate"
       ],
-      "english_gloss": "estimate"
+      "english_gloss": "estimate",
+      "audio": "估算.mp3"
     },
     {
       "hanzi": "工作量",
@@ -453,7 +481,8 @@
         "workload",
         "effort"
       ],
-      "english_gloss": "workload / effort"
+      "english_gloss": "workload / effort",
+      "audio": "工作量.mp3"
     },
     {
       "hanzi": "迭代",
@@ -469,7 +498,8 @@
       "english_answers": [
         "sprint (Agile)"
       ],
-      "english_gloss": "sprint (Agile)"
+      "english_gloss": "sprint (Agile)",
+      "audio": "冲刺.mp3"
     },
     {
       "hanzi": "冲刺计划",
@@ -477,7 +507,8 @@
       "english_answers": [
         "sprint planning"
       ],
-      "english_gloss": "sprint planning"
+      "english_gloss": "sprint planning",
+      "audio": "冲刺计划.mp3"
     },
     {
       "hanzi": "待办列表",
@@ -486,7 +517,8 @@
         "backlog",
         "task list"
       ],
-      "english_gloss": "backlog / task list"
+      "english_gloss": "backlog / task list",
+      "audio": "待办列表.mp3"
     },
     {
       "hanzi": "回顾会议",
@@ -494,7 +526,8 @@
       "english_answers": [
         "retrospective meeting"
       ],
-      "english_gloss": "retrospective meeting"
+      "english_gloss": "retrospective meeting",
+      "audio": "回顾会议.mp3"
     },
     {
       "hanzi": "代码审查",
@@ -502,7 +535,8 @@
       "english_answers": [
         "code review"
       ],
-      "english_gloss": "code review"
+      "english_gloss": "code review",
+      "audio": "代码审查.mp3"
     },
     {
       "hanzi": "审查意见",
@@ -510,7 +544,8 @@
       "english_answers": [
         "review comment"
       ],
-      "english_gloss": "review comment"
+      "english_gloss": "review comment",
+      "audio": "审查意见.mp3"
     },
     {
       "hanzi": "修改意见",
@@ -519,7 +554,8 @@
         "requested changes",
         "feedback"
       ],
-      "english_gloss": "requested changes / feedback"
+      "english_gloss": "requested changes / feedback",
+      "audio": "修改意见.mp3"
     },
     {
       "hanzi": "批准",
@@ -527,7 +563,8 @@
       "english_answers": [
         "approve"
       ],
-      "english_gloss": "approve"
+      "english_gloss": "approve",
+      "audio": "批准.mp3"
     },
     {
       "hanzi": "合并请求",
@@ -535,7 +572,8 @@
       "english_answers": [
         "merge request"
       ],
-      "english_gloss": "merge request"
+      "english_gloss": "merge request",
+      "audio": "合并请求.mp3"
     },
     {
       "hanzi": "提交记录",
@@ -543,7 +581,8 @@
       "english_answers": [
         "commit history"
       ],
-      "english_gloss": "commit history"
+      "english_gloss": "commit history",
+      "audio": "提交记录.mp3"
     },
     {
       "hanzi": "冲突",
@@ -551,7 +590,8 @@
       "english_answers": [
         "conflict"
       ],
-      "english_gloss": "conflict"
+      "english_gloss": "conflict",
+      "audio": "冲突.mp3"
     },
     {
       "hanzi": "解决冲突",
@@ -575,7 +615,8 @@
       "english_answers": [
         "steps to reproduce"
       ],
-      "english_gloss": "steps to reproduce"
+      "english_gloss": "steps to reproduce",
+      "audio": "复现步骤.mp3"
     },
     {
       "hanzi": "预期结果",
@@ -591,7 +632,8 @@
       "english_answers": [
         "actual result"
       ],
-      "english_gloss": "actual result"
+      "english_gloss": "actual result",
+      "audio": "实际结果.mp3"
     },
     {
       "hanzi": "排查",
@@ -600,7 +642,8 @@
         "investigate",
         "troubleshoot"
       ],
-      "english_gloss": "investigate / troubleshoot"
+      "english_gloss": "investigate / troubleshoot",
+      "audio": "排查.mp3"
     },
     {
       "hanzi": "根本原因",
@@ -616,7 +659,8 @@
       "english_answers": [
         "workaround"
       ],
-      "english_gloss": "workaround"
+      "english_gloss": "workaround",
+      "audio": "临时解决方案.mp3"
     },
     {
       "hanzi": "修复",
@@ -625,7 +669,8 @@
         "fix",
         "repair"
       ],
-      "english_gloss": "fix / repair"
+      "english_gloss": "fix / repair",
+      "audio": "修复.mp3"
     },
     {
       "hanzi": "回归测试",
@@ -633,7 +678,8 @@
       "english_answers": [
         "regression testing"
       ],
-      "english_gloss": "regression testing"
+      "english_gloss": "regression testing",
+      "audio": "回归测试.mp3"
     },
     {
       "hanzi": "上线",
@@ -642,7 +688,8 @@
         "go live",
         "launch"
       ],
-      "english_gloss": "go live / launch"
+      "english_gloss": "go live / launch",
+      "audio": "上线.mp3"
     },
     {
       "hanzi": "回滚",
@@ -650,7 +697,8 @@
       "english_answers": [
         "roll back"
       ],
-      "english_gloss": "roll back"
+      "english_gloss": "roll back",
+      "audio": "回滚.mp3"
     },
     {
       "hanzi": "验收",
@@ -667,7 +715,8 @@
       "english_answers": [
         "office work"
       ],
-      "english_gloss": "office work"
+      "english_gloss": "office work",
+      "audio": "办公.mp3"
     },
     {
       "hanzi": "居家办公",
@@ -675,7 +724,8 @@
       "english_answers": [
         "work from home"
       ],
-      "english_gloss": "work from home"
+      "english_gloss": "work from home",
+      "audio": "居家办公.mp3"
     },
     {
       "hanzi": "混合办公",
@@ -691,7 +741,8 @@
       "english_answers": [
         "attendance at work"
       ],
-      "english_gloss": "attendance at work"
+      "english_gloss": "attendance at work",
+      "audio": "出勤.mp3"
     },
     {
       "hanzi": "请假",
@@ -716,7 +767,8 @@
         "take vacation",
         "time off"
       ],
-      "english_gloss": "take vacation / time off"
+      "english_gloss": "take vacation / time off",
+      "audio": "休假.mp3"
     },
     {
       "hanzi": "加班",
@@ -724,7 +776,8 @@
       "english_answers": [
         "work overtime"
       ],
-      "english_gloss": "work overtime"
+      "english_gloss": "work overtime",
+      "audio": "加班.mp3"
     },
     {
       "hanzi": "调休",
@@ -740,7 +793,8 @@
       "english_answers": [
         "working hours"
       ],
-      "english_gloss": "working hours"
+      "english_gloss": "working hours",
+      "audio": "工作时间.mp3"
     },
     {
       "hanzi": "工时",
@@ -748,7 +802,8 @@
       "english_answers": [
         "hours worked"
       ],
-      "english_gloss": "hours worked"
+      "english_gloss": "hours worked",
+      "audio": "工时.mp3"
     },
     {
       "hanzi": "工作效率",
@@ -756,7 +811,8 @@
       "english_answers": [
         "work efficiency"
       ],
-      "english_gloss": "work efficiency"
+      "english_gloss": "work efficiency",
+      "audio": "工作效率.mp3"
     },
     {
       "hanzi": "绩效",
@@ -788,7 +844,8 @@
       "english_answers": [
         "skill development"
       ],
-      "english_gloss": "skill development"
+      "english_gloss": "skill development",
+      "audio": "技能提升.mp3"
     },
     {
       "hanzi": "培训",
@@ -796,7 +853,8 @@
       "english_answers": [
         "training"
       ],
-      "english_gloss": "training"
+      "english_gloss": "training",
+      "audio": "培训.mp3"
     },
     {
       "hanzi": "招聘",
@@ -805,7 +863,8 @@
         "recruitment",
         "hiring"
       ],
-      "english_gloss": "recruitment / hiring"
+      "english_gloss": "recruitment / hiring",
+      "audio": "招聘.mp3"
     },
     {
       "hanzi": "面试",
@@ -822,7 +881,8 @@
         "onboarding",
         "join a company"
       ],
-      "english_gloss": "onboarding / join a company"
+      "english_gloss": "onboarding / join a company",
+      "audio": "入职.mp3"
     }
   ]
 }

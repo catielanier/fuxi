@@ -11,7 +11,8 @@
       "english_answers": [
         "sentence pattern marking the affected object"
       ],
-      "english_gloss": "sentence pattern marking the affected object"
+      "english_gloss": "sentence pattern marking the affected object",
+      "audio": "把字句.mp3"
     },
     {
       "hanzi": "被字句",
@@ -27,7 +28,8 @@
       "english_answers": [
         "particle indicating completion or a new situation"
       ],
-      "english_gloss": "particle indicating completion or a new situation"
+      "english_gloss": "particle indicating completion or a new situation",
+      "audio": "了.mp3"
     },
     {
       "hanzi": "过",
@@ -59,7 +61,8 @@
       "english_answers": [
         "already"
       ],
-      "english_gloss": "already"
+      "english_gloss": "already",
+      "audio": "已经.mp3"
     },
     {
       "hanzi": "还没",
@@ -75,7 +78,8 @@
       "english_answers": [
         "just now"
       ],
-      "english_gloss": "just now"
+      "english_gloss": "just now",
+      "audio": "刚刚.mp3"
     },
     {
       "hanzi": "刚才",
@@ -83,7 +87,8 @@
       "english_answers": [
         "a moment ago"
       ],
-      "english_gloss": "a moment ago"
+      "english_gloss": "a moment ago",
+      "audio": "刚才.mp3"
     },
     {
       "hanzi": "我吃过了。",
@@ -91,7 +96,8 @@
       "english_answers": [
         "I've eaten already."
       ],
-      "english_gloss": "I've eaten already."
+      "english_gloss": "I've eaten already.",
+      "audio": "我吃过了。.mp3"
     },
     {
       "hanzi": "我去过北京。",
@@ -99,7 +105,8 @@
       "english_answers": [
         "I've been to Beijing before."
       ],
-      "english_gloss": "I've been to Beijing before."
+      "english_gloss": "I've been to Beijing before.",
+      "audio": "我去过北京。.mp3"
     },
     {
       "hanzi": "我没去过上海。",
@@ -107,7 +114,8 @@
       "english_answers": [
         "I've never been to Shanghai."
       ],
-      "english_gloss": "I've never been to Shanghai."
+      "english_gloss": "I've never been to Shanghai.",
+      "audio": "我没去过上海。.mp3"
     },
     {
       "hanzi": "我正在学习中文。",
@@ -115,7 +123,8 @@
       "english_answers": [
         "I'm studying Chinese right now."
       ],
-      "english_gloss": "I'm studying Chinese right now."
+      "english_gloss": "I'm studying Chinese right now.",
+      "audio": "我正在学习中文。.mp3"
     },
     {
       "hanzi": "门开着。",
@@ -131,7 +140,8 @@
       "english_answers": [
         "He's already left."
       ],
-      "english_gloss": "He's already left."
+      "english_gloss": "He's already left.",
+      "audio": "他已经走了。.mp3"
     },
     {
       "hanzi": "我还没吃饭。",
@@ -139,7 +149,8 @@
       "english_answers": [
         "I haven't eaten yet."
       ],
-      "english_gloss": "I haven't eaten yet."
+      "english_gloss": "I haven't eaten yet.",
+      "audio": "我还没吃饭。.mp3"
     },
     {
       "hanzi": "天冷了。",
@@ -147,7 +158,8 @@
       "english_answers": [
         "It's gotten cold."
       ],
-      "english_gloss": "It's gotten cold."
+      "english_gloss": "It's gotten cold.",
+      "audio": "天冷了。.mp3"
     },
     {
       "hanzi": "我把钥匙忘在家里了。",
@@ -155,7 +167,8 @@
       "english_answers": [
         "I left the keys at home."
       ],
-      "english_gloss": "I left the keys at home."
+      "english_gloss": "I left the keys at home.",
+      "audio": "我把钥匙忘在家里了。.mp3"
     },
     {
       "hanzi": "请把门关上。",
@@ -171,7 +184,8 @@
       "english_answers": [
         "I lost my phone."
       ],
-      "english_gloss": "I lost my phone."
+      "english_gloss": "I lost my phone.",
+      "audio": "我把手机弄丢了。.mp3"
     },
     {
       "hanzi": "这本书被借走了。",
@@ -187,7 +201,8 @@
       "english_answers": [
         "My computer was repaired."
       ],
-      "english_gloss": "My computer was repaired."
+      "english_gloss": "My computer was repaired.",
+      "audio": "我的电脑被修好了。.mp3"
     },
     {
       "hanzi": "我的包被偷了。",
@@ -195,7 +210,8 @@
       "english_answers": [
         "My bag was stolen."
       ],
-      "english_gloss": "My bag was stolen."
+      "english_gloss": "My bag was stolen.",
+      "audio": "我的包被偷了。.mp3"
     },
     {
       "hanzi": "看完",
@@ -211,7 +227,8 @@
       "english_answers": [
         "finish eating"
       ],
-      "english_gloss": "finish eating"
+      "english_gloss": "finish eating",
+      "audio": "吃完.mp3"
     },
     {
       "hanzi": "做完",
@@ -219,7 +236,8 @@
       "english_answers": [
         "finish doing"
       ],
-      "english_gloss": "finish doing"
+      "english_gloss": "finish doing",
+      "audio": "做完.mp3"
     },
     {
       "hanzi": "写完",
@@ -227,7 +245,8 @@
       "english_answers": [
         "finish writing"
       ],
-      "english_gloss": "finish writing"
+      "english_gloss": "finish writing",
+      "audio": "写完.mp3"
     },
     {
       "hanzi": "听懂",
@@ -235,7 +254,8 @@
       "english_answers": [
         "understand through listening"
       ],
-      "english_gloss": "understand through listening"
+      "english_gloss": "understand through listening",
+      "audio": "听懂.mp3"
     },
     {
       "hanzi": "看懂",
@@ -251,7 +271,8 @@
       "english_answers": [
         "hear clearly"
       ],
-      "english_gloss": "hear clearly"
+      "english_gloss": "hear clearly",
+      "audio": "听清楚.mp3"
     },
     {
       "hanzi": "看清楚",
@@ -267,7 +288,8 @@
       "english_answers": [
         "found it"
       ],
-      "english_gloss": "found it"
+      "english_gloss": "found it",
+      "audio": "找到了.mp3"
     },
     {
       "hanzi": "买到了",
@@ -275,7 +297,8 @@
       "english_answers": [
         "managed to buy it"
       ],
-      "english_gloss": "managed to buy it"
+      "english_gloss": "managed to buy it",
+      "audio": "买到了.mp3"
     },
     {
       "hanzi": "想起来了",
@@ -283,7 +306,8 @@
       "english_answers": [
         "remembered it"
       ],
-      "english_gloss": "remembered it"
+      "english_gloss": "remembered it",
+      "audio": "想起来了.mp3"
     },
     {
       "hanzi": "记住",
@@ -301,7 +325,8 @@
         "forget",
         "let go of"
       ],
-      "english_gloss": "forget; let go of"
+      "english_gloss": "forget; let go of",
+      "audio": "忘掉.mp3"
     },
     {
       "hanzi": "拿出来",
@@ -309,7 +334,8 @@
       "english_answers": [
         "take out"
       ],
-      "english_gloss": "take out"
+      "english_gloss": "take out",
+      "audio": "拿出来.mp3"
     },
     {
       "hanzi": "放进去",
@@ -317,7 +343,8 @@
       "english_answers": [
         "put inside"
       ],
-      "english_gloss": "put inside"
+      "english_gloss": "put inside",
+      "audio": "放进去.mp3"
     },
     {
       "hanzi": "走进去",
@@ -341,7 +368,8 @@
       "english_answers": [
         "bring back"
       ],
-      "english_gloss": "bring back"
+      "english_gloss": "bring back",
+      "audio": "拿回来.mp3"
     },
     {
       "hanzi": "送过去",
@@ -357,7 +385,8 @@
       "english_answers": [
         "can't understand by listening"
       ],
-      "english_gloss": "can't understand by listening"
+      "english_gloss": "can't understand by listening",
+      "audio": "听不懂.mp3"
     },
     {
       "hanzi": "看不懂",
@@ -373,7 +402,8 @@
       "english_answers": [
         "can't afford to buy"
       ],
-      "english_gloss": "can't afford to buy"
+      "english_gloss": "can't afford to buy",
+      "audio": "买不起.mp3"
     },
     {
       "hanzi": "买得起",
@@ -381,7 +411,8 @@
       "english_answers": [
         "can afford to buy"
       ],
-      "english_gloss": "can afford to buy"
+      "english_gloss": "can afford to buy",
+      "audio": "买得起.mp3"
     },
     {
       "hanzi": "来不了",
@@ -405,7 +436,8 @@
       "english_answers": [
         "can manage to do it"
       ],
-      "english_gloss": "can manage to do it"
+      "english_gloss": "can manage to do it",
+      "audio": "做得到.mp3"
     },
     {
       "hanzi": "做不到",
@@ -413,7 +445,8 @@
       "english_answers": [
         "can't manage to do it"
       ],
-      "english_gloss": "can't manage to do it"
+      "english_gloss": "can't manage to do it",
+      "audio": "做不到.mp3"
     },
     {
       "hanzi": "说得太快",
@@ -437,7 +470,8 @@
       "english_answers": [
         "I can't understand what I'm hearing."
       ],
-      "english_gloss": "I can't understand what I'm hearing."
+      "english_gloss": "I can't understand what I'm hearing.",
+      "audio": "我听不懂。.mp3"
     },
     {
       "hanzi": "你说得太快了。",
@@ -445,7 +479,8 @@
       "english_answers": [
         "You're speaking too fast."
       ],
-      "english_gloss": "You're speaking too fast."
+      "english_gloss": "You're speaking too fast.",
+      "audio": "你说得太快了。.mp3"
     },
     {
       "hanzi": "这件事很难解释。",
@@ -538,7 +573,8 @@
         "a little",
         "slightly"
       ],
-      "english_gloss": "a little; slightly"
+      "english_gloss": "a little; slightly",
+      "audio": "一点儿.mp3"
     },
     {
       "hanzi": "这个比那个贵。",
@@ -554,7 +590,8 @@
       "english_answers": [
         "Today isn't as cold as yesterday."
       ],
-      "english_gloss": "Today isn't as cold as yesterday."
+      "english_gloss": "Today isn't as cold as yesterday.",
+      "audio": "今天没有昨天冷。.mp3"
     },
     {
       "hanzi": "她跟我一样高。",
@@ -562,7 +599,8 @@
       "english_answers": [
         "She's the same height as me."
       ],
-      "english_gloss": "She's the same height as me."
+      "english_gloss": "She's the same height as me.",
+      "audio": "她跟我一样高。.mp3"
     },
     {
       "hanzi": "我越来越习惯了。",
@@ -570,7 +608,8 @@
       "english_answers": [
         "I'm getting more and more used to it."
       ],
-      "english_gloss": "I'm getting more and more used to it."
+      "english_gloss": "I'm getting more and more used to it.",
+      "audio": "我越来越习惯了。.mp3"
     },
     {
       "hanzi": "越练越容易。",
@@ -594,7 +633,8 @@
       "english_answers": [
         "if… then…"
       ],
-      "english_gloss": "if… then…"
+      "english_gloss": "if… then…",
+      "audio": "如果……就…….mp3"
     },
     {
       "hanzi": "只要……就……",
@@ -602,7 +642,8 @@
       "english_answers": [
         "as long as… then…"
       ],
-      "english_gloss": "as long as… then…"
+      "english_gloss": "as long as… then…",
+      "audio": "只要……就…….mp3"
     },
     {
       "hanzi": "除非……否则……",
@@ -618,7 +659,8 @@
       "english_answers": [
         "not only… but also…"
       ],
-      "english_gloss": "not only… but also…"
+      "english_gloss": "not only… but also…",
+      "audio": "不但……而且…….mp3"
     },
     {
       "hanzi": "既……又……",
@@ -626,7 +668,8 @@
       "english_answers": [
         "both… and…"
       ],
-      "english_gloss": "both… and…"
+      "english_gloss": "both… and…",
+      "audio": "既……又…….mp3"
     },
     {
       "hanzi": "或者……或者……",
@@ -634,7 +677,8 @@
       "english_answers": [
         "either… or…"
       ],
-      "english_gloss": "either… or…"
+      "english_gloss": "either… or…",
+      "audio": "或者……或者…….mp3"
     },
     {
       "hanzi": "不是……而是……",
@@ -642,7 +686,8 @@
       "english_answers": [
         "not… but rather…"
       ],
-      "english_gloss": "not… but rather…"
+      "english_gloss": "not… but rather…",
+      "audio": "不是……而是…….mp3"
     },
     {
       "hanzi": "连……都……",
@@ -667,7 +712,8 @@
       "english_answers": [
         "although… still…"
       ],
-      "english_gloss": "although… still…"
+      "english_gloss": "although… still…",
+      "audio": "尽管……还是…….mp3"
     },
     {
       "hanzi": "即使……也……",
@@ -675,7 +721,8 @@
       "english_answers": [
         "even if… still…"
       ],
-      "english_gloss": "even if… still…"
+      "english_gloss": "even if… still…",
+      "audio": "即使……也…….mp3"
     },
     {
       "hanzi": "要是……就……",
@@ -691,7 +738,8 @@
       "english_answers": [
         "doing… while doing…"
       ],
-      "english_gloss": "doing… while doing…"
+      "english_gloss": "doing… while doing…",
+      "audio": "一边……一边…….mp3"
     },
     {
       "hanzi": "一……就……",
@@ -699,7 +747,8 @@
       "english_answers": [
         "as soon as… then…"
       ],
-      "english_gloss": "as soon as… then…"
+      "english_gloss": "as soon as… then…",
+      "audio": "一……就…….mp3"
     },
     {
       "hanzi": "先……再……",
@@ -707,7 +756,8 @@
       "english_answers": [
         "first… then…"
       ],
-      "english_gloss": "first… then…"
+      "english_gloss": "first… then…",
+      "audio": "先……再…….mp3"
     },
     {
       "hanzi": "先……然后……",
@@ -715,7 +765,8 @@
       "english_answers": [
         "first… and afterward…"
       ],
-      "english_gloss": "first… and afterward…"
+      "english_gloss": "first… and afterward…",
+      "audio": "先……然后…….mp3"
     },
     {
       "hanzi": "把……给……",
@@ -723,7 +774,8 @@
       "english_answers": [
         "take/handle something and do… to/for someone"
       ],
-      "english_gloss": "take/handle something and do… to/for someone"
+      "english_gloss": "take/handle something and do… to/for someone",
+      "audio": "把……给…….mp3"
     },
     {
       "hanzi": "恐怕",
@@ -732,7 +784,8 @@
         "I'm afraid that",
         "probably (undesirable)"
       ],
-      "english_gloss": "I'm afraid that; probably (undesirable)"
+      "english_gloss": "I'm afraid that; probably (undesirable)",
+      "audio": "恐怕.mp3"
     },
     {
       "hanzi": "据说",
@@ -741,7 +794,8 @@
         "it is said that",
         "reportedly"
       ],
-      "english_gloss": "it is said that; reportedly"
+      "english_gloss": "it is said that; reportedly",
+      "audio": "据说.mp3"
     },
     {
       "hanzi": "听说",
@@ -750,7 +804,8 @@
         "I heard that",
         "reportedly"
       ],
-      "english_gloss": "I heard that; reportedly"
+      "english_gloss": "I heard that; reportedly",
+      "audio": "听说.mp3"
     },
     {
       "hanzi": "看来",
@@ -793,7 +848,8 @@
         "everything",
         "anything (with negatives: nothing)"
       ],
-      "english_gloss": "everything; anything (with negatives: nothing)"
+      "english_gloss": "everything; anything (with negatives: nothing)",
+      "audio": "什么都.mp3"
     },
     {
       "hanzi": "谁也不",
@@ -810,7 +866,8 @@
       "english_answers": [
         "not at all"
       ],
-      "english_gloss": "not at all"
+      "english_gloss": "not at all",
+      "audio": "一点儿也不.mp3"
     },
     {
       "hanzi": "根本不",

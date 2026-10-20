@@ -30,7 +30,8 @@
         "spark chemistry",
         "hit it off"
       ],
-      "english_gloss": "spark chemistry / hit it off"
+      "english_gloss": "spark chemistry / hit it off",
+      "audio": "擦出火花.mp3"
     },
     {
       "hanzi": "气氛到了",
@@ -73,7 +74,8 @@
         "alluring",
         "flirtatious (colloquial)"
       ],
-      "english_gloss": "alluring / flirtatious (colloquial)"
+      "english_gloss": "alluring / flirtatious (colloquial)",
+      "audio": "撩人.mp3"
     },
     {
       "hanzi": "撩拨",
@@ -81,7 +83,8 @@
       "english_answers": [
         "tease or stir feelings"
       ],
-      "english_gloss": "tease or stir feelings"
+      "english_gloss": "tease or stir feelings",
+      "audio": "撩拨.mp3"
     },
     {
       "hanzi": "勾人",
@@ -90,7 +93,8 @@
         "enticing",
         "seductive (colloquial)"
       ],
-      "english_gloss": "enticing / seductive (colloquial)"
+      "english_gloss": "enticing / seductive (colloquial)",
+      "audio": "勾人.mp3"
     },
     {
       "hanzi": "欲擒故纵",
@@ -114,7 +118,8 @@
       "english_answers": [
         "good at flirting (slang)"
       ],
-      "english_gloss": "good at flirting (slang)"
+      "english_gloss": "good at flirting (slang)",
+      "audio": "会撩.mp3"
     },
     {
       "hanzi": "土味情话",
@@ -122,7 +127,8 @@
       "english_answers": [
         "cheesy pickup line (internet slang)"
       ],
-      "english_gloss": "cheesy pickup line (internet slang)"
+      "english_gloss": "cheesy pickup line (internet slang)",
+      "audio": "土味情话.mp3"
     },
     {
       "hanzi": "打情骂俏",
@@ -130,7 +136,8 @@
       "english_answers": [
         "flirt and banter"
       ],
-      "english_gloss": "flirt and banter"
+      "english_gloss": "flirt and banter",
+      "audio": "打情骂俏.mp3"
     },
     {
       "hanzi": "眉来眼去",
@@ -154,7 +161,8 @@
       "english_answers": [
         "take a little more initiative"
       ],
-      "english_gloss": "take a little more initiative"
+      "english_gloss": "take a little more initiative",
+      "audio": "主动一点.mp3"
     },
     {
       "hanzi": "这样可以吗？",
@@ -170,7 +178,8 @@
       "english_answers": [
         "Are you comfortable?"
       ],
-      "english_gloss": "Are you comfortable?"
+      "english_gloss": "Are you comfortable?",
+      "audio": "你舒服吗？.mp3"
     },
     {
       "hanzi": "先停一下。",
@@ -178,7 +187,8 @@
       "english_answers": [
         "Let's pause for a moment."
       ],
-      "english_gloss": "Let's pause for a moment."
+      "english_gloss": "Let's pause for a moment.",
+      "audio": "先停一下。.mp3"
     },
     {
       "hanzi": "我想缓一缓。",
@@ -186,7 +196,8 @@
       "english_answers": [
         "I need a moment."
       ],
-      "english_gloss": "I need a moment."
+      "english_gloss": "I need a moment.",
+      "audio": "我想缓一缓。.mp3"
     },
     {
       "hanzi": "我不想继续。",
@@ -194,7 +205,8 @@
       "english_answers": [
         "I don't want to continue."
       ],
-      "english_gloss": "I don't want to continue."
+      "english_gloss": "I don't want to continue.",
+      "audio": "我不想继续。.mp3"
     },
     {
       "hanzi": "我们换个方式吧。",
@@ -202,7 +214,8 @@
       "english_answers": [
         "Let's try a different way."
       ],
-      "english_gloss": "Let's try a different way."
+      "english_gloss": "Let's try a different way.",
+      "audio": "我们换个方式吧。.mp3"
     },
     {
       "hanzi": "我喜欢这样。",
@@ -210,7 +223,8 @@
       "english_answers": [
         "I like it this way."
       ],
-      "english_gloss": "I like it this way."
+      "english_gloss": "I like it this way.",
+      "audio": "我喜欢这样。.mp3"
     },
     {
       "hanzi": "再靠近一点。",
@@ -218,7 +232,8 @@
       "english_answers": [
         "Come a little closer."
       ],
-      "english_gloss": "Come a little closer."
+      "english_gloss": "Come a little closer.",
+      "audio": "再靠近一点。.mp3"
     },
     {
       "hanzi": "抱紧一点。",
@@ -226,7 +241,8 @@
       "english_answers": [
         "Hold me a bit tighter."
       ],
-      "english_gloss": "Hold me a bit tighter."
+      "english_gloss": "Hold me a bit tighter.",
+      "audio": "抱紧一点。.mp3"
     },
     {
       "hanzi": "别闹。",
@@ -235,7 +251,8 @@
         "Stop teasing",
         "cut it out (tone-dependent)"
       ],
-      "english_gloss": "Stop teasing / cut it out (tone-dependent)"
+      "english_gloss": "Stop teasing / cut it out (tone-dependent)",
+      "audio": "别闹。.mp3"
     },
     {
       "hanzi": "坏坏的",
@@ -244,7 +261,8 @@
         "naughty",
         "mischievous (playful)"
       ],
-      "english_gloss": "naughty / mischievous (playful)"
+      "english_gloss": "naughty / mischievous (playful)",
+      "audio": "坏坏的.mp3"
     },
     {
       "hanzi": "小坏蛋",
@@ -252,7 +270,8 @@
       "english_answers": [
         "you little rascal (playful)"
       ],
-      "english_gloss": "you little rascal (playful)"
+      "english_gloss": "you little rascal (playful)",
+      "audio": "小坏蛋.mp3"
     },
     {
       "hanzi": "色狼",
@@ -270,7 +289,8 @@
         "lustful",
         "lecherous (often disapproving)"
       ],
-      "english_gloss": "lustful / lecherous (often disapproving)"
+      "english_gloss": "lustful / lecherous (often disapproving)",
+      "audio": "好色.mp3"
     },
     {
       "hanzi": "黄段子",
@@ -286,7 +306,8 @@
       "english_answers": [
         "make sexual jokes (colloquial)"
       ],
-      "english_gloss": "make sexual jokes (colloquial)"
+      "english_gloss": "make sexual jokes (colloquial)",
+      "audio": "开黄腔.mp3"
     },
     {
       "hanzi": "荤段子",
@@ -302,7 +323,8 @@
       "english_answers": [
         "not suitable for children"
       ],
-      "english_gloss": "not suitable for children"
+      "english_gloss": "not suitable for children",
+      "audio": "少儿不宜.mp3"
     },
     {
       "hanzi": "尺度很大",
@@ -311,7 +333,8 @@
         "very explicit",
         "pushes boundaries"
       ],
-      "english_gloss": "very explicit / pushes boundaries"
+      "english_gloss": "very explicit / pushes boundaries",
+      "audio": "尺度很大.mp3"
     },
     {
       "hanzi": "擦边",
@@ -319,7 +342,8 @@
       "english_answers": [
         "borderline suggestive content (internet slang)"
       ],
-      "english_gloss": "borderline suggestive content (internet slang)"
+      "english_gloss": "borderline suggestive content (internet slang)",
+      "audio": "擦边.mp3"
     },
     {
       "hanzi": "开车",
@@ -328,7 +352,8 @@
         "start sexual innuendo",
         "get suggestive (internet slang)"
       ],
-      "english_gloss": "start sexual innuendo / get suggestive (internet slang)"
+      "english_gloss": "start sexual innuendo / get suggestive (internet slang)",
+      "audio": "开车.mp3"
     },
     {
       "hanzi": "车速太快",
@@ -344,7 +369,8 @@
       "english_answers": [
         "turn very suggestive (internet slang)"
       ],
-      "english_gloss": "turn very suggestive (internet slang)"
+      "english_gloss": "turn very suggestive (internet slang)",
+      "audio": "上高速.mp3"
     },
     {
       "hanzi": "想歪了",
@@ -352,7 +378,8 @@
       "english_answers": [
         "took it in a dirty direction"
       ],
-      "english_gloss": "took it in a dirty direction"
+      "english_gloss": "took it in a dirty direction",
+      "audio": "想歪了.mp3"
     },
     {
       "hanzi": "别想歪了。",
@@ -360,7 +387,8 @@
       "english_answers": [
         "Don't take it the wrong (dirty) way."
       ],
-      "english_gloss": "Don't take it the wrong (dirty) way."
+      "english_gloss": "Don't take it the wrong (dirty) way.",
+      "audio": "别想歪了。.mp3"
     },
     {
       "hanzi": "有点露骨",
@@ -377,7 +405,8 @@
       "english_answers": [
         "sexual activity involving multiple people"
       ],
-      "english_gloss": "sexual activity involving multiple people"
+      "english_gloss": "sexual activity involving multiple people",
+      "audio": "多人性行为.mp3"
     },
     {
       "hanzi": "群体性爱",
@@ -394,7 +423,8 @@
         "partner swapping",
         "swinging"
       ],
-      "english_gloss": "partner swapping; swinging"
+      "english_gloss": "partner swapping; swinging",
+      "audio": "换偶.mp3"
     },
     {
       "hanzi": "换伴侣",
@@ -402,7 +432,8 @@
       "english_answers": [
         "switch partners"
       ],
-      "english_gloss": "switch partners"
+      "english_gloss": "switch partners",
+      "audio": "换伴侣.mp3"
     },
     {
       "hanzi": "开放式关系",
@@ -410,7 +441,8 @@
       "english_answers": [
         "open relationship"
       ],
-      "english_gloss": "open relationship"
+      "english_gloss": "open relationship",
+      "audio": "开放式关系.mp3"
     },
     {
       "hanzi": "多元之爱",
@@ -418,7 +450,8 @@
       "english_answers": [
         "polyamory (one Chinese rendering)"
       ],
-      "english_gloss": "polyamory (one Chinese rendering)"
+      "english_gloss": "polyamory (one Chinese rendering)",
+      "audio": "多元之爱.mp3"
     },
     {
       "hanzi": "多伴侣关系",
@@ -426,7 +459,8 @@
       "english_answers": [
         "multi-partner relationship"
       ],
-      "english_gloss": "multi-partner relationship"
+      "english_gloss": "multi-partner relationship",
+      "audio": "多伴侣关系.mp3"
     },
     {
       "hanzi": "非一夫一妻制",
@@ -442,7 +476,8 @@
       "english_answers": [
         "one-night stand"
       ],
-      "english_gloss": "one-night stand"
+      "english_gloss": "one-night stand",
+      "audio": "一夜情.mp3"
     },
     {
       "hanzi": "约炮",
@@ -468,7 +503,8 @@
         "bed partner",
         "sexual partner"
       ],
-      "english_gloss": "bed partner; sexual partner"
+      "english_gloss": "bed partner; sexual partner",
+      "audio": "床伴.mp3"
     },
     {
       "hanzi": "性伴侣",
@@ -476,7 +512,8 @@
       "english_answers": [
         "sexual partner"
       ],
-      "english_gloss": "sexual partner"
+      "english_gloss": "sexual partner",
+      "audio": "性伴侣.mp3"
     },
     {
       "hanzi": "亲密伴侣",
@@ -484,7 +521,8 @@
       "english_answers": [
         "intimate partner"
       ],
-      "english_gloss": "intimate partner"
+      "english_gloss": "intimate partner",
+      "audio": "亲密伴侣.mp3"
     },
     {
       "hanzi": "性关系",
@@ -493,7 +531,8 @@
         "sexual relationship",
         "sexual relations"
       ],
-      "english_gloss": "sexual relationship; sexual relations"
+      "english_gloss": "sexual relationship; sexual relations",
+      "audio": "性关系.mp3"
     },
     {
       "hanzi": "发生性关系",
@@ -501,7 +540,8 @@
       "english_answers": [
         "have sexual relations"
       ],
-      "english_gloss": "have sexual relations"
+      "english_gloss": "have sexual relations",
+      "audio": "发生性关系.mp3"
     },
     {
       "hanzi": "做爱",
@@ -510,7 +550,8 @@
         "have sex",
         "make love"
       ],
-      "english_gloss": "have sex; make love"
+      "english_gloss": "have sex; make love",
+      "audio": "做爱.mp3"
     },
     {
       "hanzi": "上床",
@@ -519,7 +560,8 @@
         "go to bed",
         "have sex (context-dependent)"
       ],
-      "english_gloss": "go to bed; have sex (context-dependent)"
+      "english_gloss": "go to bed; have sex (context-dependent)",
+      "audio": "上床.mp3"
     },
     {
       "hanzi": "性爱",
@@ -528,7 +570,8 @@
         "sexual intercourse",
         "lovemaking"
       ],
-      "english_gloss": "sexual intercourse; lovemaking"
+      "english_gloss": "sexual intercourse; lovemaking",
+      "audio": "性爱.mp3"
     },
     {
       "hanzi": "口交",
@@ -536,7 +579,8 @@
       "english_answers": [
         "oral sex"
       ],
-      "english_gloss": "oral sex"
+      "english_gloss": "oral sex",
+      "audio": "口交.mp3"
     },
     {
       "hanzi": "肛交",
@@ -560,7 +604,8 @@
       "english_answers": [
         "masturbation (often more clinical or blunt)"
       ],
-      "english_gloss": "masturbation (often more clinical or blunt)"
+      "english_gloss": "masturbation (often more clinical or blunt)",
+      "audio": "手淫.mp3"
     },
     {
       "hanzi": "高潮",
@@ -577,7 +622,8 @@
       "english_answers": [
         "sexual orgasm"
       ],
-      "english_gloss": "sexual orgasm"
+      "english_gloss": "sexual orgasm",
+      "audio": "性高潮.mp3"
     },
     {
       "hanzi": "射精",
@@ -585,7 +631,8 @@
       "english_answers": [
         "ejaculation"
       ],
-      "english_gloss": "ejaculation"
+      "english_gloss": "ejaculation",
+      "audio": "射精.mp3"
     },
     {
       "hanzi": "勃起",
@@ -593,7 +640,8 @@
       "english_answers": [
         "erection"
       ],
-      "english_gloss": "erection"
+      "english_gloss": "erection",
+      "audio": "勃起.mp3"
     },
     {
       "hanzi": "湿润",
@@ -610,7 +658,8 @@
       "english_answers": [
         "kiss (formal or descriptive)"
       ],
-      "english_gloss": "kiss (formal or descriptive)"
+      "english_gloss": "kiss (formal or descriptive)",
+      "audio": "亲吻.mp3"
     },
     {
       "hanzi": "接吻",
@@ -619,7 +668,8 @@
         "kiss",
         "make out"
       ],
-      "english_gloss": "kiss; make out"
+      "english_gloss": "kiss; make out",
+      "audio": "接吻.mp3"
     },
     {
       "hanzi": "舌吻",
@@ -636,7 +686,8 @@
         "embrace",
         "hug"
       ],
-      "english_gloss": "embrace; hug"
+      "english_gloss": "embrace; hug",
+      "audio": "拥抱.mp3"
     },
     {
       "hanzi": "抚摸",
@@ -645,7 +696,8 @@
         "caress",
         "stroke"
       ],
-      "english_gloss": "caress; stroke"
+      "english_gloss": "caress; stroke",
+      "audio": "抚摸.mp3"
     },
     {
       "hanzi": "爱抚",
@@ -662,7 +714,8 @@
       "english_answers": [
         "intimate physical contact"
       ],
-      "english_gloss": "intimate physical contact"
+      "english_gloss": "intimate physical contact",
+      "audio": "亲密接触.mp3"
     },
     {
       "hanzi": "身体接触",
@@ -678,7 +731,8 @@
       "english_answers": [
         "sexually transmitted infection (STI)"
       ],
-      "english_gloss": "sexually transmitted infection (STI)"
+      "english_gloss": "sexually transmitted infection (STI)",
+      "audio": "性传播感染.mp3"
     },
     {
       "hanzi": "性病",
@@ -686,7 +740,8 @@
       "english_answers": [
         "sexually transmitted disease (common term)"
       ],
-      "english_gloss": "sexually transmitted disease (common term)"
+      "english_gloss": "sexually transmitted disease (common term)",
+      "audio": "性病.mp3"
     },
     {
       "hanzi": "避孕",
@@ -711,7 +766,8 @@
       "english_answers": [
         "condom (common mainland term)"
       ],
-      "english_gloss": "condom (common mainland term)"
+      "english_gloss": "condom (common mainland term)",
+      "audio": "安全套.mp3"
     },
     {
       "hanzi": "紧急避孕",
@@ -727,7 +783,8 @@
       "english_answers": [
         "sexual health"
       ],
-      "english_gloss": "sexual health"
+      "english_gloss": "sexual health",
+      "audio": "性健康.mp3"
     },
     {
       "hanzi": "性教育",
@@ -735,7 +792,8 @@
       "english_answers": [
         "sex education"
       ],
-      "english_gloss": "sex education"
+      "english_gloss": "sex education",
+      "audio": "性教育.mp3"
     },
     {
       "hanzi": "性行为",
@@ -743,7 +801,8 @@
       "english_answers": [
         "sexual activity or behavior"
       ],
-      "english_gloss": "sexual activity or behavior"
+      "english_gloss": "sexual activity or behavior",
+      "audio": "性行为.mp3"
     },
     {
       "hanzi": "性经验",
@@ -751,7 +810,8 @@
       "english_answers": [
         "sexual experience"
       ],
-      "english_gloss": "sexual experience"
+      "english_gloss": "sexual experience",
+      "audio": "性经验.mp3"
     },
     {
       "hanzi": "性取向",
@@ -759,7 +819,8 @@
       "english_answers": [
         "sexual orientation"
       ],
-      "english_gloss": "sexual orientation"
+      "english_gloss": "sexual orientation",
+      "audio": "性取向.mp3"
     },
     {
       "hanzi": "性吸引力",
@@ -768,7 +829,8 @@
         "sexual attractiveness",
         "sex appeal"
       ],
-      "english_gloss": "sexual attractiveness; sex appeal"
+      "english_gloss": "sexual attractiveness; sex appeal",
+      "audio": "性吸引力.mp3"
     },
     {
       "hanzi": "性吸引",
@@ -776,7 +838,8 @@
       "english_answers": [
         "sexual attraction"
       ],
-      "english_gloss": "sexual attraction"
+      "english_gloss": "sexual attraction",
+      "audio": "性吸引.mp3"
     },
     {
       "hanzi": "欲望",
@@ -802,7 +865,8 @@
       "english_answers": [
         "low sexual desire (potentially stigmatizing term)"
       ],
-      "english_gloss": "low sexual desire (potentially stigmatizing term)"
+      "english_gloss": "low sexual desire (potentially stigmatizing term)",
+      "audio": "性冷淡.mp3"
     },
     {
       "hanzi": "性功能",
@@ -810,7 +874,8 @@
       "english_answers": [
         "sexual function"
       ],
-      "english_gloss": "sexual function"
+      "english_gloss": "sexual function",
+      "audio": "性功能.mp3"
     },
     {
       "hanzi": "性满足",
@@ -818,7 +883,8 @@
       "english_answers": [
         "sexual satisfaction"
       ],
-      "english_gloss": "sexual satisfaction"
+      "english_gloss": "sexual satisfaction",
+      "audio": "性满足.mp3"
     },
     {
       "hanzi": "隐私权",
@@ -834,7 +900,8 @@
       "english_answers": [
         "secretly photograph or film without consent"
       ],
-      "english_gloss": "secretly photograph or film without consent"
+      "english_gloss": "secretly photograph or film without consent",
+      "audio": "偷拍.mp3"
     }
   ]
 }

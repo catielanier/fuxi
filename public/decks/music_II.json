@@ -35,7 +35,8 @@
       "english_answers": [
         "fingerboard"
       ],
-      "english_gloss": "fingerboard"
+      "english_gloss": "fingerboard",
+      "audio": "指板.mp3"
     },
     {
       "hanzi": "品丝",
@@ -43,7 +44,8 @@
       "english_answers": [
         "fret wire"
       ],
-      "english_gloss": "fret wire"
+      "english_gloss": "fret wire",
+      "audio": "品丝.mp3"
     },
     {
       "hanzi": "品位",
@@ -51,7 +53,8 @@
       "english_answers": [
         "fret position"
       ],
-      "english_gloss": "fret position"
+      "english_gloss": "fret position",
+      "audio": "品位.mp3"
     },
     {
       "hanzi": "琴弦",
@@ -67,7 +70,8 @@
       "english_answers": [
         "four-string bass"
       ],
-      "english_gloss": "four-string bass"
+      "english_gloss": "four-string bass",
+      "audio": "四弦贝斯.mp3"
     },
     {
       "hanzi": "五弦贝斯",
@@ -75,7 +79,8 @@
       "english_answers": [
         "five-string bass"
       ],
-      "english_gloss": "five-string bass"
+      "english_gloss": "five-string bass",
+      "audio": "五弦贝斯.mp3"
     },
     {
       "hanzi": "无品贝斯",
@@ -83,7 +88,8 @@
       "english_answers": [
         "fretless bass"
       ],
-      "english_gloss": "fretless bass"
+      "english_gloss": "fretless bass",
+      "audio": "无品贝斯.mp3"
     },
     {
       "hanzi": "琴桥",
@@ -108,7 +114,8 @@
         "tuning machine",
         "tuner peg"
       ],
-      "english_gloss": "tuning machine / tuner peg"
+      "english_gloss": "tuning machine / tuner peg",
+      "audio": "弦钮.mp3"
     },
     {
       "hanzi": "拾音器",
@@ -116,7 +123,8 @@
       "english_answers": [
         "pickup"
       ],
-      "english_gloss": "pickup"
+      "english_gloss": "pickup",
+      "audio": "拾音器.mp3"
     },
     {
       "hanzi": "单线圈拾音器",
@@ -124,7 +132,8 @@
       "english_answers": [
         "single-coil pickup"
       ],
-      "english_gloss": "single-coil pickup"
+      "english_gloss": "single-coil pickup",
+      "audio": "单线圈拾音器.mp3"
     },
     {
       "hanzi": "双线圈拾音器",
@@ -132,7 +141,8 @@
       "english_answers": [
         "humbucker pickup"
       ],
-      "english_gloss": "humbucker pickup"
+      "english_gloss": "humbucker pickup",
+      "audio": "双线圈拾音器.mp3"
     },
     {
       "hanzi": "音量旋钮",
@@ -164,7 +174,8 @@
       "english_answers": [
         "input/output jack"
       ],
-      "english_gloss": "input/output jack"
+      "english_gloss": "input/output jack",
+      "audio": "插孔.mp3"
     },
     {
       "hanzi": "指弹",
@@ -172,7 +183,8 @@
       "english_answers": [
         "fingerstyle playing"
       ],
-      "english_gloss": "fingerstyle playing"
+      "english_gloss": "fingerstyle playing",
+      "audio": "指弹.mp3"
     },
     {
       "hanzi": "拨片",
@@ -181,7 +193,8 @@
         "pick",
         "plectrum"
       ],
-      "english_gloss": "pick / plectrum"
+      "english_gloss": "pick / plectrum",
+      "audio": "拨片.mp3"
     },
     {
       "hanzi": "拨弦",
@@ -189,7 +202,8 @@
       "english_answers": [
         "pluck a string"
       ],
-      "english_gloss": "pluck a string"
+      "english_gloss": "pluck a string",
+      "audio": "拨弦.mp3"
     },
     {
       "hanzi": "勾弦",
@@ -197,7 +211,8 @@
       "english_answers": [
         "pull-off"
       ],
-      "english_gloss": "pull-off"
+      "english_gloss": "pull-off",
+      "audio": "勾弦.mp3"
     },
     {
       "hanzi": "击弦",
@@ -205,7 +220,8 @@
       "english_answers": [
         "hammer-on"
       ],
-      "english_gloss": "hammer-on"
+      "english_gloss": "hammer-on",
+      "audio": "击弦.mp3"
     },
     {
       "hanzi": "滑音",
@@ -221,7 +237,8 @@
       "english_answers": [
         "string bending"
       ],
-      "english_gloss": "string bending"
+      "english_gloss": "string bending",
+      "audio": "推弦.mp3"
     },
     {
       "hanzi": "揉弦",
@@ -229,7 +246,8 @@
       "english_answers": [
         "vibrato"
       ],
-      "english_gloss": "vibrato"
+      "english_gloss": "vibrato",
+      "audio": "揉弦.mp3"
     },
     {
       "hanzi": "拍弦",
@@ -237,7 +255,8 @@
       "english_answers": [
         "slap bass"
       ],
-      "english_gloss": "slap bass"
+      "english_gloss": "slap bass",
+      "audio": "拍弦.mp3"
     },
     {
       "hanzi": "勾弦技巧",
@@ -245,7 +264,8 @@
       "english_answers": [
         "pop technique (slap bass)"
       ],
-      "english_gloss": "pop technique (slap bass)"
+      "english_gloss": "pop technique (slap bass)",
+      "audio": "勾弦技巧.mp3"
     },
     {
       "hanzi": "闷音",
@@ -262,7 +282,8 @@
       "english_answers": [
         "left-hand muting"
       ],
-      "english_gloss": "left-hand muting"
+      "english_gloss": "left-hand muting",
+      "audio": "左手消音.mp3"
     },
     {
       "hanzi": "右手消音",
@@ -270,7 +291,8 @@
       "english_answers": [
         "right-hand muting"
       ],
-      "english_gloss": "right-hand muting"
+      "english_gloss": "right-hand muting",
+      "audio": "右手消音.mp3"
     },
     {
       "hanzi": "泛音",
@@ -294,7 +316,8 @@
       "english_answers": [
         "octave note"
       ],
-      "english_gloss": "octave note"
+      "english_gloss": "octave note",
+      "audio": "八度音.mp3"
     },
     {
       "hanzi": "根音",
@@ -310,7 +333,8 @@
       "english_answers": [
         "bass line"
       ],
-      "english_gloss": "bass line"
+      "english_gloss": "bass line",
+      "audio": "低音线.mp3"
     },
     {
       "hanzi": "律动",
@@ -319,7 +343,8 @@
         "groove",
         "rhythmic feel"
       ],
-      "english_gloss": "groove / rhythmic feel"
+      "english_gloss": "groove / rhythmic feel",
+      "audio": "律动.mp3"
     },
     {
       "hanzi": "切分音",
@@ -327,7 +352,8 @@
       "english_answers": [
         "syncopation"
       ],
-      "english_gloss": "syncopation"
+      "english_gloss": "syncopation",
+      "audio": "切分音.mp3"
     },
     {
       "hanzi": "调音",
@@ -367,7 +393,8 @@
       "english_answers": [
         "change strings"
       ],
-      "english_gloss": "change strings"
+      "english_gloss": "change strings",
+      "audio": "换弦.mp3"
     },
     {
       "hanzi": "弦距",
@@ -376,7 +403,8 @@
         "string action",
         "string height"
       ],
-      "english_gloss": "string action / string height"
+      "english_gloss": "string action / string height",
+      "audio": "弦距.mp3"
     },
     {
       "hanzi": "八度音准",
@@ -384,7 +412,8 @@
       "english_answers": [
         "intonation at the octave"
       ],
-      "english_gloss": "intonation at the octave"
+      "english_gloss": "intonation at the octave",
+      "audio": "八度音准.mp3"
     },
     {
       "hanzi": "琴颈弯曲",
@@ -409,7 +438,8 @@
       "english_answers": [
         "fret buzz"
       ],
-      "english_gloss": "fret buzz"
+      "english_gloss": "fret buzz",
+      "audio": "打品.mp3"
     },
     {
       "hanzi": "琴弦生锈",
@@ -449,7 +479,8 @@
       "english_answers": [
         "active pickup"
       ],
-      "english_gloss": "active pickup"
+      "english_gloss": "active pickup",
+      "audio": "主动拾音器.mp3"
     },
     {
       "hanzi": "被动拾音器",
@@ -490,7 +521,8 @@
       "english_answers": [
         "string gauge"
       ],
-      "english_gloss": "string gauge"
+      "english_gloss": "string gauge",
+      "audio": "弦径.mp3"
     },
     {
       "hanzi": "贝斯音箱",
@@ -507,7 +539,8 @@
       "english_answers": [
         "amplifier"
       ],
-      "english_gloss": "amplifier"
+      "english_gloss": "amplifier",
+      "audio": "放大器.mp3"
     },
     {
       "hanzi": "音箱头",
@@ -531,7 +564,8 @@
       "english_answers": [
         "preamp"
       ],
-      "english_gloss": "preamp"
+      "english_gloss": "preamp",
+      "audio": "前级.mp3"
     },
     {
       "hanzi": "后级",
@@ -539,7 +573,8 @@
       "english_answers": [
         "power amp stage"
       ],
-      "english_gloss": "power amp stage"
+      "english_gloss": "power amp stage",
+      "audio": "后级.mp3"
     },
     {
       "hanzi": "增益",
@@ -547,7 +582,8 @@
       "english_answers": [
         "gain"
       ],
-      "english_gloss": "gain"
+      "english_gloss": "gain",
+      "audio": "增益.mp3"
     },
     {
       "hanzi": "均衡器",
@@ -556,7 +592,8 @@
         "equalizer",
         "EQ"
       ],
-      "english_gloss": "equalizer / EQ"
+      "english_gloss": "equalizer / EQ",
+      "audio": "均衡器.mp3"
     },
     {
       "hanzi": "低频",
@@ -564,7 +601,8 @@
       "english_answers": [
         "low frequencies"
       ],
-      "english_gloss": "low frequencies"
+      "english_gloss": "low frequencies",
+      "audio": "低频.mp3"
     },
     {
       "hanzi": "中频",
@@ -572,7 +610,8 @@
       "english_answers": [
         "mid frequencies"
       ],
-      "english_gloss": "mid frequencies"
+      "english_gloss": "mid frequencies",
+      "audio": "中频.mp3"
     },
     {
       "hanzi": "高频",
@@ -589,7 +628,8 @@
         "scoop",
         "cut the mids"
       ],
-      "english_gloss": "scoop / cut the mids"
+      "english_gloss": "scoop / cut the mids",
+      "audio": "削减中频.mp3"
     },
     {
       "hanzi": "低频增强",
@@ -597,7 +637,8 @@
       "english_answers": [
         "bass boost"
       ],
-      "english_gloss": "bass boost"
+      "english_gloss": "bass boost",
+      "audio": "低频增强.mp3"
     },
     {
       "hanzi": "线路输出",
@@ -621,7 +662,8 @@
       "english_answers": [
         "signal chain"
       ],
-      "english_gloss": "signal chain"
+      "english_gloss": "signal chain",
+      "audio": "信号链.mp3"
     },
     {
       "hanzi": "串联",
@@ -629,7 +671,8 @@
       "english_answers": [
         "connect in series"
       ],
-      "english_gloss": "connect in series"
+      "english_gloss": "connect in series",
+      "audio": "串联.mp3"
     },
     {
       "hanzi": "电源适配器",
@@ -645,7 +688,8 @@
       "english_answers": [
         "power supply"
       ],
-      "english_gloss": "power supply"
+      "english_gloss": "power supply",
+      "audio": "供电.mp3"
     },
     {
       "hanzi": "噪声门",
@@ -653,7 +697,8 @@
       "english_answers": [
         "noise gate"
       ],
-      "english_gloss": "noise gate"
+      "english_gloss": "noise gate",
+      "audio": "噪声门.mp3"
     },
     {
       "hanzi": "效果器踏板",
@@ -661,7 +706,8 @@
       "english_answers": [
         "effects pedal"
       ],
-      "english_gloss": "effects pedal"
+      "english_gloss": "effects pedal",
+      "audio": "效果器踏板.mp3"
     },
     {
       "hanzi": "单块效果器",
@@ -670,7 +716,8 @@
         "stompbox",
         "individual effects pedal"
       ],
-      "english_gloss": "stompbox / individual effects pedal"
+      "english_gloss": "stompbox / individual effects pedal",
+      "audio": "单块效果器.mp3"
     },
     {
       "hanzi": "效果器板",
@@ -678,7 +725,8 @@
       "english_answers": [
         "pedalboard"
       ],
-      "english_gloss": "pedalboard"
+      "english_gloss": "pedalboard",
+      "audio": "效果器板.mp3"
     },
     {
       "hanzi": "压缩效果器",
@@ -686,7 +734,8 @@
       "english_answers": [
         "compressor pedal"
       ],
-      "english_gloss": "compressor pedal"
+      "english_gloss": "compressor pedal",
+      "audio": "压缩效果器.mp3"
     },
     {
       "hanzi": "压缩比",
@@ -694,7 +743,8 @@
       "english_answers": [
         "compression ratio"
       ],
-      "english_gloss": "compression ratio"
+      "english_gloss": "compression ratio",
+      "audio": "压缩比.mp3"
     },
     {
       "hanzi": "过载",
@@ -710,7 +760,8 @@
       "english_answers": [
         "distortion pedal"
       ],
-      "english_gloss": "distortion pedal"
+      "english_gloss": "distortion pedal",
+      "audio": "失真效果器.mp3"
     },
     {
       "hanzi": "法兹效果",
@@ -726,7 +777,8 @@
       "english_answers": [
         "chorus pedal"
       ],
-      "english_gloss": "chorus pedal"
+      "english_gloss": "chorus pedal",
+      "audio": "合唱效果器.mp3"
     },
     {
       "hanzi": "镶边效果器",
@@ -742,7 +794,8 @@
       "english_answers": [
         "delay pedal"
       ],
-      "english_gloss": "delay pedal"
+      "english_gloss": "delay pedal",
+      "audio": "延迟效果器.mp3"
     },
     {
       "hanzi": "回声",
@@ -750,7 +803,8 @@
       "english_answers": [
         "echo"
       ],
-      "english_gloss": "echo"
+      "english_gloss": "echo",
+      "audio": "回声.mp3"
     },
     {
       "hanzi": "混响",
@@ -774,7 +828,8 @@
       "english_answers": [
         "octave pedal"
       ],
-      "english_gloss": "octave pedal"
+      "english_gloss": "octave pedal",
+      "audio": "八度效果器.mp3"
     },
     {
       "hanzi": "比特破碎效果",
@@ -798,7 +853,8 @@
       "english_answers": [
         "dry/wet mix"
       ],
-      "english_gloss": "dry/wet mix"
+      "english_gloss": "dry/wet mix",
+      "audio": "干湿比.mp3"
     },
     {
       "hanzi": "反馈",
@@ -806,7 +862,8 @@
       "english_answers": [
         "feedback (delay/effects)"
       ],
-      "english_gloss": "feedback (delay/effects)"
+      "english_gloss": "feedback (delay/effects)",
+      "audio": "反馈.mp3"
     },
     {
       "hanzi": "旁通",
@@ -814,7 +871,8 @@
       "english_answers": [
         "bypass"
       ],
-      "english_gloss": "bypass"
+      "english_gloss": "bypass",
+      "audio": "旁通.mp3"
     }
   ]
 }

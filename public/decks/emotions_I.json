@@ -12,7 +12,8 @@
         "happy",
         "glad"
       ],
-      "english_gloss": "happy; glad"
+      "english_gloss": "happy; glad",
+      "audio": "开心.mp3"
     },
     {
       "hanzi": "高兴",
@@ -30,7 +31,8 @@
         "happy",
         "joyful"
       ],
-      "english_gloss": "happy; joyful"
+      "english_gloss": "happy; joyful",
+      "audio": "快乐.mp3"
     },
     {
       "hanzi": "兴奋",
@@ -38,7 +40,8 @@
       "english_answers": [
         "excited"
       ],
-      "english_gloss": "excited"
+      "english_gloss": "excited",
+      "audio": "兴奋.mp3"
     },
     {
       "hanzi": "激动",
@@ -98,7 +101,8 @@
         "feel reassured",
         "stop worrying"
       ],
-      "english_gloss": "feel reassured; stop worrying"
+      "english_gloss": "feel reassured; stop worrying",
+      "audio": "放心.mp3"
     },
     {
       "hanzi": "安心",
@@ -107,7 +111,8 @@
         "at ease",
         "reassured"
       ],
-      "english_gloss": "at ease; reassured"
+      "english_gloss": "at ease; reassured",
+      "audio": "安心.mp3"
     },
     {
       "hanzi": "轻松",
@@ -124,7 +129,8 @@
         "calm",
         "cool-headed"
       ],
-      "english_gloss": "calm; cool-headed"
+      "english_gloss": "calm; cool-headed",
+      "audio": "冷静.mp3"
     },
     {
       "hanzi": "感动",
@@ -132,7 +138,8 @@
       "english_answers": [
         "emotionally moved"
       ],
-      "english_gloss": "emotionally moved"
+      "english_gloss": "emotionally moved",
+      "audio": "感动.mp3"
     },
     {
       "hanzi": "感激",
@@ -140,7 +147,8 @@
       "english_answers": [
         "grateful"
       ],
-      "english_gloss": "grateful"
+      "english_gloss": "grateful",
+      "audio": "感激.mp3"
     },
     {
       "hanzi": "感谢",
@@ -149,7 +157,8 @@
         "to thank",
         "appreciate"
       ],
-      "english_gloss": "to thank; appreciate"
+      "english_gloss": "to thank; appreciate",
+      "audio": "感谢.mp3"
     },
     {
       "hanzi": "感恩",
@@ -158,7 +167,8 @@
         "grateful",
         "thankful"
       ],
-      "english_gloss": "grateful; thankful"
+      "english_gloss": "grateful; thankful",
+      "audio": "感恩.mp3"
     },
     {
       "hanzi": "佩服",
@@ -167,7 +177,8 @@
         "admire",
         "respect"
       ],
-      "english_gloss": "admire; respect"
+      "english_gloss": "admire; respect",
+      "audio": "佩服.mp3"
     },
     {
       "hanzi": "尊重",
@@ -175,7 +186,8 @@
       "english_answers": [
         "respect"
       ],
-      "english_gloss": "respect"
+      "english_gloss": "respect",
+      "audio": "尊重.mp3"
     },
     {
       "hanzi": "难过",
@@ -193,7 +205,8 @@
         "heartbroken",
         "sad"
       ],
-      "english_gloss": "heartbroken; sad"
+      "english_gloss": "heartbroken; sad",
+      "audio": "伤心.mp3"
     },
     {
       "hanzi": "失望",
@@ -201,7 +214,8 @@
       "english_answers": [
         "disappointed"
       ],
-      "english_gloss": "disappointed"
+      "english_gloss": "disappointed",
+      "audio": "失望.mp3"
     },
     {
       "hanzi": "沮丧",
@@ -228,7 +242,8 @@
         "feel wronged",
         "unfairly treated"
       ],
-      "english_gloss": "feel wronged; unfairly treated"
+      "english_gloss": "feel wronged; unfairly treated",
+      "audio": "委屈.mp3"
     },
     {
       "hanzi": "难受",
@@ -245,7 +260,8 @@
       "english_answers": [
         "lonely"
       ],
-      "english_gloss": "lonely"
+      "english_gloss": "lonely",
+      "audio": "孤独.mp3"
     },
     {
       "hanzi": "寂寞",
@@ -254,7 +270,8 @@
         "lonely",
         "isolated"
       ],
-      "english_gloss": "lonely; isolated"
+      "english_gloss": "lonely; isolated",
+      "audio": "寂寞.mp3"
     },
     {
       "hanzi": "无助",
@@ -262,7 +279,8 @@
       "english_answers": [
         "helpless"
       ],
-      "english_gloss": "helpless"
+      "english_gloss": "helpless",
+      "audio": "无助.mp3"
     },
     {
       "hanzi": "累",
@@ -287,7 +305,8 @@
         "pressure",
         "stress"
       ],
-      "english_gloss": "pressure; stress"
+      "english_gloss": "pressure; stress",
+      "audio": "压力.mp3"
     },
     {
       "hanzi": "紧张",
@@ -312,7 +331,8 @@
       "english_answers": [
         "worry"
       ],
-      "english_gloss": "worry"
+      "english_gloss": "worry",
+      "audio": "担心.mp3"
     },
     {
       "hanzi": "害怕",
@@ -320,7 +340,8 @@
       "english_answers": [
         "afraid"
       ],
-      "english_gloss": "afraid"
+      "english_gloss": "afraid",
+      "audio": "害怕.mp3"
     },
     {
       "hanzi": "恐惧",
@@ -329,7 +350,8 @@
         "fear",
         "dread"
       ],
-      "english_gloss": "fear; dread"
+      "english_gloss": "fear; dread",
+      "audio": "恐惧.mp3"
     },
     {
       "hanzi": "慌张",
@@ -338,7 +360,8 @@
         "flustered",
         "panicked"
       ],
-      "english_gloss": "flustered; panicked"
+      "english_gloss": "flustered; panicked",
+      "audio": "慌张.mp3"
     },
     {
       "hanzi": "不安",
@@ -347,7 +370,8 @@
         "uneasy",
         "anxious"
       ],
-      "english_gloss": "uneasy; anxious"
+      "english_gloss": "uneasy; anxious",
+      "audio": "不安.mp3"
     },
     {
       "hanzi": "生气",
@@ -364,7 +388,8 @@
         "furious",
         "angry"
       ],
-      "english_gloss": "furious; angry"
+      "english_gloss": "furious; angry",
+      "audio": "愤怒.mp3"
     },
     {
       "hanzi": "烦躁",
@@ -381,7 +406,8 @@
       "english_answers": [
         "impatient"
       ],
-      "english_gloss": "impatient"
+      "english_gloss": "impatient",
+      "audio": "不耐烦.mp3"
     },
     {
       "hanzi": "嫉妒",
@@ -390,7 +416,8 @@
         "jealous",
         "envious"
       ],
-      "english_gloss": "jealous; envious"
+      "english_gloss": "jealous; envious",
+      "audio": "嫉妒.mp3"
     },
     {
       "hanzi": "羡慕",
@@ -408,7 +435,8 @@
         "awkward",
         "embarrassed"
       ],
-      "english_gloss": "awkward; embarrassed"
+      "english_gloss": "awkward; embarrassed",
+      "audio": "尴尬.mp3"
     },
     {
       "hanzi": "害羞",
@@ -417,7 +445,8 @@
         "shy",
         "bashful"
       ],
-      "english_gloss": "shy; bashful"
+      "english_gloss": "shy; bashful",
+      "audio": "害羞.mp3"
     },
     {
       "hanzi": "丢脸",
@@ -426,7 +455,8 @@
         "lose face",
         "embarrassing"
       ],
-      "english_gloss": "lose face; embarrassing"
+      "english_gloss": "lose face; embarrassing",
+      "audio": "丢脸.mp3"
     },
     {
       "hanzi": "后悔",
@@ -434,7 +464,8 @@
       "english_answers": [
         "regret"
       ],
-      "english_gloss": "regret"
+      "english_gloss": "regret",
+      "audio": "后悔.mp3"
     },
     {
       "hanzi": "内疚",
@@ -442,7 +473,8 @@
       "english_answers": [
         "feel guilty"
       ],
-      "english_gloss": "feel guilty"
+      "english_gloss": "feel guilty",
+      "audio": "内疚.mp3"
     },
     {
       "hanzi": "愧疚",
@@ -451,7 +483,8 @@
         "feel guilty",
         "remorseful"
       ],
-      "english_gloss": "feel guilty; remorseful"
+      "english_gloss": "feel guilty; remorseful",
+      "audio": "愧疚.mp3"
     },
     {
       "hanzi": "羞愧",
@@ -468,7 +501,8 @@
         "sorry",
         "apologetic"
       ],
-      "english_gloss": "sorry; apologetic"
+      "english_gloss": "sorry; apologetic",
+      "audio": "抱歉.mp3"
     },
     {
       "hanzi": "对不起",
@@ -476,7 +510,8 @@
       "english_answers": [
         "I'm sorry"
       ],
-      "english_gloss": "I'm sorry"
+      "english_gloss": "I'm sorry",
+      "audio": "对不起.mp3"
     },
     {
       "hanzi": "没关系",
@@ -502,7 +537,8 @@
       "english_answers": [
         "Don't worry."
       ],
-      "english_gloss": "Don't worry."
+      "english_gloss": "Don't worry.",
+      "audio": "别担心。.mp3"
     },
     {
       "hanzi": "别着急。",
@@ -511,7 +547,8 @@
         "Don't rush",
         "don't panic."
       ],
-      "english_gloss": "Don't rush; don't panic."
+      "english_gloss": "Don't rush; don't panic.",
+      "audio": "别着急。.mp3"
     },
     {
       "hanzi": "慢慢来。",
@@ -519,7 +556,8 @@
       "english_answers": [
         "Take your time."
       ],
-      "english_gloss": "Take your time."
+      "english_gloss": "Take your time.",
+      "audio": "慢慢来。.mp3"
     },
     {
       "hanzi": "我有点紧张。",
@@ -527,7 +565,8 @@
       "english_answers": [
         "I'm a little nervous."
       ],
-      "english_gloss": "I'm a little nervous."
+      "english_gloss": "I'm a little nervous.",
+      "audio": "我有点紧张。.mp3"
     },
     {
       "hanzi": "我心情不好。",
@@ -535,7 +574,8 @@
       "english_answers": [
         "I'm in a bad mood."
       ],
-      "english_gloss": "I'm in a bad mood."
+      "english_gloss": "I'm in a bad mood.",
+      "audio": "我心情不好。.mp3"
     },
     {
       "hanzi": "我今天心情不错。",
@@ -543,7 +583,8 @@
       "english_answers": [
         "I'm in a good mood today."
       ],
-      "english_gloss": "I'm in a good mood today."
+      "english_gloss": "I'm in a good mood today.",
+      "audio": "我今天心情不错。.mp3"
     },
     {
       "hanzi": "我真的很感动。",
@@ -551,7 +592,8 @@
       "english_answers": [
         "I'm really touched."
       ],
-      "english_gloss": "I'm really touched."
+      "english_gloss": "I'm really touched.",
+      "audio": "我真的很感动。.mp3"
     },
     {
       "hanzi": "我替你高兴。",
@@ -559,7 +601,8 @@
       "english_answers": [
         "I'm happy for you."
       ],
-      "english_gloss": "I'm happy for you."
+      "english_gloss": "I'm happy for you.",
+      "audio": "我替你高兴。.mp3"
     },
     {
       "hanzi": "我理解你的感受。",
@@ -567,7 +610,8 @@
       "english_answers": [
         "I understand how you feel."
       ],
-      "english_gloss": "I understand how you feel."
+      "english_gloss": "I understand how you feel.",
+      "audio": "我理解你的感受。.mp3"
     },
     {
       "hanzi": "我能理解。",
@@ -575,7 +619,8 @@
       "english_answers": [
         "I can understand."
       ],
-      "english_gloss": "I can understand."
+      "english_gloss": "I can understand.",
+      "audio": "我能理解。.mp3"
     },
     {
       "hanzi": "听起来很难。",
@@ -583,7 +628,8 @@
       "english_answers": [
         "That sounds difficult."
       ],
-      "english_gloss": "That sounds difficult."
+      "english_gloss": "That sounds difficult.",
+      "audio": "听起来很难。.mp3"
     },
     {
       "hanzi": "你辛苦了。",
@@ -592,7 +638,8 @@
         "You've worked hard",
         "thanks for your effort."
       ],
-      "english_gloss": "You've worked hard; thanks for your effort."
+      "english_gloss": "You've worked hard; thanks for your effort.",
+      "audio": "你辛苦了。.mp3"
     },
     {
       "hanzi": "委屈你了。",
@@ -600,7 +647,8 @@
       "english_answers": [
         "Sorry you had to put up with that."
       ],
-      "english_gloss": "Sorry you had to put up with that."
+      "english_gloss": "Sorry you had to put up with that.",
+      "audio": "委屈你了。.mp3"
     },
     {
       "hanzi": "我需要一点时间。",
@@ -608,7 +656,8 @@
       "english_answers": [
         "I need a little time."
       ],
-      "english_gloss": "I need a little time."
+      "english_gloss": "I need a little time.",
+      "audio": "我需要一点时间。.mp3"
     },
     {
       "hanzi": "我想一个人静一静。",
@@ -616,7 +665,8 @@
       "english_answers": [
         "I want some time alone to calm down."
       ],
-      "english_gloss": "I want some time alone to calm down."
+      "english_gloss": "I want some time alone to calm down.",
+      "audio": "我想一个人静一静。.mp3"
     },
     {
       "hanzi": "我们好好谈谈。",
@@ -624,7 +674,8 @@
       "english_answers": [
         "Let's talk this through calmly."
       ],
-      "english_gloss": "Let's talk this through calmly."
+      "english_gloss": "Let's talk this through calmly.",
+      "audio": "我们好好谈谈。.mp3"
     },
     {
       "hanzi": "我们之间有误会。",
@@ -632,7 +683,8 @@
       "english_answers": [
         "There's a misunderstanding between us."
       ],
-      "english_gloss": "There's a misunderstanding between us."
+      "english_gloss": "There's a misunderstanding between us.",
+      "audio": "我们之间有误会。.mp3"
     },
     {
       "hanzi": "误会",
@@ -666,7 +718,8 @@
         "feelings",
         "experience"
       ],
-      "english_gloss": "feelings; experience"
+      "english_gloss": "feelings; experience",
+      "audio": "感受.mp3"
     },
     {
       "hanzi": "情绪",
@@ -675,7 +728,8 @@
         "emotion",
         "mood"
       ],
-      "english_gloss": "emotion; mood"
+      "english_gloss": "emotion; mood",
+      "audio": "情绪.mp3"
     },
     {
       "hanzi": "心情",
@@ -683,7 +737,8 @@
       "english_answers": [
         "mood"
       ],
-      "english_gloss": "mood"
+      "english_gloss": "mood",
+      "audio": "心情.mp3"
     },
     {
       "hanzi": "态度",
@@ -691,7 +746,8 @@
       "english_answers": [
         "attitude"
       ],
-      "english_gloss": "attitude"
+      "english_gloss": "attitude",
+      "audio": "态度.mp3"
     },
     {
       "hanzi": "信任",
@@ -699,7 +755,8 @@
       "english_answers": [
         "trust"
       ],
-      "english_gloss": "trust"
+      "english_gloss": "trust",
+      "audio": "信任.mp3"
     },
     {
       "hanzi": "支持",
@@ -707,7 +764,8 @@
       "english_answers": [
         "support"
       ],
-      "english_gloss": "support"
+      "english_gloss": "support",
+      "audio": "支持.mp3"
     },
     {
       "hanzi": "鼓励",
@@ -724,7 +782,8 @@
         "comfort",
         "console"
       ],
-      "english_gloss": "comfort; console"
+      "english_gloss": "comfort; console",
+      "audio": "安慰.mp3"
     },
     {
       "hanzi": "原谅",
@@ -732,7 +791,8 @@
       "english_answers": [
         "forgive"
       ],
-      "english_gloss": "forgive"
+      "english_gloss": "forgive",
+      "audio": "原谅.mp3"
     },
     {
       "hanzi": "道歉",
@@ -756,7 +816,8 @@
       "english_answers": [
         "dignity"
       ],
-      "english_gloss": "dignity"
+      "english_gloss": "dignity",
+      "audio": "尊严.mp3"
     },
     {
       "hanzi": "界限",
@@ -790,7 +851,8 @@
         "frank",
         "open"
       ],
-      "english_gloss": "frank; open"
+      "english_gloss": "frank; open",
+      "audio": "坦诚.mp3"
     },
     {
       "hanzi": "体谅",
@@ -799,7 +861,8 @@
         "be considerate",
         "understand someone's difficulties"
       ],
-      "english_gloss": "be considerate; understand someone's difficulties"
+      "english_gloss": "be considerate; understand someone's difficulties",
+      "audio": "体谅.mp3"
     },
     {
       "hanzi": "理解",
@@ -815,7 +878,8 @@
       "english_answers": [
         "accept"
       ],
-      "english_gloss": "accept"
+      "english_gloss": "accept",
+      "audio": "接受.mp3"
     },
     {
       "hanzi": "拒绝",
@@ -824,7 +888,8 @@
         "refuse",
         "reject"
       ],
-      "english_gloss": "refuse; reject"
+      "english_gloss": "refuse; reject",
+      "audio": "拒绝.mp3"
     },
     {
       "hanzi": "不舒服",
@@ -833,7 +898,8 @@
         "uncomfortable",
         "unwell"
       ],
-      "english_gloss": "uncomfortable; unwell"
+      "english_gloss": "uncomfortable; unwell",
+      "audio": "不舒服.mp3"
     },
     {
       "hanzi": "我需要你尊重我。",
@@ -841,7 +907,8 @@
       "english_answers": [
         "I need you to respect me."
       ],
-      "english_gloss": "I need you to respect me."
+      "english_gloss": "I need you to respect me.",
+      "audio": "我需要你尊重我。.mp3"
     },
     {
       "hanzi": "谢谢你告诉我。",

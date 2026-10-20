@@ -48,7 +48,8 @@
         "stabbing",
         "stinging pain"
       ],
-      "english_gloss": "stabbing / stinging pain"
+      "english_gloss": "stabbing / stinging pain",
+      "audio": "刺痛.mp3"
     },
     {
       "hanzi": "隐痛",
@@ -64,7 +65,8 @@
       "english_answers": [
         "severe pain"
       ],
-      "english_gloss": "severe pain"
+      "english_gloss": "severe pain",
+      "audio": "剧痛.mp3"
     },
     {
       "hanzi": "胀痛",
@@ -81,7 +83,8 @@
       "english_answers": [
         "muscle cramp"
       ],
-      "english_gloss": "muscle cramp"
+      "english_gloss": "muscle cramp",
+      "audio": "抽筋.mp3"
     },
     {
       "hanzi": "麻木",
@@ -98,7 +101,8 @@
         "feel numb",
         "tingly"
       ],
-      "english_gloss": "feel numb / tingly"
+      "english_gloss": "feel numb / tingly",
+      "audio": "发麻.mp3"
     },
     {
       "hanzi": "刺痒",
@@ -106,7 +110,8 @@
       "english_answers": [
         "prickling itch"
       ],
-      "english_gloss": "prickling itch"
+      "english_gloss": "prickling itch",
+      "audio": "刺痒.mp3"
     },
     {
       "hanzi": "痒",
@@ -147,7 +152,8 @@
         "stiffness",
         "stiff"
       ],
-      "english_gloss": "stiffness / stiff"
+      "english_gloss": "stiffness / stiff",
+      "audio": "僵硬.mp3"
     },
     {
       "hanzi": "无力",
@@ -156,7 +162,8 @@
         "weakness",
         "lacking strength"
       ],
-      "english_gloss": "weakness / lacking strength"
+      "english_gloss": "weakness / lacking strength",
+      "audio": "无力.mp3"
     },
     {
       "hanzi": "疲劳",
@@ -173,7 +180,8 @@
         "feel unwell",
         "uncomfortable"
       ],
-      "english_gloss": "feel unwell / uncomfortable"
+      "english_gloss": "feel unwell / uncomfortable",
+      "audio": "不舒服.mp3"
     },
     {
       "hanzi": "症状",
@@ -206,7 +214,8 @@
       "english_answers": [
         "have a fever"
       ],
-      "english_gloss": "have a fever"
+      "english_gloss": "have a fever",
+      "audio": "发烧.mp3"
     },
     {
       "hanzi": "低烧",
@@ -214,7 +223,8 @@
       "english_answers": [
         "low-grade fever"
       ],
-      "english_gloss": "low-grade fever"
+      "english_gloss": "low-grade fever",
+      "audio": "低烧.mp3"
     },
     {
       "hanzi": "高烧",
@@ -230,7 +240,8 @@
       "english_answers": [
         "body temperature"
       ],
-      "english_gloss": "body temperature"
+      "english_gloss": "body temperature",
+      "audio": "体温.mp3"
     },
     {
       "hanzi": "发冷",
@@ -238,7 +249,8 @@
       "english_answers": [
         "feel chilly"
       ],
-      "english_gloss": "feel chilly"
+      "english_gloss": "feel chilly",
+      "audio": "发冷.mp3"
     },
     {
       "hanzi": "寒战",
@@ -247,7 +259,8 @@
         "chills",
         "shivering"
       ],
-      "english_gloss": "chills / shivering"
+      "english_gloss": "chills / shivering",
+      "audio": "寒战.mp3"
     },
     {
       "hanzi": "出汗",
@@ -255,7 +268,8 @@
       "english_answers": [
         "sweat"
       ],
-      "english_gloss": "sweat"
+      "english_gloss": "sweat",
+      "audio": "出汗.mp3"
     },
     {
       "hanzi": "盗汗",
@@ -271,7 +285,8 @@
       "english_answers": [
         "headache"
       ],
-      "english_gloss": "headache"
+      "english_gloss": "headache",
+      "audio": "头疼.mp3"
     },
     {
       "hanzi": "偏头痛",
@@ -279,7 +294,8 @@
       "english_answers": [
         "migraine"
       ],
-      "english_gloss": "migraine"
+      "english_gloss": "migraine",
+      "audio": "偏头痛.mp3"
     },
     {
       "hanzi": "头晕",
@@ -287,7 +303,8 @@
       "english_answers": [
         "dizzy"
       ],
-      "english_gloss": "dizzy"
+      "english_gloss": "dizzy",
+      "audio": "头晕.mp3"
     },
     {
       "hanzi": "晕倒",
@@ -305,7 +322,8 @@
         "nausea",
         "nauseated"
       ],
-      "english_gloss": "nausea / nauseated"
+      "english_gloss": "nausea / nauseated",
+      "audio": "恶心.mp3"
     },
     {
       "hanzi": "呕吐",
@@ -314,7 +332,8 @@
         "vomit",
         "vomiting"
       ],
-      "english_gloss": "vomit / vomiting"
+      "english_gloss": "vomit / vomiting",
+      "audio": "呕吐.mp3"
     },
     {
       "hanzi": "脱水",
@@ -355,7 +374,8 @@
       "english_answers": [
         "have diarrhea (colloquial)"
       ],
-      "english_gloss": "have diarrhea (colloquial)"
+      "english_gloss": "have diarrhea (colloquial)",
+      "audio": "拉肚子.mp3"
     },
     {
       "hanzi": "便秘",
@@ -363,7 +383,8 @@
       "english_answers": [
         "constipation"
       ],
-      "english_gloss": "constipation"
+      "english_gloss": "constipation",
+      "audio": "便秘.mp3"
     },
     {
       "hanzi": "胃痛",
@@ -389,7 +410,8 @@
         "acid reflux",
         "acid regurgitation"
       ],
-      "english_gloss": "acid reflux / acid regurgitation"
+      "english_gloss": "acid reflux / acid regurgitation",
+      "audio": "反酸.mp3"
     },
     {
       "hanzi": "打嗝",
@@ -398,7 +420,8 @@
         "hiccup",
         "burp (context-dependent)"
       ],
-      "english_gloss": "hiccup / burp (context-dependent)"
+      "english_gloss": "hiccup / burp (context-dependent)",
+      "audio": "打嗝.mp3"
     },
     {
       "hanzi": "胀气",
@@ -431,7 +454,8 @@
       "english_answers": [
         "cough"
       ],
-      "english_gloss": "cough"
+      "english_gloss": "cough",
+      "audio": "咳嗽.mp3"
     },
     {
       "hanzi": "干咳",
@@ -439,7 +463,8 @@
       "english_answers": [
         "dry cough"
       ],
-      "english_gloss": "dry cough"
+      "english_gloss": "dry cough",
+      "audio": "干咳.mp3"
     },
     {
       "hanzi": "痰",
@@ -471,7 +496,8 @@
       "english_answers": [
         "sneeze"
       ],
-      "english_gloss": "sneeze"
+      "english_gloss": "sneeze",
+      "audio": "打喷嚏.mp3"
     },
     {
       "hanzi": "呼吸困难",
@@ -479,7 +505,8 @@
       "english_answers": [
         "difficulty breathing"
       ],
-      "english_gloss": "difficulty breathing"
+      "english_gloss": "difficulty breathing",
+      "audio": "呼吸困难.mp3"
     },
     {
       "hanzi": "气短",
@@ -495,7 +522,8 @@
       "english_answers": [
         "sore throat"
       ],
-      "english_gloss": "sore throat"
+      "english_gloss": "sore throat",
+      "audio": "喉咙痛.mp3"
     },
     {
       "hanzi": "感染",
@@ -504,7 +532,8 @@
         "infection",
         "become infected"
       ],
-      "english_gloss": "infection / become infected"
+      "english_gloss": "infection / become infected",
+      "audio": "感染.mp3"
     },
     {
       "hanzi": "焦虑",
@@ -528,7 +557,8 @@
       "english_answers": [
         "panic attack"
       ],
-      "english_gloss": "panic attack"
+      "english_gloss": "panic attack",
+      "audio": "惊恐发作.mp3"
     },
     {
       "hanzi": "抑郁",
@@ -537,7 +567,8 @@
         "depression",
         "depressed mood"
       ],
-      "english_gloss": "depression / depressed mood"
+      "english_gloss": "depression / depressed mood",
+      "audio": "抑郁.mp3"
     },
     {
       "hanzi": "抑郁症",
@@ -545,7 +576,8 @@
       "english_answers": [
         "depressive disorder"
       ],
-      "english_gloss": "depressive disorder"
+      "english_gloss": "depressive disorder",
+      "audio": "抑郁症.mp3"
     },
     {
       "hanzi": "情绪",
@@ -554,7 +586,8 @@
         "emotions",
         "mood"
       ],
-      "english_gloss": "emotions / mood"
+      "english_gloss": "emotions / mood",
+      "audio": "情绪.mp3"
     },
     {
       "hanzi": "情绪波动",
@@ -562,7 +595,8 @@
       "english_answers": [
         "mood swings"
       ],
-      "english_gloss": "mood swings"
+      "english_gloss": "mood swings",
+      "audio": "情绪波动.mp3"
     },
     {
       "hanzi": "压力",
@@ -571,7 +605,8 @@
         "stress",
         "pressure"
       ],
-      "english_gloss": "stress / pressure"
+      "english_gloss": "stress / pressure",
+      "audio": "压力.mp3"
     },
     {
       "hanzi": "紧张",
@@ -614,7 +649,8 @@
       "english_answers": [
         "insomnia"
       ],
-      "english_gloss": "insomnia"
+      "english_gloss": "insomnia",
+      "audio": "失眠.mp3"
     },
     {
       "hanzi": "嗜睡",
@@ -622,7 +658,8 @@
       "english_answers": [
         "excessive sleepiness"
       ],
-      "english_gloss": "excessive sleepiness"
+      "english_gloss": "excessive sleepiness",
+      "audio": "嗜睡.mp3"
     },
     {
       "hanzi": "噩梦",
@@ -630,7 +667,8 @@
       "english_answers": [
         "nightmare"
       ],
-      "english_gloss": "nightmare"
+      "english_gloss": "nightmare",
+      "audio": "噩梦.mp3"
     },
     {
       "hanzi": "心悸",
@@ -638,7 +676,8 @@
       "english_answers": [
         "palpitations"
       ],
-      "english_gloss": "palpitations"
+      "english_gloss": "palpitations",
+      "audio": "心悸.mp3"
     },
     {
       "hanzi": "手抖",
@@ -647,7 +686,8 @@
         "hand tremor",
         "shaky hands"
       ],
-      "english_gloss": "hand tremor / shaky hands"
+      "english_gloss": "hand tremor / shaky hands",
+      "audio": "手抖.mp3"
     },
     {
       "hanzi": "耳鸣",
@@ -672,7 +712,8 @@
       "english_answers": [
         "side effect"
       ],
-      "english_gloss": "side effect"
+      "english_gloss": "side effect",
+      "audio": "副作用.mp3"
     },
     {
       "hanzi": "看医生",
@@ -688,7 +729,8 @@
       "english_answers": [
         "describe"
       ],
-      "english_gloss": "describe"
+      "english_gloss": "describe",
+      "audio": "描述.mp3"
     },
     {
       "hanzi": "持续",
@@ -697,7 +739,8 @@
         "continue",
         "persist"
       ],
-      "english_gloss": "continue / persist"
+      "english_gloss": "continue / persist",
+      "audio": "持续.mp3"
     },
     {
       "hanzi": "突然",
@@ -721,7 +764,8 @@
       "english_answers": [
         "occasionally"
       ],
-      "english_gloss": "occasionally"
+      "english_gloss": "occasionally",
+      "audio": "偶尔.mp3"
     },
     {
       "hanzi": "经常",
@@ -738,7 +782,8 @@
         "continuously",
         "all along"
       ],
-      "english_gloss": "continuously / all along"
+      "english_gloss": "continuously / all along",
+      "audio": "一直.mp3"
     },
     {
       "hanzi": "反复",
@@ -747,7 +792,8 @@
         "repeatedly",
         "recurrently"
       ],
-      "english_gloss": "repeatedly / recurrently"
+      "english_gloss": "repeatedly / recurrently",
+      "audio": "反复.mp3"
     },
     {
       "hanzi": "加重",
@@ -756,7 +802,8 @@
         "worsen",
         "become more severe"
       ],
-      "english_gloss": "worsen / become more severe"
+      "english_gloss": "worsen / become more severe",
+      "audio": "加重.mp3"
     },
     {
       "hanzi": "缓解",
@@ -775,7 +822,8 @@
         "attack",
         "flare-up"
       ],
-      "english_gloss": "episode / attack / flare-up"
+      "english_gloss": "episode / attack / flare-up",
+      "audio": "发作.mp3"
     },
     {
       "hanzi": "严重",
@@ -784,7 +832,8 @@
         "severe",
         "serious"
       ],
-      "english_gloss": "severe / serious"
+      "english_gloss": "severe / serious",
+      "audio": "严重.mp3"
     },
     {
       "hanzi": "轻微",
@@ -801,7 +850,8 @@
       "english_answers": [
         "chronic"
       ],
-      "english_gloss": "chronic"
+      "english_gloss": "chronic",
+      "audio": "慢性.mp3"
     },
     {
       "hanzi": "急性",
@@ -809,7 +859,8 @@
       "english_answers": [
         "acute"
       ],
-      "english_gloss": "acute"
+      "english_gloss": "acute",
+      "audio": "急性.mp3"
     },
     {
       "hanzi": "病史",
@@ -825,7 +876,8 @@
       "english_answers": [
         "past medical history"
       ],
-      "english_gloss": "past medical history"
+      "english_gloss": "past medical history",
+      "audio": "既往病史.mp3"
     },
     {
       "hanzi": "诱因",
@@ -843,7 +895,8 @@
         "recur",
         "relapse"
       ],
-      "english_gloss": "recur / relapse"
+      "english_gloss": "recur / relapse",
+      "audio": "复发.mp3"
     }
   ]
 }

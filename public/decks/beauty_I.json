@@ -12,7 +12,8 @@
         "put on makeup",
         "makeup"
       ],
-      "english_gloss": "put on makeup / makeup"
+      "english_gloss": "put on makeup / makeup",
+      "audio": "化妆.mp3"
     },
     {
       "hanzi": "彩妆",
@@ -21,7 +22,8 @@
         "color cosmetics",
         "makeup"
       ],
-      "english_gloss": "color cosmetics / makeup"
+      "english_gloss": "color cosmetics / makeup",
+      "audio": "彩妆.mp3"
     },
     {
       "hanzi": "护肤",
@@ -29,7 +31,8 @@
       "english_answers": [
         "skincare"
       ],
-      "english_gloss": "skincare"
+      "english_gloss": "skincare",
+      "audio": "护肤.mp3"
     },
     {
       "hanzi": "化妆品",
@@ -37,7 +40,8 @@
       "english_answers": [
         "cosmetics"
       ],
-      "english_gloss": "cosmetics"
+      "english_gloss": "cosmetics",
+      "audio": "化妆品.mp3"
     },
     {
       "hanzi": "护肤品",
@@ -45,7 +49,8 @@
       "english_answers": [
         "skincare products"
       ],
-      "english_gloss": "skincare products"
+      "english_gloss": "skincare products",
+      "audio": "护肤品.mp3"
     },
     {
       "hanzi": "粉底",
@@ -94,7 +99,8 @@
       "english_answers": [
         "makeup primer"
       ],
-      "english_gloss": "makeup primer"
+      "english_gloss": "makeup primer",
+      "audio": "妆前乳.mp3"
     },
     {
       "hanzi": "隔离霜",
@@ -111,7 +117,8 @@
       "english_answers": [
         "loose powder"
       ],
-      "english_gloss": "loose powder"
+      "english_gloss": "loose powder",
+      "audio": "散粉.mp3"
     },
     {
       "hanzi": "蜜粉",
@@ -136,7 +143,8 @@
       "english_answers": [
         "set makeup"
       ],
-      "english_gloss": "set makeup"
+      "english_gloss": "set makeup",
+      "audio": "定妆.mp3"
     },
     {
       "hanzi": "定妆喷雾",
@@ -144,7 +152,8 @@
       "english_answers": [
         "setting spray"
       ],
-      "english_gloss": "setting spray"
+      "english_gloss": "setting spray",
+      "audio": "定妆喷雾.mp3"
     },
     {
       "hanzi": "腮红",
@@ -168,7 +177,8 @@
       "english_answers": [
         "contouring"
       ],
-      "english_gloss": "contouring"
+      "english_gloss": "contouring",
+      "audio": "修容.mp3"
     },
     {
       "hanzi": "阴影",
@@ -241,7 +251,8 @@
       "english_answers": [
         "false eyelashes"
       ],
-      "english_gloss": "false eyelashes"
+      "english_gloss": "false eyelashes",
+      "audio": "假睫毛.mp3"
     },
     {
       "hanzi": "睫毛夹",
@@ -290,7 +301,8 @@
       "english_answers": [
         "lipstick"
       ],
-      "english_gloss": "lipstick"
+      "english_gloss": "lipstick",
+      "audio": "口红.mp3"
     },
     {
       "hanzi": "唇膏",
@@ -299,7 +311,8 @@
         "lip balm",
         "lipstick"
       ],
-      "english_gloss": "lip balm / lipstick"
+      "english_gloss": "lip balm / lipstick",
+      "audio": "唇膏.mp3"
     },
     {
       "hanzi": "唇釉",
@@ -308,7 +321,8 @@
         "liquid lipstick",
         "lip glaze"
       ],
-      "english_gloss": "liquid lipstick / lip glaze"
+      "english_gloss": "liquid lipstick / lip glaze",
+      "audio": "唇釉.mp3"
     },
     {
       "hanzi": "唇彩",
@@ -316,7 +330,8 @@
       "english_answers": [
         "lip gloss"
       ],
-      "english_gloss": "lip gloss"
+      "english_gloss": "lip gloss",
+      "audio": "唇彩.mp3"
     },
     {
       "hanzi": "唇线笔",
@@ -324,7 +339,8 @@
       "english_answers": [
         "lip liner"
       ],
-      "english_gloss": "lip liner"
+      "english_gloss": "lip liner",
+      "audio": "唇线笔.mp3"
     },
     {
       "hanzi": "润唇膏",
@@ -340,7 +356,8 @@
       "english_answers": [
         "remove makeup"
       ],
-      "english_gloss": "remove makeup"
+      "english_gloss": "remove makeup",
+      "audio": "卸妆.mp3"
     },
     {
       "hanzi": "卸妆油",
@@ -348,7 +365,8 @@
       "english_answers": [
         "cleansing oil"
       ],
-      "english_gloss": "cleansing oil"
+      "english_gloss": "cleansing oil",
+      "audio": "卸妆油.mp3"
     },
     {
       "hanzi": "卸妆水",
@@ -356,7 +374,8 @@
       "english_answers": [
         "micellar makeup remover"
       ],
-      "english_gloss": "micellar makeup remover"
+      "english_gloss": "micellar makeup remover",
+      "audio": "卸妆水.mp3"
     },
     {
       "hanzi": "卸妆膏",
@@ -364,7 +383,8 @@
       "english_answers": [
         "cleansing balm"
       ],
-      "english_gloss": "cleansing balm"
+      "english_gloss": "cleansing balm",
+      "audio": "卸妆膏.mp3"
     },
     {
       "hanzi": "洗面奶",
@@ -405,7 +425,8 @@
         "toner",
         "skin lotion"
       ],
-      "english_gloss": "toner / skin lotion"
+      "english_gloss": "toner / skin lotion",
+      "audio": "化妆水.mp3"
     },
     {
       "hanzi": "精华",
@@ -431,7 +452,8 @@
         "emulsion",
         "lotion"
       ],
-      "english_gloss": "emulsion / lotion"
+      "english_gloss": "emulsion / lotion",
+      "audio": "乳液.mp3"
     },
     {
       "hanzi": "面霜",
@@ -447,7 +469,8 @@
       "english_answers": [
         "moisturizer"
       ],
-      "english_gloss": "moisturizer"
+      "english_gloss": "moisturizer",
+      "audio": "保湿霜.mp3"
     },
     {
       "hanzi": "眼霜",
@@ -503,7 +526,8 @@
       "english_answers": [
         "exfoliate"
       ],
-      "english_gloss": "exfoliate"
+      "english_gloss": "exfoliate",
+      "audio": "去角质.mp3"
     },
     {
       "hanzi": "磨砂膏",
@@ -530,7 +554,8 @@
         "moisturize",
         "retain moisture"
       ],
-      "english_gloss": "moisturize / retain moisture"
+      "english_gloss": "moisturize / retain moisture",
+      "audio": "保湿.mp3"
     },
     {
       "hanzi": "控油",
@@ -538,7 +563,8 @@
       "english_answers": [
         "oil control"
       ],
-      "english_gloss": "oil control"
+      "english_gloss": "oil control",
+      "audio": "控油.mp3"
     },
     {
       "hanzi": "美白",
@@ -555,7 +581,8 @@
       "english_answers": [
         "anti-aging"
       ],
-      "english_gloss": "anti-aging"
+      "english_gloss": "anti-aging",
+      "audio": "抗老.mp3"
     },
     {
       "hanzi": "抗皱",
@@ -563,7 +590,8 @@
       "english_answers": [
         "anti-wrinkle"
       ],
-      "english_gloss": "anti-wrinkle"
+      "english_gloss": "anti-wrinkle",
+      "audio": "抗皱.mp3"
     },
     {
       "hanzi": "祛痘",
@@ -580,7 +608,8 @@
       "english_answers": [
         "sensitive skin"
       ],
-      "english_gloss": "sensitive skin"
+      "english_gloss": "sensitive skin",
+      "audio": "敏感肌.mp3"
     },
     {
       "hanzi": "干性皮肤",
@@ -588,7 +617,8 @@
       "english_answers": [
         "dry skin"
       ],
-      "english_gloss": "dry skin"
+      "english_gloss": "dry skin",
+      "audio": "干性皮肤.mp3"
     },
     {
       "hanzi": "油性皮肤",
@@ -686,7 +716,8 @@
       "english_answers": [
         "cool undertone"
       ],
-      "english_gloss": "cool undertone"
+      "english_gloss": "cool undertone",
+      "audio": "冷色调.mp3"
     },
     {
       "hanzi": "中性色调",
@@ -694,7 +725,8 @@
       "english_answers": [
         "neutral undertone"
       ],
-      "english_gloss": "neutral undertone"
+      "english_gloss": "neutral undertone",
+      "audio": "中性色调.mp3"
     },
     {
       "hanzi": "肤色",
@@ -728,7 +760,8 @@
       "english_answers": [
         "long-lasting"
       ],
-      "english_gloss": "long-lasting"
+      "english_gloss": "long-lasting",
+      "audio": "持久.mp3"
     },
     {
       "hanzi": "防水",
@@ -761,7 +794,8 @@
       "english_answers": [
         "foundation/powder caking"
       ],
-      "english_gloss": "foundation/powder caking"
+      "english_gloss": "foundation/powder caking",
+      "audio": "卡粉.mp3"
     },
     {
       "hanzi": "浮粉",
@@ -777,7 +811,8 @@
       "english_answers": [
         "matte"
       ],
-      "english_gloss": "matte"
+      "english_gloss": "matte",
+      "audio": "哑光.mp3"
     },
     {
       "hanzi": "亮面",
@@ -786,7 +821,8 @@
         "glossy",
         "shiny finish"
       ],
-      "english_gloss": "glossy / shiny finish"
+      "english_gloss": "glossy / shiny finish",
+      "audio": "亮面.mp3"
     },
     {
       "hanzi": "珠光",
@@ -828,7 +864,8 @@
       "english_answers": [
         "brush"
       ],
-      "english_gloss": "brush"
+      "english_gloss": "brush",
+      "audio": "刷子.mp3"
     }
   ]
 }

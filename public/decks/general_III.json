@@ -11,7 +11,8 @@
       "english_answers": [
         "general measure word"
       ],
-      "english_gloss": "general measure word"
+      "english_gloss": "general measure word",
+      "audio": "个.mp3"
     },
     {
       "hanzi": "位",
@@ -19,7 +20,8 @@
       "english_answers": [
         "polite measure word for people"
       ],
-      "english_gloss": "polite measure word for people"
+      "english_gloss": "polite measure word for people",
+      "audio": "位.mp3"
     },
     {
       "hanzi": "件",
@@ -28,7 +30,8 @@
         "measure word for items",
         "matters"
       ],
-      "english_gloss": "measure word for items / matters"
+      "english_gloss": "measure word for items / matters",
+      "audio": "件.mp3"
     },
     {
       "hanzi": "条",
@@ -44,7 +47,8 @@
       "english_answers": [
         "measure word for flat objects"
       ],
-      "english_gloss": "measure word for flat objects"
+      "english_gloss": "measure word for flat objects",
+      "audio": "张.mp3"
     },
     {
       "hanzi": "本",
@@ -80,7 +84,8 @@
         "copy",
         "serving"
       ],
-      "english_gloss": "portion / copy / serving"
+      "english_gloss": "portion / copy / serving",
+      "audio": "份.mp3"
     },
     {
       "hanzi": "双",
@@ -88,7 +93,8 @@
       "english_answers": [
         "pair"
       ],
-      "english_gloss": "pair"
+      "english_gloss": "pair",
+      "audio": "双.mp3"
     },
     {
       "hanzi": "全部",
@@ -98,7 +104,8 @@
         "entire",
         "everything"
       ],
-      "english_gloss": "all / entire / everything"
+      "english_gloss": "all / entire / everything",
+      "audio": "全部.mp3"
     },
     {
       "hanzi": "一半",
@@ -106,7 +113,8 @@
       "english_answers": [
         "half"
       ],
-      "english_gloss": "half"
+      "english_gloss": "half",
+      "audio": "一半.mp3"
     },
     {
       "hanzi": "一点儿",
@@ -114,7 +122,8 @@
       "english_answers": [
         "a little"
       ],
-      "english_gloss": "a little"
+      "english_gloss": "a little",
+      "audio": "一点儿.mp3"
     },
     {
       "hanzi": "一些",
@@ -123,7 +132,8 @@
         "some",
         "a few"
       ],
-      "english_gloss": "some / a few"
+      "english_gloss": "some / a few",
+      "audio": "一些.mp3"
     },
     {
       "hanzi": "很多",
@@ -132,7 +142,8 @@
         "many",
         "a lot"
       ],
-      "english_gloss": "many / a lot"
+      "english_gloss": "many / a lot",
+      "audio": "很多.mp3"
     },
     {
       "hanzi": "太多",
@@ -141,7 +152,8 @@
         "too many",
         "too much"
       ],
-      "english_gloss": "too many / too much"
+      "english_gloss": "too many / too much",
+      "audio": "太多.mp3"
     },
     {
       "hanzi": "最少",
@@ -168,7 +180,8 @@
         "approximately",
         "about"
       ],
-      "english_gloss": "approximately / about"
+      "english_gloss": "approximately / about",
+      "audio": "大约.mp3"
     },
     {
       "hanzi": "左右",
@@ -177,7 +190,8 @@
         "approximately",
         "around"
       ],
-      "english_gloss": "approximately / around"
+      "english_gloss": "approximately / around",
+      "audio": "左右.mp3"
     },
     {
       "hanzi": "洗衣服",
@@ -203,7 +217,8 @@
         "cook",
         "make a meal"
       ],
-      "english_gloss": "cook / make a meal"
+      "english_gloss": "cook / make a meal",
+      "audio": "做饭.mp3"
     },
     {
       "hanzi": "洗碗",
@@ -220,7 +235,8 @@
         "clean",
         "sweep"
       ],
-      "english_gloss": "clean / sweep"
+      "english_gloss": "clean / sweep",
+      "audio": "打扫.mp3"
     },
     {
       "hanzi": "拖地",
@@ -228,7 +244,8 @@
       "english_answers": [
         "mop the floor"
       ],
-      "english_gloss": "mop the floor"
+      "english_gloss": "mop the floor",
+      "audio": "拖地.mp3"
     },
     {
       "hanzi": "倒垃圾",
@@ -237,7 +254,8 @@
         "take out",
         "dump garbage"
       ],
-      "english_gloss": "take out / dump garbage"
+      "english_gloss": "take out / dump garbage",
+      "audio": "倒垃圾.mp3"
     },
     {
       "hanzi": "开窗",
@@ -245,7 +263,8 @@
       "english_answers": [
         "open a window"
       ],
-      "english_gloss": "open a window"
+      "english_gloss": "open a window",
+      "audio": "开窗.mp3"
     },
     {
       "hanzi": "关门",
@@ -253,7 +272,8 @@
       "english_answers": [
         "close the door"
       ],
-      "english_gloss": "close the door"
+      "english_gloss": "close the door",
+      "audio": "关门.mp3"
     },
     {
       "hanzi": "锁门",
@@ -297,7 +317,8 @@
         "introduce",
         "introduction"
       ],
-      "english_gloss": "introduce / introduction"
+      "english_gloss": "introduce / introduction",
+      "audio": "介绍.mp3"
     },
     {
       "hanzi": "邀请",
@@ -315,7 +336,8 @@
         "refuse",
         "reject"
       ],
-      "english_gloss": "refuse / reject"
+      "english_gloss": "refuse / reject",
+      "audio": "拒绝.mp3"
     },
     {
       "hanzi": "同意",
@@ -324,7 +346,8 @@
         "agree",
         "consent"
       ],
-      "english_gloss": "agree / consent"
+      "english_gloss": "agree / consent",
+      "audio": "同意.mp3"
     },
     {
       "hanzi": "解释",
@@ -358,7 +381,8 @@
       "english_answers": [
         "clean"
       ],
-      "english_gloss": "clean"
+      "english_gloss": "clean",
+      "audio": "干净.mp3"
     },
     {
       "hanzi": "脏",
@@ -374,7 +398,8 @@
       "english_answers": [
         "quiet"
       ],
-      "english_gloss": "quiet"
+      "english_gloss": "quiet",
+      "audio": "安静.mp3"
     },
     {
       "hanzi": "吵",
@@ -383,7 +408,8 @@
         "noisy",
         "loud"
       ],
-      "english_gloss": "noisy / loud"
+      "english_gloss": "noisy / loud",
+      "audio": "吵.mp3"
     },
     {
       "hanzi": "亮",
@@ -392,7 +418,8 @@
         "bright",
         "lit"
       ],
-      "english_gloss": "bright / lit"
+      "english_gloss": "bright / lit",
+      "audio": "亮.mp3"
     },
     {
       "hanzi": "暗",
@@ -497,7 +524,8 @@
       "english_answers": [
         "photocopy"
       ],
-      "english_gloss": "photocopy"
+      "english_gloss": "photocopy",
+      "audio": "复印.mp3"
     },
     {
       "hanzi": "签名",
@@ -533,7 +561,8 @@
         "courier",
         "express delivery"
       ],
-      "english_gloss": "courier / express delivery"
+      "english_gloss": "courier / express delivery",
+      "audio": "快递.mp3"
     },
     {
       "hanzi": "外卖",
@@ -542,7 +571,8 @@
         "food delivery",
         "takeout"
       ],
-      "english_gloss": "food delivery / takeout"
+      "english_gloss": "food delivery / takeout",
+      "audio": "外卖.mp3"
     },
     {
       "hanzi": "包裹",
@@ -551,7 +581,8 @@
         "parcel",
         "package"
       ],
-      "english_gloss": "parcel / package"
+      "english_gloss": "parcel / package",
+      "audio": "包裹.mp3"
     },
     {
       "hanzi": "送到",
@@ -568,7 +599,8 @@
       "english_answers": [
         "pick up a parcel"
       ],
-      "english_gloss": "pick up a parcel"
+      "english_gloss": "pick up a parcel",
+      "audio": "取件.mp3"
     },
     {
       "hanzi": "维修",
@@ -586,7 +618,8 @@
         "repair",
         "fix"
       ],
-      "english_gloss": "repair / fix"
+      "english_gloss": "repair / fix",
+      "audio": "修理.mp3"
     },
     {
       "hanzi": "漏水",
@@ -603,7 +636,8 @@
       "english_answers": [
         "power outage"
       ],
-      "english_gloss": "power outage"
+      "english_gloss": "power outage",
+      "audio": "停电.mp3"
     },
     {
       "hanzi": "钥匙",
@@ -620,7 +654,8 @@
         "call",
         "report to police"
       ],
-      "english_gloss": "call / report to police"
+      "english_gloss": "call / report to police",
+      "audio": "报警.mp3"
     },
     {
       "hanzi": "警察",
@@ -638,7 +673,8 @@
         "first aid",
         "emergency treatment"
       ],
-      "english_gloss": "first aid / emergency treatment"
+      "english_gloss": "first aid / emergency treatment",
+      "audio": "急救.mp3"
     },
     {
       "hanzi": "救护车",
@@ -646,7 +682,8 @@
       "english_answers": [
         "ambulance"
       ],
-      "english_gloss": "ambulance"
+      "english_gloss": "ambulance",
+      "audio": "救护车.mp3"
     },
     {
       "hanzi": "火灾",
@@ -672,7 +709,8 @@
       "english_answers": [
         "be injured"
       ],
-      "english_gloss": "be injured"
+      "english_gloss": "be injured",
+      "audio": "受伤.mp3"
     },
     {
       "hanzi": "危险",
@@ -681,7 +719,8 @@
         "dangerous",
         "danger"
       ],
-      "english_gloss": "dangerous / danger"
+      "english_gloss": "dangerous / danger",
+      "audio": "危险.mp3"
     },
     {
       "hanzi": "紧急",
@@ -717,7 +756,8 @@
         "so that's how it is",
         "originally"
       ],
-      "english_gloss": "so that's how it is / originally"
+      "english_gloss": "so that's how it is / originally",
+      "audio": "原来.mp3"
     },
     {
       "hanzi": "难怪",
@@ -733,7 +773,8 @@
       "english_answers": [
         "no wonder"
       ],
-      "english_gloss": "no wonder"
+      "english_gloss": "no wonder",
+      "audio": "怪不得.mp3"
     },
     {
       "hanzi": "对了",
@@ -742,7 +783,8 @@
         "oh right",
         "by the way"
       ],
-      "english_gloss": "oh right / by the way"
+      "english_gloss": "oh right / by the way",
+      "audio": "对了.mp3"
     },
     {
       "hanzi": "等一下",
@@ -779,7 +821,8 @@
         "may",
         "okay"
       ],
-      "english_gloss": "can / may / okay"
+      "english_gloss": "can / may / okay",
+      "audio": "可以.mp3"
     },
     {
       "hanzi": "不行",
@@ -789,7 +832,8 @@
         "not okay",
         "won't work"
       ],
-      "english_gloss": "can't / not okay / won't work"
+      "english_gloss": "can't / not okay / won't work",
+      "audio": "不行.mp3"
     },
     {
       "hanzi": "借",
@@ -798,7 +842,8 @@
         "borrow",
         "lend"
       ],
-      "english_gloss": "borrow / lend"
+      "english_gloss": "borrow / lend",
+      "audio": "借.mp3"
     },
     {
       "hanzi": "还",
@@ -841,7 +886,8 @@
       "english_answers": [
         "move house"
       ],
-      "english_gloss": "move house"
+      "english_gloss": "move house",
+      "audio": "搬家.mp3"
     },
     {
       "hanzi": "搬",
@@ -850,7 +896,8 @@
         "move",
         "carry"
       ],
-      "english_gloss": "move / carry"
+      "english_gloss": "move / carry",
+      "audio": "搬.mp3"
     },
     {
       "hanzi": "开门",
@@ -858,7 +905,8 @@
       "english_answers": [
         "open the door"
       ],
-      "english_gloss": "open the door"
+      "english_gloss": "open the door",
+      "audio": "开门.mp3"
     },
     {
       "hanzi": "关灯",
@@ -866,7 +914,8 @@
       "english_answers": [
         "turn off the light"
       ],
-      "english_gloss": "turn off the light"
+      "english_gloss": "turn off the light",
+      "audio": "关灯.mp3"
     },
     {
       "hanzi": "迷路",

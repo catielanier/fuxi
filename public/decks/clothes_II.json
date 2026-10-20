@@ -37,7 +37,8 @@
       "english_answers": [
         "A-line skirt"
       ],
-      "english_gloss": "A-line skirt"
+      "english_gloss": "A-line skirt",
+      "audio": "A字裙.mp3"
     },
     {
       "hanzi": "包臀裙",
@@ -46,7 +47,8 @@
         "pencil",
         "bodycon skirt"
       ],
-      "english_gloss": "pencil / bodycon skirt"
+      "english_gloss": "pencil / bodycon skirt",
+      "audio": "包臀裙.mp3"
     },
     {
       "hanzi": "半身裙",
@@ -54,7 +56,8 @@
       "english_answers": [
         "skirt"
       ],
-      "english_gloss": "skirt"
+      "english_gloss": "skirt",
+      "audio": "半身裙.mp3"
     },
     {
       "hanzi": "吊带裙",
@@ -63,7 +66,8 @@
         "slip dress",
         "spaghetti-strap dress"
       ],
-      "english_gloss": "slip dress / spaghetti-strap dress"
+      "english_gloss": "slip dress / spaghetti-strap dress",
+      "audio": "吊带裙.mp3"
     },
     {
       "hanzi": "晚礼服",
@@ -88,7 +92,8 @@
       "english_answers": [
         "wedding dress"
       ],
-      "english_gloss": "wedding dress"
+      "english_gloss": "wedding dress",
+      "audio": "婚纱.mp3"
     },
     {
       "hanzi": "旗袍",
@@ -97,7 +102,8 @@
         "qipao",
         "cheongsam"
       ],
-      "english_gloss": "qipao / cheongsam"
+      "english_gloss": "qipao / cheongsam",
+      "audio": "旗袍.mp3"
     },
     {
       "hanzi": "吊带",
@@ -106,7 +112,8 @@
         "spaghetti-strap top",
         "camisole"
       ],
-      "english_gloss": "spaghetti-strap top / camisole"
+      "english_gloss": "spaghetti-strap top / camisole",
+      "audio": "吊带.mp3"
     },
     {
       "hanzi": "吊带衫",
@@ -114,7 +121,8 @@
       "english_answers": [
         "camisole"
       ],
-      "english_gloss": "camisole"
+      "english_gloss": "camisole",
+      "audio": "吊带衫.mp3"
     },
     {
       "hanzi": "露肩上衣",
@@ -147,7 +155,8 @@
       "english_answers": [
         "cardigan"
       ],
-      "english_gloss": "cardigan"
+      "english_gloss": "cardigan",
+      "audio": "开衫.mp3"
     },
     {
       "hanzi": "高领毛衣",
@@ -163,7 +172,8 @@
       "english_answers": [
         "V-neck"
       ],
-      "english_gloss": "V-neck"
+      "english_gloss": "V-neck",
+      "audio": "V领.mp3"
     },
     {
       "hanzi": "圆领",
@@ -172,7 +182,8 @@
         "crew neck",
         "round neck"
       ],
-      "english_gloss": "crew neck / round neck"
+      "english_gloss": "crew neck / round neck",
+      "audio": "圆领.mp3"
     },
     {
       "hanzi": "领口",
@@ -212,7 +223,8 @@
       "english_answers": [
         "sleeveless"
       ],
-      "english_gloss": "sleeveless"
+      "english_gloss": "sleeveless",
+      "audio": "无袖.mp3"
     },
     {
       "hanzi": "喇叭袖",
@@ -220,7 +232,8 @@
       "english_answers": [
         "bell sleeves"
       ],
-      "english_gloss": "bell sleeves"
+      "english_gloss": "bell sleeves",
+      "audio": "喇叭袖.mp3"
     },
     {
       "hanzi": "泡泡袖",
@@ -260,7 +273,8 @@
       "english_answers": [
         "low-cut"
       ],
-      "english_gloss": "low-cut"
+      "english_gloss": "low-cut",
+      "audio": "低胸.mp3"
     },
     {
       "hanzi": "高腰",
@@ -276,7 +290,8 @@
       "english_answers": [
         "low-rise"
       ],
-      "english_gloss": "low-rise"
+      "english_gloss": "low-rise",
+      "audio": "低腰.mp3"
     },
     {
       "hanzi": "中腰",
@@ -284,7 +299,8 @@
       "english_answers": [
         "mid-rise"
       ],
-      "english_gloss": "mid-rise"
+      "english_gloss": "mid-rise",
+      "audio": "中腰.mp3"
     },
     {
       "hanzi": "阔腿裤",
@@ -300,7 +316,8 @@
       "english_answers": [
         "flared pants"
       ],
-      "english_gloss": "flared pants"
+      "english_gloss": "flared pants",
+      "audio": "喇叭裤.mp3"
     },
     {
       "hanzi": "直筒裤",
@@ -324,7 +341,8 @@
       "english_answers": [
         "cargo pants"
       ],
-      "english_gloss": "cargo pants"
+      "english_gloss": "cargo pants",
+      "audio": "工装裤.mp3"
     },
     {
       "hanzi": "连体裤",
@@ -342,7 +360,8 @@
         "leggings",
         "base-layer pants"
       ],
-      "english_gloss": "leggings / base-layer pants"
+      "english_gloss": "leggings / base-layer pants",
+      "audio": "打底裤.mp3"
     },
     {
       "hanzi": "安全裤",
@@ -350,7 +369,8 @@
       "english_answers": [
         "safety shorts worn under skirts"
       ],
-      "english_gloss": "safety shorts worn under skirts"
+      "english_gloss": "safety shorts worn under skirts",
+      "audio": "安全裤.mp3"
     },
     {
       "hanzi": "塑身衣",
@@ -358,7 +378,8 @@
       "english_answers": [
         "shapewear"
       ],
-      "english_gloss": "shapewear"
+      "english_gloss": "shapewear",
+      "audio": "塑身衣.mp3"
     },
     {
       "hanzi": "胸垫",
@@ -375,7 +396,8 @@
       "english_answers": [
         "wireless bra"
       ],
-      "english_gloss": "wireless bra"
+      "english_gloss": "wireless bra",
+      "audio": "无钢圈文胸.mp3"
     },
     {
       "hanzi": "钢圈文胸",
@@ -391,7 +413,8 @@
       "english_answers": [
         "strapless bra"
       ],
-      "english_gloss": "strapless bra"
+      "english_gloss": "strapless bra",
+      "audio": "无肩带文胸.mp3"
     },
     {
       "hanzi": "聚拢文胸",
@@ -415,7 +438,8 @@
       "english_answers": [
         "lingerie set"
       ],
-      "english_gloss": "lingerie set"
+      "english_gloss": "lingerie set",
+      "audio": "内衣套装.mp3"
     },
     {
       "hanzi": "比基尼",
@@ -447,7 +471,8 @@
       "english_answers": [
         "two-piece set"
       ],
-      "english_gloss": "two-piece set"
+      "english_gloss": "two-piece set",
+      "audio": "两件套.mp3"
     },
     {
       "hanzi": "高筒靴",
@@ -496,7 +521,8 @@
       "english_answers": [
         "wedge shoes"
       ],
-      "english_gloss": "wedge shoes"
+      "english_gloss": "wedge shoes",
+      "audio": "坡跟鞋.mp3"
     },
     {
       "hanzi": "玛丽珍鞋",
@@ -512,7 +538,8 @@
       "english_answers": [
         "loafers"
       ],
-      "english_gloss": "loafers"
+      "english_gloss": "loafers",
+      "audio": "乐福鞋.mp3"
     },
     {
       "hanzi": "芭蕾平底鞋",
@@ -528,7 +555,8 @@
       "english_answers": [
         "platform shoes"
       ],
-      "english_gloss": "platform shoes"
+      "english_gloss": "platform shoes",
+      "audio": "厚底鞋.mp3"
     },
     {
       "hanzi": "鞋跟",
@@ -560,7 +588,8 @@
       "english_answers": [
         "zipper"
       ],
-      "english_gloss": "zipper"
+      "english_gloss": "zipper",
+      "audio": "拉链.mp3"
     },
     {
       "hanzi": "纽扣",
@@ -577,7 +606,8 @@
         "button",
         "fastener"
       ],
-      "english_gloss": "button / fastener"
+      "english_gloss": "button / fastener",
+      "audio": "扣子.mp3"
     },
     {
       "hanzi": "口袋",
@@ -585,7 +615,8 @@
       "english_answers": [
         "pocket"
       ],
-      "english_gloss": "pocket"
+      "english_gloss": "pocket",
+      "audio": "口袋.mp3"
     },
     {
       "hanzi": "帽兜",
@@ -593,7 +624,8 @@
       "english_answers": [
         "hood"
       ],
-      "english_gloss": "hood"
+      "english_gloss": "hood",
+      "audio": "帽兜.mp3"
     },
     {
       "hanzi": "花纹",
@@ -651,7 +683,8 @@
       "english_answers": [
         "printed pattern"
       ],
-      "english_gloss": "printed pattern"
+      "english_gloss": "printed pattern",
+      "audio": "印花.mp3"
     },
     {
       "hanzi": "透明",
@@ -677,7 +710,8 @@
         "stretch",
         "elasticity"
       ],
-      "english_gloss": "stretch / elasticity"
+      "english_gloss": "stretch / elasticity",
+      "audio": "弹性.mp3"
     },
     {
       "hanzi": "柔软",
@@ -693,7 +727,8 @@
       "english_answers": [
         "thick"
       ],
-      "english_gloss": "thick"
+      "english_gloss": "thick",
+      "audio": "厚.mp3"
     },
     {
       "hanzi": "薄",
@@ -711,7 +746,8 @@
         "fitted",
         "figure-flattering"
       ],
-      "english_gloss": "fitted / figure-flattering"
+      "english_gloss": "fitted / figure-flattering",
+      "audio": "修身.mp3"
     },
     {
       "hanzi": "显瘦",
@@ -794,7 +830,8 @@
         "alter",
         "modify"
       ],
-      "english_gloss": "alter / modify"
+      "english_gloss": "alter / modify",
+      "audio": "修改.mp3"
     },
     {
       "hanzi": "改短",
@@ -802,7 +839,8 @@
       "english_answers": [
         "shorten"
       ],
-      "english_gloss": "shorten"
+      "english_gloss": "shorten",
+      "audio": "改短.mp3"
     },
     {
       "hanzi": "改长",
@@ -810,7 +848,8 @@
       "english_answers": [
         "lengthen"
       ],
-      "english_gloss": "lengthen"
+      "english_gloss": "lengthen",
+      "audio": "改长.mp3"
     },
     {
       "hanzi": "改小",
@@ -819,7 +858,8 @@
         "take in",
         "make smaller"
       ],
-      "english_gloss": "take in / make smaller"
+      "english_gloss": "take in / make smaller",
+      "audio": "改小.mp3"
     },
     {
       "hanzi": "改大",
@@ -828,7 +868,8 @@
         "let out",
         "make larger"
       ],
-      "english_gloss": "let out / make larger"
+      "english_gloss": "let out / make larger",
+      "audio": "改大.mp3"
     }
   ]
 }

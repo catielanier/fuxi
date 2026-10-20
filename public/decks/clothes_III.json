@@ -12,7 +12,8 @@
         "briefs",
         "bikini-cut underwear"
       ],
-      "english_gloss": "briefs / bikini-cut underwear"
+      "english_gloss": "briefs / bikini-cut underwear",
+      "audio": "三角内裤.mp3"
     },
     {
       "hanzi": "比基尼内裤",
@@ -36,7 +37,8 @@
       "english_answers": [
         "low-rise panties"
       ],
-      "english_gloss": "low-rise panties"
+      "english_gloss": "low-rise panties",
+      "audio": "低腰内裤.mp3"
     },
     {
       "hanzi": "中腰内裤",
@@ -44,7 +46,8 @@
       "english_answers": [
         "mid-rise panties"
       ],
-      "english_gloss": "mid-rise panties"
+      "english_gloss": "mid-rise panties",
+      "audio": "中腰内裤.mp3"
     },
     {
       "hanzi": "平角内裤",
@@ -53,7 +56,8 @@
         "boyshorts",
         "boxer-style underwear"
       ],
-      "english_gloss": "boyshorts / boxer-style underwear"
+      "english_gloss": "boyshorts / boxer-style underwear",
+      "audio": "平角内裤.mp3"
     },
     {
       "hanzi": "丁字裤",
@@ -61,7 +65,8 @@
       "english_answers": [
         "thong"
       ],
-      "english_gloss": "thong"
+      "english_gloss": "thong",
+      "audio": "丁字裤.mp3"
     },
     {
       "hanzi": "无痕内裤",
@@ -69,7 +74,8 @@
       "english_answers": [
         "seamless panties"
       ],
-      "english_gloss": "seamless panties"
+      "english_gloss": "seamless panties",
+      "audio": "无痕内裤.mp3"
     },
     {
       "hanzi": "蕾丝内裤",
@@ -93,7 +99,8 @@
       "english_answers": [
         "sexy lingerie"
       ],
-      "english_gloss": "sexy lingerie"
+      "english_gloss": "sexy lingerie",
+      "audio": "性感内衣.mp3"
     },
     {
       "hanzi": "情趣内衣",
@@ -101,7 +108,8 @@
       "english_answers": [
         "erotic lingerie"
       ],
-      "english_gloss": "erotic lingerie"
+      "english_gloss": "erotic lingerie",
+      "audio": "情趣内衣.mp3"
     },
     {
       "hanzi": "睡裙",
@@ -117,7 +125,8 @@
       "english_answers": [
         "slip nightdress"
       ],
-      "english_gloss": "slip nightdress"
+      "english_gloss": "slip nightdress",
+      "audio": "吊带睡裙.mp3"
     },
     {
       "hanzi": "睡袍",
@@ -151,7 +160,8 @@
       "english_answers": [
         "half-slip"
       ],
-      "english_gloss": "half-slip"
+      "english_gloss": "half-slip",
+      "audio": "半身衬裙.mp3"
     },
     {
       "hanzi": "吊带衬裙",
@@ -159,7 +169,8 @@
       "english_answers": [
         "full slip"
       ],
-      "english_gloss": "full slip"
+      "english_gloss": "full slip",
+      "audio": "吊带衬裙.mp3"
     },
     {
       "hanzi": "塑身裤",
@@ -167,7 +178,8 @@
       "english_answers": [
         "shaping shorts"
       ],
-      "english_gloss": "shaping shorts"
+      "english_gloss": "shaping shorts",
+      "audio": "塑身裤.mp3"
     },
     {
       "hanzi": "收腹裤",
@@ -175,7 +187,8 @@
       "english_answers": [
         "tummy-control shorts"
       ],
-      "english_gloss": "tummy-control shorts"
+      "english_gloss": "tummy-control shorts",
+      "audio": "收腹裤.mp3"
     },
     {
       "hanzi": "束腰",
@@ -210,7 +223,8 @@
         "bandeau top",
         "strapless tube top"
       ],
-      "english_gloss": "bandeau top / strapless tube top"
+      "english_gloss": "bandeau top / strapless tube top",
+      "audio": "抹胸.mp3"
     },
     {
       "hanzi": "裹胸",
@@ -227,7 +241,8 @@
       "english_answers": [
         "strapless style"
       ],
-      "english_gloss": "strapless style"
+      "english_gloss": "strapless style",
+      "audio": "无肩带款.mp3"
     },
     {
       "hanzi": "无钢圈款",
@@ -235,7 +250,8 @@
       "english_answers": [
         "wireless style"
       ],
-      "english_gloss": "wireless style"
+      "english_gloss": "wireless style",
+      "audio": "无钢圈款.mp3"
     },
     {
       "hanzi": "钢圈款",
@@ -267,7 +283,8 @@
       "english_answers": [
         "heavily padded cup"
       ],
-      "english_gloss": "heavily padded cup"
+      "english_gloss": "heavily padded cup",
+      "audio": "厚杯.mp3"
     },
     {
       "hanzi": "半杯",
@@ -275,7 +292,8 @@
       "english_answers": [
         "demi-cup style"
       ],
-      "english_gloss": "demi-cup style"
+      "english_gloss": "demi-cup style",
+      "audio": "半杯.mp3"
     },
     {
       "hanzi": "四分之三杯",
@@ -283,7 +301,8 @@
       "english_answers": [
         "three-quarter cup"
       ],
-      "english_gloss": "three-quarter cup"
+      "english_gloss": "three-quarter cup",
+      "audio": "四分之三杯.mp3"
     },
     {
       "hanzi": "全罩杯",
@@ -291,7 +310,8 @@
       "english_answers": [
         "full-coverage cup"
       ],
-      "english_gloss": "full-coverage cup"
+      "english_gloss": "full-coverage cup",
+      "audio": "全罩杯.mp3"
     },
     {
       "hanzi": "低胸款",
@@ -300,7 +320,8 @@
         "plunge",
         "low-cut style"
       ],
-      "english_gloss": "plunge / low-cut style"
+      "english_gloss": "plunge / low-cut style",
+      "audio": "低胸款.mp3"
     },
     {
       "hanzi": "前扣",
@@ -308,7 +329,8 @@
       "english_answers": [
         "front closure"
       ],
-      "english_gloss": "front closure"
+      "english_gloss": "front closure",
+      "audio": "前扣.mp3"
     },
     {
       "hanzi": "后扣",
@@ -316,7 +338,8 @@
       "english_answers": [
         "back closure"
       ],
-      "english_gloss": "back closure"
+      "english_gloss": "back closure",
+      "audio": "后扣.mp3"
     },
     {
       "hanzi": "肩带可调",
@@ -332,7 +355,8 @@
       "english_answers": [
         "detachable straps"
       ],
-      "english_gloss": "detachable straps"
+      "english_gloss": "detachable straps",
+      "audio": "可拆肩带.mp3"
     },
     {
       "hanzi": "杯型",
@@ -356,7 +380,8 @@
       "english_answers": [
         "underbust measurement"
       ],
-      "english_gloss": "underbust measurement"
+      "english_gloss": "underbust measurement",
+      "audio": "下胸围.mp3"
     },
     {
       "hanzi": "上胸围",
@@ -364,7 +389,8 @@
       "english_answers": [
         "bust measurement"
       ],
-      "english_gloss": "bust measurement"
+      "english_gloss": "bust measurement",
+      "audio": "上胸围.mp3"
     },
     {
       "hanzi": "丝袜",
@@ -373,7 +399,8 @@
         "stockings",
         "pantyhose"
       ],
-      "english_gloss": "stockings / pantyhose"
+      "english_gloss": "stockings / pantyhose",
+      "audio": "丝袜.mp3"
     },
     {
       "hanzi": "连裤袜",
@@ -391,7 +418,8 @@
         "tights",
         "leggings-style hosiery"
       ],
-      "english_gloss": "tights / leggings-style hosiery"
+      "english_gloss": "tights / leggings-style hosiery",
+      "audio": "打底袜.mp3"
     },
     {
       "hanzi": "长筒袜",
@@ -456,7 +484,8 @@
       "english_answers": [
         "garter belt"
       ],
-      "english_gloss": "garter belt"
+      "english_gloss": "garter belt",
+      "audio": "吊袜带.mp3"
     },
     {
       "hanzi": "吊袜",
@@ -464,7 +493,8 @@
       "english_answers": [
         "stockings worn with garters"
       ],
-      "english_gloss": "stockings worn with garters"
+      "english_gloss": "stockings worn with garters",
+      "audio": "吊袜.mp3"
     },
     {
       "hanzi": "袜带",
@@ -497,7 +527,8 @@
       "english_answers": [
         "base-layer top"
       ],
-      "english_gloss": "base-layer top"
+      "english_gloss": "base-layer top",
+      "audio": "打底衫.mp3"
     },
     {
       "hanzi": "打底衣",
@@ -505,7 +536,8 @@
       "english_answers": [
         "base-layer clothing"
       ],
-      "english_gloss": "base-layer clothing"
+      "english_gloss": "base-layer clothing",
+      "audio": "打底衣.mp3"
     },
     {
       "hanzi": "罩衫",
@@ -522,7 +554,8 @@
       "english_answers": [
         "shawl"
       ],
-      "english_gloss": "shawl"
+      "english_gloss": "shawl",
+      "audio": "披肩.mp3"
     },
     {
       "hanzi": "披风",
@@ -531,7 +564,8 @@
         "cape",
         "cloak"
       ],
-      "english_gloss": "cape / cloak"
+      "english_gloss": "cape / cloak",
+      "audio": "披风.mp3"
     },
     {
       "hanzi": "小外套",
@@ -540,7 +574,8 @@
         "light jacket",
         "bolero-style jacket"
       ],
-      "english_gloss": "light jacket / bolero-style jacket"
+      "english_gloss": "light jacket / bolero-style jacket",
+      "audio": "小外套.mp3"
     },
     {
       "hanzi": "短外套",
@@ -600,7 +635,8 @@
         "bodycon dress",
         "skirt"
       ],
-      "english_gloss": "bodycon dress / skirt"
+      "english_gloss": "bodycon dress / skirt",
+      "audio": "包身裙.mp3"
     },
     {
       "hanzi": "鱼尾裙",
@@ -618,7 +654,8 @@
         "full",
         "flared skirt"
       ],
-      "english_gloss": "full / flared skirt"
+      "english_gloss": "full / flared skirt",
+      "audio": "伞裙.mp3"
     },
     {
       "hanzi": "蓬蓬裙",
@@ -635,7 +672,8 @@
       "english_answers": [
         "asymmetrical skirt"
       ],
-      "english_gloss": "asymmetrical skirt"
+      "english_gloss": "asymmetrical skirt",
+      "audio": "不规则裙.mp3"
     },
     {
       "hanzi": "开叉裙",
@@ -643,7 +681,8 @@
       "english_answers": [
         "slit skirt"
       ],
-      "english_gloss": "slit skirt"
+      "english_gloss": "slit skirt",
+      "audio": "开叉裙.mp3"
     },
     {
       "hanzi": "露肩裙",
@@ -659,7 +698,8 @@
       "english_answers": [
         "strapless dress"
       ],
-      "english_gloss": "strapless dress"
+      "english_gloss": "strapless dress",
+      "audio": "抹胸裙.mp3"
     },
     {
       "hanzi": "紧身裙",
@@ -677,7 +717,8 @@
         "cinched waist",
         "fitted at waist"
       ],
-      "english_gloss": "cinched waist / fitted at waist"
+      "english_gloss": "cinched waist / fitted at waist",
+      "audio": "收腰.mp3"
     },
     {
       "hanzi": "腰线",
@@ -702,7 +743,8 @@
       "english_answers": [
         "hem"
       ],
-      "english_gloss": "hem"
+      "english_gloss": "hem",
+      "audio": "下摆.mp3"
     },
     {
       "hanzi": "衣摆",
@@ -719,7 +761,8 @@
         "slit",
         "vent"
       ],
-      "english_gloss": "slit / vent"
+      "english_gloss": "slit / vent",
+      "audio": "开衩.mp3"
     },
     {
       "hanzi": "褶皱",
@@ -769,7 +812,8 @@
       "english_answers": [
         "sequin decoration"
       ],
-      "english_gloss": "sequin decoration"
+      "english_gloss": "sequin decoration",
+      "audio": "亮片装饰.mp3"
     },
     {
       "hanzi": "刺绣",
@@ -777,7 +821,8 @@
       "english_answers": [
         "embroidery"
       ],
-      "english_gloss": "embroidery"
+      "english_gloss": "embroidery",
+      "audio": "刺绣.mp3"
     },
     {
       "hanzi": "镂空",

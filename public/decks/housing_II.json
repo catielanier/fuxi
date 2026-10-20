@@ -11,7 +11,8 @@
       "english_answers": [
         "housework"
       ],
-      "english_gloss": "housework"
+      "english_gloss": "housework",
+      "audio": "家务.mp3"
     },
     {
       "hanzi": "打扫",
@@ -20,7 +21,8 @@
         "clean",
         "tidy up"
       ],
-      "english_gloss": "clean / tidy up"
+      "english_gloss": "clean / tidy up",
+      "audio": "打扫.mp3"
     },
     {
       "hanzi": "大扫除",
@@ -28,7 +30,8 @@
       "english_answers": [
         "thorough housecleaning"
       ],
-      "english_gloss": "thorough housecleaning"
+      "english_gloss": "thorough housecleaning",
+      "audio": "大扫除.mp3"
     },
     {
       "hanzi": "收拾",
@@ -36,7 +39,8 @@
       "english_answers": [
         "tidy up"
       ],
-      "english_gloss": "tidy up"
+      "english_gloss": "tidy up",
+      "audio": "收拾.mp3"
     },
     {
       "hanzi": "扫地",
@@ -44,7 +48,8 @@
       "english_answers": [
         "sweep the floor"
       ],
-      "english_gloss": "sweep the floor"
+      "english_gloss": "sweep the floor",
+      "audio": "扫地.mp3"
     },
     {
       "hanzi": "拖地",
@@ -52,7 +57,8 @@
       "english_answers": [
         "mop the floor"
       ],
-      "english_gloss": "mop the floor"
+      "english_gloss": "mop the floor",
+      "audio": "拖地.mp3"
     },
     {
       "hanzi": "吸尘",
@@ -61,7 +67,8 @@
         "vacuum",
         "remove dust"
       ],
-      "english_gloss": "vacuum / remove dust"
+      "english_gloss": "vacuum / remove dust",
+      "audio": "吸尘.mp3"
     },
     {
       "hanzi": "擦桌子",
@@ -69,7 +76,8 @@
       "english_answers": [
         "wipe the table"
       ],
-      "english_gloss": "wipe the table"
+      "english_gloss": "wipe the table",
+      "audio": "擦桌子.mp3"
     },
     {
       "hanzi": "擦窗户",
@@ -77,7 +85,8 @@
       "english_answers": [
         "clean the windows"
       ],
-      "english_gloss": "clean the windows"
+      "english_gloss": "clean the windows",
+      "audio": "擦窗户.mp3"
     },
     {
       "hanzi": "灰尘",
@@ -93,7 +102,8 @@
       "english_answers": [
         "broom"
       ],
-      "english_gloss": "broom"
+      "english_gloss": "broom",
+      "audio": "扫把.mp3"
     },
     {
       "hanzi": "拖把",
@@ -101,7 +111,8 @@
       "english_answers": [
         "mop"
       ],
-      "english_gloss": "mop"
+      "english_gloss": "mop",
+      "audio": "拖把.mp3"
     },
     {
       "hanzi": "抹布",
@@ -109,7 +120,8 @@
       "english_answers": [
         "cleaning rag"
       ],
-      "english_gloss": "cleaning rag"
+      "english_gloss": "cleaning rag",
+      "audio": "抹布.mp3"
     },
     {
       "hanzi": "吸尘器",
@@ -117,7 +129,8 @@
       "english_answers": [
         "vacuum cleaner"
       ],
-      "english_gloss": "vacuum cleaner"
+      "english_gloss": "vacuum cleaner",
+      "audio": "吸尘器.mp3"
     },
     {
       "hanzi": "垃圾桶",
@@ -125,7 +138,8 @@
       "english_answers": [
         "garbage bin"
       ],
-      "english_gloss": "garbage bin"
+      "english_gloss": "garbage bin",
+      "audio": "垃圾桶.mp3"
     },
     {
       "hanzi": "垃圾袋",
@@ -133,7 +147,8 @@
       "english_answers": [
         "garbage bag"
       ],
-      "english_gloss": "garbage bag"
+      "english_gloss": "garbage bag",
+      "audio": "垃圾袋.mp3"
     },
     {
       "hanzi": "倒垃圾",
@@ -141,7 +156,8 @@
       "english_answers": [
         "take out the garbage"
       ],
-      "english_gloss": "take out the garbage"
+      "english_gloss": "take out the garbage",
+      "audio": "倒垃圾.mp3"
     },
     {
       "hanzi": "垃圾分类",
@@ -149,7 +165,8 @@
       "english_answers": [
         "waste sorting"
       ],
-      "english_gloss": "waste sorting"
+      "english_gloss": "waste sorting",
+      "audio": "垃圾分类.mp3"
     },
     {
       "hanzi": "消毒",
@@ -198,7 +215,8 @@
       "english_answers": [
         "fold clothes"
       ],
-      "english_gloss": "fold clothes"
+      "english_gloss": "fold clothes",
+      "audio": "叠衣服.mp3"
     },
     {
       "hanzi": "熨衣服",
@@ -286,7 +304,8 @@
       "english_answers": [
         "brush"
       ],
-      "english_gloss": "brush"
+      "english_gloss": "brush",
+      "audio": "刷子.mp3"
     },
     {
       "hanzi": "擦干",
@@ -294,7 +313,8 @@
       "english_answers": [
         "wipe dry"
       ],
-      "english_gloss": "wipe dry"
+      "english_gloss": "wipe dry",
+      "audio": "擦干.mp3"
     },
     {
       "hanzi": "污渍",
@@ -310,7 +330,8 @@
       "english_answers": [
         "become moldy"
       ],
-      "english_gloss": "become moldy"
+      "english_gloss": "become moldy",
+      "audio": "发霉.mp3"
     },
     {
       "hanzi": "霉菌",
@@ -327,7 +348,8 @@
       "english_answers": [
         "unpleasant smell"
       ],
-      "english_gloss": "unpleasant smell"
+      "english_gloss": "unpleasant smell",
+      "audio": "异味.mp3"
     },
     {
       "hanzi": "水管",
@@ -361,7 +383,8 @@
         "drain",
         "sewer"
       ],
-      "english_gloss": "drain / sewer"
+      "english_gloss": "drain / sewer",
+      "audio": "下水道.mp3"
     },
     {
       "hanzi": "排水管",
@@ -369,7 +392,8 @@
       "english_answers": [
         "drainage pipe"
       ],
-      "english_gloss": "drainage pipe"
+      "english_gloss": "drainage pipe",
+      "audio": "排水管.mp3"
     },
     {
       "hanzi": "堵塞",
@@ -378,7 +402,8 @@
         "clogged",
         "blockage"
       ],
-      "english_gloss": "clogged / blockage"
+      "english_gloss": "clogged / blockage",
+      "audio": "堵塞.mp3"
     },
     {
       "hanzi": "漏水",
@@ -410,7 +435,8 @@
       "english_answers": [
         "water supply interruption"
       ],
-      "english_gloss": "water supply interruption"
+      "english_gloss": "water supply interruption",
+      "audio": "停水.mp3"
     },
     {
       "hanzi": "马桶",
@@ -426,7 +452,8 @@
       "english_answers": [
         "flush with water"
       ],
-      "english_gloss": "flush with water"
+      "english_gloss": "flush with water",
+      "audio": "冲水.mp3"
     },
     {
       "hanzi": "马桶堵了",
@@ -474,7 +501,8 @@
       "english_answers": [
         "floor drain"
       ],
-      "english_gloss": "floor drain"
+      "english_gloss": "floor drain",
+      "audio": "地漏.mp3"
     },
     {
       "hanzi": "热水供应",
@@ -531,7 +559,8 @@
       "english_answers": [
         "power outage"
       ],
-      "english_gloss": "power outage"
+      "english_gloss": "power outage",
+      "audio": "停电.mp3"
     },
     {
       "hanzi": "短路",
@@ -579,7 +608,8 @@
       "english_answers": [
         "replace a light bulb"
       ],
-      "english_gloss": "replace a light bulb"
+      "english_gloss": "replace a light bulb",
+      "audio": "换灯泡.mp3"
     },
     {
       "hanzi": "坏了",
@@ -587,7 +617,8 @@
       "english_answers": [
         "it's broken"
       ],
-      "english_gloss": "it's broken"
+      "english_gloss": "it's broken",
+      "audio": "坏了.mp3"
     },
     {
       "hanzi": "故障",
@@ -596,7 +627,8 @@
         "malfunction",
         "fault"
       ],
-      "english_gloss": "malfunction / fault"
+      "english_gloss": "malfunction / fault",
+      "audio": "故障.mp3"
     },
     {
       "hanzi": "维修",
@@ -614,7 +646,8 @@
         "fix",
         "repair"
       ],
-      "english_gloss": "fix / repair"
+      "english_gloss": "fix / repair",
+      "audio": "修理.mp3"
     },
     {
       "hanzi": "安装",
@@ -622,7 +655,8 @@
       "english_answers": [
         "install"
       ],
-      "english_gloss": "install"
+      "english_gloss": "install",
+      "audio": "安装.mp3"
     },
     {
       "hanzi": "拆卸",
@@ -631,7 +665,8 @@
         "disassemble",
         "remove"
       ],
-      "english_gloss": "disassemble / remove"
+      "english_gloss": "disassemble / remove",
+      "audio": "拆卸.mp3"
     },
     {
       "hanzi": "噪音",
@@ -639,7 +674,8 @@
       "english_answers": [
         "noise"
       ],
-      "english_gloss": "noise"
+      "english_gloss": "noise",
+      "audio": "噪音.mp3"
     },
     {
       "hanzi": "隔音",
@@ -663,7 +699,8 @@
       "english_answers": [
         "submit a repair request"
       ],
-      "english_gloss": "submit a repair request"
+      "english_gloss": "submit a repair request",
+      "audio": "报修.mp3"
     },
     {
       "hanzi": "维修人员",
@@ -679,7 +716,8 @@
       "english_answers": [
         "repair service at home"
       ],
-      "english_gloss": "repair service at home"
+      "english_gloss": "repair service at home",
+      "audio": "上门维修.mp3"
     },
     {
       "hanzi": "修好了",
@@ -687,7 +725,8 @@
       "english_answers": [
         "it's been fixed"
       ],
-      "english_gloss": "it's been fixed"
+      "english_gloss": "it's been fixed",
+      "audio": "修好了.mp3"
     },
     {
       "hanzi": "还没修好",
@@ -703,7 +742,8 @@
       "english_answers": [
         "as soon as possible"
       ],
-      "english_gloss": "as soon as possible"
+      "english_gloss": "as soon as possible",
+      "audio": "尽快.mp3"
     },
     {
       "hanzi": "催促",
@@ -712,7 +752,8 @@
         "urge",
         "follow up insistently"
       ],
-      "english_gloss": "urge / follow up insistently"
+      "english_gloss": "urge / follow up insistently",
+      "audio": "催促.mp3"
     },
     {
       "hanzi": "投诉",
@@ -720,7 +761,8 @@
       "english_answers": [
         "make a complaint"
       ],
-      "english_gloss": "make a complaint"
+      "english_gloss": "make a complaint",
+      "audio": "投诉.mp3"
     },
     {
       "hanzi": "赔偿",
@@ -745,7 +787,8 @@
       "english_answers": [
         "damage"
       ],
-      "english_gloss": "damage"
+      "english_gloss": "damage",
+      "audio": "损坏.mp3"
     },
     {
       "hanzi": "正常使用",

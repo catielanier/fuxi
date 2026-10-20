@@ -59,7 +59,8 @@
       "english_answers": [
         "insulated cup / travel mug"
       ],
-      "english_gloss": "insulated cup / travel mug"
+      "english_gloss": "insulated cup / travel mug",
+      "audio": "保温杯.mp3"
     },
     {
       "hanzi": "水壶",
@@ -99,7 +100,8 @@
       "english_answers": [
         "spoon"
       ],
-      "english_gloss": "spoon"
+      "english_gloss": "spoon",
+      "audio": "勺子.mp3"
     },
     {
       "hanzi": "汤匙",
@@ -115,7 +117,8 @@
       "english_answers": [
         "fork"
       ],
-      "english_gloss": "fork"
+      "english_gloss": "fork",
+      "audio": "叉子.mp3"
     },
     {
       "hanzi": "餐刀",
@@ -163,7 +166,8 @@
       "english_answers": [
         "frying pan / skillet"
       ],
-      "english_gloss": "frying pan / skillet"
+      "english_gloss": "frying pan / skillet",
+      "audio": "平底锅.mp3"
     },
     {
       "hanzi": "汤锅",
@@ -211,7 +215,8 @@
       "english_answers": [
         "tongs / clip (context dependent)"
       ],
-      "english_gloss": "tongs / clip (context dependent)"
+      "english_gloss": "tongs / clip (context dependent)",
+      "audio": "夹子.mp3"
     },
     {
       "hanzi": "打蛋器",
@@ -219,7 +224,8 @@
       "english_answers": [
         "whisk / egg beater"
       ],
-      "english_gloss": "whisk / egg beater"
+      "english_gloss": "whisk / egg beater",
+      "audio": "打蛋器.mp3"
     },
     {
       "hanzi": "削皮器",
@@ -227,7 +233,8 @@
       "english_answers": [
         "vegetable peeler"
       ],
-      "english_gloss": "vegetable peeler"
+      "english_gloss": "vegetable peeler",
+      "audio": "削皮器.mp3"
     },
     {
       "hanzi": "开瓶器",
@@ -235,7 +242,8 @@
       "english_answers": [
         "bottle opener"
       ],
-      "english_gloss": "bottle opener"
+      "english_gloss": "bottle opener",
+      "audio": "开瓶器.mp3"
     },
     {
       "hanzi": "开罐器",
@@ -243,7 +251,8 @@
       "english_answers": [
         "can opener"
       ],
-      "english_gloss": "can opener"
+      "english_gloss": "can opener",
+      "audio": "开罐器.mp3"
     },
     {
       "hanzi": "漏斗",
@@ -283,7 +292,8 @@
       "english_answers": [
         "rolling pin"
       ],
-      "english_gloss": "rolling pin"
+      "english_gloss": "rolling pin",
+      "audio": "擀面杖.mp3"
     },
     {
       "hanzi": "烤盘",
@@ -323,7 +333,8 @@
       "english_answers": [
         "apron"
       ],
-      "english_gloss": "apron"
+      "english_gloss": "apron",
+      "audio": "围裙.mp3"
     },
     {
       "hanzi": "冰箱",
@@ -331,7 +342,8 @@
       "english_answers": [
         "refrigerator"
       ],
-      "english_gloss": "refrigerator"
+      "english_gloss": "refrigerator",
+      "audio": "冰箱.mp3"
     },
     {
       "hanzi": "冷冻室",
@@ -339,7 +351,8 @@
       "english_answers": [
         "freezer compartment"
       ],
-      "english_gloss": "freezer compartment"
+      "english_gloss": "freezer compartment",
+      "audio": "冷冻室.mp3"
     },
     {
       "hanzi": "微波炉",
@@ -347,7 +360,8 @@
       "english_answers": [
         "microwave oven"
       ],
-      "english_gloss": "microwave oven"
+      "english_gloss": "microwave oven",
+      "audio": "微波炉.mp3"
     },
     {
       "hanzi": "烤箱",
@@ -387,7 +401,8 @@
       "english_answers": [
         "range hood / extractor fan"
       ],
-      "english_gloss": "range hood / extractor fan"
+      "english_gloss": "range hood / extractor fan",
+      "audio": "抽油烟机.mp3"
     },
     {
       "hanzi": "洗碗机",
@@ -427,7 +442,8 @@
       "english_answers": [
         "kitchen utensils"
       ],
-      "english_gloss": "kitchen utensils"
+      "english_gloss": "kitchen utensils",
+      "audio": "厨具.mp3"
     },
     {
       "hanzi": "饭盒",
@@ -443,7 +459,8 @@
       "english_answers": [
         "food storage container"
       ],
-      "english_gloss": "food storage container"
+      "english_gloss": "food storage container",
+      "audio": "保鲜盒.mp3"
     },
     {
       "hanzi": "密封盒",
@@ -451,7 +468,8 @@
       "english_answers": [
         "airtight container"
       ],
-      "english_gloss": "airtight container"
+      "english_gloss": "airtight container",
+      "audio": "密封盒.mp3"
     },
     {
       "hanzi": "玻璃罐",
@@ -483,7 +501,8 @@
       "english_answers": [
         "plastic bottle"
       ],
-      "english_gloss": "plastic bottle"
+      "english_gloss": "plastic bottle",
+      "audio": "塑料瓶.mp3"
     },
     {
       "hanzi": "瓶盖",
@@ -507,7 +526,8 @@
       "english_answers": [
         "stopper / plug"
       ],
-      "english_gloss": "stopper / plug"
+      "english_gloss": "stopper / plug",
+      "audio": "塞子.mp3"
     },
     {
       "hanzi": "吸管",
@@ -515,7 +535,8 @@
       "english_answers": [
         "drinking straw"
       ],
-      "english_gloss": "drinking straw"
+      "english_gloss": "drinking straw",
+      "audio": "吸管.mp3"
     },
     {
       "hanzi": "保鲜膜",
@@ -523,7 +544,8 @@
       "english_answers": [
         "cling film / plastic wrap"
       ],
-      "english_gloss": "cling film / plastic wrap"
+      "english_gloss": "cling film / plastic wrap",
+      "audio": "保鲜膜.mp3"
     },
     {
       "hanzi": "铝箔纸",
@@ -547,7 +569,8 @@
       "english_answers": [
         "resealable bag"
       ],
-      "english_gloss": "resealable bag"
+      "english_gloss": "resealable bag",
+      "audio": "密封袋.mp3"
     },
     {
       "hanzi": "自封袋",
@@ -571,7 +594,8 @@
       "english_answers": [
         "packaging bag"
       ],
-      "english_gloss": "packaging bag"
+      "english_gloss": "packaging bag",
+      "audio": "包装袋.mp3"
     },
     {
       "hanzi": "包装盒",
@@ -579,7 +603,8 @@
       "english_answers": [
         "packaging box"
       ],
-      "english_gloss": "packaging box"
+      "english_gloss": "packaging box",
+      "audio": "包装盒.mp3"
     },
     {
       "hanzi": "包装纸",
@@ -587,7 +612,8 @@
       "english_answers": [
         "wrapping paper"
       ],
-      "english_gloss": "wrapping paper"
+      "english_gloss": "wrapping paper",
+      "audio": "包装纸.mp3"
     },
     {
       "hanzi": "纸袋",
@@ -619,7 +645,8 @@
       "english_answers": [
         "seal / opening sealed shut"
       ],
-      "english_gloss": "seal / opening sealed shut"
+      "english_gloss": "seal / opening sealed shut",
+      "audio": "封口.mp3"
     },
     {
       "hanzi": "封条",
@@ -627,7 +654,8 @@
       "english_answers": [
         "sealing strip / tamper seal"
       ],
-      "english_gloss": "sealing strip / tamper seal"
+      "english_gloss": "sealing strip / tamper seal",
+      "audio": "封条.mp3"
     },
     {
       "hanzi": "条形码",
@@ -643,7 +671,8 @@
       "english_answers": [
         "QR code"
       ],
-      "english_gloss": "QR code"
+      "english_gloss": "QR code",
+      "audio": "二维码.mp3"
     },
     {
       "hanzi": "说明书",
@@ -659,7 +688,8 @@
       "english_answers": [
         "warranty card"
       ],
-      "english_gloss": "warranty card"
+      "english_gloss": "warranty card",
+      "audio": "保修卡.mp3"
     },
     {
       "hanzi": "收据",
@@ -667,7 +697,8 @@
       "english_answers": [
         "receipt"
       ],
-      "english_gloss": "receipt"
+      "english_gloss": "receipt",
+      "audio": "收据.mp3"
     },
     {
       "hanzi": "挂钩",
@@ -675,7 +706,8 @@
       "english_answers": [
         "hook"
       ],
-      "english_gloss": "hook"
+      "english_gloss": "hook",
+      "audio": "挂钩.mp3"
     },
     {
       "hanzi": "衣架",
@@ -699,7 +731,8 @@
       "english_answers": [
         "storage cabinet / locker"
       ],
-      "english_gloss": "storage cabinet / locker"
+      "english_gloss": "storage cabinet / locker",
+      "audio": "储物柜.mp3"
     },
     {
       "hanzi": "收纳箱",
@@ -707,7 +740,8 @@
       "english_answers": [
         "storage bin / box"
       ],
-      "english_gloss": "storage bin / box"
+      "english_gloss": "storage bin / box",
+      "audio": "收纳箱.mp3"
     },
     {
       "hanzi": "收纳袋",
@@ -715,7 +749,8 @@
       "english_answers": [
         "storage bag"
       ],
-      "english_gloss": "storage bag"
+      "english_gloss": "storage bag",
+      "audio": "收纳袋.mp3"
     },
     {
       "hanzi": "分隔板",
@@ -723,7 +758,8 @@
       "english_answers": [
         "divider panel"
       ],
-      "english_gloss": "divider panel"
+      "english_gloss": "divider panel",
+      "audio": "分隔板.mp3"
     },
     {
       "hanzi": "隔层",
@@ -739,7 +775,8 @@
       "english_answers": [
         "tray"
       ],
-      "english_gloss": "tray"
+      "english_gloss": "tray",
+      "audio": "托盘.mp3"
     },
     {
       "hanzi": "架子",
@@ -779,7 +816,8 @@
       "english_answers": [
         "cable tie / zip tie"
       ],
-      "english_gloss": "cable tie / zip tie"
+      "english_gloss": "cable tie / zip tie",
+      "audio": "扎带.mp3"
     },
     {
       "hanzi": "夹链袋",
@@ -787,7 +825,8 @@
       "english_answers": [
         "zipper-seal bag"
       ],
-      "english_gloss": "zipper-seal bag"
+      "english_gloss": "zipper-seal bag",
+      "audio": "夹链袋.mp3"
     },
     {
       "hanzi": "餐垫",

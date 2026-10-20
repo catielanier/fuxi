@@ -12,7 +12,8 @@
         "don't eat",
         "do not eat"
       ],
-      "english_gloss": "don't eat / do not eat"
+      "english_gloss": "don't eat / do not eat",
+      "audio": "不吃.mp3"
     },
     {
       "hanzi": "蛏子",
@@ -28,7 +29,8 @@
       "english_answers": [
         "scallop"
       ],
-      "english_gloss": "scallop"
+      "english_gloss": "scallop",
+      "audio": "扇贝.mp3"
     },
     {
       "hanzi": "海螺",
@@ -90,7 +92,8 @@
         "kettle",
         "jug"
       ],
-      "english_gloss": "pot / kettle / jug"
+      "english_gloss": "pot / kettle / jug",
+      "audio": "壶.mp3"
     },
     {
       "hanzi": "茶壶",
@@ -124,7 +127,8 @@
       "english_answers": [
         "tray"
       ],
-      "english_gloss": "tray"
+      "english_gloss": "tray",
+      "audio": "托盘.mp3"
     },
     {
       "hanzi": "餐盒",
@@ -158,7 +162,8 @@
       "english_answers": [
         "drinking straw"
       ],
-      "english_gloss": "drinking straw"
+      "english_gloss": "drinking straw",
+      "audio": "吸管.mp3"
     },
     {
       "hanzi": "牙签",
@@ -174,7 +179,8 @@
       "english_answers": [
         "bottle opener"
       ],
-      "english_gloss": "bottle opener"
+      "english_gloss": "bottle opener",
+      "audio": "开瓶器.mp3"
     },
     {
       "hanzi": "餐具",
@@ -192,7 +198,8 @@
         "kitchen utensils",
         "cookware"
       ],
-      "english_gloss": "kitchen utensils / cookware"
+      "english_gloss": "kitchen utensils / cookware",
+      "audio": "厨具.mp3"
     },
     {
       "hanzi": "锅",
@@ -211,7 +218,8 @@
         "frying pan",
         "skillet"
       ],
-      "english_gloss": "frying pan / skillet"
+      "english_gloss": "frying pan / skillet",
+      "audio": "平底锅.mp3"
     },
     {
       "hanzi": "菜刀",
@@ -268,7 +276,8 @@
       "english_answers": [
         "Pizza Hut"
       ],
-      "english_gloss": "Pizza Hut"
+      "english_gloss": "Pizza Hut",
+      "audio": "必胜客.mp3"
     },
     {
       "hanzi": "赛百味",
@@ -292,7 +301,8 @@
       "english_answers": [
         "HEYTEA"
       ],
-      "english_gloss": "HEYTEA"
+      "english_gloss": "HEYTEA",
+      "audio": "喜茶.mp3"
     },
     {
       "hanzi": "奈雪的茶",
@@ -300,7 +310,8 @@
       "english_answers": [
         "Nayuki"
       ],
-      "english_gloss": "Nayuki"
+      "english_gloss": "Nayuki",
+      "audio": "奈雪的茶.mp3"
     },
     {
       "hanzi": "CoCo都可",
@@ -308,7 +319,8 @@
       "english_answers": [
         "CoCo Fresh Tea & Juice"
       ],
-      "english_gloss": "CoCo Fresh Tea & Juice"
+      "english_gloss": "CoCo Fresh Tea & Juice",
+      "audio": "CoCo都可.mp3"
     },
     {
       "hanzi": "蜜雪冰城",
@@ -332,7 +344,8 @@
       "english_answers": [
         "Yoshinoya"
       ],
-      "english_gloss": "Yoshinoya"
+      "english_gloss": "Yoshinoya",
+      "audio": "吉野家.mp3"
     },
     {
       "hanzi": "85度C",
@@ -340,7 +353,8 @@
       "english_answers": [
         "85°C Bakery Cafe"
       ],
-      "english_gloss": "85°C Bakery Cafe"
+      "english_gloss": "85°C Bakery Cafe",
+      "audio": "85度C.mp3"
     },
     {
       "hanzi": "多乐之日",
@@ -348,7 +362,8 @@
       "english_answers": [
         "Tous les Jours"
       ],
-      "english_gloss": "Tous les Jours"
+      "english_gloss": "Tous les Jours",
+      "audio": "多乐之日.mp3"
     },
     {
       "hanzi": "棒约翰",
@@ -365,7 +380,8 @@
         "Dairy Queen",
         "DQ"
       ],
-      "english_gloss": "Dairy Queen / DQ"
+      "english_gloss": "Dairy Queen / DQ",
+      "audio": "冰雪皇后.mp3"
     },
     {
       "hanzi": "华莱士",
@@ -373,7 +389,8 @@
       "english_answers": [
         "Wallace"
       ],
-      "english_gloss": "Wallace"
+      "english_gloss": "Wallace",
+      "audio": "华莱士.mp3"
     },
     {
       "hanzi": "德克士",
@@ -381,7 +398,8 @@
       "english_answers": [
         "Dicos"
       ],
-      "english_gloss": "Dicos"
+      "english_gloss": "Dicos",
+      "audio": "德克士.mp3"
     },
     {
       "hanzi": "阿香米线",
@@ -422,7 +440,8 @@
       "english_answers": [
         "rice cake"
       ],
-      "english_gloss": "rice cake"
+      "english_gloss": "rice cake",
+      "audio": "年糕.mp3"
     },
     {
       "hanzi": "馄饨",
@@ -471,7 +490,8 @@
       "english_answers": [
         "cold skin noodles"
       ],
-      "english_gloss": "cold skin noodles"
+      "english_gloss": "cold skin noodles",
+      "audio": "凉皮.mp3"
     },
     {
       "hanzi": "麻辣烫",
@@ -488,7 +508,8 @@
         "skewer",
         "food on a stick"
       ],
-      "english_gloss": "skewer / food on a stick"
+      "english_gloss": "skewer / food on a stick",
+      "audio": "串.mp3"
     },
     {
       "hanzi": "烤串",
@@ -529,7 +550,8 @@
       "english_answers": [
         "ribs"
       ],
-      "english_gloss": "ribs"
+      "english_gloss": "ribs",
+      "audio": "排骨.mp3"
     },
     {
       "hanzi": "五花肉",
@@ -537,7 +559,8 @@
       "english_answers": [
         "pork belly"
       ],
-      "english_gloss": "pork belly"
+      "english_gloss": "pork belly",
+      "audio": "五花肉.mp3"
     },
     {
       "hanzi": "牛腩",
@@ -602,7 +625,8 @@
         "ribbonfish",
         "hairtail"
       ],
-      "english_gloss": "ribbonfish / hairtail"
+      "english_gloss": "ribbonfish / hairtail",
+      "audio": "带鱼.mp3"
     },
     {
       "hanzi": "海带",
@@ -678,7 +702,8 @@
         "pumpkin",
         "squash"
       ],
-      "english_gloss": "pumpkin / squash"
+      "english_gloss": "pumpkin / squash",
+      "audio": "南瓜.mp3"
     },
     {
       "hanzi": "冬瓜",
@@ -686,7 +711,8 @@
       "english_answers": [
         "winter melon"
       ],
-      "english_gloss": "winter melon"
+      "english_gloss": "winter melon",
+      "audio": "冬瓜.mp3"
     },
     {
       "hanzi": "山药",
@@ -694,7 +720,8 @@
       "english_answers": [
         "Chinese yam"
       ],
-      "english_gloss": "Chinese yam"
+      "english_gloss": "Chinese yam",
+      "audio": "山药.mp3"
     },
     {
       "hanzi": "毛豆",
@@ -760,7 +787,8 @@
       "english_answers": [
         "cumin"
       ],
-      "english_gloss": "cumin"
+      "english_gloss": "cumin",
+      "audio": "孜然.mp3"
     },
     {
       "hanzi": "料酒",
@@ -768,7 +796,8 @@
       "english_answers": [
         "cooking wine"
       ],
-      "english_gloss": "cooking wine"
+      "english_gloss": "cooking wine",
+      "audio": "料酒.mp3"
     },
     {
       "hanzi": "淀粉",

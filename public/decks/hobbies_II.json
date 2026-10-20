@@ -11,7 +11,8 @@
       "english_answers": [
         "first position (ballet)"
       ],
-      "english_gloss": "first position (ballet)"
+      "english_gloss": "first position (ballet)",
+      "audio": "一位.mp3"
     },
     {
       "hanzi": "二位",
@@ -19,7 +20,8 @@
       "english_answers": [
         "second position (ballet)"
       ],
-      "english_gloss": "second position (ballet)"
+      "english_gloss": "second position (ballet)",
+      "audio": "二位.mp3"
     },
     {
       "hanzi": "五位",
@@ -27,7 +29,8 @@
       "english_answers": [
         "fifth position (ballet)"
       ],
-      "english_gloss": "fifth position (ballet)"
+      "english_gloss": "fifth position (ballet)",
+      "audio": "五位.mp3"
     },
     {
       "hanzi": "脚位",
@@ -43,7 +46,8 @@
       "english_answers": [
         "arm position"
       ],
-      "english_gloss": "arm position"
+      "english_gloss": "arm position",
+      "audio": "手位.mp3"
     },
     {
       "hanzi": "外开",
@@ -51,7 +55,8 @@
       "english_answers": [
         "turnout"
       ],
-      "english_gloss": "turnout"
+      "english_gloss": "turnout",
+      "audio": "外开.mp3"
     },
     {
       "hanzi": "屈膝",
@@ -59,7 +64,8 @@
       "english_answers": [
         "bend the knees"
       ],
-      "english_gloss": "bend the knees"
+      "english_gloss": "bend the knees",
+      "audio": "屈膝.mp3"
     },
     {
       "hanzi": "半蹲",
@@ -68,7 +74,8 @@
         "demi-plié",
         "half squat"
       ],
-      "english_gloss": "demi-plié / half squat"
+      "english_gloss": "demi-plié / half squat",
+      "audio": "半蹲.mp3"
     },
     {
       "hanzi": "全蹲",
@@ -77,7 +84,8 @@
         "grand plié",
         "full squat"
       ],
-      "english_gloss": "grand plié / full squat"
+      "english_gloss": "grand plié / full squat",
+      "audio": "全蹲.mp3"
     },
     {
       "hanzi": "立脚尖",
@@ -109,7 +117,8 @@
       "english_answers": [
         "lift the leg"
       ],
-      "english_gloss": "lift the leg"
+      "english_gloss": "lift the leg",
+      "audio": "抬腿.mp3"
     },
     {
       "hanzi": "伸直",
@@ -118,7 +127,8 @@
         "straighten",
         "extend"
       ],
-      "english_gloss": "straighten / extend"
+      "english_gloss": "straighten / extend",
+      "audio": "伸直.mp3"
     },
     {
       "hanzi": "脚背",
@@ -135,7 +145,8 @@
       "english_answers": [
         "downward-facing dog"
       ],
-      "english_gloss": "downward-facing dog"
+      "english_gloss": "downward-facing dog",
+      "audio": "下犬式.mp3"
     },
     {
       "hanzi": "上犬式",
@@ -143,7 +154,8 @@
       "english_answers": [
         "upward-facing dog"
       ],
-      "english_gloss": "upward-facing dog"
+      "english_gloss": "upward-facing dog",
+      "audio": "上犬式.mp3"
     },
     {
       "hanzi": "树式",
@@ -159,7 +171,8 @@
       "english_answers": [
         "warrior pose"
       ],
-      "english_gloss": "warrior pose"
+      "english_gloss": "warrior pose",
+      "audio": "战士式.mp3"
     },
     {
       "hanzi": "猫牛式",
@@ -175,7 +188,8 @@
       "english_answers": [
         "child's pose"
       ],
-      "english_gloss": "child's pose"
+      "english_gloss": "child's pose",
+      "audio": "婴儿式.mp3"
     },
     {
       "hanzi": "山式",
@@ -183,7 +197,8 @@
       "english_answers": [
         "mountain pose"
       ],
-      "english_gloss": "mountain pose"
+      "english_gloss": "mountain pose",
+      "audio": "山式.mp3"
     },
     {
       "hanzi": "尸体式",
@@ -192,7 +207,8 @@
         "corpse pose",
         "savasana"
       ],
-      "english_gloss": "corpse pose / savasana"
+      "english_gloss": "corpse pose / savasana",
+      "audio": "尸体式.mp3"
     },
     {
       "hanzi": "平板支撑",
@@ -200,7 +216,8 @@
       "english_answers": [
         "plank"
       ],
-      "english_gloss": "plank"
+      "english_gloss": "plank",
+      "audio": "平板支撑.mp3"
     },
     {
       "hanzi": "吸气",
@@ -208,7 +225,8 @@
       "english_answers": [
         "inhale"
       ],
-      "english_gloss": "inhale"
+      "english_gloss": "inhale",
+      "audio": "吸气.mp3"
     },
     {
       "hanzi": "呼气",
@@ -216,7 +234,8 @@
       "english_answers": [
         "exhale"
       ],
-      "english_gloss": "exhale"
+      "english_gloss": "exhale",
+      "audio": "呼气.mp3"
     },
     {
       "hanzi": "保持",
@@ -225,7 +244,8 @@
         "maintain",
         "hold"
       ],
-      "english_gloss": "maintain / hold"
+      "english_gloss": "maintain / hold",
+      "audio": "保持.mp3"
     },
     {
       "hanzi": "收紧腹部",
@@ -233,7 +253,8 @@
       "english_answers": [
         "engage the abdomen"
       ],
-      "english_gloss": "engage the abdomen"
+      "english_gloss": "engage the abdomen",
+      "audio": "收紧腹部.mp3"
     },
     {
       "hanzi": "慢慢来",
@@ -241,7 +262,8 @@
       "english_answers": [
         "take it slowly"
       ],
-      "english_gloss": "take it slowly"
+      "english_gloss": "take it slowly",
+      "audio": "慢慢来.mp3"
     },
     {
       "hanzi": "不要勉强",
@@ -249,7 +271,8 @@
       "english_answers": [
         "don't force yourself"
       ],
-      "english_gloss": "don't force yourself"
+      "english_gloss": "don't force yourself",
+      "audio": "不要勉强.mp3"
     },
     {
       "hanzi": "对局",
@@ -258,7 +281,8 @@
         "game",
         "match between players"
       ],
-      "english_gloss": "game / match between players"
+      "english_gloss": "game / match between players",
+      "audio": "对局.mp3"
     },
     {
       "hanzi": "匹配",
@@ -266,7 +290,8 @@
       "english_answers": [
         "matchmaking"
       ],
-      "english_gloss": "matchmaking"
+      "english_gloss": "matchmaking",
+      "audio": "匹配.mp3"
     },
     {
       "hanzi": "段位",
@@ -283,7 +308,8 @@
       "english_answers": [
         "ranked match"
       ],
-      "english_gloss": "ranked match"
+      "english_gloss": "ranked match",
+      "audio": "排位赛.mp3"
     },
     {
       "hanzi": "胜率",
@@ -324,7 +350,8 @@
       "english_answers": [
         "throw move"
       ],
-      "english_gloss": "throw move"
+      "english_gloss": "throw move",
+      "audio": "投技.mp3"
     },
     {
       "hanzi": "取消",
@@ -332,7 +359,8 @@
       "english_answers": [
         "cancel (a move/action)"
       ],
-      "english_gloss": "cancel (a move/action)"
+      "english_gloss": "cancel (a move/action)",
+      "audio": "取消.mp3"
     },
     {
       "hanzi": "硬直",
@@ -349,7 +377,8 @@
       "english_answers": [
         "invincibility frames"
       ],
-      "english_gloss": "invincibility frames"
+      "english_gloss": "invincibility frames",
+      "audio": "无敌帧.mp3"
     },
     {
       "hanzi": "压制",
@@ -358,7 +387,8 @@
         "pressure",
         "suppress an opponent"
       ],
-      "english_gloss": "pressure / suppress an opponent"
+      "english_gloss": "pressure / suppress an opponent",
+      "audio": "压制.mp3"
     },
     {
       "hanzi": "择",
@@ -367,7 +397,8 @@
         "mix-up",
         "offensive choice"
       ],
-      "english_gloss": "mix-up / offensive choice"
+      "english_gloss": "mix-up / offensive choice",
+      "audio": "择.mp3"
     },
     {
       "hanzi": "复盘",
@@ -375,7 +406,8 @@
       "english_answers": [
         "review a match afterward"
       ],
-      "english_gloss": "review a match afterward"
+      "english_gloss": "review a match afterward",
+      "audio": "复盘.mp3"
     },
     {
       "hanzi": "底池",
@@ -383,7 +415,8 @@
       "english_answers": [
         "pot"
       ],
-      "english_gloss": "pot"
+      "english_gloss": "pot",
+      "audio": "底池.mp3"
     },
     {
       "hanzi": "盲注",
@@ -399,7 +432,8 @@
       "english_answers": [
         "big blind"
       ],
-      "english_gloss": "big blind"
+      "english_gloss": "big blind",
+      "audio": "大盲.mp3"
     },
     {
       "hanzi": "小盲",
@@ -407,7 +441,8 @@
       "english_answers": [
         "small blind"
       ],
-      "english_gloss": "small blind"
+      "english_gloss": "small blind",
+      "audio": "小盲.mp3"
     },
     {
       "hanzi": "翻牌",
@@ -447,7 +482,8 @@
       "english_answers": [
         "raise"
       ],
-      "english_gloss": "raise"
+      "english_gloss": "raise",
+      "audio": "加注.mp3"
     },
     {
       "hanzi": "弃牌",
@@ -455,7 +491,8 @@
       "english_answers": [
         "fold"
       ],
-      "english_gloss": "fold"
+      "english_gloss": "fold",
+      "audio": "弃牌.mp3"
     },
     {
       "hanzi": "冰球杆",
@@ -463,7 +500,8 @@
       "english_answers": [
         "hockey stick"
       ],
-      "english_gloss": "hockey stick"
+      "english_gloss": "hockey stick",
+      "audio": "冰球杆.mp3"
     },
     {
       "hanzi": "冰球场",
@@ -471,7 +509,8 @@
       "english_answers": [
         "ice hockey rink"
       ],
-      "english_gloss": "ice hockey rink"
+      "english_gloss": "ice hockey rink",
+      "audio": "冰球场.mp3"
     },
     {
       "hanzi": "前锋",
@@ -479,7 +518,8 @@
       "english_answers": [
         "forward"
       ],
-      "english_gloss": "forward"
+      "english_gloss": "forward",
+      "audio": "前锋.mp3"
     },
     {
       "hanzi": "后卫",
@@ -487,7 +527,8 @@
       "english_answers": [
         "defenseman"
       ],
-      "english_gloss": "defenseman"
+      "english_gloss": "defenseman",
+      "audio": "后卫.mp3"
     },
     {
       "hanzi": "射门",
@@ -495,7 +536,8 @@
       "english_answers": [
         "shoot at goal"
       ],
-      "english_gloss": "shoot at goal"
+      "english_gloss": "shoot at goal",
+      "audio": "射门.mp3"
     },
     {
       "hanzi": "传球",
@@ -503,7 +545,8 @@
       "english_answers": [
         "pass the puck"
       ],
-      "english_gloss": "pass the puck"
+      "english_gloss": "pass the puck",
+      "audio": "传球.mp3"
     },
     {
       "hanzi": "进球",
@@ -519,7 +562,8 @@
       "english_answers": [
         "overtime"
       ],
-      "english_gloss": "overtime"
+      "english_gloss": "overtime",
+      "audio": "加时赛.mp3"
     },
     {
       "hanzi": "罚球",
@@ -535,7 +579,8 @@
       "english_answers": [
         "playoffs"
       ],
-      "english_gloss": "playoffs"
+      "english_gloss": "playoffs",
+      "audio": "季后赛.mp3"
     },
     {
       "hanzi": "相机",
@@ -559,7 +604,8 @@
       "english_answers": [
         "shutter"
       ],
-      "english_gloss": "shutter"
+      "english_gloss": "shutter",
+      "audio": "快门.mp3"
     },
     {
       "hanzi": "光圈",
@@ -567,7 +613,8 @@
       "english_answers": [
         "aperture"
       ],
-      "english_gloss": "aperture"
+      "english_gloss": "aperture",
+      "audio": "光圈.mp3"
     },
     {
       "hanzi": "曝光",
@@ -583,7 +630,8 @@
       "english_answers": [
         "focus (a camera)"
       ],
-      "english_gloss": "focus (a camera)"
+      "english_gloss": "focus (a camera)",
+      "audio": "对焦.mp3"
     },
     {
       "hanzi": "构图",
@@ -608,7 +656,8 @@
         "edit",
         "retouch photographs"
       ],
-      "english_gloss": "edit / retouch photographs"
+      "english_gloss": "edit / retouch photographs",
+      "audio": "修图.mp3"
     },
     {
       "hanzi": "剪辑",
@@ -617,7 +666,8 @@
         "edit video",
         "film"
       ],
-      "english_gloss": "edit video / film"
+      "english_gloss": "edit video / film",
+      "audio": "剪辑.mp3"
     },
     {
       "hanzi": "烘焙",
@@ -667,7 +717,8 @@
       "english_answers": [
         "calligraphy"
       ],
-      "english_gloss": "calligraphy"
+      "english_gloss": "calligraphy",
+      "audio": "书法.mp3"
     },
     {
       "hanzi": "拼图",
@@ -675,7 +726,8 @@
       "english_answers": [
         "jigsaw puzzle"
       ],
-      "english_gloss": "jigsaw puzzle"
+      "english_gloss": "jigsaw puzzle",
+      "audio": "拼图.mp3"
     },
     {
       "hanzi": "桌游",
@@ -707,7 +759,8 @@
       "english_answers": [
         "astronomy"
       ],
-      "english_gloss": "astronomy"
+      "english_gloss": "astronomy",
+      "audio": "天文.mp3"
     },
     {
       "hanzi": "观星",
@@ -723,7 +776,8 @@
       "english_answers": [
         "rock climbing"
       ],
-      "english_gloss": "rock climbing"
+      "english_gloss": "rock climbing",
+      "audio": "攀岩.mp3"
     },
     {
       "hanzi": "滑雪",
@@ -755,7 +809,8 @@
       "english_answers": [
         "surfing"
       ],
-      "english_gloss": "surfing"
+      "english_gloss": "surfing",
+      "audio": "冲浪.mp3"
     },
     {
       "hanzi": "钓鱼",
@@ -771,7 +826,8 @@
       "english_answers": [
         "grow flowers"
       ],
-      "english_gloss": "grow flowers"
+      "english_gloss": "grow flowers",
+      "audio": "养花.mp3"
     },
     {
       "hanzi": "做模型",
@@ -780,7 +836,8 @@
         "build models",
         "miniatures"
       ],
-      "english_gloss": "build models / miniatures"
+      "english_gloss": "build models / miniatures",
+      "audio": "做模型.mp3"
     },
     {
       "hanzi": "木工",
@@ -796,7 +853,8 @@
       "english_answers": [
         "write fiction"
       ],
-      "english_gloss": "write fiction"
+      "english_gloss": "write fiction",
+      "audio": "写小说.mp3"
     },
     {
       "hanzi": "写日记",
@@ -804,7 +862,8 @@
       "english_answers": [
         "keep a diary"
       ],
-      "english_gloss": "keep a diary"
+      "english_gloss": "keep a diary",
+      "audio": "写日记.mp3"
     },
     {
       "hanzi": "骑马",
@@ -820,7 +879,8 @@
       "english_answers": [
         "volunteering"
       ],
-      "english_gloss": "volunteering"
+      "english_gloss": "volunteering",
+      "audio": "志愿服务.mp3"
     }
   ]
 }

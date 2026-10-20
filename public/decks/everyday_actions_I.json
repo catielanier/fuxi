@@ -11,7 +11,8 @@
       "english_answers": [
         "pick up / take"
       ],
-      "english_gloss": "pick up / take"
+      "english_gloss": "pick up / take",
+      "audio": "拿.mp3"
     },
     {
       "hanzi": "放",
@@ -19,7 +20,8 @@
       "english_answers": [
         "put / place"
       ],
-      "english_gloss": "put / place"
+      "english_gloss": "put / place",
+      "audio": "放.mp3"
     },
     {
       "hanzi": "拿起来",
@@ -27,7 +29,8 @@
       "english_answers": [
         "pick it up"
       ],
-      "english_gloss": "pick it up"
+      "english_gloss": "pick it up",
+      "audio": "拿起来.mp3"
     },
     {
       "hanzi": "放下",
@@ -35,7 +38,8 @@
       "english_answers": [
         "put it down"
       ],
-      "english_gloss": "put it down"
+      "english_gloss": "put it down",
+      "audio": "放下.mp3"
     },
     {
       "hanzi": "放进去",
@@ -43,7 +47,8 @@
       "english_answers": [
         "put it inside"
       ],
-      "english_gloss": "put it inside"
+      "english_gloss": "put it inside",
+      "audio": "放进去.mp3"
     },
     {
       "hanzi": "拿出来",
@@ -51,7 +56,8 @@
       "english_answers": [
         "take it out"
       ],
-      "english_gloss": "take it out"
+      "english_gloss": "take it out",
+      "audio": "拿出来.mp3"
     },
     {
       "hanzi": "收起来",
@@ -59,7 +65,8 @@
       "english_answers": [
         "put away"
       ],
-      "english_gloss": "put away"
+      "english_gloss": "put away",
+      "audio": "收起来.mp3"
     },
     {
       "hanzi": "摆好",
@@ -67,7 +74,8 @@
       "english_answers": [
         "arrange neatly"
       ],
-      "english_gloss": "arrange neatly"
+      "english_gloss": "arrange neatly",
+      "audio": "摆好.mp3"
     },
     {
       "hanzi": "移开",
@@ -83,7 +91,8 @@
       "english_answers": [
         "move it a little"
       ],
-      "english_gloss": "move it a little"
+      "english_gloss": "move it a little",
+      "audio": "挪一下.mp3"
     },
     {
       "hanzi": "推",
@@ -91,7 +100,8 @@
       "english_answers": [
         "push"
       ],
-      "english_gloss": "push"
+      "english_gloss": "push",
+      "audio": "推.mp3"
     },
     {
       "hanzi": "拉",
@@ -99,7 +109,8 @@
       "english_answers": [
         "pull"
       ],
-      "english_gloss": "pull"
+      "english_gloss": "pull",
+      "audio": "拉.mp3"
     },
     {
       "hanzi": "抬",
@@ -107,7 +118,8 @@
       "english_answers": [
         "lift / raise"
       ],
-      "english_gloss": "lift / raise"
+      "english_gloss": "lift / raise",
+      "audio": "抬.mp3"
     },
     {
       "hanzi": "搬",
@@ -115,7 +127,8 @@
       "english_answers": [
         "move / carry bulky things"
       ],
-      "english_gloss": "move / carry bulky things"
+      "english_gloss": "move / carry bulky things",
+      "audio": "搬.mp3"
     },
     {
       "hanzi": "扛",
@@ -123,7 +136,8 @@
       "english_answers": [
         "carry on the shoulder"
       ],
-      "english_gloss": "carry on the shoulder"
+      "english_gloss": "carry on the shoulder",
+      "audio": "扛.mp3"
     },
     {
       "hanzi": "拎",
@@ -131,7 +145,8 @@
       "english_answers": [
         "carry by a handle"
       ],
-      "english_gloss": "carry by a handle"
+      "english_gloss": "carry by a handle",
+      "audio": "拎.mp3"
     },
     {
       "hanzi": "拖",
@@ -139,7 +154,8 @@
       "english_answers": [
         "drag"
       ],
-      "english_gloss": "drag"
+      "english_gloss": "drag",
+      "audio": "拖.mp3"
     },
     {
       "hanzi": "转",
@@ -163,7 +179,8 @@
       "english_answers": [
         "turn upside down"
       ],
-      "english_gloss": "turn upside down"
+      "english_gloss": "turn upside down",
+      "audio": "倒过来.mp3"
     },
     {
       "hanzi": "打开",
@@ -171,7 +188,8 @@
       "english_answers": [
         "open / turn on"
       ],
-      "english_gloss": "open / turn on"
+      "english_gloss": "open / turn on",
+      "audio": "打开.mp3"
     },
     {
       "hanzi": "关上",
@@ -179,7 +197,8 @@
       "english_answers": [
         "close / shut"
       ],
-      "english_gloss": "close / shut"
+      "english_gloss": "close / shut",
+      "audio": "关上.mp3"
     },
     {
       "hanzi": "盖上",
@@ -195,7 +214,8 @@
       "english_answers": [
         "lift open / uncover"
       ],
-      "english_gloss": "lift open / uncover"
+      "english_gloss": "lift open / uncover",
+      "audio": "掀开.mp3"
     },
     {
       "hanzi": "拧开",
@@ -203,7 +223,8 @@
       "english_answers": [
         "unscrew / twist open"
       ],
-      "english_gloss": "unscrew / twist open"
+      "english_gloss": "unscrew / twist open",
+      "audio": "拧开.mp3"
     },
     {
       "hanzi": "拧紧",
@@ -211,7 +232,8 @@
       "english_answers": [
         "tighten by twisting"
       ],
-      "english_gloss": "tighten by twisting"
+      "english_gloss": "tighten by twisting",
+      "audio": "拧紧.mp3"
     },
     {
       "hanzi": "松开",
@@ -227,7 +249,8 @@
       "english_answers": [
         "press"
       ],
-      "english_gloss": "press"
+      "english_gloss": "press",
+      "audio": "按.mp3"
     },
     {
       "hanzi": "按住",
@@ -235,7 +258,8 @@
       "english_answers": [
         "press and hold"
       ],
-      "english_gloss": "press and hold"
+      "english_gloss": "press and hold",
+      "audio": "按住.mp3"
     },
     {
       "hanzi": "松手",
@@ -251,7 +275,8 @@
       "english_answers": [
         "plug in / insert"
       ],
-      "english_gloss": "plug in / insert"
+      "english_gloss": "plug in / insert",
+      "audio": "插上.mp3"
     },
     {
       "hanzi": "拔掉",
@@ -259,7 +284,8 @@
       "english_answers": [
         "unplug / pull out"
       ],
-      "english_gloss": "unplug / pull out"
+      "english_gloss": "unplug / pull out",
+      "audio": "拔掉.mp3"
     },
     {
       "hanzi": "接上",
@@ -267,7 +293,8 @@
       "english_answers": [
         "connect / attach"
       ],
-      "english_gloss": "connect / attach"
+      "english_gloss": "connect / attach",
+      "audio": "接上.mp3"
     },
     {
       "hanzi": "断开",
@@ -275,7 +302,8 @@
       "english_answers": [
         "disconnect"
       ],
-      "english_gloss": "disconnect"
+      "english_gloss": "disconnect",
+      "audio": "断开.mp3"
     },
     {
       "hanzi": "充电",
@@ -283,7 +311,8 @@
       "english_answers": [
         "charge a device"
       ],
-      "english_gloss": "charge a device"
+      "english_gloss": "charge a device",
+      "audio": "充电.mp3"
     },
     {
       "hanzi": "开机",
@@ -291,7 +320,8 @@
       "english_answers": [
         "turn on a device"
       ],
-      "english_gloss": "turn on a device"
+      "english_gloss": "turn on a device",
+      "audio": "开机.mp3"
     },
     {
       "hanzi": "关机",
@@ -299,7 +329,8 @@
       "english_answers": [
         "shut down a device"
       ],
-      "english_gloss": "shut down a device"
+      "english_gloss": "shut down a device",
+      "audio": "关机.mp3"
     },
     {
       "hanzi": "重启",
@@ -315,7 +346,8 @@
       "english_answers": [
         "fold / bend"
       ],
-      "english_gloss": "fold / bend"
+      "english_gloss": "fold / bend",
+      "audio": "折.mp3"
     },
     {
       "hanzi": "折起来",
@@ -323,7 +355,8 @@
       "english_answers": [
         "fold up"
       ],
-      "english_gloss": "fold up"
+      "english_gloss": "fold up",
+      "audio": "折起来.mp3"
     },
     {
       "hanzi": "展开",
@@ -331,7 +364,8 @@
       "english_answers": [
         "unfold / spread out"
       ],
-      "english_gloss": "unfold / spread out"
+      "english_gloss": "unfold / spread out",
+      "audio": "展开.mp3"
     },
     {
       "hanzi": "撕",
@@ -339,7 +373,8 @@
       "english_answers": [
         "tear"
       ],
-      "english_gloss": "tear"
+      "english_gloss": "tear",
+      "audio": "撕.mp3"
     },
     {
       "hanzi": "撕下来",
@@ -347,7 +382,8 @@
       "english_answers": [
         "tear off"
       ],
-      "english_gloss": "tear off"
+      "english_gloss": "tear off",
+      "audio": "撕下来.mp3"
     },
     {
       "hanzi": "剪",
@@ -355,7 +391,8 @@
       "english_answers": [
         "cut with scissors"
       ],
-      "english_gloss": "cut with scissors"
+      "english_gloss": "cut with scissors",
+      "audio": "剪.mp3"
     },
     {
       "hanzi": "剪开",
@@ -363,7 +400,8 @@
       "english_answers": [
         "cut open"
       ],
-      "english_gloss": "cut open"
+      "english_gloss": "cut open",
+      "audio": "剪开.mp3"
     },
     {
       "hanzi": "切",
@@ -371,7 +409,8 @@
       "english_answers": [
         "cut / slice"
       ],
-      "english_gloss": "cut / slice"
+      "english_gloss": "cut / slice",
+      "audio": "切.mp3"
     },
     {
       "hanzi": "削",
@@ -379,7 +418,8 @@
       "english_answers": [
         "peel / shave off"
       ],
-      "english_gloss": "peel / shave off"
+      "english_gloss": "peel / shave off",
+      "audio": "削.mp3"
     },
     {
       "hanzi": "刮",
@@ -387,7 +427,8 @@
       "english_answers": [
         "scrape"
       ],
-      "english_gloss": "scrape"
+      "english_gloss": "scrape",
+      "audio": "刮.mp3"
     },
     {
       "hanzi": "擦",
@@ -395,7 +436,8 @@
       "english_answers": [
         "wipe / rub"
       ],
-      "english_gloss": "wipe / rub"
+      "english_gloss": "wipe / rub",
+      "audio": "擦.mp3"
     },
     {
       "hanzi": "擦干",
@@ -403,7 +445,8 @@
       "english_answers": [
         "wipe dry"
       ],
-      "english_gloss": "wipe dry"
+      "english_gloss": "wipe dry",
+      "audio": "擦干.mp3"
     },
     {
       "hanzi": "擦掉",
@@ -411,7 +454,8 @@
       "english_answers": [
         "wipe away / erase"
       ],
-      "english_gloss": "wipe away / erase"
+      "english_gloss": "wipe away / erase",
+      "audio": "擦掉.mp3"
     },
     {
       "hanzi": "抹",
@@ -419,7 +463,8 @@
       "english_answers": [
         "smear / spread"
       ],
-      "english_gloss": "smear / spread"
+      "english_gloss": "smear / spread",
+      "audio": "抹.mp3"
     },
     {
       "hanzi": "涂",
@@ -435,7 +480,8 @@
       "english_answers": [
         "brush / scrub"
       ],
-      "english_gloss": "brush / scrub"
+      "english_gloss": "brush / scrub",
+      "audio": "刷.mp3"
     },
     {
       "hanzi": "洗",
@@ -451,7 +497,8 @@
       "english_answers": [
         "rinse"
       ],
-      "english_gloss": "rinse"
+      "english_gloss": "rinse",
+      "audio": "冲洗.mp3"
     },
     {
       "hanzi": "晾干",
@@ -475,7 +522,8 @@
       "english_answers": [
         "wring out"
       ],
-      "english_gloss": "wring out"
+      "english_gloss": "wring out",
+      "audio": "拧干.mp3"
     },
     {
       "hanzi": "扫",
@@ -483,7 +531,8 @@
       "english_answers": [
         "sweep"
       ],
-      "english_gloss": "sweep"
+      "english_gloss": "sweep",
+      "audio": "扫.mp3"
     },
     {
       "hanzi": "拖地",
@@ -491,7 +540,8 @@
       "english_answers": [
         "mop the floor"
       ],
-      "english_gloss": "mop the floor"
+      "english_gloss": "mop the floor",
+      "audio": "拖地.mp3"
     },
     {
       "hanzi": "吸尘",
@@ -499,7 +549,8 @@
       "english_answers": [
         "vacuum / remove dust by suction"
       ],
-      "english_gloss": "vacuum / remove dust by suction"
+      "english_gloss": "vacuum / remove dust by suction",
+      "audio": "吸尘.mp3"
     },
     {
       "hanzi": "倒",
@@ -507,7 +558,8 @@
       "english_answers": [
         "pour / tip out"
       ],
-      "english_gloss": "pour / tip out"
+      "english_gloss": "pour / tip out",
+      "audio": "倒.mp3"
     },
     {
       "hanzi": "倒出来",
@@ -515,7 +567,8 @@
       "english_answers": [
         "pour out"
       ],
-      "english_gloss": "pour out"
+      "english_gloss": "pour out",
+      "audio": "倒出来.mp3"
     },
     {
       "hanzi": "洒",
@@ -555,7 +608,8 @@
       "english_answers": [
         "squeeze"
       ],
-      "english_gloss": "squeeze"
+      "english_gloss": "squeeze",
+      "audio": "挤.mp3"
     },
     {
       "hanzi": "挤出来",
@@ -563,7 +617,8 @@
       "english_answers": [
         "squeeze out"
       ],
-      "english_gloss": "squeeze out"
+      "english_gloss": "squeeze out",
+      "audio": "挤出来.mp3"
     },
     {
       "hanzi": "捏",
@@ -571,7 +626,8 @@
       "english_answers": [
         "pinch"
       ],
-      "english_gloss": "pinch"
+      "english_gloss": "pinch",
+      "audio": "捏.mp3"
     },
     {
       "hanzi": "揉",
@@ -579,7 +635,8 @@
       "english_answers": [
         "knead / rub"
       ],
-      "english_gloss": "knead / rub"
+      "english_gloss": "knead / rub",
+      "audio": "揉.mp3"
     },
     {
       "hanzi": "搅拌",
@@ -587,7 +644,8 @@
       "english_answers": [
         "stir / mix"
       ],
-      "english_gloss": "stir / mix"
+      "english_gloss": "stir / mix",
+      "audio": "搅拌.mp3"
     },
     {
       "hanzi": "摇一摇",
@@ -595,7 +653,8 @@
       "english_answers": [
         "give it a shake"
       ],
-      "english_gloss": "give it a shake"
+      "english_gloss": "give it a shake",
+      "audio": "摇一摇.mp3"
     },
     {
       "hanzi": "摇晃",
@@ -603,7 +662,8 @@
       "english_answers": [
         "shake / wobble"
       ],
-      "english_gloss": "shake / wobble"
+      "english_gloss": "shake / wobble",
+      "audio": "摇晃.mp3"
     },
     {
       "hanzi": "敲",
@@ -611,7 +671,8 @@
       "english_answers": [
         "knock / tap"
       ],
-      "english_gloss": "knock / tap"
+      "english_gloss": "knock / tap",
+      "audio": "敲.mp3"
     },
     {
       "hanzi": "拍",
@@ -619,7 +680,8 @@
       "english_answers": [
         "pat / slap"
       ],
-      "english_gloss": "pat / slap"
+      "english_gloss": "pat / slap",
+      "audio": "拍.mp3"
     },
     {
       "hanzi": "砸",
@@ -635,7 +697,8 @@
       "english_answers": [
         "bump into / collide"
       ],
-      "english_gloss": "bump into / collide"
+      "english_gloss": "bump into / collide",
+      "audio": "撞.mp3"
     },
     {
       "hanzi": "碰",
@@ -651,7 +714,8 @@
       "english_answers": [
         "drop and break into pieces"
       ],
-      "english_gloss": "drop and break into pieces"
+      "english_gloss": "drop and break into pieces",
+      "audio": "摔碎.mp3"
     },
     {
       "hanzi": "弄坏",
@@ -659,7 +723,8 @@
       "english_answers": [
         "damage / break something"
       ],
-      "english_gloss": "damage / break something"
+      "english_gloss": "damage / break something",
+      "audio": "弄坏.mp3"
     },
     {
       "hanzi": "修好",
@@ -667,7 +732,8 @@
       "english_answers": [
         "repair successfully"
       ],
-      "english_gloss": "repair successfully"
+      "english_gloss": "repair successfully",
+      "audio": "修好.mp3"
     },
     {
       "hanzi": "坏了",
@@ -675,7 +741,8 @@
       "english_answers": [
         "it broke / stopped working"
       ],
-      "english_gloss": "it broke / stopped working"
+      "english_gloss": "it broke / stopped working",
+      "audio": "坏了.mp3"
     },
     {
       "hanzi": "卡住",
@@ -683,7 +750,8 @@
       "english_answers": [
         "get stuck / jam"
       ],
-      "english_gloss": "get stuck / jam"
+      "english_gloss": "get stuck / jam",
+      "audio": "卡住.mp3"
     },
     {
       "hanzi": "堵住",
@@ -691,7 +759,8 @@
       "english_answers": [
         "block / clog"
       ],
-      "english_gloss": "block / clog"
+      "english_gloss": "block / clog",
+      "audio": "堵住.mp3"
     },
     {
       "hanzi": "掉下来",
@@ -699,7 +768,8 @@
       "english_answers": [
         "fall down / fall off"
       ],
-      "english_gloss": "fall down / fall off"
+      "english_gloss": "fall down / fall off",
+      "audio": "掉下来.mp3"
     },
     {
       "hanzi": "松了",
@@ -731,7 +801,8 @@
       "english_answers": [
         "replace / swap out"
       ],
-      "english_gloss": "replace / swap out"
+      "english_gloss": "replace / swap out",
+      "audio": "换掉.mp3"
     },
     {
       "hanzi": "装上",
@@ -747,7 +818,8 @@
       "english_answers": [
         "take apart / remove"
       ],
-      "english_gloss": "take apart / remove"
+      "english_gloss": "take apart / remove",
+      "audio": "拆下来.mp3"
     },
     {
       "hanzi": "拧螺丝",
@@ -755,7 +827,8 @@
       "english_answers": [
         "turn a screw"
       ],
-      "english_gloss": "turn a screw"
+      "english_gloss": "turn a screw",
+      "audio": "拧螺丝.mp3"
     },
     {
       "hanzi": "贴上",
@@ -771,7 +844,8 @@
       "english_answers": [
         "peel off the label"
       ],
-      "english_gloss": "peel off the label"
+      "english_gloss": "peel off the label",
+      "audio": "撕掉标签.mp3"
     },
     {
       "hanzi": "对齐",
@@ -779,7 +853,8 @@
       "english_answers": [
         "align / line up"
       ],
-      "english_gloss": "align / line up"
+      "english_gloss": "align / line up",
+      "audio": "对齐.mp3"
     },
     {
       "hanzi": "固定",
@@ -787,7 +862,8 @@
       "english_answers": [
         "secure / fasten"
       ],
-      "english_gloss": "secure / fasten"
+      "english_gloss": "secure / fasten",
+      "audio": "固定.mp3"
     },
     {
       "hanzi": "量一下",

@@ -11,7 +11,8 @@
       "english_answers": [
         "sex assigned at birth"
       ],
-      "english_gloss": "sex assigned at birth"
+      "english_gloss": "sex assigned at birth",
+      "audio": "出生时指定性别.mp3"
     },
     {
       "hanzi": "生理性别",
@@ -35,7 +36,8 @@
       "english_answers": [
         "gender roles"
       ],
-      "english_gloss": "gender roles"
+      "english_gloss": "gender roles",
+      "audio": "性别角色.mp3"
     },
     {
       "hanzi": "性别规范",
@@ -43,7 +45,8 @@
       "english_answers": [
         "gender norms"
       ],
-      "english_gloss": "gender norms"
+      "english_gloss": "gender norms",
+      "audio": "性别规范.mp3"
     },
     {
       "hanzi": "真实性别",
@@ -60,7 +63,8 @@
       "english_answers": [
         "be yourself"
       ],
-      "english_gloss": "be yourself"
+      "english_gloss": "be yourself",
+      "audio": "做自己.mp3"
     },
     {
       "hanzi": "活出自我",
@@ -76,7 +80,8 @@
       "english_answers": [
         "come out publicly"
       ],
-      "english_gloss": "come out publicly"
+      "english_gloss": "come out publicly",
+      "audio": "公开出柜.mp3"
     },
     {
       "hanzi": "被迫出柜",
@@ -117,7 +122,8 @@
       "english_answers": [
         "feminine gender expression"
       ],
-      "english_gloss": "feminine gender expression"
+      "english_gloss": "feminine gender expression",
+      "audio": "女性化表达.mp3"
     },
     {
       "hanzi": "改称呼",
@@ -125,7 +131,8 @@
       "english_answers": [
         "change how someone is addressed"
       ],
-      "english_gloss": "change how someone is addressed"
+      "english_gloss": "change how someone is addressed",
+      "audio": "改称呼.mp3"
     },
     {
       "hanzi": "性别称谓",
@@ -133,7 +140,8 @@
       "english_answers": [
         "gendered form of address"
       ],
-      "english_gloss": "gendered form of address"
+      "english_gloss": "gendered form of address",
+      "audio": "性别称谓.mp3"
     },
     {
       "hanzi": "称谓偏好",
@@ -149,7 +157,8 @@
       "english_answers": [
         "household registration"
       ],
-      "english_gloss": "household registration"
+      "english_gloss": "household registration",
+      "audio": "户籍.mp3"
     },
     {
       "hanzi": "户口本",
@@ -157,7 +166,8 @@
       "english_answers": [
         "household registration booklet"
       ],
-      "english_gloss": "household registration booklet"
+      "english_gloss": "household registration booklet",
+      "audio": "户口本.mp3"
     },
     {
       "hanzi": "更改性别标记",
@@ -205,7 +215,8 @@
       "english_answers": [
         "progestogen"
       ],
-      "english_gloss": "progestogen"
+      "english_gloss": "progestogen",
+      "audio": "孕激素.mp3"
     },
     {
       "hanzi": "雄激素",
@@ -229,7 +240,8 @@
       "english_answers": [
         "endocrinology department"
       ],
-      "english_gloss": "endocrinology department"
+      "english_gloss": "endocrinology department",
+      "audio": "内分泌科.mp3"
     },
     {
       "hanzi": "内分泌",
@@ -238,7 +250,8 @@
         "endocrine secretion",
         "endocrinology"
       ],
-      "english_gloss": "endocrine secretion / endocrinology"
+      "english_gloss": "endocrine secretion / endocrinology",
+      "audio": "内分泌.mp3"
     },
     {
       "hanzi": "血液检测",
@@ -254,7 +267,8 @@
       "english_answers": [
         "oral medication"
       ],
-      "english_gloss": "oral medication"
+      "english_gloss": "oral medication",
+      "audio": "口服药.mp3"
     },
     {
       "hanzi": "贴片",
@@ -294,7 +308,8 @@
       "english_answers": [
         "breast development"
       ],
-      "english_gloss": "breast development"
+      "english_gloss": "breast development",
+      "audio": "乳房发育.mp3"
     },
     {
       "hanzi": "脂肪分布",
@@ -310,7 +325,8 @@
       "english_answers": [
         "voice training"
       ],
-      "english_gloss": "voice training"
+      "english_gloss": "voice training",
+      "audio": "嗓音训练.mp3"
     },
     {
       "hanzi": "脱毛",
@@ -334,7 +350,8 @@
       "english_answers": [
         "feel romantically drawn to someone"
       ],
-      "english_gloss": "feel romantically drawn to someone"
+      "english_gloss": "feel romantically drawn to someone",
+      "audio": "心动.mp3"
     },
     {
       "hanzi": "好感",
@@ -343,7 +360,8 @@
         "positive feelings",
         "attraction"
       ],
-      "english_gloss": "positive feelings / attraction"
+      "english_gloss": "positive feelings / attraction",
+      "audio": "好感.mp3"
     },
     {
       "hanzi": "暗恋",
@@ -385,7 +403,8 @@
         "flirt",
         "make a move (slang)"
       ],
-      "english_gloss": "flirt / make a move (slang)"
+      "english_gloss": "flirt / make a move (slang)",
+      "audio": "撩.mp3"
     },
     {
       "hanzi": "搭讪",
@@ -394,7 +413,8 @@
         "strike up conversation",
         "approach someone"
       ],
-      "english_gloss": "strike up conversation / approach someone"
+      "english_gloss": "strike up conversation / approach someone",
+      "audio": "搭讪.mp3"
     },
     {
       "hanzi": "相亲",
@@ -419,7 +439,8 @@
         "date",
         "be romantically involved"
       ],
-      "english_gloss": "date / be romantically involved"
+      "english_gloss": "date / be romantically involved",
+      "audio": "交往.mp3"
     },
     {
       "hanzi": "分手",
@@ -427,7 +448,8 @@
       "english_answers": [
         "break up"
       ],
-      "english_gloss": "break up"
+      "english_gloss": "break up",
+      "audio": "分手.mp3"
     },
     {
       "hanzi": "复合",
@@ -435,7 +457,8 @@
       "english_answers": [
         "get back together"
       ],
-      "english_gloss": "get back together"
+      "english_gloss": "get back together",
+      "audio": "复合.mp3"
     },
     {
       "hanzi": "前任",
@@ -443,7 +466,8 @@
       "english_answers": [
         "ex-partner"
       ],
-      "english_gloss": "ex-partner"
+      "english_gloss": "ex-partner",
+      "audio": "前任.mp3"
     },
     {
       "hanzi": "吃醋",
@@ -451,7 +475,8 @@
       "english_answers": [
         "be jealous in a relationship"
       ],
-      "english_gloss": "be jealous in a relationship"
+      "english_gloss": "be jealous in a relationship",
+      "audio": "吃醋.mp3"
     },
     {
       "hanzi": "忠诚",
@@ -460,7 +485,8 @@
         "fidelity",
         "loyalty"
       ],
-      "english_gloss": "fidelity / loyalty"
+      "english_gloss": "fidelity / loyalty",
+      "audio": "忠诚.mp3"
     },
     {
       "hanzi": "信任",
@@ -468,7 +494,8 @@
       "english_answers": [
         "trust"
       ],
-      "english_gloss": "trust"
+      "english_gloss": "trust",
+      "audio": "信任.mp3"
     },
     {
       "hanzi": "开放式关系",
@@ -476,7 +503,8 @@
       "english_answers": [
         "open relationship"
       ],
-      "english_gloss": "open relationship"
+      "english_gloss": "open relationship",
+      "audio": "开放式关系.mp3"
     },
     {
       "hanzi": "一夫一妻制",
@@ -484,7 +512,8 @@
       "english_answers": [
         "monogamous marriage system"
       ],
-      "english_gloss": "monogamous marriage system"
+      "english_gloss": "monogamous marriage system",
+      "audio": "一夫一妻制.mp3"
     },
     {
       "hanzi": "多元伴侣关系",
@@ -492,7 +521,8 @@
       "english_answers": [
         "polyamorous relationships"
       ],
-      "english_gloss": "polyamorous relationships"
+      "english_gloss": "polyamorous relationships",
+      "audio": "多元伴侣关系.mp3"
     },
     {
       "hanzi": "圈子",
@@ -501,7 +531,8 @@
         "social circle",
         "scene"
       ],
-      "english_gloss": "social circle / scene"
+      "english_gloss": "social circle / scene",
+      "audio": "圈子.mp3"
     },
     {
       "hanzi": "同志圈",
@@ -510,7 +541,8 @@
         "gay",
         "queer community scene"
       ],
-      "english_gloss": "gay / queer community scene"
+      "english_gloss": "gay / queer community scene",
+      "audio": "同志圈.mp3"
     },
     {
       "hanzi": "跨性别社群",
@@ -526,7 +558,8 @@
       "english_answers": [
         "LGBTQ+ community"
       ],
-      "english_gloss": "LGBTQ+ community"
+      "english_gloss": "LGBTQ+ community",
+      "audio": "彩虹群体.mp3"
     },
     {
       "hanzi": "彩虹友善",
@@ -534,7 +567,8 @@
       "english_answers": [
         "LGBTQ+-friendly"
       ],
-      "english_gloss": "LGBTQ+-friendly"
+      "english_gloss": "LGBTQ+-friendly",
+      "audio": "彩虹友善.mp3"
     },
     {
       "hanzi": "直男",
@@ -559,7 +593,8 @@
         "gay",
         "not straight (slang)"
       ],
-      "english_gloss": "gay / not straight (slang)"
+      "english_gloss": "gay / not straight (slang)",
+      "audio": "弯的.mp3"
     },
     {
       "hanzi": "直的",
@@ -576,7 +611,8 @@
       "english_answers": [
         "bisexual (shorthand; context-dependent)"
       ],
-      "english_gloss": "bisexual (shorthand; context-dependent)"
+      "english_gloss": "bisexual (shorthand; context-dependent)",
+      "audio": "双.mp3"
     },
     {
       "hanzi": "姬",
@@ -585,7 +621,8 @@
         "lesbian (community",
         "internet slang)"
       ],
-      "english_gloss": "lesbian (community / internet slang)"
+      "english_gloss": "lesbian (community / internet slang)",
+      "audio": "姬.mp3"
     },
     {
       "hanzi": "基佬",
@@ -593,7 +630,8 @@
       "english_answers": [
         "gay man (can be derogatory)"
       ],
-      "english_gloss": "gay man (can be derogatory)"
+      "english_gloss": "gay man (can be derogatory)",
+      "audio": "基佬.mp3"
     },
     {
       "hanzi": "男同",
@@ -611,7 +649,8 @@
         "lesbian",
         "female homosexuality (short)"
       ],
-      "english_gloss": "lesbian / female homosexuality (short)"
+      "english_gloss": "lesbian / female homosexuality (short)",
+      "audio": "女同.mp3"
     },
     {
       "hanzi": "腐圈",
@@ -628,7 +667,8 @@
         "lesbian community",
         "scene (slang)"
       ],
-      "english_gloss": "lesbian community / scene (slang)"
+      "english_gloss": "lesbian community / scene (slang)",
+      "audio": "姬圈.mp3"
     },
     {
       "hanzi": "嗑CP",
@@ -636,7 +676,8 @@
       "english_answers": [
         "ship a couple (internet slang)"
       ],
-      "english_gloss": "ship a couple (internet slang)"
+      "english_gloss": "ship a couple (internet slang)",
+      "audio": "嗑CP.mp3"
     },
     {
       "hanzi": "彩虹经济",
@@ -645,7 +686,8 @@
         "pink",
         "rainbow economy"
       ],
-      "english_gloss": "pink / rainbow economy"
+      "english_gloss": "pink / rainbow economy",
+      "audio": "彩虹经济.mp3"
     },
     {
       "hanzi": "友同人士",
@@ -653,7 +695,8 @@
       "english_answers": [
         "LGBTQ+-allied person"
       ],
-      "english_gloss": "LGBTQ+-allied person"
+      "english_gloss": "LGBTQ+-allied person",
+      "audio": "友同人士.mp3"
     },
     {
       "hanzi": "盟友",
@@ -669,7 +712,8 @@
       "english_answers": [
         "personal privacy"
       ],
-      "english_gloss": "personal privacy"
+      "english_gloss": "personal privacy",
+      "audio": "个人隐私.mp3"
     },
     {
       "hanzi": "隐私权",
@@ -685,7 +729,8 @@
       "english_answers": [
         "keep confidential"
       ],
-      "english_gloss": "keep confidential"
+      "english_gloss": "keep confidential",
+      "audio": "保密.mp3"
     },
     {
       "hanzi": "未经允许",
@@ -711,7 +756,8 @@
         "refuse",
         "reject"
       ],
-      "english_gloss": "refuse / reject"
+      "english_gloss": "refuse / reject",
+      "audio": "拒绝.mp3"
     },
     {
       "hanzi": "底线",
@@ -720,7 +766,8 @@
         "non-negotiable boundary",
         "bottom line"
       ],
-      "english_gloss": "non-negotiable boundary / bottom line"
+      "english_gloss": "non-negotiable boundary / bottom line",
+      "audio": "底线.mp3"
     },
     {
       "hanzi": "越界",
@@ -736,7 +783,8 @@
       "english_answers": [
         "disrespect"
       ],
-      "english_gloss": "disrespect"
+      "english_gloss": "disrespect",
+      "audio": "不尊重.mp3"
     },
     {
       "hanzi": "冒犯",
@@ -745,7 +793,8 @@
         "offend",
         "be offensive"
       ],
-      "english_gloss": "offend / be offensive"
+      "english_gloss": "offend / be offensive",
+      "audio": "冒犯.mp3"
     },
     {
       "hanzi": "不合适",
@@ -754,7 +803,8 @@
         "inappropriate",
         "unsuitable"
       ],
-      "english_gloss": "inappropriate / unsuitable"
+      "english_gloss": "inappropriate / unsuitable",
+      "audio": "不合适.mp3"
     },
     {
       "hanzi": "言语骚扰",
@@ -770,7 +820,8 @@
       "english_answers": [
         "sexual harassment"
       ],
-      "english_gloss": "sexual harassment"
+      "english_gloss": "sexual harassment",
+      "audio": "性骚扰.mp3"
     },
     {
       "hanzi": "性别歧视",
@@ -778,7 +829,8 @@
       "english_answers": [
         "gender discrimination"
       ],
-      "english_gloss": "gender discrimination"
+      "english_gloss": "gender discrimination",
+      "audio": "性别歧视.mp3"
     },
     {
       "hanzi": "污名化",
@@ -795,7 +847,8 @@
         "unfriendly",
         "unwelcoming"
       ],
-      "english_gloss": "unfriendly / unwelcoming"
+      "english_gloss": "unfriendly / unwelcoming",
+      "audio": "不友善.mp3"
     },
     {
       "hanzi": "安全感",
@@ -804,7 +857,8 @@
         "sense of safety",
         "security"
       ],
-      "english_gloss": "sense of safety / security"
+      "english_gloss": "sense of safety / security",
+      "audio": "安全感.mp3"
     },
     {
       "hanzi": "平等对待",
@@ -812,7 +866,8 @@
       "english_answers": [
         "treat equally"
       ],
-      "english_gloss": "treat equally"
+      "english_gloss": "treat equally",
+      "audio": "平等对待.mp3"
     },
     {
       "hanzi": "维护权益",
@@ -828,7 +883,8 @@
       "english_answers": [
         "seek help"
       ],
-      "english_gloss": "seek help"
+      "english_gloss": "seek help",
+      "audio": "寻求帮助.mp3"
     }
   ]
 }

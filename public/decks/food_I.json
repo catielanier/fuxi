@@ -35,7 +35,8 @@
       "english_answers": [
         "stuffed steamed bun"
       ],
-      "english_gloss": "stuffed steamed bun"
+      "english_gloss": "stuffed steamed bun",
+      "audio": "包子.mp3"
     },
     {
       "hanzi": "饺子",
@@ -149,7 +150,8 @@
       "english_answers": [
         "bacon"
       ],
-      "english_gloss": "bacon"
+      "english_gloss": "bacon",
+      "audio": "培根.mp3"
     },
     {
       "hanzi": "肉馅",
@@ -238,7 +240,8 @@
       "english_answers": [
         "salmon"
       ],
-      "english_gloss": "salmon"
+      "english_gloss": "salmon",
+      "audio": "三文鱼.mp3"
     },
     {
       "hanzi": "金枪鱼",
@@ -262,7 +265,8 @@
       "english_answers": [
         "cabbage"
       ],
-      "english_gloss": "cabbage"
+      "english_gloss": "cabbage",
+      "audio": "卷心菜.mp3"
     },
     {
       "hanzi": "生菜",
@@ -302,7 +306,8 @@
       "english_answers": [
         "potato"
       ],
-      "english_gloss": "potato"
+      "english_gloss": "potato",
+      "audio": "土豆.mp3"
     },
     {
       "hanzi": "红薯",
@@ -334,7 +339,8 @@
       "english_answers": [
         "garlic"
       ],
-      "english_gloss": "garlic"
+      "english_gloss": "garlic",
+      "audio": "大蒜.mp3"
     },
     {
       "hanzi": "姜",
@@ -342,7 +348,8 @@
       "english_answers": [
         "ginger"
       ],
-      "english_gloss": "ginger"
+      "english_gloss": "ginger",
+      "audio": "姜.mp3"
     },
     {
       "hanzi": "黄瓜",
@@ -551,7 +558,8 @@
       "english_answers": [
         "salty"
       ],
-      "english_gloss": "salty"
+      "english_gloss": "salty",
+      "audio": "咸.mp3"
     },
     {
       "hanzi": "酸",
@@ -593,7 +601,8 @@
       "english_answers": [
         "fresh"
       ],
-      "english_gloss": "fresh"
+      "english_gloss": "fresh",
+      "audio": "新鲜.mp3"
     },
     {
       "hanzi": "熟",
@@ -706,7 +715,8 @@
       "english_answers": [
         "fork"
       ],
-      "english_gloss": "fork"
+      "english_gloss": "fork",
+      "audio": "叉子.mp3"
     },
     {
       "hanzi": "勺子",
@@ -714,7 +724,8 @@
       "english_answers": [
         "spoon"
       ],
-      "english_gloss": "spoon"
+      "english_gloss": "spoon",
+      "audio": "勺子.mp3"
     },
     {
       "hanzi": "刀",
@@ -722,7 +733,8 @@
       "english_answers": [
         "knife"
       ],
-      "english_gloss": "knife"
+      "english_gloss": "knife",
+      "audio": "刀.mp3"
     },
     {
       "hanzi": "盘子",
@@ -787,7 +799,8 @@
       "english_answers": [
         "pizza"
       ],
-      "english_gloss": "pizza"
+      "english_gloss": "pizza",
+      "audio": "披萨.mp3"
     },
     {
       "hanzi": "三明治",
@@ -795,7 +808,8 @@
       "english_answers": [
         "sandwich"
       ],
-      "english_gloss": "sandwich"
+      "english_gloss": "sandwich",
+      "audio": "三明治.mp3"
     },
     {
       "hanzi": "水",
@@ -819,7 +833,8 @@
       "english_answers": [
         "coffee"
       ],
-      "english_gloss": "coffee"
+      "english_gloss": "coffee",
+      "audio": "咖啡.mp3"
     }
   ]
 }

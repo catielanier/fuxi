@@ -21,7 +21,8 @@
         "top",
         "upper garment"
       ],
-      "english_gloss": "top / upper garment"
+      "english_gloss": "top / upper garment",
+      "audio": "上衣.mp3"
     },
     {
       "hanzi": "裤子",
@@ -63,7 +64,8 @@
       "english_answers": [
         "women's blouse"
       ],
-      "english_gloss": "women's blouse"
+      "english_gloss": "women's blouse",
+      "audio": "女衬衫.mp3"
     },
     {
       "hanzi": "T恤",
@@ -71,7 +73,8 @@
       "english_answers": [
         "T-shirt"
       ],
-      "english_gloss": "T-shirt"
+      "english_gloss": "T-shirt",
+      "audio": "T恤.mp3"
     },
     {
       "hanzi": "背心",
@@ -97,7 +100,8 @@
         "sweatshirt",
         "hoodie"
       ],
-      "english_gloss": "sweatshirt / hoodie"
+      "english_gloss": "sweatshirt / hoodie",
+      "audio": "卫衣.mp3"
     },
     {
       "hanzi": "帽衫",
@@ -105,7 +109,8 @@
       "english_answers": [
         "hoodie"
       ],
-      "english_gloss": "hoodie"
+      "english_gloss": "hoodie",
+      "audio": "帽衫.mp3"
     },
     {
       "hanzi": "外套",
@@ -114,7 +119,8 @@
         "coat",
         "jacket"
       ],
-      "english_gloss": "coat / jacket"
+      "english_gloss": "coat / jacket",
+      "audio": "外套.mp3"
     },
     {
       "hanzi": "夹克",
@@ -122,7 +128,8 @@
       "english_answers": [
         "jacket"
       ],
-      "english_gloss": "jacket"
+      "english_gloss": "jacket",
+      "audio": "夹克.mp3"
     },
     {
       "hanzi": "大衣",
@@ -130,7 +137,8 @@
       "english_answers": [
         "overcoat"
       ],
-      "english_gloss": "overcoat"
+      "english_gloss": "overcoat",
+      "audio": "大衣.mp3"
     },
     {
       "hanzi": "风衣",
@@ -223,7 +231,8 @@
         "underwear",
         "undergarments"
       ],
-      "english_gloss": "underwear / undergarments"
+      "english_gloss": "underwear / undergarments",
+      "audio": "内衣.mp3"
     },
     {
       "hanzi": "内裤",
@@ -232,7 +241,8 @@
         "underwear",
         "panties"
       ],
-      "english_gloss": "underwear / panties"
+      "english_gloss": "underwear / panties",
+      "audio": "内裤.mp3"
     },
     {
       "hanzi": "胸罩",
@@ -248,7 +258,8 @@
       "english_answers": [
         "bra"
       ],
-      "english_gloss": "bra"
+      "english_gloss": "bra",
+      "audio": "文胸.mp3"
     },
     {
       "hanzi": "运动内衣",
@@ -265,7 +276,8 @@
         "stockings",
         "pantyhose"
       ],
-      "english_gloss": "stockings / pantyhose"
+      "english_gloss": "stockings / pantyhose",
+      "audio": "丝袜.mp3"
     },
     {
       "hanzi": "连裤袜",
@@ -324,7 +336,8 @@
       "english_answers": [
         "flats"
       ],
-      "english_gloss": "flats"
+      "english_gloss": "flats",
+      "audio": "平底鞋.mp3"
     },
     {
       "hanzi": "凉鞋",
@@ -332,7 +345,8 @@
       "english_answers": [
         "sandals"
       ],
-      "english_gloss": "sandals"
+      "english_gloss": "sandals",
+      "audio": "凉鞋.mp3"
     },
     {
       "hanzi": "拖鞋",
@@ -341,7 +355,8 @@
         "slippers",
         "flip-flops"
       ],
-      "english_gloss": "slippers / flip-flops"
+      "english_gloss": "slippers / flip-flops",
+      "audio": "拖鞋.mp3"
     },
     {
       "hanzi": "靴子",
@@ -383,7 +398,8 @@
         "hat",
         "cap"
       ],
-      "english_gloss": "hat / cap"
+      "english_gloss": "hat / cap",
+      "audio": "帽子.mp3"
     },
     {
       "hanzi": "棒球帽",
@@ -399,7 +415,8 @@
       "english_answers": [
         "scarf"
       ],
-      "english_gloss": "scarf"
+      "english_gloss": "scarf",
+      "audio": "围巾.mp3"
     },
     {
       "hanzi": "手套",
@@ -407,7 +424,8 @@
       "english_answers": [
         "gloves"
       ],
-      "english_gloss": "gloves"
+      "english_gloss": "gloves",
+      "audio": "手套.mp3"
     },
     {
       "hanzi": "腰带",
@@ -432,7 +450,8 @@
       "english_answers": [
         "bag"
       ],
-      "english_gloss": "bag"
+      "english_gloss": "bag",
+      "audio": "包.mp3"
     },
     {
       "hanzi": "手提包",
@@ -440,7 +459,8 @@
       "english_answers": [
         "handbag"
       ],
-      "english_gloss": "handbag"
+      "english_gloss": "handbag",
+      "audio": "手提包.mp3"
     },
     {
       "hanzi": "单肩包",
@@ -448,7 +468,8 @@
       "english_answers": [
         "shoulder bag"
       ],
-      "english_gloss": "shoulder bag"
+      "english_gloss": "shoulder bag",
+      "audio": "单肩包.mp3"
     },
     {
       "hanzi": "斜挎包",
@@ -456,7 +477,8 @@
       "english_answers": [
         "crossbody bag"
       ],
-      "english_gloss": "crossbody bag"
+      "english_gloss": "crossbody bag",
+      "audio": "斜挎包.mp3"
     },
     {
       "hanzi": "背包",
@@ -480,7 +502,8 @@
       "english_answers": [
         "sunglasses"
       ],
-      "english_gloss": "sunglasses"
+      "english_gloss": "sunglasses",
+      "audio": "太阳镜.mp3"
     },
     {
       "hanzi": "眼镜",
@@ -528,7 +551,8 @@
       "english_answers": [
         "ring"
       ],
-      "english_gloss": "ring"
+      "english_gloss": "ring",
+      "audio": "戒指.mp3"
     },
     {
       "hanzi": "手链",
@@ -536,7 +560,8 @@
       "english_answers": [
         "bracelet"
       ],
-      "english_gloss": "bracelet"
+      "english_gloss": "bracelet",
+      "audio": "手链.mp3"
     },
     {
       "hanzi": "手表",
@@ -544,7 +569,8 @@
       "english_answers": [
         "wristwatch"
       ],
-      "english_gloss": "wristwatch"
+      "english_gloss": "wristwatch",
+      "audio": "手表.mp3"
     },
     {
       "hanzi": "棉",
@@ -568,7 +594,8 @@
       "english_answers": [
         "silk"
       ],
-      "english_gloss": "silk"
+      "english_gloss": "silk",
+      "audio": "丝绸.mp3"
     },
     {
       "hanzi": "皮革",
@@ -600,7 +627,8 @@
       "english_answers": [
         "clothing size"
       ],
-      "english_gloss": "clothing size"
+      "english_gloss": "clothing size",
+      "audio": "尺码.mp3"
     },
     {
       "hanzi": "号码",
@@ -609,7 +637,8 @@
         "size",
         "number"
       ],
-      "english_gloss": "size / number"
+      "english_gloss": "size / number",
+      "audio": "号码.mp3"
     },
     {
       "hanzi": "小号",
@@ -617,7 +646,8 @@
       "english_answers": [
         "small size"
       ],
-      "english_gloss": "small size"
+      "english_gloss": "small size",
+      "audio": "小号.mp3"
     },
     {
       "hanzi": "中号",
@@ -625,7 +655,8 @@
       "english_answers": [
         "medium size"
       ],
-      "english_gloss": "medium size"
+      "english_gloss": "medium size",
+      "audio": "中号.mp3"
     },
     {
       "hanzi": "大号",
@@ -633,7 +664,8 @@
       "english_answers": [
         "large size"
       ],
-      "english_gloss": "large size"
+      "english_gloss": "large size",
+      "audio": "大号.mp3"
     },
     {
       "hanzi": "合身",
@@ -642,7 +674,8 @@
         "fit well",
         "well-fitting"
       ],
-      "english_gloss": "fit well / well-fitting"
+      "english_gloss": "fit well / well-fitting",
+      "audio": "合身.mp3"
     },
     {
       "hanzi": "宽松",
@@ -650,7 +683,8 @@
       "english_answers": [
         "loose-fitting"
       ],
-      "english_gloss": "loose-fitting"
+      "english_gloss": "loose-fitting",
+      "audio": "宽松.mp3"
     },
     {
       "hanzi": "紧",
@@ -674,7 +708,8 @@
       "english_answers": [
         "too big"
       ],
-      "english_gloss": "too big"
+      "english_gloss": "too big",
+      "audio": "太大.mp3"
     },
     {
       "hanzi": "太小",
@@ -682,7 +717,8 @@
       "english_answers": [
         "too small"
       ],
-      "english_gloss": "too small"
+      "english_gloss": "too small",
+      "audio": "太小.mp3"
     },
     {
       "hanzi": "太长",
@@ -690,7 +726,8 @@
       "english_answers": [
         "too long"
       ],
-      "english_gloss": "too long"
+      "english_gloss": "too long",
+      "audio": "太长.mp3"
     },
     {
       "hanzi": "太短",
@@ -698,7 +735,8 @@
       "english_answers": [
         "too short"
       ],
-      "english_gloss": "too short"
+      "english_gloss": "too short",
+      "audio": "太短.mp3"
     },
     {
       "hanzi": "试穿",
@@ -739,7 +777,8 @@
       "english_answers": [
         "change clothes"
       ],
-      "english_gloss": "change clothes"
+      "english_gloss": "change clothes",
+      "audio": "换衣服.mp3"
     },
     {
       "hanzi": "搭配",
@@ -748,7 +787,8 @@
         "coordinate",
         "match an outfit"
       ],
-      "english_gloss": "coordinate / match an outfit"
+      "english_gloss": "coordinate / match an outfit",
+      "audio": "搭配.mp3"
     },
     {
       "hanzi": "款式",

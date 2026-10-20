@@ -12,7 +12,8 @@
         "housing",
         "accommodation"
       ],
-      "english_gloss": "housing / accommodation"
+      "english_gloss": "housing / accommodation",
+      "audio": "住房.mp3"
     },
     {
       "hanzi": "租房",
@@ -29,7 +30,8 @@
         "house",
         "home"
       ],
-      "english_gloss": "house / home"
+      "english_gloss": "house / home",
+      "audio": "房子.mp3"
     },
     {
       "hanzi": "出租屋",
@@ -38,7 +40,8 @@
         "rental property",
         "rented dwelling"
       ],
-      "english_gloss": "rental property / rented dwelling"
+      "english_gloss": "rental property / rented dwelling",
+      "audio": "出租屋.mp3"
     },
     {
       "hanzi": "单元楼",
@@ -46,7 +49,8 @@
       "english_answers": [
         "apartment block divided into units"
       ],
-      "english_gloss": "apartment block divided into units"
+      "english_gloss": "apartment block divided into units",
+      "audio": "单元楼.mp3"
     },
     {
       "hanzi": "独栋住宅",
@@ -63,7 +67,8 @@
         "villa",
         "detached luxury home"
       ],
-      "english_gloss": "villa / detached luxury home"
+      "english_gloss": "villa / detached luxury home",
+      "audio": "别墅.mp3"
     },
     {
       "hanzi": "合租",
@@ -71,7 +76,8 @@
       "english_answers": [
         "share a rental with roommates"
       ],
-      "english_gloss": "share a rental with roommates"
+      "english_gloss": "share a rental with roommates",
+      "audio": "合租.mp3"
     },
     {
       "hanzi": "整租",
@@ -79,7 +85,8 @@
       "english_answers": [
         "rent an entire property"
       ],
-      "english_gloss": "rent an entire property"
+      "english_gloss": "rent an entire property",
+      "audio": "整租.mp3"
     },
     {
       "hanzi": "房源",
@@ -88,7 +95,8 @@
         "available rental",
         "property listing"
       ],
-      "english_gloss": "available rental / property listing"
+      "english_gloss": "available rental / property listing",
+      "audio": "房源.mp3"
     },
     {
       "hanzi": "看房",
@@ -104,7 +112,8 @@
       "english_answers": [
         "landlord"
       ],
-      "english_gloss": "landlord"
+      "english_gloss": "landlord",
+      "audio": "房东.mp3"
     },
     {
       "hanzi": "租客",
@@ -120,7 +129,8 @@
       "english_answers": [
         "roommate"
       ],
-      "english_gloss": "roommate"
+      "english_gloss": "roommate",
+      "audio": "室友.mp3"
     },
     {
       "hanzi": "中介费",
@@ -128,7 +138,8 @@
       "english_answers": [
         "agency fee"
       ],
-      "english_gloss": "agency fee"
+      "english_gloss": "agency fee",
+      "audio": "中介费.mp3"
     },
     {
       "hanzi": "租金",
@@ -144,7 +155,8 @@
       "english_answers": [
         "security deposit"
       ],
-      "english_gloss": "security deposit"
+      "english_gloss": "security deposit",
+      "audio": "押金.mp3"
     },
     {
       "hanzi": "租约",
@@ -170,7 +182,8 @@
         "move in",
         "check in"
       ],
-      "english_gloss": "move in / check in"
+      "english_gloss": "move in / check in",
+      "audio": "入住.mp3"
     },
     {
       "hanzi": "客厅",
@@ -178,7 +191,8 @@
       "english_answers": [
         "living room"
       ],
-      "english_gloss": "living room"
+      "english_gloss": "living room",
+      "audio": "客厅.mp3"
     },
     {
       "hanzi": "卧室",
@@ -186,7 +200,8 @@
       "english_answers": [
         "bedroom"
       ],
-      "english_gloss": "bedroom"
+      "english_gloss": "bedroom",
+      "audio": "卧室.mp3"
     },
     {
       "hanzi": "主卧",
@@ -194,7 +209,8 @@
       "english_answers": [
         "primary bedroom"
       ],
-      "english_gloss": "primary bedroom"
+      "english_gloss": "primary bedroom",
+      "audio": "主卧.mp3"
     },
     {
       "hanzi": "次卧",
@@ -210,7 +226,8 @@
       "english_answers": [
         "kitchen"
       ],
-      "english_gloss": "kitchen"
+      "english_gloss": "kitchen",
+      "audio": "厨房.mp3"
     },
     {
       "hanzi": "卫生间",
@@ -219,7 +236,8 @@
         "bathroom",
         "restroom"
       ],
-      "english_gloss": "bathroom / restroom"
+      "english_gloss": "bathroom / restroom",
+      "audio": "卫生间.mp3"
     },
     {
       "hanzi": "浴室",
@@ -245,7 +263,8 @@
         "study",
         "home office"
       ],
-      "english_gloss": "study / home office"
+      "english_gloss": "study / home office",
+      "audio": "书房.mp3"
     },
     {
       "hanzi": "餐厅",
@@ -296,7 +315,8 @@
       "english_answers": [
         "basement"
       ],
-      "english_gloss": "basement"
+      "english_gloss": "basement",
+      "audio": "地下室.mp3"
     },
     {
       "hanzi": "阁楼",
@@ -313,7 +333,8 @@
       "english_answers": [
         "ceiling"
       ],
-      "english_gloss": "ceiling"
+      "english_gloss": "ceiling",
+      "audio": "天花板.mp3"
     },
     {
       "hanzi": "地板",
@@ -322,7 +343,8 @@
         "floor",
         "flooring"
       ],
-      "english_gloss": "floor / flooring"
+      "english_gloss": "floor / flooring",
+      "audio": "地板.mp3"
     },
     {
       "hanzi": "墙壁",
@@ -330,7 +352,8 @@
       "english_answers": [
         "wall"
       ],
-      "english_gloss": "wall"
+      "english_gloss": "wall",
+      "audio": "墙壁.mp3"
     },
     {
       "hanzi": "窗户",
@@ -346,7 +369,8 @@
       "english_answers": [
         "furniture"
       ],
-      "english_gloss": "furniture"
+      "english_gloss": "furniture",
+      "audio": "家具.mp3"
     },
     {
       "hanzi": "沙发",
@@ -386,7 +410,8 @@
       "english_answers": [
         "stool"
       ],
-      "english_gloss": "stool"
+      "english_gloss": "stool",
+      "audio": "凳子.mp3"
     },
     {
       "hanzi": "书桌",
@@ -394,7 +419,8 @@
       "english_answers": [
         "desk"
       ],
-      "english_gloss": "desk"
+      "english_gloss": "desk",
+      "audio": "书桌.mp3"
     },
     {
       "hanzi": "书架",
@@ -402,7 +428,8 @@
       "english_answers": [
         "bookshelf"
       ],
-      "english_gloss": "bookshelf"
+      "english_gloss": "bookshelf",
+      "audio": "书架.mp3"
     },
     {
       "hanzi": "衣柜",
@@ -419,7 +446,8 @@
       "english_answers": [
         "drawer"
       ],
-      "english_gloss": "drawer"
+      "english_gloss": "drawer",
+      "audio": "抽屉.mp3"
     },
     {
       "hanzi": "柜子",
@@ -435,7 +463,8 @@
       "english_answers": [
         "bed"
       ],
-      "english_gloss": "bed"
+      "english_gloss": "bed",
+      "audio": "床.mp3"
     },
     {
       "hanzi": "床垫",
@@ -443,7 +472,8 @@
       "english_answers": [
         "mattress"
       ],
-      "english_gloss": "mattress"
+      "english_gloss": "mattress",
+      "audio": "床垫.mp3"
     },
     {
       "hanzi": "枕头",
@@ -468,7 +498,8 @@
       "english_answers": [
         "bedsheet"
       ],
-      "english_gloss": "bedsheet"
+      "english_gloss": "bedsheet",
+      "audio": "床单.mp3"
     },
     {
       "hanzi": "窗帘",
@@ -493,7 +524,8 @@
         "rug",
         "carpet"
       ],
-      "english_gloss": "rug / carpet"
+      "english_gloss": "rug / carpet",
+      "audio": "地毯.mp3"
     },
     {
       "hanzi": "台灯",
@@ -501,7 +533,8 @@
       "english_answers": [
         "desk lamp"
       ],
-      "english_gloss": "desk lamp"
+      "english_gloss": "desk lamp",
+      "audio": "台灯.mp3"
     },
     {
       "hanzi": "家电",
@@ -509,7 +542,8 @@
       "english_answers": [
         "household appliances"
       ],
-      "english_gloss": "household appliances"
+      "english_gloss": "household appliances",
+      "audio": "家电.mp3"
     },
     {
       "hanzi": "冰箱",
@@ -517,7 +551,8 @@
       "english_answers": [
         "refrigerator"
       ],
-      "english_gloss": "refrigerator"
+      "english_gloss": "refrigerator",
+      "audio": "冰箱.mp3"
     },
     {
       "hanzi": "冰柜",
@@ -525,7 +560,8 @@
       "english_answers": [
         "freezer"
       ],
-      "english_gloss": "freezer"
+      "english_gloss": "freezer",
+      "audio": "冰柜.mp3"
     },
     {
       "hanzi": "洗衣机",
@@ -574,7 +610,8 @@
       "english_answers": [
         "microwave oven"
       ],
-      "english_gloss": "microwave oven"
+      "english_gloss": "microwave oven",
+      "audio": "微波炉.mp3"
     },
     {
       "hanzi": "烤箱",
@@ -607,7 +644,8 @@
         "range hood",
         "extractor fan"
       ],
-      "english_gloss": "range hood / extractor fan"
+      "english_gloss": "range hood / extractor fan",
+      "audio": "抽油烟机.mp3"
     },
     {
       "hanzi": "洗碗机",
@@ -639,7 +677,8 @@
       "english_answers": [
         "electrical outlet"
       ],
-      "english_gloss": "electrical outlet"
+      "english_gloss": "electrical outlet",
+      "audio": "插座.mp3"
     },
     {
       "hanzi": "开关",
@@ -647,7 +686,8 @@
       "english_answers": [
         "switch"
       ],
-      "english_gloss": "switch"
+      "english_gloss": "switch",
+      "audio": "开关.mp3"
     },
     {
       "hanzi": "门锁",
@@ -728,7 +768,8 @@
       "english_answers": [
         "fully furnished"
       ],
-      "english_gloss": "fully furnished"
+      "english_gloss": "fully furnished",
+      "audio": "家具齐全.mp3"
     },
     {
       "hanzi": "精装修",
@@ -778,7 +819,8 @@
       "english_answers": [
         "square meter"
       ],
-      "english_gloss": "square meter"
+      "english_gloss": "square meter",
+      "audio": "平方米.mp3"
     },
     {
       "hanzi": "楼层",
@@ -795,7 +837,8 @@
       "english_answers": [
         "move house"
       ],
-      "english_gloss": "move house"
+      "english_gloss": "move house",
+      "audio": "搬家.mp3"
     },
     {
       "hanzi": "续租",

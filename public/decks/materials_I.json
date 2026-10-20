@@ -28,7 +28,8 @@
       "english_answers": [
         "raw material"
       ],
-      "english_gloss": "raw material"
+      "english_gloss": "raw material",
+      "audio": "原料.mp3"
     },
     {
       "hanzi": "材质",
@@ -44,7 +45,8 @@
       "english_answers": [
         "natural material"
       ],
-      "english_gloss": "natural material"
+      "english_gloss": "natural material",
+      "audio": "天然材料.mp3"
     },
     {
       "hanzi": "人造材料",
@@ -52,7 +54,8 @@
       "english_answers": [
         "man-made material"
       ],
-      "english_gloss": "man-made material"
+      "english_gloss": "man-made material",
+      "audio": "人造材料.mp3"
     },
     {
       "hanzi": "合成材料",
@@ -60,7 +63,8 @@
       "english_answers": [
         "synthetic material"
       ],
-      "english_gloss": "synthetic material"
+      "english_gloss": "synthetic material",
+      "audio": "合成材料.mp3"
     },
     {
       "hanzi": "可回收材料",
@@ -68,7 +72,8 @@
       "english_answers": [
         "recyclable material"
       ],
-      "english_gloss": "recyclable material"
+      "english_gloss": "recyclable material",
+      "audio": "可回收材料.mp3"
     },
     {
       "hanzi": "木头",
@@ -93,7 +98,8 @@
       "english_answers": [
         "solid wood"
       ],
-      "english_gloss": "solid wood"
+      "english_gloss": "solid wood",
+      "audio": "实木.mp3"
     },
     {
       "hanzi": "胶合板",
@@ -157,7 +163,8 @@
       "english_answers": [
         "plastic"
       ],
-      "english_gloss": "plastic"
+      "english_gloss": "plastic",
+      "audio": "塑料.mp3"
     },
     {
       "hanzi": "塑料袋",
@@ -165,7 +172,8 @@
       "english_answers": [
         "plastic bag"
       ],
-      "english_gloss": "plastic bag"
+      "english_gloss": "plastic bag",
+      "audio": "塑料袋.mp3"
     },
     {
       "hanzi": "塑料薄膜",
@@ -173,7 +181,8 @@
       "english_answers": [
         "plastic film"
       ],
-      "english_gloss": "plastic film"
+      "english_gloss": "plastic film",
+      "audio": "塑料薄膜.mp3"
     },
     {
       "hanzi": "泡沫塑料",
@@ -205,7 +214,8 @@
       "english_answers": [
         "natural rubber"
       ],
-      "english_gloss": "natural rubber"
+      "english_gloss": "natural rubber",
+      "audio": "天然橡胶.mp3"
     },
     {
       "hanzi": "硅胶",
@@ -230,7 +240,8 @@
       "english_answers": [
         "latex"
       ],
-      "english_gloss": "latex"
+      "english_gloss": "latex",
+      "audio": "乳胶.mp3"
     },
     {
       "hanzi": "玻璃",
@@ -327,7 +338,8 @@
       "english_answers": [
         "marble"
       ],
-      "english_gloss": "marble"
+      "english_gloss": "marble",
+      "audio": "大理石.mp3"
     },
     {
       "hanzi": "花岗岩",
@@ -384,7 +396,8 @@
       "english_answers": [
         "stainless steel"
       ],
-      "english_gloss": "stainless steel"
+      "english_gloss": "stainless steel",
+      "audio": "不锈钢.mp3"
     },
     {
       "hanzi": "铁",
@@ -497,7 +510,8 @@
       "english_answers": [
         "alloy"
       ],
-      "english_gloss": "alloy"
+      "english_gloss": "alloy",
+      "audio": "合金.mp3"
     },
     {
       "hanzi": "金属丝",
@@ -529,7 +543,8 @@
       "english_answers": [
         "fabric"
       ],
-      "english_gloss": "fabric"
+      "english_gloss": "fabric",
+      "audio": "布料.mp3"
     },
     {
       "hanzi": "棉花",
@@ -563,7 +578,8 @@
         "flax",
         "linen"
       ],
-      "english_gloss": "flax / linen"
+      "english_gloss": "flax / linen",
+      "audio": "亚麻.mp3"
     },
     {
       "hanzi": "羊毛",
@@ -579,7 +595,8 @@
       "english_answers": [
         "silk"
       ],
-      "english_gloss": "silk"
+      "english_gloss": "silk",
+      "audio": "丝绸.mp3"
     },
     {
       "hanzi": "真丝",
@@ -603,7 +620,8 @@
       "english_answers": [
         "nylon"
       ],
-      "english_gloss": "nylon"
+      "english_gloss": "nylon",
+      "audio": "尼龙.mp3"
     },
     {
       "hanzi": "氨纶",
@@ -620,7 +638,8 @@
       "english_answers": [
         "synthetic leather"
       ],
-      "english_gloss": "synthetic leather"
+      "english_gloss": "synthetic leather",
+      "audio": "人造革.mp3"
     },
     {
       "hanzi": "皮革",
@@ -701,7 +720,8 @@
       "english_answers": [
         "ink"
       ],
-      "english_gloss": "ink"
+      "english_gloss": "ink",
+      "audio": "墨水.mp3"
     },
     {
       "hanzi": "染料",
@@ -798,7 +818,8 @@
       "english_answers": [
         "baking soda"
       ],
-      "english_gloss": "baking soda"
+      "english_gloss": "baking soda",
+      "audio": "小苏打.mp3"
     },
     {
       "hanzi": "漂白剂",

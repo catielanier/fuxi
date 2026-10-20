@@ -19,7 +19,8 @@
       "english_answers": [
         "register for a medical visit"
       ],
-      "english_gloss": "register for a medical visit"
+      "english_gloss": "register for a medical visit",
+      "audio": "挂号.mp3"
     },
     {
       "hanzi": "门诊",
@@ -35,7 +36,8 @@
       "english_answers": [
         "emergency department"
       ],
-      "english_gloss": "emergency department"
+      "english_gloss": "emergency department",
+      "audio": "急诊.mp3"
     },
     {
       "hanzi": "住院",
@@ -43,7 +45,8 @@
       "english_answers": [
         "be admitted to hospital"
       ],
-      "english_gloss": "be admitted to hospital"
+      "english_gloss": "be admitted to hospital",
+      "audio": "住院.mp3"
     },
     {
       "hanzi": "出院",
@@ -51,7 +54,8 @@
       "english_answers": [
         "be discharged from hospital"
       ],
-      "english_gloss": "be discharged from hospital"
+      "english_gloss": "be discharged from hospital",
+      "audio": "出院.mp3"
     },
     {
       "hanzi": "病房",
@@ -68,7 +72,8 @@
       "english_answers": [
         "wait to see the doctor"
       ],
-      "english_gloss": "wait to see the doctor"
+      "english_gloss": "wait to see the doctor",
+      "audio": "候诊.mp3"
     },
     {
       "hanzi": "排队",
@@ -76,7 +81,8 @@
       "english_answers": [
         "wait in line"
       ],
-      "english_gloss": "wait in line"
+      "english_gloss": "wait in line",
+      "audio": "排队.mp3"
     },
     {
       "hanzi": "叫号",
@@ -84,7 +90,8 @@
       "english_answers": [
         "call the next queue number"
       ],
-      "english_gloss": "call the next queue number"
+      "english_gloss": "call the next queue number",
+      "audio": "叫号.mp3"
     },
     {
       "hanzi": "导诊台",
@@ -93,7 +100,8 @@
         "patient information",
         "triage desk"
       ],
-      "english_gloss": "patient information / triage desk"
+      "english_gloss": "patient information / triage desk",
+      "audio": "导诊台.mp3"
     },
     {
       "hanzi": "医生",
@@ -101,7 +109,8 @@
       "english_answers": [
         "doctor"
       ],
-      "english_gloss": "doctor"
+      "english_gloss": "doctor",
+      "audio": "医生.mp3"
     },
     {
       "hanzi": "护士",
@@ -109,7 +118,8 @@
       "english_answers": [
         "nurse"
       ],
-      "english_gloss": "nurse"
+      "english_gloss": "nurse",
+      "audio": "护士.mp3"
     },
     {
       "hanzi": "专科医生",
@@ -117,7 +127,8 @@
       "english_answers": [
         "specialist doctor"
       ],
-      "english_gloss": "specialist doctor"
+      "english_gloss": "specialist doctor",
+      "audio": "专科医生.mp3"
     },
     {
       "hanzi": "全科医生",
@@ -125,7 +136,8 @@
       "english_answers": [
         "general practitioner"
       ],
-      "english_gloss": "general practitioner"
+      "english_gloss": "general practitioner",
+      "audio": "全科医生.mp3"
     },
     {
       "hanzi": "家庭医生",
@@ -133,7 +145,8 @@
       "english_answers": [
         "family doctor"
       ],
-      "english_gloss": "family doctor"
+      "english_gloss": "family doctor",
+      "audio": "家庭医生.mp3"
     },
     {
       "hanzi": "内科",
@@ -141,7 +154,8 @@
       "english_answers": [
         "internal medicine"
       ],
-      "english_gloss": "internal medicine"
+      "english_gloss": "internal medicine",
+      "audio": "内科.mp3"
     },
     {
       "hanzi": "外科",
@@ -149,7 +163,8 @@
       "english_answers": [
         "surgery department"
       ],
-      "english_gloss": "surgery department"
+      "english_gloss": "surgery department",
+      "audio": "外科.mp3"
     },
     {
       "hanzi": "妇科",
@@ -157,7 +172,8 @@
       "english_answers": [
         "gynecology"
       ],
-      "english_gloss": "gynecology"
+      "english_gloss": "gynecology",
+      "audio": "妇科.mp3"
     },
     {
       "hanzi": "皮肤科",
@@ -214,7 +230,8 @@
       "english_answers": [
         "routine physical examination"
       ],
-      "english_gloss": "routine physical examination"
+      "english_gloss": "routine physical examination",
+      "audio": "体检.mp3"
     },
     {
       "hanzi": "测血压",
@@ -246,7 +263,8 @@
       "english_answers": [
         "listen with a stethoscope"
       ],
-      "english_gloss": "listen with a stethoscope"
+      "english_gloss": "listen with a stethoscope",
+      "audio": "听诊.mp3"
     },
     {
       "hanzi": "抽血",
@@ -254,7 +272,8 @@
       "english_answers": [
         "draw blood"
       ],
-      "english_gloss": "draw blood"
+      "english_gloss": "draw blood",
+      "audio": "抽血.mp3"
     },
     {
       "hanzi": "验血",
@@ -319,7 +338,8 @@
       "english_answers": [
         "laboratory test"
       ],
-      "english_gloss": "laboratory test"
+      "english_gloss": "laboratory test",
+      "audio": "化验.mp3"
     },
     {
       "hanzi": "化验单",
@@ -328,7 +348,8 @@
         "lab test form",
         "results sheet"
       ],
-      "english_gloss": "lab test form / results sheet"
+      "english_gloss": "lab test form / results sheet",
+      "audio": "化验单.mp3"
     },
     {
       "hanzi": "结果",
@@ -345,7 +366,8 @@
         "test indicator",
         "measurement"
       ],
-      "english_gloss": "test indicator / measurement"
+      "english_gloss": "test indicator / measurement",
+      "audio": "指标.mp3"
     },
     {
       "hanzi": "正常范围",
@@ -361,7 +383,8 @@
       "english_answers": [
         "abnormal"
       ],
-      "english_gloss": "abnormal"
+      "english_gloss": "abnormal",
+      "audio": "异常.mp3"
     },
     {
       "hanzi": "阳性",
@@ -393,7 +416,8 @@
       "english_answers": [
         "ultrasound scan (colloquial)"
       ],
-      "english_gloss": "ultrasound scan (colloquial)"
+      "english_gloss": "ultrasound scan (colloquial)",
+      "audio": "B超.mp3"
     },
     {
       "hanzi": "X光",
@@ -401,7 +425,8 @@
       "english_answers": [
         "X-ray"
       ],
-      "english_gloss": "X-ray"
+      "english_gloss": "X-ray",
+      "audio": "X光.mp3"
     },
     {
       "hanzi": "CT检查",
@@ -409,7 +434,8 @@
       "english_answers": [
         "CT scan"
       ],
-      "english_gloss": "CT scan"
+      "english_gloss": "CT scan",
+      "audio": "CT检查.mp3"
     },
     {
       "hanzi": "核磁共振",
@@ -425,7 +451,8 @@
       "english_answers": [
         "electrocardiogram (ECG)"
       ],
-      "english_gloss": "electrocardiogram (ECG)"
+      "english_gloss": "electrocardiogram (ECG)",
+      "audio": "心电图.mp3"
     },
     {
       "hanzi": "诊断",
@@ -459,7 +486,8 @@
         "repeat a test",
         "recheck"
       ],
-      "english_gloss": "repeat a test / recheck"
+      "english_gloss": "repeat a test / recheck",
+      "audio": "复查.mp3"
     },
     {
       "hanzi": "随访",
@@ -491,7 +519,8 @@
       "english_answers": [
         "medical report"
       ],
-      "english_gloss": "medical report"
+      "english_gloss": "medical report",
+      "audio": "报告.mp3"
     },
     {
       "hanzi": "处方",
@@ -499,7 +528,8 @@
       "english_answers": [
         "prescription"
       ],
-      "english_gloss": "prescription"
+      "english_gloss": "prescription",
+      "audio": "处方.mp3"
     },
     {
       "hanzi": "处方药",
@@ -507,7 +537,8 @@
       "english_answers": [
         "prescription medication"
       ],
-      "english_gloss": "prescription medication"
+      "english_gloss": "prescription medication",
+      "audio": "处方药.mp3"
     },
     {
       "hanzi": "非处方药",
@@ -575,7 +606,8 @@
         "dosage",
         "dose"
       ],
-      "english_gloss": "dosage / dose"
+      "english_gloss": "dosage / dose",
+      "audio": "剂量.mp3"
     },
     {
       "hanzi": "服药",
@@ -591,7 +623,8 @@
       "english_answers": [
         "take orally"
       ],
-      "english_gloss": "take orally"
+      "english_gloss": "take orally",
+      "audio": "口服.mp3"
     },
     {
       "hanzi": "饭前服用",
@@ -631,7 +664,8 @@
       "english_answers": [
         "take medication on schedule"
       ],
-      "english_gloss": "take medication on schedule"
+      "english_gloss": "take medication on schedule",
+      "audio": "按时服药.mp3"
     },
     {
       "hanzi": "漏服",
@@ -647,7 +681,8 @@
       "english_answers": [
         "stop taking medication"
       ],
-      "english_gloss": "stop taking medication"
+      "english_gloss": "stop taking medication",
+      "audio": "停药.mp3"
     },
     {
       "hanzi": "药物过敏",
@@ -680,7 +715,8 @@
         "surgery",
         "operation"
       ],
-      "english_gloss": "surgery / operation"
+      "english_gloss": "surgery / operation",
+      "audio": "手术.mp3"
     },
     {
       "hanzi": "麻醉",
@@ -696,7 +732,8 @@
       "english_answers": [
         "local anesthesia"
       ],
-      "english_gloss": "local anesthesia"
+      "english_gloss": "local anesthesia",
+      "audio": "局部麻醉.mp3"
     },
     {
       "hanzi": "注射",
@@ -712,7 +749,8 @@
       "english_answers": [
         "get an injection (colloquial)"
       ],
-      "english_gloss": "get an injection (colloquial)"
+      "english_gloss": "get an injection (colloquial)",
+      "audio": "打针.mp3"
     },
     {
       "hanzi": "输液",
@@ -746,7 +784,8 @@
       "english_answers": [
         "change a wound dressing"
       ],
-      "english_gloss": "change a wound dressing"
+      "english_gloss": "change a wound dressing",
+      "audio": "换药.mp3"
     },
     {
       "hanzi": "康复",
@@ -755,7 +794,8 @@
         "rehabilitation",
         "recovery"
       ],
-      "english_gloss": "rehabilitation / recovery"
+      "english_gloss": "rehabilitation / recovery",
+      "audio": "康复.mp3"
     },
     {
       "hanzi": "理疗",
@@ -772,7 +812,8 @@
       "english_answers": [
         "ambulance"
       ],
-      "english_gloss": "ambulance"
+      "english_gloss": "ambulance",
+      "audio": "救护车.mp3"
     },
     {
       "hanzi": "急救",
@@ -781,7 +822,8 @@
         "first aid",
         "emergency treatment"
       ],
-      "english_gloss": "first aid / emergency treatment"
+      "english_gloss": "first aid / emergency treatment",
+      "audio": "急救.mp3"
     },
     {
       "hanzi": "保险",
@@ -789,7 +831,8 @@
       "english_answers": [
         "insurance"
       ],
-      "english_gloss": "insurance"
+      "english_gloss": "insurance",
+      "audio": "保险.mp3"
     },
     {
       "hanzi": "医保",
@@ -797,7 +840,8 @@
       "english_answers": [
         "medical insurance"
       ],
-      "english_gloss": "medical insurance"
+      "english_gloss": "medical insurance",
+      "audio": "医保.mp3"
     },
     {
       "hanzi": "自费",
