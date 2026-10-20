@@ -1,11 +1,5 @@
 <script setup lang="ts">
-import {
-  computed,
-  onMounted,
-  onUnmounted,
-  ref,
-  watch,
-} from 'vue'
+import { onMounted, onUnmounted, ref, watch } from 'vue'
 import { RouterLink, useRoute, useRouter } from 'vue-router'
 import { getAuth, onAuthStateChanged } from 'firebase/auth'
 import { getDatabase, onValue, ref as dbRef } from 'firebase/database'
@@ -29,19 +23,12 @@ const menuElement = ref<HTMLElement | null>(null)
 let unsubscribeAuth: (() => void) | null = null
 let unsubscribeUser: (() => void) | null = null
 
-const navigationLinks = computed(() =>
-  isLoggedIn.value
-    ? [
-        { to: '/decks', english: 'Decks', chinese: '牌组' },
-        { to: '/listening', english: 'Listening', chinese: '听力练习' },
-        { to: '/progress', english: 'Progress', chinese: '学习进度' },
-        { to: '/history', english: 'History', chinese: '复习记录' },
-      ]
-    : [
-        { to: '/login', english: 'Login', chinese: '登录' },
-        { to: '/register', english: 'Register', chinese: '注册' },
-      ],
-)
+const navigationLinks = [
+  { to: '/decks', english: 'Decks', chinese: '牌组' },
+  { to: '/listening', english: 'Listening', chinese: '听力练习' },
+  { to: '/progress', english: 'Progress', chinese: '学习进度' },
+  { to: '/history', english: 'History', chinese: '复习记录' },
+]
 
 const closeMenu = (): void => {
   menuOpen.value = false
@@ -52,9 +39,8 @@ const toggleMenu = (): void => {
 }
 
 const handleOutsideClick = (event: PointerEvent): void => {
-  if (!menuOpen.value) return
-
   if (
+    menuOpen.value &&
     event.target instanceof Node &&
     !menuElement.value?.contains(event.target)
   ) {
@@ -63,7 +49,9 @@ const handleOutsideClick = (event: PointerEvent): void => {
 }
 
 const handleKeydown = (event: KeyboardEvent): void => {
-  if (event.key === 'Escape') closeMenu()
+  if (event.key === 'Escape') {
+    closeMenu()
+  }
 }
 
 const handleLogout = async (): Promise<void> => {
@@ -74,7 +62,7 @@ const handleLogout = async (): Promise<void> => {
 
 watch(
   () => route.fullPath,
-  closeMenu,
+  () => closeMenu(),
 )
 
 onMounted(() => {
@@ -87,10 +75,8 @@ onMounted(() => {
 
     if (!user) return
 
-    const userRef = dbRef(db, `users/${user.uid}`)
-
     unsubscribeUser = onValue(
-      userRef,
+      dbRef(db, `users/${user.uid}`),
       (snapshot) => {
         const userData = snapshot.val() as {
           givenName?: string
@@ -126,7 +112,7 @@ onUnmounted(() => {
 </script>
 
 <template>
-  <header class="top-nav">
+  <header class="top-nav content-container">
     <RouterLink
       to="/"
       class="branding"
@@ -146,27 +132,43 @@ onUnmounted(() => {
 
     <nav class="desktop-nav" aria-label="Main navigation">
       <ul>
-        <li v-for="link in navigationLinks" :key="link.to">
-          <RouterLink :to="link.to" class="nav-link">
-            <span class="original">{{ link.english }}</span>
-            <span
-              class="translated"
-              lang="zh-Hans"
-              aria-hidden="true"
-            >
-              {{ link.chinese }}
+        <li v-if="!isLoggedIn">
+          <RouterLink to="/login" class="nav-link">
+            <span class="original">Login</span>
+            <span class="translated" lang="zh-Hans" aria-hidden="true">
+              登录
             </span>
           </RouterLink>
         </li>
 
-        <li v-if="isLoggedIn">
-          <button type="button" class="nav-link" @click="handleLogout">
-            <span class="original">Logout</span>
+        <li v-if="!isLoggedIn">
+          <RouterLink to="/register" class="nav-link">
+            <span class="original">Register</span>
             <span class="translated" lang="zh-Hans" aria-hidden="true">
-              登出
+              注册
             </span>
-          </button>
+          </RouterLink>
         </li>
+
+        <template v-if="isLoggedIn">
+          <li v-for="link in navigationLinks" :key="link.to">
+            <RouterLink :to="link.to" class="nav-link">
+              <span class="original">{{ link.english }}</span>
+              <span class="translated" lang="zh-Hans" aria-hidden="true">
+                {{ link.chinese }}
+              </span>
+            </RouterLink>
+          </li>
+
+          <li>
+            <button type="button" class="nav-link" @click="handleLogout">
+              <span class="original">Logout</span>
+              <span class="translated" lang="zh-Hans" aria-hidden="true">
+                登出
+              </span>
+            </button>
+          </li>
+        </template>
       </ul>
     </nav>
 
@@ -219,28 +221,38 @@ onUnmounted(() => {
           class="mobile-dropdown"
           aria-label="Mobile navigation"
         >
-          <RouterLink
-            v-for="link in navigationLinks"
-            :key="link.to"
-            :to="link.to"
-            @click="closeMenu"
-          >
-            <span>{{ link.english }}</span>
+          <template v-if="!isLoggedIn">
+            <RouterLink to="/login" @click="closeMenu">
+              <span>Login</span>
+              <span lang="zh-Hans">登录</span>
+            </RouterLink>
 
-            <span lang="zh-Hans">
-              {{ link.chinese }}
-            </span>
-          </RouterLink>
+            <RouterLink to="/register" @click="closeMenu">
+              <span>Register</span>
+              <span lang="zh-Hans">注册</span>
+            </RouterLink>
+          </template>
 
-          <button
-            v-if="isLoggedIn"
-            type="button"
-            class="mobile-logout"
-            @click="handleLogout"
-          >
-            <span>Logout</span>
-            <span lang="zh-Hans">登出</span>
-          </button>
+          <template v-else>
+            <RouterLink
+              v-for="link in navigationLinks"
+              :key="link.to"
+              :to="link.to"
+              @click="closeMenu"
+            >
+              <span>{{ link.english }}</span>
+              <span lang="zh-Hans">{{ link.chinese }}</span>
+            </RouterLink>
+
+            <button
+              type="button"
+              class="mobile-logout"
+              @click="handleLogout"
+            >
+              <span>Logout</span>
+              <span lang="zh-Hans">登出</span>
+            </button>
+          </template>
         </nav>
       </div>
     </div>
@@ -253,13 +265,14 @@ onUnmounted(() => {
   z-index: 100;
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  flex-wrap: wrap;
   gap: 1rem;
   width: 100%;
-  padding: 1rem;
+  box-sizing: border-box;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   color: var(--color-text);
   font-family: var(--font-ui);
+  overflow: visible;
 }
 
 .branding {
@@ -289,8 +302,13 @@ onUnmounted(() => {
   color: var(--color-text-muted);
 }
 
+.desktop-nav {
+  margin-left: auto;
+}
+
 .desktop-nav ul {
   display: flex;
+  align-items: center;
   flex-wrap: wrap;
   gap: 0.4rem;
   margin: 0;
@@ -344,7 +362,7 @@ onUnmounted(() => {
 }
 
 .nav-link.router-link-active {
-  background: rgb(from var(--color-primary) r g b / 12%);
+  background: rgb(from var(--color-text) r g b / 10%);
 }
 
 .nav-right {
@@ -414,7 +432,7 @@ onUnmounted(() => {
 .mobile-dropdown a:hover,
 .mobile-logout:hover,
 .mobile-dropdown a.router-link-active {
-  background: rgb(from var(--color-primary) r g b / 15%);
+  background: rgb(from var(--color-text) r g b / 10%);
 }
 
 .mobile-dropdown [lang='zh-Hans'] {
@@ -422,13 +440,23 @@ onUnmounted(() => {
   color: var(--color-text-muted);
 }
 
+@media (min-width: 851px) {
+  .nav-right {
+    display: none;
+  }
+}
+
 @media (max-width: 850px) {
   .top-nav {
-    flex-wrap: nowrap;
+    justify-content: space-between;
   }
 
   .desktop-nav {
     display: none;
+  }
+
+  .nav-right {
+    margin-left: auto;
   }
 
   .mobile-menu {
