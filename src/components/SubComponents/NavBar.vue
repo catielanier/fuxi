@@ -62,7 +62,7 @@ const handleLogout = async (): Promise<void> => {
 
 watch(
   () => route.fullPath,
-  () => closeMenu(),
+  closeMenu,
 )
 
 onMounted(() => {
@@ -161,7 +161,11 @@ onUnmounted(() => {
           </li>
 
           <li>
-            <button type="button" class="nav-link" @click="handleLogout">
+            <button
+              type="button"
+              class="nav-link"
+              @click="handleLogout"
+            >
               <span class="original">Logout</span>
               <span class="translated" lang="zh-Hans" aria-hidden="true">
                 登出
@@ -270,6 +274,7 @@ onUnmounted(() => {
   box-sizing: border-box;
   padding-top: 1rem;
   padding-bottom: 1rem;
+  background: transparent;
   color: var(--color-text);
   font-family: var(--font-ui);
   overflow: visible;
@@ -313,10 +318,8 @@ onUnmounted(() => {
   gap: 0.4rem;
   margin: 0;
   padding: 0.5rem;
-  border: 1px solid var(--color-border);
   border-radius: 0.75rem;
-  background: rgb(from var(--color-background) r g b / 78%);
-  backdrop-filter: blur(12px);
+  background-color: var(--color-background);
   list-style: none;
 }
 
@@ -388,7 +391,7 @@ onUnmounted(() => {
   height: 2.75rem;
   border: 1px solid var(--color-border);
   border-radius: 0.5rem;
-  background: rgb(from var(--color-background) r g b / 85%);
+  background: var(--color-background);
   color: var(--color-text);
   cursor: pointer;
 }
@@ -406,8 +409,7 @@ onUnmounted(() => {
   padding: 0.5rem;
   border: 1px solid var(--color-border);
   border-radius: 0.75rem;
-  background: rgb(from var(--color-background) r g b / 96%);
-  backdrop-filter: blur(16px);
+  background: var(--color-background);
   box-shadow: 0 12px 36px rgb(0 0 0 / 0.2);
 }
 
