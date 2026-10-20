@@ -47,6 +47,7 @@ export interface QuizCardResult {
 }
 
 export interface QuizResult {
+  mode?: 'reading'
   deckId: string
   deckTitle: string
   startedAt: string
@@ -63,3 +64,37 @@ export interface ProgressPoint {
   totalPoints: number
   percentage: number
 }
+
+export type QuizMode = 'reading' | 'listening'
+
+export interface ListeningAnswer {
+  hanzi: string
+  english: string[]
+}
+
+export interface ListeningQuestion {
+  id: string
+  pinyin: string
+  audio: string
+  answers: ListeningAnswer[]
+}
+
+export interface ListeningCardResult {
+  questionId: string
+  audio: string
+  submitted: string
+  correct: boolean
+  acceptedAnswers: ListeningAnswer[]
+}
+
+export interface ListeningQuizResult {
+  mode: 'listening'
+  deckId: string
+  deckTitle: string
+  startedAt: string
+  completedAt: string
+  totalQuestions: number
+  results: ListeningCardResult[]
+}
+
+export type SavedQuizResult = QuizResult | ListeningQuizResult

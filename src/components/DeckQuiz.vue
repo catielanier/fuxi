@@ -43,20 +43,33 @@ const startedAt = ref('')
 
 const quizCardElement = ref<InstanceType<typeof QuizCard> | null>(null)
 
-const shuffledCards = ref<{ card: VocabularyCard; originalIndex: number }[]>([])
+const shuffledCards = ref<
+  { card: VocabularyCard; originalIndex: number }[]
+>([])
 
-const currentEntry = computed(() => shuffledCards.value[currentIndex.value] ?? null)
+let completed = false
+let requestVersion = 0
 
-const currentCard = computed(() => currentEntry.value?.card ?? null)
+const currentEntry = computed(
+  () => shuffledCards.value[currentIndex.value] ?? null,
+)
+
+const currentCard = computed(
+  () => currentEntry.value?.card ?? null,
+)
 
 const totalCards = computed(() => shuffledCards.value.length)
 
 const progress = computed(() =>
-  totalCards.value ? Math.round((currentIndex.value / totalCards.value) * 100) : 0,
+  totalCards.value
+    ? Math.round((currentIndex.value / totalCards.value) * 100)
+    : 0,
 )
 
 const currentResult = computed(() =>
-  stage.value === 'pinyin' ? pinyinResult.value : englishResult.value,
+  stage.value === 'pinyin'
+    ? pinyinResult.value
+    : englishResult.value,
 )
 
 const normalizePinyin = (value: string): string =>
@@ -102,8 +115,15 @@ const focusInput = async (): Promise<void> => {
 }
 
 const submitPinyin = (): void => {
-  if (!currentCard.value || answered.value || isSaving.value) return
-  if (!pinyinInput.value.trim()) return
+  if (
+    !currentCard.value ||
+    answered.value ||
+    isSaving.value ||
+    completed ||
+    !pinyinInput.value.trim()
+  ) {
+    return
+  }
 
   let submitted: string
 
@@ -121,15 +141,23 @@ const submitPinyin = (): void => {
   pinyinResult.value = {
     submitted,
     expected: [expected],
-    correct: normalizePinyin(submitted) === normalizePinyin(expected),
+    correct:
+      normalizePinyin(submitted) === normalizePinyin(expected),
   }
 
   answered.value = true
 }
 
 const submitEnglish = (): void => {
-  if (!currentCard.value || answered.value || isSaving.value) return
-  if (!englishInput.value.trim()) return
+  if (
+    !currentCard.value ||
+    answered.value ||
+    isSaving.value ||
+    completed ||
+    !englishInput.value.trim()
+  ) {
+    return
+  }
 
   const submitted = englishInput.value.trim()
   const expected = currentCard.value.english_answers
@@ -138,7 +166,8 @@ const submitEnglish = (): void => {
     submitted,
     expected: [...expected],
     correct: expected.some(
-      (answer) => normalizeEnglish(answer) === normalizeEnglish(submitted),
+      (answer) =>
+        normalizeEnglish(answer) === normalizeEnglish(submitted),
     ),
   }
 
@@ -155,18 +184,34 @@ const submitAnswer = (): void => {
 }
 
 const completeQuiz = async (): Promise<void> => {
-  if (!deck.value || isSaving.value) return
+  if (!deck.value || isSaving.value || completed) {
+    return
+  }
 
   isSaving.value = true
   error.value = ''
 
   const result: QuizResult = {
+    mode: 'reading',
     deckId: deck.value.id,
     deckTitle: deck.value.title,
     startedAt: startedAt.value,
     completedAt: new Date().toISOString(),
     totalCards: totalCards.value,
-    results: results.value,
+    results: results.value.map((card) => ({
+      cardIndex: card.cardIndex,
+      hanzi: card.hanzi,
+      pinyin: {
+        submitted: card.pinyin.submitted,
+        expected: [...card.pinyin.expected],
+        correct: card.pinyin.correct,
+      },
+      english: {
+        submitted: card.english.submitted,
+        expected: [...card.english.expected],
+        correct: card.english.correct,
+      },
+    })),
   }
 
   try {
@@ -175,8 +220,10 @@ const completeQuiz = async (): Promise<void> => {
 
     if (user) {
       const database = getDatabase(firebase)
-
-      const resultsRef = dbRef(database, `users/${user.uid}/results`)
+      const resultsRef = dbRef(
+        database,
+        `users/${user.uid}/results`,
+      )
 
       const newResultRef = push(resultsRef)
 
@@ -186,11 +233,17 @@ const completeQuiz = async (): Promise<void> => {
 
       await set(newResultRef, result)
 
+      completed = true
+
       await router.push({
         name: 'result',
-        params: { resultId: newResultRef.key },
+        params: {
+          resultId: newResultRef.key,
+        },
       })
     } else {
+      completed = true
+
       await router.push({
         name: 'results',
         state: {
@@ -199,14 +252,24 @@ const completeQuiz = async (): Promise<void> => {
       })
     }
   } catch (err) {
-    error.value = err instanceof Error ? err.message : 'Unable to save your results.'
+    error.value =
+      err instanceof Error
+        ? err.message
+        : 'Unable to save your results.'
   } finally {
     isSaving.value = false
   }
 }
 
 const nextStage = async (): Promise<void> => {
-  if (!answered.value || !currentCard.value || isSaving.value) return
+  if (
+    !answered.value ||
+    !currentCard.value ||
+    isSaving.value ||
+    completed
+  ) {
+    return
+  }
 
   if (stage.value === 'pinyin') {
     stage.value = 'english'
@@ -217,27 +280,33 @@ const nextStage = async (): Promise<void> => {
     return
   }
 
-  if (!pinyinResult.value || !englishResult.value) return
-  if (!currentEntry.value) return
-
-  if (currentIndex.value + 1 >= totalCards.value) {
-    results.value.push({
-      cardIndex: currentEntry.value.originalIndex,
-      hanzi: currentCard.value.hanzi,
-      pinyin: { ...pinyinResult.value },
-      english: { ...englishResult.value },
-    })
-
-    await completeQuiz()
+  if (
+    !pinyinResult.value ||
+    !englishResult.value ||
+    !currentEntry.value
+  ) {
     return
   }
 
-  results.value.push({
-    cardIndex: currentEntry.value.originalIndex,
-    hanzi: currentCard.value.hanzi,
-    pinyin: { ...pinyinResult.value },
-    english: { ...englishResult.value },
-  })
+  if (results.value.length <= currentIndex.value) {
+    results.value.push({
+      cardIndex: currentEntry.value.originalIndex,
+      hanzi: currentCard.value.hanzi,
+      pinyin: {
+        ...pinyinResult.value,
+        expected: [...pinyinResult.value.expected],
+      },
+      english: {
+        ...englishResult.value,
+        expected: [...englishResult.value.expected],
+      },
+    })
+  }
+
+  if (currentIndex.value + 1 >= totalCards.value) {
+    await completeQuiz()
+    return
+  }
 
   currentIndex.value++
   resetCard()
@@ -246,8 +315,13 @@ const nextStage = async (): Promise<void> => {
   await focusInput()
 }
 
-const loadDeck = async (deckId: string, signal?: AbortSignal): Promise<void> => {
+const loadDeck = async (
+  deckId: string,
+  signal: AbortSignal,
+  version: number,
+): Promise<void> => {
   isLoading.value = true
+  isSaving.value = false
   error.value = ''
 
   deck.value = null
@@ -257,28 +331,42 @@ const loadDeck = async (deckId: string, signal?: AbortSignal): Promise<void> => 
   results.value = []
   currentIndex.value = 0
 
+  completed = false
+  startedAt.value = ''
+
   resetCard()
 
   try {
-    const manifestResponse = await fetch(`${import.meta.env.BASE_URL}deck-manifest.json`, {
-      signal,
-    })
+    const manifestResponse = await fetch(
+      `${import.meta.env.BASE_URL}deck-manifest.json`,
+      { signal },
+    )
 
     if (!manifestResponse.ok) {
       throw new Error('Unable to load deck manifest.')
     }
 
-    const manifest: DeckManifest = await manifestResponse.json()
+    const manifest: DeckManifest =
+      await manifestResponse.json()
 
-    const selectedDeck = manifest.decks.find((item) => item.id === deckId)
+    const selectedDeck = manifest.decks.find(
+      (item) => item.id === deckId,
+    )
 
     if (!selectedDeck) {
       throw new Error(`Deck "${deckId}" not found.`)
     }
 
-    const deckResponse = await fetch(`${import.meta.env.BASE_URL}${selectedDeck.filename}`, {
-      signal,
-    })
+    const relativePath = selectedDeck.filename.replace(/^\/+/, '')
+
+    const deckPath = relativePath.startsWith('decks/')
+      ? relativePath
+      : `decks/${relativePath}`
+
+    const deckResponse = await fetch(
+      `${import.meta.env.BASE_URL}${deckPath}`,
+      { signal },
+    )
 
     if (!deckResponse.ok) {
       throw new Error(`Unable to load ${selectedDeck.title}.`)
@@ -286,7 +374,9 @@ const loadDeck = async (deckId: string, signal?: AbortSignal): Promise<void> => 
 
     const data: VocabularyDeck = await deckResponse.json()
 
-    if (signal?.aborted) return
+    if (signal.aborted || version !== requestVersion) {
+      return
+    }
 
     if (data.id !== selectedDeck.id) {
       throw new Error('Deck ID does not match its manifest.')
@@ -302,11 +392,16 @@ const loadDeck = async (deckId: string, signal?: AbortSignal): Promise<void> => 
 
     startedAt.value = new Date().toISOString()
   } catch (err) {
-    if (signal?.aborted) return
+    if (signal.aborted || version !== requestVersion) {
+      return
+    }
 
-    error.value = err instanceof Error ? err.message : 'Unable to load deck.'
+    error.value =
+      err instanceof Error
+        ? err.message
+        : 'Unable to load deck.'
   } finally {
-    if (!signal?.aborted) {
+    if (!signal.aborted && version === requestVersion) {
       isLoading.value = false
 
       if (currentCard.value && deck.value) {
@@ -319,12 +414,19 @@ const loadDeck = async (deckId: string, signal?: AbortSignal): Promise<void> => 
 watch(
   () => route.params.deckId,
   (deckId, _, onCleanup) => {
+    const version = ++requestVersion
     const controller = new AbortController()
 
     onCleanup(() => controller.abort())
 
     if (typeof deckId === 'string') {
-      void loadDeck(deckId, controller.signal)
+      void loadDeck(deckId, controller.signal, version)
+    } else {
+      deck.value = null
+      vocabulary.value = null
+      shuffledCards.value = []
+      isLoading.value = false
+      error.value = 'No vocabulary deck was selected.'
     }
   },
   { immediate: true },

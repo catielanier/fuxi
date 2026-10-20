@@ -4,6 +4,7 @@ import { useRouter } from 'vue-router'
 import { getAuth, onAuthStateChanged } from 'firebase/auth'
 import { getDatabase, ref as dbRef, onValue } from 'firebase/database'
 import firebase from '@/utils/firebase'
+import { getVisibleDecks } from '@/utils/deckVisibility'
 import {
   ComboboxRoot,
   ComboboxAnchor,
@@ -41,29 +42,14 @@ const isAuthLoading = ref(true)
 let unsubscribeAuth: (() => void) | null = null
 let unsubscribeUser: (() => void) | null = null
 
-const restrictedDeckIds = new Set([
-  'lgbtq_I',
-  'lgbtq_II',
-  'lgbtq_III',
-  'clothes_III',
-  'sexual_vocabulary_I',
-  'sexual_vocabulary_II',
-  'insults_I',
-])
-
 const visibleDecks = computed(() =>
-  decks.value
-    .filter((deck: Deck) => !restrictedDeckIds.has(deck.id) || shouldShowLGBT.value)
-    .sort((a, b) =>
-      a.title.localeCompare(b.title, 'en', {
-        numeric: true,
-        sensitivity: 'base',
-      }),
-    ),
+  getVisibleDecks(decks.value, shouldShowLGBT.value),
 )
 
 const selectedDeck = computed(() =>
-  visibleDecks.value.find((deck: Deck) => deck.id === selectedDeckId.value),
+  visibleDecks.value.find(
+    (deck: Deck) => deck.id === selectedDeckId.value,
+  ),
 )
 
 const filteredDecks = computed(() => {
@@ -74,8 +60,8 @@ const filteredDecks = computed(() => {
   if (!query) return visibleDecks.value
 
   return visibleDecks.value.filter((deck: Deck) =>
-    [deck.title, deck.category, deck.description].some((value) =>
-      value.toLowerCase().includes(query),
+    [deck.title, deck.category, deck.description].some(
+      (value) => value.toLowerCase().includes(query),
     ),
   )
 })
@@ -103,7 +89,9 @@ const handleSearchInput = (): void => {
 watch(visibleDecks, () => {
   if (
     selectedDeckId.value &&
-    !visibleDecks.value.some((deck: Deck) => deck.id === selectedDeckId.value)
+    !visibleDecks.value.some(
+      (deck: Deck) => deck.id === selectedDeckId.value,
+    )
   ) {
     selectedDeckId.value = undefined
     searchTerm.value = ''
@@ -120,7 +108,9 @@ const loadDecks = async (): Promise<void> => {
   error.value = ''
 
   try {
-    const response = await fetch(`${import.meta.env.BASE_URL}deck-manifest.json`)
+    const response = await fetch(
+      `${import.meta.env.BASE_URL}deck-manifest.json`,
+    )
 
     if (!response.ok) {
       throw new Error(`Failed to load decks: ${response.status}`)
@@ -130,7 +120,10 @@ const loadDecks = async (): Promise<void> => {
 
     decks.value = manifest.decks
   } catch (err) {
-    error.value = err instanceof Error ? err.message : 'Unable to load decks'
+    error.value =
+      err instanceof Error
+        ? err.message
+        : 'Unable to load decks'
   } finally {
     isLoading.value = false
   }
@@ -152,7 +145,10 @@ const initializeUserPreferences = (): void => {
 
       isAuthLoading.value = true
 
-      const preferenceRef = dbRef(db, `users/${user.uid}/shouldShowLGBT`)
+      const preferenceRef = dbRef(
+        db,
+        `users/${user.uid}/shouldShowLGBT`,
+      )
 
       unsubscribeUser = onValue(
         preferenceRef,
@@ -161,7 +157,10 @@ const initializeUserPreferences = (): void => {
           isAuthLoading.value = false
         },
         (err) => {
-          console.error('Failed to load deck preferences:', err)
+          console.error(
+            'Failed to load deck preferences:',
+            err,
+          )
 
           shouldShowLGBT.value = false
           isAuthLoading.value = false
@@ -207,14 +206,18 @@ onUnmounted(() => {
     <section class="content-container decks">
       <h3><span>牌组</span>·Decks</h3>
 
-      <p v-if="isLoading || isAuthLoading">Loading decks...</p>
+      <p v-if="isLoading || isAuthLoading">
+        Loading decks...
+      </p>
 
       <p v-else-if="error" role="alert">
         {{ error }}
       </p>
 
       <div v-else class="deck-selection">
-        <label for="deck-search"> Choose a vocabulary deck </label>
+        <label for="deck-search">
+          Choose a vocabulary deck
+        </label>
 
         <ComboboxRoot
           v-model="selectedDeckId"
@@ -230,12 +233,18 @@ onUnmounted(() => {
               class="deck-input"
               placeholder="Search vocabulary decks..."
               :display-value="
-                (id) => visibleDecks.find((deck: Deck) => deck.id === id)?.title ?? ''
+                (id) =>
+                  visibleDecks.find(
+                    (deck: Deck) => deck.id === id,
+                  )?.title ?? ''
               "
               @input="handleSearchInput"
             />
 
-            <ComboboxTrigger class="deck-trigger" aria-label="Show vocabulary decks">
+            <ComboboxTrigger
+              class="deck-trigger"
+              aria-label="Show vocabulary decks"
+            >
               <svg
                 width="16"
                 height="16"
@@ -251,9 +260,15 @@ onUnmounted(() => {
           </ComboboxAnchor>
 
           <ComboboxPortal>
-            <ComboboxContent position="popper" class="deck-dropdown" :side-offset="6">
+            <ComboboxContent
+              position="popper"
+              class="deck-dropdown"
+              :side-offset="6"
+            >
               <ComboboxViewport class="deck-options">
-                <ComboboxEmpty class="deck-empty"> No matching decks found. </ComboboxEmpty>
+                <ComboboxEmpty class="deck-empty">
+                  No matching decks found.
+                </ComboboxEmpty>
 
                 <ComboboxItem
                   v-for="deck in filteredDecks"
@@ -266,7 +281,9 @@ onUnmounted(() => {
                     {{ deck.title }}
                   </span>
 
-                  <span class="deck-option-count"> {{ deck.cards }} cards </span>
+                  <span class="deck-option-count">
+                    {{ deck.cards }} cards
+                  </span>
                 </ComboboxItem>
               </ComboboxViewport>
             </ComboboxContent>
@@ -278,11 +295,18 @@ onUnmounted(() => {
 
           <p>{{ selectedDeck.description }}</p>
 
-          <span> {{ selectedDeck.cards }} vocabulary cards </span>
+          <span>
+            {{ selectedDeck.cards }} vocabulary cards
+          </span>
         </div>
 
         <div class="deck-actions">
-          <button class="start-button" type="button" :disabled="!selectedDeck" @click="startDeck">
+          <button
+            class="start-button"
+            type="button"
+            :disabled="!selectedDeck || isAuthLoading"
+            @click="startDeck"
+          >
             Start Studying
           </button>
 
@@ -425,7 +449,6 @@ h3 span {
   font: inherit;
   text-decoration: none;
   cursor: pointer;
-
   transition:
     background-color 0.2s ease,
     color 0.2s ease;
@@ -443,65 +466,4 @@ h3 span {
 
 @media (max-width: 640px) {
   .deck-actions {
-    flex-direction: column;
-    align-items: stretch;
-  }
-
-  .deck-actions > * {
-    width: 100%;
-    text-align: center;
-  }
-}
-</style>
-
-<style>
-.deck-dropdown {
-  z-index: 1000;
-  width: var(--reka-combobox-trigger-width);
-  max-height: min(22rem, var(--reka-combobox-content-available-height));
-  overflow: hidden;
-  border: 1px solid var(--color-text);
-  border-radius: 0.5rem;
-  background: var(--color-background);
-  color: var(--color-text);
-  box-shadow: 0 6px 20px rgb(0 0 0 / 0.12);
-}
-
-.deck-options {
-  max-height: inherit;
-  overflow-y: auto;
-  padding: 0.35rem;
-}
-
-.deck-option {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 1rem;
-  padding: 0.75rem;
-  border-radius: 0.35rem;
-  cursor: pointer;
-  outline: none;
-}
-
-.deck-option[data-highlighted] {
-  background: var(--color-text);
-  color: var(--color-background);
-}
-
-.deck-option[data-state='checked'] .deck-option-title {
-  font-weight: 700;
-}
-
-.deck-option-count {
-  flex-shrink: 0;
-  font-size: 0.8rem;
-  opacity: 0.65;
-}
-
-.deck-empty {
-  padding: 1rem;
-  text-align: center;
-  opacity: 0.7;
-}
-</style>
+    flex-direction:

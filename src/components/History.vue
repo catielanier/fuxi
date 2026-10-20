@@ -4,87 +4,115 @@ import { RouterLink } from 'vue-router'
 import { getAuth, onAuthStateChanged } from 'firebase/auth'
 import { getDatabase, onValue, ref as dbRef } from 'firebase/database'
 import firebase from '@/utils/firebase'
-import type { QuizResult } from '@/data/types'
+import type {
+  ListeningQuizResult,
+  QuizResult,
+  SavedQuizResult,
+} from '@/data/types'
 
-interface HistoryEntry extends QuizResult {
-  resultId: string
-}
-
-interface HistorySummary extends HistoryEntry {
+interface HistoryEntry {
+  id: string
+  result: SavedQuizResult
+  mode: 'reading' | 'listening'
   score: number
-  totalPoints: number
-  percentage: number
-  correctCards: number
-  partialCards: number
-  incorrectCards: number
+  correct: number
+  total: number
+  fullyCorrectCards?: number
+  partiallyCorrectCards?: number
 }
 
-const history = ref<HistoryEntry[]>([])
+const auth = getAuth(firebase)
+const db = getDatabase(firebase)
+
+const entries = ref<HistoryEntry[]>([])
+const isLoggedIn = ref(false)
 const isLoading = ref(true)
 const error = ref('')
-const isLoggedIn = ref(false)
 
 let unsubscribeAuth: (() => void) | null = null
 let unsubscribeResults: (() => void) | null = null
 
-const summaries = computed<HistorySummary[]>(() => {
-  return history.value
-    .map((entry) => {
-      const cards = entry.results ?? []
-
-      const correctPinyin = cards.filter((card) => card.pinyin.correct).length
-
-      const correctEnglish = cards.filter((card) => card.english.correct).length
-
-      const correctCards = cards.filter(
-        (card) => card.pinyin.correct && card.english.correct,
-      ).length
-
-      const partialCards = cards.filter(
-        (card) => card.pinyin.correct !== card.english.correct,
-      ).length
-
-      const incorrectCards = cards.filter(
-        (card) => !card.pinyin.correct && !card.english.correct,
-      ).length
-
-      const score = correctPinyin + correctEnglish
-      const totalPoints = entry.totalCards * 2
-
-      return {
-        ...entry,
-        score,
-        totalPoints,
-        percentage: totalPoints ? Math.round((score / totalPoints) * 100) : 0,
-        correctCards,
-        partialCards,
-        incorrectCards,
-      }
-    })
-    .sort((a, b) => Date.parse(b.completedAt) - Date.parse(a.completedAt))
-})
-
-const formatDate = (date: string): string => {
-  return new Intl.DateTimeFormat('en-CA', {
+const formatDate = (date: string): string =>
+  new Intl.DateTimeFormat('en-CA', {
     dateStyle: 'medium',
     timeStyle: 'short',
   }).format(new Date(date))
+
+const createHistoryEntry = (
+  id: string,
+  result: SavedQuizResult,
+): HistoryEntry => {
+  if (result.mode === 'listening') {
+    const listening = result as ListeningQuizResult
+    const correct = listening.results.filter(
+      (answer) => answer.correct,
+    ).length
+
+    return {
+      id,
+      result,
+      mode: 'listening',
+      correct,
+      total: listening.totalQuestions,
+      score: listening.totalQuestions
+        ? (correct / listening.totalQuestions) * 100
+        : 0,
+    }
+  }
+
+  const reading = result as QuizResult
+
+  const correctPinyin = reading.results.filter(
+    (card) => card.pinyin.correct,
+  ).length
+
+  const correctEnglish = reading.results.filter(
+    (card) => card.english.correct,
+  ).length
+
+  const correct = correctPinyin + correctEnglish
+  const total = reading.totalCards * 2
+
+  return {
+    id,
+    result,
+    mode: 'reading',
+    correct,
+    total,
+    score: total ? (correct / total) * 100 : 0,
+    fullyCorrectCards: reading.results.filter(
+      (card) => card.pinyin.correct && card.english.correct,
+    ).length,
+    partiallyCorrectCards: reading.results.filter(
+      (card) => card.pinyin.correct !== card.english.correct,
+    ).length,
+  }
 }
 
-onMounted(() => {
-  const auth = getAuth(firebase)
-  const database = getDatabase(firebase)
+const sortedEntries = computed(() =>
+  [...entries.value].sort(
+    (a, b) =>
+      Date.parse(b.result.completedAt) -
+      Date.parse(a.result.completedAt),
+  ),
+)
 
+const getResultRoute = (entry: HistoryEntry) => ({
+  name: entry.mode === 'listening'
+    ? 'listening-result'
+    : 'result',
+  params: { resultId: entry.id },
+})
+
+onMounted(() => {
   unsubscribeAuth = onAuthStateChanged(
     auth,
     (user) => {
-      // Remove any previous user's database listener.
       unsubscribeResults?.()
       unsubscribeResults = null
 
-      history.value = []
+      entries.value = []
       error.value = ''
-
       isLoggedIn.value = user !== null
 
       if (!user) {
@@ -94,34 +122,26 @@ onMounted(() => {
 
       isLoading.value = true
 
-      const resultsRef = dbRef(database, `users/${user.uid}/results`)
-
       unsubscribeResults = onValue(
-        resultsRef,
+        dbRef(db, `users/${user.uid}/results`),
         (snapshot) => {
-          if (!snapshot.exists()) {
-            history.value = []
-          } else {
-            const entries: HistoryEntry[] = []
+          const loaded: HistoryEntry[] = []
 
-            snapshot.forEach((child) => {
-              const result = child.val() as QuizResult
+          snapshot.forEach((child) => {
+            if (!child.key) return
 
-              entries.push({
-                ...result,
-                resultId: child.key!,
-              })
-            })
+            const result = child.val() as SavedQuizResult
 
-            history.value = entries
-          }
+            loaded.push(
+              createHistoryEntry(child.key, result),
+            )
+          })
 
-          error.value = ''
+          entries.value = loaded
           isLoading.value = false
         },
         (err) => {
           error.value = err.message
-          history.value = []
           isLoading.value = false
         },
       )
@@ -134,90 +154,86 @@ onMounted(() => {
 })
 
 onUnmounted(() => {
-  unsubscribeResults?.()
   unsubscribeAuth?.()
+  unsubscribeResults?.()
 })
 </script>
 
 <template>
   <main>
     <section class="content-container history-page">
-      <header class="history-header">
-        <h3>复习历史 · Review History</h3>
+      <h3><span>复习记录</span> · History</h3>
 
-        <p>Your completed vocabulary reviews, scores, and learning progress.</p>
-      </header>
+      <p v-if="isLoading" role="status">
+        Loading your review history...
+      </p>
 
-      <p v-if="isLoading" role="status">Loading review history...</p>
-
-      <div v-else-if="error" class="history-message" role="alert">
-        <p>{{ error }}</p>
-      </div>
+      <p v-else-if="error" role="alert">
+        {{ error }}
+      </p>
 
       <div v-else-if="!isLoggedIn" class="history-message">
-        <h4>Sign in to view your history</h4>
+        <p>Log in to view your saved review history.</p>
 
-        <p>Completed reviews are saved to your account when you're signed in.</p>
-
-        <RouterLink to="/login" class="history-button"> Login </RouterLink>
+        <RouterLink to="/login">Log In</RouterLink>
       </div>
 
-      <div v-else-if="!summaries.length" class="history-message">
-        <h4>No completed reviews yet</h4>
+      <div v-else-if="!sortedEntries.length" class="history-message">
+        <p>You haven't completed any reviews yet.</p>
 
-        <p>Finish your first vocabulary deck and your results will appear here.</p>
-
-        <RouterLink to="/decks" class="history-button"> Choose a Deck </RouterLink>
+        <RouterLink to="/decks">
+          Start Studying
+        </RouterLink>
       </div>
 
-      <template v-else>
-        <div class="history-count">
-          {{ summaries.length }}
-          {{ summaries.length === 1 ? 'review' : 'reviews' }}
-          completed
-        </div>
+      <div v-else class="history-list">
+        <RouterLink
+          v-for="entry in sortedEntries"
+          :key="entry.id"
+          :to="getResultRoute(entry)"
+          class="history-entry"
+        >
+          <div class="entry-heading">
+            <div>
+              <span class="mode-label">
+                {{ entry.mode === 'listening' ? 'Listening' : 'Reading' }}
+              </span>
 
-        <div class="history-list">
-          <RouterLink
-            v-for="entry in summaries"
-            :key="entry.resultId"
-            :to="{
-              name: 'result',
-              params: { resultId: entry.resultId },
-            }"
-            class="history-entry"
-          >
-            <div class="entry-info">
-              <h4>{{ entry.deckTitle }}</h4>
+              <h4>{{ entry.result.deckTitle }}</h4>
 
-              <time :datetime="entry.completedAt">
-                {{ formatDate(entry.completedAt) }}
-              </time>
-
-              <div class="entry-breakdown">
-                <span class="breakdown-correct"> {{ entry.correctCards }} correct </span>
-
-                <span class="breakdown-partial"> {{ entry.partialCards }} half-correct </span>
-
-                <span class="breakdown-incorrect"> {{ entry.incorrectCards }} incorrect </span>
-              </div>
-            </div>
-
-            <div class="entry-score">
-              <strong> {{ entry.score }}/{{ entry.totalPoints }} </strong>
-
-              <span class="entry-percentage"> {{ entry.percentage }}% </span>
-
-              <span class="entry-cards">
-                {{ entry.correctCards }}/{{ entry.totalCards }}
-                cards correct
+              <span class="entry-date">
+                {{ formatDate(entry.result.completedAt) }}
               </span>
             </div>
 
-            <span class="entry-arrow" aria-hidden="true"> → </span>
-          </RouterLink>
-        </div>
-      </template>
+            <strong class="entry-percentage">
+              {{ entry.score.toFixed(1) }}%
+            </strong>
+          </div>
+
+          <div class="entry-details">
+            <span>
+              {{ entry.correct }} / {{ entry.total }}
+              correct
+            </span>
+
+            <template v-if="entry.mode === 'reading'">
+              <span>
+                {{ entry.fullyCorrectCards }} fully correct cards
+              </span>
+
+              <span>
+                {{ entry.partiallyCorrectCards }} partially correct
+              </span>
+            </template>
+
+            <span v-else>
+              {{ entry.result.results.length }}
+              listening questions
+            </span>
+          </div>
+        </RouterLink>
+      </div>
     </section>
   </main>
 </template>
@@ -227,52 +243,19 @@ onUnmounted(() => {
   font-family: var(--font-ui);
 }
 
-.history-header {
-  margin-bottom: 2rem;
+h3 {
+  margin: 0 0 1.5rem;
+  font-size: 1.5rem;
 }
 
-.history-header h3 {
-  margin: 0 0 0.75rem;
+h3 span {
+  font-family: var(--font-brand);
 }
-
-.history-header p {
-  margin: 0;
-  opacity: 0.75;
-}
-
-/* Empty, error, and login states */
 
 .history-message {
-  padding: 2rem;
-  border: 1px solid var(--color-text);
+  padding: 1.5rem;
+  border: 1px solid var(--color-border);
   border-radius: 0.75rem;
-}
-
-.history-message h4 {
-  margin: 0 0 0.75rem;
-}
-
-.history-message p {
-  margin: 0 0 1.5rem;
-}
-
-.history-button {
-  display: inline-flex;
-  padding: 0.75rem 1.5rem;
-  border: 1px solid var(--color-text);
-  border-radius: 0.5rem;
-  background: var(--color-text);
-  color: var(--color-background);
-  font: inherit;
-  text-decoration: none;
-}
-
-/* Review list */
-
-.history-count {
-  margin-bottom: 1rem;
-  font-size: 0.85rem;
-  opacity: 0.7;
 }
 
 .history-list {
@@ -283,119 +266,62 @@ onUnmounted(() => {
 
 .history-entry {
   display: flex;
-  align-items: center;
-  gap: 1.5rem;
-  padding: 1.5rem;
-  border: 1px solid var(--color-text);
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1.25rem;
+  border: 1px solid var(--color-border);
   border-radius: 0.75rem;
-  background: var(--color-background);
+  background: rgb(from var(--color-surface) r g b / 75%);
   color: var(--color-text);
   text-decoration: none;
-  transition:
-    background-color 0.2s ease,
-    transform 0.2s ease;
+  transition: border-color 0.2s ease;
 }
 
 .history-entry:hover {
-  background: var(--color-background-soft);
-  transform: translateY(-2px);
+  border-color: var(--color-primary);
 }
 
-.history-entry:focus-visible {
-  outline: 2px solid var(--color-text);
-  outline-offset: 3px;
+.entry-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
 }
 
-/* Deck information */
-
-.entry-info {
-  flex: 1;
-  min-width: 0;
+.mode-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--color-primary);
 }
 
-.entry-info h4 {
-  margin: 0 0 0.5rem;
-  font-size: 1.15rem;
+.entry-heading h4 {
+  margin: 0.35rem 0;
+  font-size: 1.1rem;
 }
 
-.entry-info time {
-  display: block;
+.entry-date {
+  color: var(--color-text-muted);
   font-size: 0.85rem;
-  opacity: 0.7;
-}
-
-.entry-breakdown {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem 1rem;
-  margin-top: 1rem;
-  font-size: 0.8rem;
-}
-
-.breakdown-correct {
-  color: #28834b;
-}
-
-.breakdown-partial {
-  color: #ad802b;
-}
-
-.breakdown-incorrect {
-  color: #bc4444;
-}
-
-/* Score */
-
-.entry-score {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-  flex-shrink: 0;
-  gap: 0.25rem;
-  font-variant-numeric: tabular-nums;
-}
-
-.entry-score strong {
-  font-size: 1.6rem;
 }
 
 .entry-percentage {
-  font-size: 1rem;
-  font-weight: 600;
+  font-size: 1.75rem;
+  font-variant-numeric: tabular-nums;
 }
 
-.entry-cards {
-  font-size: 0.8rem;
-  opacity: 0.7;
+.entry-details {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.5rem;
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
 }
 
-.entry-arrow {
-  font-size: 1.5rem;
-  opacity: 0.6;
-}
-
-/* Responsive */
-
-@media (max-width: 640px) {
-  .history-entry {
-    flex-wrap: wrap;
-    gap: 1rem;
-    padding: 1rem;
-  }
-
-  .entry-info {
-    flex-basis: 100%;
-  }
-
-  .entry-score {
-    align-items: flex-start;
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-  }
-
-  .entry-arrow {
-    margin-left: auto;
+@media (max-width: 600px) {
+  .entry-percentage {
+    font-size: 1.4rem;
   }
 }
 </style>
