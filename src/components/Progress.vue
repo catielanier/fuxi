@@ -3,23 +3,23 @@ import { computed, onMounted, onUnmounted, ref } from 'vue'
 import { RouterLink } from 'vue-router'
 import { getAuth, onAuthStateChanged } from 'firebase/auth'
 import { getDatabase, get, ref as dbRef } from 'firebase/database'
-import {
-  SelectRoot,
-  SelectTrigger,
-  SelectValue,
-  SelectIcon,
-  SelectPortal,
-  SelectContent,
-  SelectViewport,
-  SelectItem,
-  SelectItemText,
-} from 'reka-ui'
 import firebase from '@/utils/firebase'
+import DeckDropdown from '@/components/SubComponents/DeckDropdown.vue'
 import ProgressChart from '@/components/SubComponents/ProgressChart.vue'
-import type { Deck, DeckManifest, QuizResult, ProgressPoint } from '@/data/types'
+import { getVisibleDecks } from '@/utils/deckVisibility'
+import type {
+  Deck,
+  DeckManifest,
+  ListeningQuizResult,
+  ProgressPoint,
+  QuizMode,
+  QuizResult,
+  SavedQuizResult,
+} from '@/data/types'
 
-interface SavedResult extends QuizResult {
+interface SavedResult {
   resultId: string
+  data: SavedQuizResult
 }
 
 const auth = getAuth(firebase)
@@ -29,6 +29,7 @@ const decks = ref<Deck[]>([])
 const results = ref<SavedResult[]>([])
 
 const selectedDeckId = ref<string>()
+const selectedMode = ref<QuizMode>('reading')
 
 const shouldShowLGBT = ref(false)
 const isLoggedIn = ref(false)
@@ -38,78 +39,140 @@ const error = ref('')
 let unsubscribeAuth: (() => void) | null = null
 let requestVersion = 0
 
-const restrictedDeckIds = new Set([
-  'lgbtq_I',
-  'lgbtq_II',
-  'lgbtq_III',
-  'clothes_III',
-  'sexual_vocabulary_I',
-  'sexual_vocabulary_II',
-  'insults_I',
-])
-
 const visibleDecks = computed(() =>
-  decks.value
-    .filter((deck: Deck) => shouldShowLGBT.value || !restrictedDeckIds.has(deck.id))
-    .sort((a, b) =>
-      a.title.localeCompare(b.title, 'en', {
-        numeric: true,
-        sensitivity: 'base',
-      }),
-    ),
+  getVisibleDecks(decks.value, shouldShowLGBT.value),
+)
+
+const dropdownOptions = computed(() =>
+  visibleDecks.value.map((deck) => ({
+    value: deck.id,
+    label: deck.title,
+    description: deck.description,
+    detail: `${deck.cards} cards`,
+  })),
 )
 
 const selectedDeck = computed(() =>
-  visibleDecks.value.find((deck) => deck.id === selectedDeckId.value),
+  visibleDecks.value.find(
+    (deck) => deck.id === selectedDeckId.value,
+  ),
 )
 
 const progressPoints = computed<ProgressPoint[]>(() => {
   if (!selectedDeck.value) return []
 
-  return results.value
-    .filter((result) => result.deckId === selectedDeck.value?.id)
-    .map((result) => {
-      const cards = result.results ?? []
+  const matching = results.value.filter(({ data }) => {
+    const mode = data.mode ?? 'reading'
 
-      const correctAnswers = cards.reduce((total, card) => {
-        return total + Number(card.pinyin.correct) + Number(card.english.correct)
-      }, 0)
+    return (
+      data.deckId === selectedDeck.value?.id &&
+      mode === selectedMode.value
+    )
+  })
 
-      const totalPoints = result.totalCards * 2
+  return matching
+    .map(({ resultId, data }): ProgressPoint => {
+      if (data.mode === 'listening') {
+        const listening = data as ListeningQuizResult
+
+        const correct = listening.results.filter(
+          (answer) => answer.correct,
+        ).length
+
+        const total = listening.totalQuestions
+
+        return {
+          resultId,
+          startedAt: listening.startedAt,
+          completedAt: listening.completedAt,
+          score: correct,
+          totalPoints: total,
+          percentage: total ? (correct / total) * 100 : 0,
+        }
+      }
+
+      const reading = data as QuizResult
+
+      const correct = reading.results.reduce(
+        (total, card) =>
+          total +
+          Number(card.pinyin.correct) +
+          Number(card.english.correct),
+        0,
+      )
+
+      const total = reading.totalCards * 2
 
       return {
-        resultId: result.resultId,
-        startedAt: result.startedAt,
-        completedAt: result.completedAt,
-        score: correctAnswers,
-        totalPoints,
-        percentage: totalPoints ? (correctAnswers / totalPoints) * 100 : 0,
+        resultId,
+        startedAt: reading.startedAt,
+        completedAt: reading.completedAt,
+        score: correct,
+        totalPoints: total,
+        percentage: total ? (correct / total) * 100 : 0,
       }
     })
     .sort(
       (a, b) =>
-        Date.parse(a.startedAt) - Date.parse(b.startedAt) || a.resultId.localeCompare(b.resultId),
+        Date.parse(a.startedAt) - Date.parse(b.startedAt) ||
+        a.resultId.localeCompare(b.resultId),
     )
 })
 
-const latestPoint = computed(() => progressPoints.value.at(-1) ?? null)
+const latestPoint = computed(
+  () => progressPoints.value.at(-1) ?? null,
+)
 
-const firstPoint = computed(() => progressPoints.value[0] ?? null)
+const firstPoint = computed(
+  () => progressPoints.value[0] ?? null,
+)
 
 const improvement = computed(() => {
   if (!latestPoint.value || !firstPoint.value) return null
   if (progressPoints.value.length < 2) return null
 
-  return latestPoint.value.percentage - firstPoint.value.percentage
+  return (
+    latestPoint.value.percentage -
+    firstPoint.value.percentage
+  )
 })
 
 const averageScore = computed(() => {
   if (!progressPoints.value.length) return 0
 
-  const total = progressPoints.value.reduce((sum, point) => sum + point.percentage, 0)
+  const total = progressPoints.value.reduce(
+    (sum, point) => sum + point.percentage,
+    0,
+  )
 
   return total / progressPoints.value.length
 })
+
+const modeLabel = computed(() =>
+  selectedMode.value === 'listening'
+    ? 'Listening'
+    : 'Reading',
+)
+
+const quizRoute = computed(() => ({
+  name:
+    selectedMode.value === 'listening'
+      ? 'listening-quiz'
+      : 'quiz',
+  params: {
+    deckId: selectedDeck.value?.id ?? '',
+  },
+}))
+
+const latestResultRoute = computed(() => ({
+  name:
+    selectedMode.value === 'listening'
+      ? 'listening-result'
+      : 'result',
+  params: {
+    resultId: latestPoint.value?.resultId ?? '',
+  },
+}))
 
 const formatDate = (date: string): string =>
   new Intl.DateTimeFormat('en-CA', {
@@ -118,53 +181,68 @@ const formatDate = (date: string): string =>
   }).format(new Date(date))
 
 const loadProgress = async (uid: string): Promise<void> => {
-  const currentRequest = ++requestVersion
+  const version = ++requestVersion
 
   isLoading.value = true
   error.value = ''
 
   try {
-    const [manifestResponse, preferenceSnapshot, resultsSnapshot] = await Promise.all([
-      fetch(`${import.meta.env.BASE_URL}deck-manifest.json`),
-      get(dbRef(db, `users/${uid}/shouldShowLGBT`)),
-      get(dbRef(db, `users/${uid}/results`)),
-    ])
+    const [manifestResponse, preferenceSnapshot, resultsSnapshot] =
+      await Promise.all([
+        fetch(`${import.meta.env.BASE_URL}deck-manifest.json`),
+        get(dbRef(db, `users/${uid}/shouldShowLGBT`)),
+        get(dbRef(db, `users/${uid}/results`)),
+      ])
 
     if (!manifestResponse.ok) {
       throw new Error('Unable to load deck manifest.')
     }
 
-    const manifest: DeckManifest = await manifestResponse.json()
+    const manifest: DeckManifest =
+      await manifestResponse.json()
 
-    if (currentRequest !== requestVersion) return
+    if (version !== requestVersion) return
 
     shouldShowLGBT.value = preferenceSnapshot.val() === true
     decks.value = manifest.decks
 
     const savedResults: SavedResult[] = []
 
-    if (resultsSnapshot.exists()) {
-      resultsSnapshot.forEach((child) => {
-        if (!child.key) return
+    resultsSnapshot.forEach((child) => {
+      if (!child.key) return
 
-        const data = child.val() as QuizResult
-
-        savedResults.push({
-          ...data,
-          resultId: child.key,
-        })
+      savedResults.push({
+        resultId: child.key,
+        data: child.val() as SavedQuizResult,
       })
-    }
+    })
 
     results.value = savedResults
 
-    selectedDeckId.value = visibleDecks.value[0]?.id
-  } catch (err) {
-    if (currentRequest !== requestVersion) return
+    const mostRecent = [...savedResults].sort(
+      (a, b) =>
+        Date.parse(b.data.completedAt) -
+        Date.parse(a.data.completedAt),
+    )[0]
 
-    error.value = err instanceof Error ? err.message : 'Unable to load progress.'
+    selectedDeckId.value =
+      visibleDecks.value.find(
+        (deck) => deck.id === mostRecent?.data.deckId,
+      )?.id ?? visibleDecks.value[0]?.id
+
+    selectedMode.value =
+      mostRecent?.data.mode === 'listening'
+        ? 'listening'
+        : 'reading'
+  } catch (err) {
+    if (version !== requestVersion) return
+
+    error.value =
+      err instanceof Error
+        ? err.message
+        : 'Unable to load progress.'
   } finally {
-    if (currentRequest === requestVersion) {
+    if (version === requestVersion) {
       isLoading.value = false
     }
   }
@@ -179,6 +257,7 @@ onMounted(() => {
       decks.value = []
       results.value = []
       selectedDeckId.value = undefined
+      selectedMode.value = 'reading'
       shouldShowLGBT.value = false
       error.value = ''
 
@@ -193,7 +272,6 @@ onMounted(() => {
     },
     (err) => {
       ++requestVersion
-      isLoggedIn.value = false
       error.value = err.message
       isLoading.value = false
     },
@@ -211,7 +289,9 @@ onUnmounted(() => {
     <section class="content-container progress-page">
       <h3><span>学习进度</span> · Progress</h3>
 
-      <p v-if="isLoading" role="status">Loading your progress...</p>
+      <p v-if="isLoading" role="status">
+        Loading your progress...
+      </p>
 
       <p v-else-if="error" role="alert" class="progress-error">
         {{ error }}
@@ -220,45 +300,55 @@ onUnmounted(() => {
       <div v-else-if="!isLoggedIn" class="progress-message">
         <h4>Sign in to track your progress</h4>
 
-        <p>Create an account or log in to track your vocabulary scores over time.</p>
+        <p>
+          Log in to see how your vocabulary recognition improves
+          over time.
+        </p>
 
-        <RouterLink to="/login"> Log In </RouterLink>
+        <RouterLink to="/login">
+          Log In
+        </RouterLink>
       </div>
 
-      <div v-else-if="!visibleDecks.length" class="progress-message">
+      <div
+        v-else-if="!visibleDecks.length"
+        class="progress-message"
+      >
         <p>No vocabulary decks are available.</p>
       </div>
 
       <template v-else>
+        <div
+          class="mode-toggle"
+          role="group"
+          aria-label="Quiz mode"
+        >
+          <button
+            type="button"
+            :class="{ active: selectedMode === 'reading' }"
+            :aria-pressed="selectedMode === 'reading'"
+            @click="selectedMode = 'reading'"
+          >
+            Reading
+          </button>
+
+          <button
+            type="button"
+            :class="{ active: selectedMode === 'listening' }"
+            :aria-pressed="selectedMode === 'listening'"
+            @click="selectedMode = 'listening'"
+          >
+            Listening
+          </button>
+        </div>
+
         <div class="progress-selection">
-          <label id="progress-deck-label"> Choose a vocabulary deck </label>
-
-          <SelectRoot v-model="selectedDeckId">
-            <SelectTrigger class="progress-select" aria-labelledby="progress-deck-label">
-              <SelectValue placeholder="Select a deck..." />
-
-              <SelectIcon>
-                <span aria-hidden="true">⌄</span>
-              </SelectIcon>
-            </SelectTrigger>
-
-            <SelectPortal>
-              <SelectContent position="popper" :side-offset="6" class="progress-dropdown">
-                <SelectViewport class="progress-options">
-                  <SelectItem
-                    v-for="deck in visibleDecks"
-                    :key="deck.id"
-                    :value="deck.id"
-                    class="progress-option"
-                  >
-                    <SelectItemText>
-                      {{ deck.title }}
-                    </SelectItemText>
-                  </SelectItem>
-                </SelectViewport>
-              </SelectContent>
-            </SelectPortal>
-          </SelectRoot>
+          <DeckDropdown
+            v-model="selectedDeckId"
+            :options="dropdownOptions"
+            label="Choose a vocabulary deck"
+            placeholder="Search vocabulary decks..."
+          />
         </div>
 
         <template v-if="selectedDeck">
@@ -267,54 +357,57 @@ onUnmounted(() => {
             <p>{{ selectedDeck.description }}</p>
           </div>
 
-          <div v-if="!progressPoints.length" class="progress-message">
-            <h4>No completed reviews yet</h4>
+          <div
+            v-if="!progressPoints.length"
+            class="progress-message"
+          >
+            <h4>No {{ modeLabel.toLowerCase() }} reviews yet</h4>
 
             <p>
-              You haven't completed this deck yet. Complete a review to begin tracking your
-              progress.
+              Complete a {{ modeLabel.toLowerCase() }} review
+              to begin tracking your progress.
             </p>
 
-            <RouterLink
-              :to="{
-                name: 'quiz',
-                params: { deckId: selectedDeck.id },
-              }"
-              class="progress-button"
-            >
-              Start Studying
+            <RouterLink :to="quizRoute" class="progress-button">
+              Start {{ modeLabel }}
             </RouterLink>
           </div>
 
           <template v-else>
             <div class="progress-stats">
               <div class="stat">
-                <span class="stat-label"> Reviews Completed </span>
+                <span class="stat-label">Reviews Completed</span>
                 <strong>{{ progressPoints.length }}</strong>
               </div>
 
               <div class="stat">
                 <span class="stat-label">Latest Score</span>
-                <strong> {{ latestPoint?.percentage.toFixed(1) }}% </strong>
+                <strong>
+                  {{ latestPoint?.percentage.toFixed(1) }}%
+                </strong>
               </div>
 
               <div class="stat">
                 <span class="stat-label">Average Score</span>
-                <strong> {{ averageScore.toFixed(1) }}% </strong>
+                <strong>
+                  {{ averageScore.toFixed(1) }}%
+                </strong>
               </div>
 
               <div class="stat">
                 <span class="stat-label">Change</span>
+
                 <strong v-if="improvement !== null">
                   {{ improvement > 0 ? '+' : '' }}{{ improvement.toFixed(1) }}
                   pp
                 </strong>
+
                 <strong v-else>—</strong>
               </div>
             </div>
 
             <div class="chart-container">
-              <h4>Performance Over Time</h4>
+              <h4>{{ modeLabel }} Performance Over Time</h4>
 
               <ProgressChart :points="progressPoints" />
             </div>
@@ -327,10 +420,7 @@ onUnmounted(() => {
 
               <RouterLink
                 v-if="latestPoint"
-                :to="{
-                  name: 'result',
-                  params: { resultId: latestPoint.resultId },
-                }"
+                :to="latestResultRoute"
                 class="progress-button"
               >
                 View Latest Results
@@ -350,46 +440,44 @@ onUnmounted(() => {
 
 h3 {
   margin: 0 0 1.5rem;
-  font-family: var(--font-ui);
   font-size: 1.5rem;
-  color: var(--color-text);
 }
 
 h3 span {
   font-family: var(--font-brand);
 }
 
-.progress-selection {
-  display: flex;
-  flex-direction: column;
-  gap: 0.75rem;
-  max-width: 36rem;
-}
-
-.progress-selection label {
-  font-weight: 600;
-}
-
-.progress-select {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 1rem;
+.mode-toggle {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   width: 100%;
-  min-height: 3rem;
-  padding: 0.75rem 1rem;
-  border: 1px solid var(--color-text);
+  max-width: 36rem;
+  padding: 0.25rem;
+  margin-bottom: 1.5rem;
+  border: 1px solid var(--color-border);
+  border-radius: 0.75rem;
+  background: rgb(from var(--color-surface) r g b / 60%);
+}
+
+.mode-toggle button {
+  padding: 0.75rem;
+  border: 0;
   border-radius: 0.5rem;
-  background: var(--color-background);
+  background: transparent;
   color: var(--color-text);
   font: inherit;
-  text-align: left;
+  font-weight: 600;
   cursor: pointer;
 }
 
-.progress-select:focus-visible {
-  outline: 2px solid var(--color-text);
-  outline-offset: 2px;
+.mode-toggle button.active {
+  background: var(--color-text);
+  color: var(--color-background);
+}
+
+.progress-selection {
+  width: 100%;
+  max-width: 36rem;
 }
 
 .progress-heading {
@@ -462,19 +550,14 @@ h3 span {
 
 .progress-button {
   display: inline-flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
   padding: 0.75rem 1.5rem;
   border: 1px solid var(--color-text);
   border-radius: 0.5rem;
   background: var(--color-text);
   color: var(--color-background);
-  font: inherit;
   text-decoration: none;
-}
-
-.progress-button:hover {
-  opacity: 0.85;
 }
 
 .progress-footer {
@@ -491,7 +574,7 @@ h3 span {
 }
 
 .progress-error {
-  color: #bc4444;
+  color: #b42318;
 }
 
 @media (max-width: 700px) {
@@ -502,42 +585,5 @@ h3 span {
   .chart-container {
     padding: 0.75rem;
   }
-}
-</style>
-
-<style>
-.progress-dropdown {
-  z-index: 1000;
-  width: var(--reka-select-trigger-width);
-  max-height: min(22rem, var(--reka-select-content-available-height));
-  overflow: hidden;
-  border: 1px solid var(--color-text);
-  border-radius: 0.5rem;
-  background: var(--color-background);
-  color: var(--color-text);
-  box-shadow: 0 6px 20px rgb(0 0 0 / 0.12);
-}
-
-.progress-options {
-  max-height: inherit;
-  overflow-y: auto;
-  padding: 0.35rem;
-}
-
-.progress-option {
-  padding: 0.75rem;
-  border-radius: 0.35rem;
-  cursor: pointer;
-  outline: none;
-  font-family: var(--font-ui);
-}
-
-.progress-option[data-highlighted] {
-  background: var(--color-text);
-  color: var(--color-background);
-}
-
-.progress-option[data-state='checked'] {
-  font-weight: 700;
 }
 </style>
