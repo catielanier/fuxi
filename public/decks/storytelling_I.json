@@ -40,7 +40,8 @@
       "english_answers": [
         "back then"
       ],
-      "english_gloss": "back then"
+      "english_gloss": "back then",
+      "audio": "那时候.mp3"
     },
     {
       "hanzi": "从前",
@@ -59,7 +60,8 @@
         "the past",
         "previously"
       ],
-      "english_gloss": "the past; previously"
+      "english_gloss": "the past; previously",
+      "audio": "过去.mp3"
     },
     {
       "hanzi": "现在",
@@ -68,7 +70,8 @@
         "now",
         "nowadays"
       ],
-      "english_gloss": "now; nowadays"
+      "english_gloss": "now; nowadays",
+      "audio": "现在.mp3"
     },
     {
       "hanzi": "将来",
@@ -86,7 +89,8 @@
         "recently",
         "lately"
       ],
-      "english_gloss": "recently; lately"
+      "english_gloss": "recently; lately",
+      "audio": "最近.mp3"
     },
     {
       "hanzi": "不久前",
@@ -130,7 +134,8 @@
       "english_answers": [
         "until now"
       ],
-      "english_gloss": "until now"
+      "english_gloss": "until now",
+      "audio": "直到现在.mp3"
     },
     {
       "hanzi": "一开始",
@@ -147,7 +152,8 @@
       "english_answers": [
         "initially"
       ],
-      "english_gloss": "initially"
+      "english_gloss": "initially",
+      "audio": "起初.mp3"
     },
     {
       "hanzi": "后来才发现",
@@ -165,7 +171,8 @@
         "finally",
         "in the end"
       ],
-      "english_gloss": "finally; in the end"
+      "english_gloss": "finally; in the end",
+      "audio": "最后.mp3"
     },
     {
       "hanzi": "最终",
@@ -173,7 +180,8 @@
       "english_answers": [
         "ultimately"
       ],
-      "english_gloss": "ultimately"
+      "english_gloss": "ultimately",
+      "audio": "最终.mp3"
     },
     {
       "hanzi": "终于",
@@ -181,7 +189,8 @@
       "english_answers": [
         "finally (after waiting or effort)"
       ],
-      "english_gloss": "finally (after waiting or effort)"
+      "english_gloss": "finally (after waiting or effort)",
+      "audio": "终于.mp3"
     },
     {
       "hanzi": "首先",
@@ -189,7 +198,8 @@
       "english_answers": [
         "first of all"
       ],
-      "english_gloss": "first of all"
+      "english_gloss": "first of all",
+      "audio": "首先.mp3"
     },
     {
       "hanzi": "然后",
@@ -198,7 +208,8 @@
         "then",
         "afterward"
       ],
-      "english_gloss": "then; afterward"
+      "english_gloss": "then; afterward",
+      "audio": "然后.mp3"
     },
     {
       "hanzi": "接着",
@@ -245,7 +256,8 @@
         "during",
         "throughout the period"
       ],
-      "english_gloss": "during; throughout the period"
+      "english_gloss": "during; throughout the period",
+      "audio": "期间.mp3"
     },
     {
       "hanzi": "突然",
@@ -253,7 +265,8 @@
       "english_answers": [
         "suddenly"
       ],
-      "english_gloss": "suddenly"
+      "english_gloss": "suddenly",
+      "audio": "突然.mp3"
     },
     {
       "hanzi": "忽然",
@@ -270,7 +283,8 @@
       "english_answers": [
         "right away"
       ],
-      "english_gloss": "right away"
+      "english_gloss": "right away",
+      "audio": "马上.mp3"
     },
     {
       "hanzi": "立刻",
@@ -278,7 +292,8 @@
       "english_answers": [
         "immediately"
       ],
-      "english_gloss": "immediately"
+      "english_gloss": "immediately",
+      "audio": "立刻.mp3"
     },
     {
       "hanzi": "过了一会儿",
@@ -286,7 +301,8 @@
       "english_answers": [
         "after a little while"
       ],
-      "english_gloss": "after a little while"
+      "english_gloss": "after a little while",
+      "audio": "过了一会儿.mp3"
     },
     {
       "hanzi": "过了几天",
@@ -294,7 +310,8 @@
       "english_answers": [
         "a few days later"
       ],
-      "english_gloss": "a few days later"
+      "english_gloss": "a few days later",
+      "audio": "过了几天.mp3"
     },
     {
       "hanzi": "有一天",
@@ -302,7 +319,8 @@
       "english_answers": [
         "one day"
       ],
-      "english_gloss": "one day"
+      "english_gloss": "one day",
+      "audio": "有一天.mp3"
     },
     {
       "hanzi": "有一次",
@@ -311,7 +329,8 @@
         "once",
         "on one occasion"
       ],
-      "english_gloss": "once; on one occasion"
+      "english_gloss": "once; on one occasion",
+      "audio": "有一次.mp3"
     },
     {
       "hanzi": "每次",
@@ -319,7 +338,8 @@
       "english_answers": [
         "every time"
       ],
-      "english_gloss": "every time"
+      "english_gloss": "every time",
+      "audio": "每次.mp3"
     },
     {
       "hanzi": "第一次",
@@ -327,7 +347,8 @@
       "english_answers": [
         "the first time"
       ],
-      "english_gloss": "the first time"
+      "english_gloss": "the first time",
+      "audio": "第一次.mp3"
     },
     {
       "hanzi": "上次",
@@ -363,7 +384,8 @@
       "english_answers": [
         "ever since"
       ],
-      "english_gloss": "ever since"
+      "english_gloss": "ever since",
+      "audio": "自从……以来.mp3"
     },
     {
       "hanzi": "本来",
@@ -372,7 +394,8 @@
         "originally",
         "was supposed to"
       ],
-      "english_gloss": "originally; was supposed to"
+      "english_gloss": "originally; was supposed to",
+      "audio": "本来.mp3"
     },
     {
       "hanzi": "原来",
@@ -401,7 +424,8 @@
         "as a result",
         "it turned out"
       ],
-      "english_gloss": "as a result; it turned out"
+      "english_gloss": "as a result; it turned out",
+      "audio": "结果.mp3"
     },
     {
       "hanzi": "没想到",
@@ -410,7 +434,8 @@
         "unexpectedly",
         "I didn't expect"
       ],
-      "english_gloss": "unexpectedly; I didn't expect"
+      "english_gloss": "unexpectedly; I didn't expect",
+      "audio": "没想到.mp3"
     },
     {
       "hanzi": "想不到",
@@ -428,7 +453,8 @@
         "sure enough",
         "as expected"
       ],
-      "english_gloss": "sure enough; as expected"
+      "english_gloss": "sure enough; as expected",
+      "audio": "果然.mp3"
     },
     {
       "hanzi": "竟然",
@@ -437,7 +463,8 @@
         "unexpectedly",
         "surprisingly"
       ],
-      "english_gloss": "unexpectedly; surprisingly"
+      "english_gloss": "unexpectedly; surprisingly",
+      "audio": "竟然.mp3"
     },
     {
       "hanzi": "居然",
@@ -475,7 +502,8 @@
       "english_answers": [
         "no wonder"
       ],
-      "english_gloss": "no wonder"
+      "english_gloss": "no wonder",
+      "audio": "难怪.mp3"
     },
     {
       "hanzi": "怪不得",
@@ -531,7 +559,8 @@
       "english_answers": [
         "didn't have time to"
       ],
-      "english_gloss": "didn't have time to"
+      "english_gloss": "didn't have time to",
+      "audio": "没来得及.mp3"
     },
     {
       "hanzi": "来得及",
@@ -539,7 +568,8 @@
       "english_answers": [
         "have enough time to"
       ],
-      "english_gloss": "have enough time to"
+      "english_gloss": "have enough time to",
+      "audio": "来得及.mp3"
     },
     {
       "hanzi": "经历",
@@ -548,7 +578,8 @@
         "to experience",
         "an experience"
       ],
-      "english_gloss": "to experience; an experience"
+      "english_gloss": "to experience; an experience",
+      "audio": "经历.mp3"
     },
     {
       "hanzi": "经验",
@@ -557,7 +588,8 @@
         "experience",
         "know-how"
       ],
-      "english_gloss": "experience; know-how"
+      "english_gloss": "experience; know-how",
+      "audio": "经验.mp3"
     },
     {
       "hanzi": "回忆",
@@ -575,7 +607,8 @@
       "english_answers": [
         "memory"
       ],
-      "english_gloss": "memory"
+      "english_gloss": "memory",
+      "audio": "记忆.mp3"
     },
     {
       "hanzi": "印象",
@@ -601,7 +634,8 @@
       "english_answers": [
         "unforgettable"
       ],
-      "english_gloss": "unforgettable"
+      "english_gloss": "unforgettable",
+      "audio": "难忘.mp3"
     },
     {
       "hanzi": "怀念",
@@ -629,7 +663,8 @@
       "english_answers": [
         "to remember"
       ],
-      "english_gloss": "to remember"
+      "english_gloss": "to remember",
+      "audio": "记得.mp3"
     },
     {
       "hanzi": "忘记",
@@ -704,7 +739,8 @@
       "english_answers": [
         "to choose"
       ],
-      "english_gloss": "to choose"
+      "english_gloss": "to choose",
+      "audio": "选择.mp3"
     },
     {
       "hanzi": "原因",
@@ -762,7 +798,8 @@
         "there was no way",
         "couldn't help it"
       ],
-      "english_gloss": "there was no way; couldn't help it"
+      "english_gloss": "there was no way; couldn't help it",
+      "audio": "没办法.mp3"
     },
     {
       "hanzi": "只好",
@@ -826,7 +863,8 @@
       "english_answers": [
         "I was teaching English back then."
       ],
-      "english_gloss": "I was teaching English back then."
+      "english_gloss": "I was teaching English back then.",
+      "audio": "那时候我在教英语。.mp3"
     },
     {
       "hanzi": "我已经忘了很多。",
@@ -843,7 +881,8 @@
       "english_answers": [
         "I didn't expect to still remember."
       ],
-      "english_gloss": "I didn't expect to still remember."
+      "english_gloss": "I didn't expect to still remember.",
+      "audio": "没想到我还记得。.mp3"
     },
     {
       "hanzi": "这件事让我改变了看法。",
@@ -851,7 +890,8 @@
       "english_answers": [
         "That experience changed my opinion."
       ],
-      "english_gloss": "That experience changed my opinion."
+      "english_gloss": "That experience changed my opinion.",
+      "audio": "这件事让我改变了看法。.mp3"
     },
     {
       "hanzi": "回想起来挺有意思的。",
@@ -877,7 +917,8 @@
       "english_answers": [
         "It's a long story."
       ],
-      "english_gloss": "It's a long story."
+      "english_gloss": "It's a long story.",
+      "audio": "说来话长。.mp3"
     },
     {
       "hanzi": "曾经",
@@ -886,7 +927,8 @@
         "once",
         "formerly"
       ],
-      "english_gloss": "once; formerly"
+      "english_gloss": "once; formerly",
+      "audio": "曾经.mp3"
     },
     {
       "hanzi": "偶尔",

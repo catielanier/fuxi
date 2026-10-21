@@ -11,7 +11,8 @@
       "english_answers": [
         "material"
       ],
-      "english_gloss": "material"
+      "english_gloss": "material",
+      "audio": "材料.mp3"
     },
     {
       "hanzi": "物质",
@@ -20,7 +21,8 @@
         "substance",
         "matter"
       ],
-      "english_gloss": "substance / matter"
+      "english_gloss": "substance / matter",
+      "audio": "物质.mp3"
     },
     {
       "hanzi": "原料",
@@ -37,7 +39,8 @@
       "english_answers": [
         "material composition"
       ],
-      "english_gloss": "material composition"
+      "english_gloss": "material composition",
+      "audio": "材质.mp3"
     },
     {
       "hanzi": "天然材料",
@@ -81,7 +84,8 @@
       "english_answers": [
         "wood"
       ],
-      "english_gloss": "wood"
+      "english_gloss": "wood",
+      "audio": "木头.mp3"
     },
     {
       "hanzi": "木材",
@@ -90,7 +94,8 @@
         "timber",
         "lumber"
       ],
-      "english_gloss": "timber / lumber"
+      "english_gloss": "timber / lumber",
+      "audio": "木材.mp3"
     },
     {
       "hanzi": "实木",
@@ -107,7 +112,8 @@
       "english_answers": [
         "plywood"
       ],
-      "english_gloss": "plywood"
+      "english_gloss": "plywood",
+      "audio": "胶合板.mp3"
     },
     {
       "hanzi": "竹子",
@@ -115,7 +121,8 @@
       "english_answers": [
         "bamboo"
       ],
-      "english_gloss": "bamboo"
+      "english_gloss": "bamboo",
+      "audio": "竹子.mp3"
     },
     {
       "hanzi": "竹制品",
@@ -123,7 +130,8 @@
       "english_answers": [
         "bamboo product"
       ],
-      "english_gloss": "bamboo product"
+      "english_gloss": "bamboo product",
+      "audio": "竹制品.mp3"
     },
     {
       "hanzi": "纸张",
@@ -131,7 +139,8 @@
       "english_answers": [
         "paper (sheets)"
       ],
-      "english_gloss": "paper (sheets)"
+      "english_gloss": "paper (sheets)",
+      "audio": "纸张.mp3"
     },
     {
       "hanzi": "纸板",
@@ -139,7 +148,8 @@
       "english_answers": [
         "cardboard"
       ],
-      "english_gloss": "cardboard"
+      "english_gloss": "cardboard",
+      "audio": "纸板.mp3"
     },
     {
       "hanzi": "瓦楞纸板",
@@ -147,7 +157,8 @@
       "english_answers": [
         "corrugated cardboard"
       ],
-      "english_gloss": "corrugated cardboard"
+      "english_gloss": "corrugated cardboard",
+      "audio": "瓦楞纸板.mp3"
     },
     {
       "hanzi": "纸浆",
@@ -155,7 +166,8 @@
       "english_answers": [
         "paper pulp"
       ],
-      "english_gloss": "paper pulp"
+      "english_gloss": "paper pulp",
+      "audio": "纸浆.mp3"
     },
     {
       "hanzi": "塑料",
@@ -190,7 +202,8 @@
       "english_answers": [
         "foam plastic"
       ],
-      "english_gloss": "foam plastic"
+      "english_gloss": "foam plastic",
+      "audio": "泡沫塑料.mp3"
     },
     {
       "hanzi": "树脂",
@@ -198,7 +211,8 @@
       "english_answers": [
         "resin"
       ],
-      "english_gloss": "resin"
+      "english_gloss": "resin",
+      "audio": "树脂.mp3"
     },
     {
       "hanzi": "橡胶",
@@ -206,7 +220,8 @@
       "english_answers": [
         "rubber"
       ],
-      "english_gloss": "rubber"
+      "english_gloss": "rubber",
+      "audio": "橡胶.mp3"
     },
     {
       "hanzi": "天然橡胶",
@@ -223,7 +238,8 @@
       "english_answers": [
         "silicone material"
       ],
-      "english_gloss": "silicone material"
+      "english_gloss": "silicone material",
+      "audio": "硅胶.mp3"
     },
     {
       "hanzi": "海绵",
@@ -232,7 +248,8 @@
         "sponge",
         "foam"
       ],
-      "english_gloss": "sponge / foam"
+      "english_gloss": "sponge / foam",
+      "audio": "海绵.mp3"
     },
     {
       "hanzi": "乳胶",
@@ -249,7 +266,8 @@
       "english_answers": [
         "glass"
       ],
-      "english_gloss": "glass"
+      "english_gloss": "glass",
+      "audio": "玻璃.mp3"
     },
     {
       "hanzi": "钢化玻璃",
@@ -257,7 +275,8 @@
       "english_answers": [
         "tempered glass"
       ],
-      "english_gloss": "tempered glass"
+      "english_gloss": "tempered glass",
+      "audio": "钢化玻璃.mp3"
     },
     {
       "hanzi": "玻璃纤维",
@@ -265,7 +284,8 @@
       "english_answers": [
         "fiberglass"
       ],
-      "english_gloss": "fiberglass"
+      "english_gloss": "fiberglass",
+      "audio": "玻璃纤维.mp3"
     },
     {
       "hanzi": "陶瓷",
@@ -273,7 +293,8 @@
       "english_answers": [
         "ceramic"
       ],
-      "english_gloss": "ceramic"
+      "english_gloss": "ceramic",
+      "audio": "陶瓷.mp3"
     },
     {
       "hanzi": "瓷器",
@@ -281,7 +302,8 @@
       "english_answers": [
         "porcelain"
       ],
-      "english_gloss": "porcelain"
+      "english_gloss": "porcelain",
+      "audio": "瓷器.mp3"
     },
     {
       "hanzi": "陶器",
@@ -290,7 +312,8 @@
         "earthenware",
         "pottery"
       ],
-      "english_gloss": "earthenware / pottery"
+      "english_gloss": "earthenware / pottery",
+      "audio": "陶器.mp3"
     },
     {
       "hanzi": "黏土",
@@ -298,7 +321,8 @@
       "english_answers": [
         "clay"
       ],
-      "english_gloss": "clay"
+      "english_gloss": "clay",
+      "audio": "黏土.mp3"
     },
     {
       "hanzi": "砖",
@@ -306,7 +330,8 @@
       "english_answers": [
         "brick"
       ],
-      "english_gloss": "brick"
+      "english_gloss": "brick",
+      "audio": "砖.mp3"
     },
     {
       "hanzi": "水泥",
@@ -314,7 +339,8 @@
       "english_answers": [
         "cement"
       ],
-      "english_gloss": "cement"
+      "english_gloss": "cement",
+      "audio": "水泥.mp3"
     },
     {
       "hanzi": "混凝土",
@@ -322,7 +348,8 @@
       "english_answers": [
         "concrete"
       ],
-      "english_gloss": "concrete"
+      "english_gloss": "concrete",
+      "audio": "混凝土.mp3"
     },
     {
       "hanzi": "石头",
@@ -330,7 +357,8 @@
       "english_answers": [
         "stone"
       ],
-      "english_gloss": "stone"
+      "english_gloss": "stone",
+      "audio": "石头.mp3"
     },
     {
       "hanzi": "大理石",
@@ -347,7 +375,8 @@
       "english_answers": [
         "granite"
       ],
-      "english_gloss": "granite"
+      "english_gloss": "granite",
+      "audio": "花岗岩.mp3"
     },
     {
       "hanzi": "石膏",
@@ -356,7 +385,8 @@
         "plaster",
         "gypsum"
       ],
-      "english_gloss": "plaster / gypsum"
+      "english_gloss": "plaster / gypsum",
+      "audio": "石膏.mp3"
     },
     {
       "hanzi": "沙子",
@@ -364,7 +394,8 @@
       "english_answers": [
         "sand"
       ],
-      "english_gloss": "sand"
+      "english_gloss": "sand",
+      "audio": "沙子.mp3"
     },
     {
       "hanzi": "砂砾",
@@ -372,7 +403,8 @@
       "english_answers": [
         "gravel"
       ],
-      "english_gloss": "gravel"
+      "english_gloss": "gravel",
+      "audio": "砂砾.mp3"
     },
     {
       "hanzi": "金属",
@@ -380,7 +412,8 @@
       "english_answers": [
         "metal"
       ],
-      "english_gloss": "metal"
+      "english_gloss": "metal",
+      "audio": "金属.mp3"
     },
     {
       "hanzi": "钢",
@@ -388,7 +421,8 @@
       "english_answers": [
         "steel"
       ],
-      "english_gloss": "steel"
+      "english_gloss": "steel",
+      "audio": "钢.mp3"
     },
     {
       "hanzi": "不锈钢",
@@ -405,7 +439,8 @@
       "english_answers": [
         "iron"
       ],
-      "english_gloss": "iron"
+      "english_gloss": "iron",
+      "audio": "铁.mp3"
     },
     {
       "hanzi": "生铁",
@@ -414,7 +449,8 @@
         "pig iron",
         "cast iron (raw)"
       ],
-      "english_gloss": "pig iron / cast iron (raw)"
+      "english_gloss": "pig iron / cast iron (raw)",
+      "audio": "生铁.mp3"
     },
     {
       "hanzi": "铸铁",
@@ -422,7 +458,8 @@
       "english_answers": [
         "cast iron"
       ],
-      "english_gloss": "cast iron"
+      "english_gloss": "cast iron",
+      "audio": "铸铁.mp3"
     },
     {
       "hanzi": "铝",
@@ -430,7 +467,8 @@
       "english_answers": [
         "aluminum"
       ],
-      "english_gloss": "aluminum"
+      "english_gloss": "aluminum",
+      "audio": "铝.mp3"
     },
     {
       "hanzi": "铜",
@@ -438,7 +476,8 @@
       "english_answers": [
         "copper"
       ],
-      "english_gloss": "copper"
+      "english_gloss": "copper",
+      "audio": "铜.mp3"
     },
     {
       "hanzi": "黄铜",
@@ -446,7 +485,8 @@
       "english_answers": [
         "brass"
       ],
-      "english_gloss": "brass"
+      "english_gloss": "brass",
+      "audio": "黄铜.mp3"
     },
     {
       "hanzi": "青铜",
@@ -454,7 +494,8 @@
       "english_answers": [
         "bronze"
       ],
-      "english_gloss": "bronze"
+      "english_gloss": "bronze",
+      "audio": "青铜.mp3"
     },
     {
       "hanzi": "锡",
@@ -462,7 +503,8 @@
       "english_answers": [
         "tin"
       ],
-      "english_gloss": "tin"
+      "english_gloss": "tin",
+      "audio": "锡.mp3"
     },
     {
       "hanzi": "锌",
@@ -470,7 +512,8 @@
       "english_answers": [
         "zinc"
       ],
-      "english_gloss": "zinc"
+      "english_gloss": "zinc",
+      "audio": "锌.mp3"
     },
     {
       "hanzi": "镍",
@@ -478,7 +521,8 @@
       "english_answers": [
         "nickel"
       ],
-      "english_gloss": "nickel"
+      "english_gloss": "nickel",
+      "audio": "镍.mp3"
     },
     {
       "hanzi": "铅",
@@ -486,7 +530,8 @@
       "english_answers": [
         "lead (metal)"
       ],
-      "english_gloss": "lead (metal)"
+      "english_gloss": "lead (metal)",
+      "audio": "铅.mp3"
     },
     {
       "hanzi": "银",
@@ -494,7 +539,8 @@
       "english_answers": [
         "silver"
       ],
-      "english_gloss": "silver"
+      "english_gloss": "silver",
+      "audio": "银.mp3"
     },
     {
       "hanzi": "金",
@@ -502,7 +548,8 @@
       "english_answers": [
         "gold"
       ],
-      "english_gloss": "gold"
+      "english_gloss": "gold",
+      "audio": "金.mp3"
     },
     {
       "hanzi": "合金",
@@ -519,7 +566,8 @@
       "english_answers": [
         "metal wire"
       ],
-      "english_gloss": "metal wire"
+      "english_gloss": "metal wire",
+      "audio": "金属丝.mp3"
     },
     {
       "hanzi": "金属板",
@@ -527,7 +575,8 @@
       "english_answers": [
         "sheet metal"
       ],
-      "english_gloss": "sheet metal"
+      "english_gloss": "sheet metal",
+      "audio": "金属板.mp3"
     },
     {
       "hanzi": "纤维",
@@ -535,7 +584,8 @@
       "english_answers": [
         "fiber"
       ],
-      "english_gloss": "fiber"
+      "english_gloss": "fiber",
+      "audio": "纤维.mp3"
     },
     {
       "hanzi": "布料",
@@ -552,7 +602,8 @@
       "english_answers": [
         "cotton"
       ],
-      "english_gloss": "cotton"
+      "english_gloss": "cotton",
+      "audio": "棉花.mp3"
     },
     {
       "hanzi": "棉布",
@@ -560,7 +611,8 @@
       "english_answers": [
         "cotton fabric"
       ],
-      "english_gloss": "cotton fabric"
+      "english_gloss": "cotton fabric",
+      "audio": "棉布.mp3"
     },
     {
       "hanzi": "麻布",
@@ -569,7 +621,8 @@
         "linen",
         "hemp fabric"
       ],
-      "english_gloss": "linen / hemp fabric"
+      "english_gloss": "linen / hemp fabric",
+      "audio": "麻布.mp3"
     },
     {
       "hanzi": "亚麻",
@@ -587,7 +640,8 @@
       "english_answers": [
         "wool"
       ],
-      "english_gloss": "wool"
+      "english_gloss": "wool",
+      "audio": "羊毛.mp3"
     },
     {
       "hanzi": "丝绸",
@@ -604,7 +658,8 @@
       "english_answers": [
         "pure silk"
       ],
-      "english_gloss": "pure silk"
+      "english_gloss": "pure silk",
+      "audio": "真丝.mp3"
     },
     {
       "hanzi": "涤纶",
@@ -612,7 +667,8 @@
       "english_answers": [
         "polyester"
       ],
-      "english_gloss": "polyester"
+      "english_gloss": "polyester",
+      "audio": "涤纶.mp3"
     },
     {
       "hanzi": "尼龙",
@@ -630,7 +686,8 @@
         "spandex",
         "elastane"
       ],
-      "english_gloss": "spandex / elastane"
+      "english_gloss": "spandex / elastane",
+      "audio": "氨纶.mp3"
     },
     {
       "hanzi": "人造革",
@@ -647,7 +704,8 @@
       "english_answers": [
         "leather"
       ],
-      "english_gloss": "leather"
+      "english_gloss": "leather",
+      "audio": "皮革.mp3"
     },
     {
       "hanzi": "绒布",
@@ -655,7 +713,8 @@
       "english_answers": [
         "velvet-like fabric"
       ],
-      "english_gloss": "velvet-like fabric"
+      "english_gloss": "velvet-like fabric",
+      "audio": "绒布.mp3"
     },
     {
       "hanzi": "毛毡",
@@ -663,7 +722,8 @@
       "english_answers": [
         "felt"
       ],
-      "english_gloss": "felt"
+      "english_gloss": "felt",
+      "audio": "毛毡.mp3"
     },
     {
       "hanzi": "胶水",
@@ -671,7 +731,8 @@
       "english_answers": [
         "glue"
       ],
-      "english_gloss": "glue"
+      "english_gloss": "glue",
+      "audio": "胶水.mp3"
     },
     {
       "hanzi": "黏合剂",
@@ -679,7 +740,8 @@
       "english_answers": [
         "adhesive"
       ],
-      "english_gloss": "adhesive"
+      "english_gloss": "adhesive",
+      "audio": "黏合剂.mp3"
     },
     {
       "hanzi": "胶带",
@@ -687,7 +749,8 @@
       "english_answers": [
         "adhesive tape"
       ],
-      "english_gloss": "adhesive tape"
+      "english_gloss": "adhesive tape",
+      "audio": "胶带.mp3"
     },
     {
       "hanzi": "油漆",
@@ -695,7 +758,8 @@
       "english_answers": [
         "paint (for surfaces)"
       ],
-      "english_gloss": "paint (for surfaces)"
+      "english_gloss": "paint (for surfaces)",
+      "audio": "油漆.mp3"
     },
     {
       "hanzi": "涂料",
@@ -704,7 +768,8 @@
         "coating",
         "paint"
       ],
-      "english_gloss": "coating / paint"
+      "english_gloss": "coating / paint",
+      "audio": "涂料.mp3"
     },
     {
       "hanzi": "清漆",
@@ -712,7 +777,8 @@
       "english_answers": [
         "clear varnish"
       ],
-      "english_gloss": "clear varnish"
+      "english_gloss": "clear varnish",
+      "audio": "清漆.mp3"
     },
     {
       "hanzi": "墨水",
@@ -729,7 +795,8 @@
       "english_answers": [
         "dye"
       ],
-      "english_gloss": "dye"
+      "english_gloss": "dye",
+      "audio": "染料.mp3"
     },
     {
       "hanzi": "颜料",
@@ -738,7 +805,8 @@
         "pigment",
         "artist's paint"
       ],
-      "english_gloss": "pigment / artist's paint"
+      "english_gloss": "pigment / artist's paint",
+      "audio": "颜料.mp3"
     },
     {
       "hanzi": "蜡",
@@ -746,7 +814,8 @@
       "english_answers": [
         "wax"
       ],
-      "english_gloss": "wax"
+      "english_gloss": "wax",
+      "audio": "蜡.mp3"
     },
     {
       "hanzi": "石蜡",
@@ -754,7 +823,8 @@
       "english_answers": [
         "paraffin wax"
       ],
-      "english_gloss": "paraffin wax"
+      "english_gloss": "paraffin wax",
+      "audio": "石蜡.mp3"
     },
     {
       "hanzi": "食用油",
@@ -762,7 +832,8 @@
       "english_answers": [
         "cooking oil"
       ],
-      "english_gloss": "cooking oil"
+      "english_gloss": "cooking oil",
+      "audio": "食用油.mp3"
     },
     {
       "hanzi": "润滑油",
@@ -770,7 +841,8 @@
       "english_answers": [
         "lubricating oil"
       ],
-      "english_gloss": "lubricating oil"
+      "english_gloss": "lubricating oil",
+      "audio": "润滑油.mp3"
     },
     {
       "hanzi": "汽油",
@@ -778,7 +850,8 @@
       "english_answers": [
         "gasoline"
       ],
-      "english_gloss": "gasoline"
+      "english_gloss": "gasoline",
+      "audio": "汽油.mp3"
     },
     {
       "hanzi": "柴油",
@@ -786,7 +859,8 @@
       "english_answers": [
         "diesel fuel"
       ],
-      "english_gloss": "diesel fuel"
+      "english_gloss": "diesel fuel",
+      "audio": "柴油.mp3"
     },
     {
       "hanzi": "酒精",
@@ -794,7 +868,8 @@
       "english_answers": [
         "alcohol (substance)"
       ],
-      "english_gloss": "alcohol (substance)"
+      "english_gloss": "alcohol (substance)",
+      "audio": "酒精.mp3"
     },
     {
       "hanzi": "醋",
@@ -802,7 +877,8 @@
       "english_answers": [
         "vinegar"
       ],
-      "english_gloss": "vinegar"
+      "english_gloss": "vinegar",
+      "audio": "醋.mp3"
     },
     {
       "hanzi": "盐",
@@ -810,7 +886,8 @@
       "english_answers": [
         "salt"
       ],
-      "english_gloss": "salt"
+      "english_gloss": "salt",
+      "audio": "盐.mp3"
     },
     {
       "hanzi": "小苏打",
@@ -827,7 +904,8 @@
       "english_answers": [
         "bleach"
       ],
-      "english_gloss": "bleach"
+      "english_gloss": "bleach",
+      "audio": "漂白剂.mp3"
     },
     {
       "hanzi": "洗涤剂",
@@ -835,7 +913,8 @@
       "english_answers": [
         "detergent"
       ],
-      "english_gloss": "detergent"
+      "english_gloss": "detergent",
+      "audio": "洗涤剂.mp3"
     }
   ]
 }

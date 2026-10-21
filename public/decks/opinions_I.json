@@ -38,7 +38,8 @@
       "english_answers": [
         "especially like"
       ],
-      "english_gloss": "especially like"
+      "english_gloss": "especially like",
+      "audio": "特别喜欢.mp3"
     },
     {
       "hanzi": "最喜欢",
@@ -47,7 +48,8 @@
         "like the most",
         "favorite"
       ],
-      "english_gloss": "like the most; favorite"
+      "english_gloss": "like the most; favorite",
+      "audio": "最喜欢.mp3"
     },
     {
       "hanzi": "我最喜欢这首歌。",
@@ -75,7 +77,8 @@
         "to love passionately",
         "be devoted to"
       ],
-      "english_gloss": "to love passionately; be devoted to"
+      "english_gloss": "to love passionately; be devoted to",
+      "audio": "热爱.mp3"
     },
     {
       "hanzi": "我热爱音乐。",
@@ -94,7 +97,8 @@
         "interest",
         "to be fond of"
       ],
-      "english_gloss": "hobby; interest; to be fond of"
+      "english_gloss": "hobby; interest; to be fond of",
+      "audio": "爱好.mp3"
     },
     {
       "hanzi": "感兴趣",
@@ -120,7 +124,8 @@
       "english_answers": [
         "to have an interest"
       ],
-      "english_gloss": "to have an interest"
+      "english_gloss": "to have an interest",
+      "audio": "有兴趣.mp3"
     },
     {
       "hanzi": "没兴趣",
@@ -128,7 +133,8 @@
       "english_answers": [
         "not interested"
       ],
-      "english_gloss": "not interested"
+      "english_gloss": "not interested",
+      "audio": "没兴趣.mp3"
     },
     {
       "hanzi": "不感兴趣",
@@ -146,7 +152,8 @@
         "to appreciate",
         "admire"
       ],
-      "english_gloss": "to appreciate; admire"
+      "english_gloss": "to appreciate; admire",
+      "audio": "欣赏.mp3"
     },
     {
       "hanzi": "我很欣赏她的作品。",
@@ -220,7 +227,8 @@
         "to hate",
         "find annoying"
       ],
-      "english_gloss": "to hate; find annoying"
+      "english_gloss": "to hate; find annoying",
+      "audio": "讨厌.mp3"
     },
     {
       "hanzi": "我讨厌排队。",
@@ -285,7 +293,8 @@
         "annoying",
         "fed up"
       ],
-      "english_gloss": "annoying; fed up"
+      "english_gloss": "annoying; fed up",
+      "audio": "烦.mp3"
     },
     {
       "hanzi": "真烦！",
@@ -293,7 +302,8 @@
       "english_answers": [
         "So annoying!"
       ],
-      "english_gloss": "So annoying!"
+      "english_gloss": "So annoying!",
+      "audio": "真烦！.mp3"
     },
     {
       "hanzi": "无聊",
@@ -312,7 +322,8 @@
         "uninteresting",
         "no fun"
       ],
-      "english_gloss": "uninteresting; no fun"
+      "english_gloss": "uninteresting; no fun",
+      "audio": "没意思.mp3"
     },
     {
       "hanzi": "有意思",
@@ -321,7 +332,8 @@
         "interesting",
         "amusing"
       ],
-      "english_gloss": "interesting; amusing"
+      "english_gloss": "interesting; amusing",
+      "audio": "有意思.mp3"
     },
     {
       "hanzi": "没什么感觉",
@@ -329,7 +341,8 @@
       "english_answers": [
         "don't feel much about it"
       ],
-      "english_gloss": "don't feel much about it"
+      "english_gloss": "don't feel much about it",
+      "audio": "没什么感觉.mp3"
     },
     {
       "hanzi": "无所谓",
@@ -348,7 +361,8 @@
         "whatever",
         "either is fine"
       ],
-      "english_gloss": "whatever; either is fine"
+      "english_gloss": "whatever; either is fine",
+      "audio": "随便.mp3"
     },
     {
       "hanzi": "我不介意。",
@@ -411,7 +425,8 @@
       "english_answers": [
         "fall in love with"
       ],
-      "english_gloss": "fall in love with"
+      "english_gloss": "fall in love with",
+      "audio": "爱上.mp3"
     },
     {
       "hanzi": "越来越喜欢",
@@ -419,7 +434,8 @@
       "english_answers": [
         "like more and more"
       ],
-      "english_gloss": "like more and more"
+      "english_gloss": "like more and more",
+      "audio": "越来越喜欢.mp3"
     },
     {
       "hanzi": "我越来越喜欢这里了。",
@@ -445,7 +461,8 @@
       "english_answers": [
         "gradually get used to"
       ],
-      "english_gloss": "gradually get used to"
+      "english_gloss": "gradually get used to",
+      "audio": "渐渐习惯.mp3"
     },
     {
       "hanzi": "习惯了",
@@ -463,7 +480,8 @@
         "used to like",
         "liked before"
       ],
-      "english_gloss": "used to like; liked before"
+      "english_gloss": "used to like; liked before",
+      "audio": "曾经喜欢.mp3"
     },
     {
       "hanzi": "以前不喜欢",
@@ -480,7 +498,8 @@
       "english_answers": [
         "like it now"
       ],
-      "english_gloss": "like it now"
+      "english_gloss": "like it now",
+      "audio": "现在喜欢了.mp3"
     },
     {
       "hanzi": "不再喜欢",
@@ -497,7 +516,8 @@
       "english_answers": [
         "don't like it as much anymore"
       ],
-      "english_gloss": "don't like it as much anymore"
+      "english_gloss": "don't like it as much anymore",
+      "audio": "没那么喜欢了.mp3"
     },
     {
       "hanzi": "喜欢得不得了",
@@ -514,7 +534,8 @@
       "english_answers": [
         "tired of seeing/watching it"
       ],
-      "english_gloss": "tired of seeing/watching it"
+      "english_gloss": "tired of seeing/watching it",
+      "audio": "看腻了.mp3"
     },
     {
       "hanzi": "听腻了",
@@ -532,7 +553,8 @@
         "reluctant to part with",
         "can't bear to"
       ],
-      "english_gloss": "reluctant to part with; can't bear to"
+      "english_gloss": "reluctant to part with; can't bear to",
+      "audio": "舍不得.mp3"
     },
     {
       "hanzi": "改变看法",
@@ -550,7 +572,8 @@
         "prefer",
         "like more"
       ],
-      "english_gloss": "prefer; like more"
+      "english_gloss": "prefer; like more",
+      "audio": "更喜欢.mp3"
     },
     {
       "hanzi": "比较喜欢",
@@ -559,7 +582,8 @@
         "relatively prefer",
         "quite like"
       ],
-      "english_gloss": "relatively prefer; quite like"
+      "english_gloss": "relatively prefer; quite like",
+      "audio": "比较喜欢.mp3"
     },
     {
       "hanzi": "我比较喜欢摇滚乐。",
@@ -577,7 +601,8 @@
         "favorite",
         "love the most"
       ],
-      "english_gloss": "favorite; love the most"
+      "english_gloss": "favorite; love the most",
+      "audio": "最爱.mp3"
     },
     {
       "hanzi": "宁愿",
@@ -603,7 +628,8 @@
       "english_answers": [
         "prefer … to …"
       ],
-      "english_gloss": "prefer … to …"
+      "english_gloss": "prefer … to …",
+      "audio": "比起……更喜欢…….mp3"
     },
     {
       "hanzi": "两个都喜欢",
@@ -656,7 +682,8 @@
       "english_answers": [
         "it depends on the situation"
       ],
-      "english_gloss": "it depends on the situation"
+      "english_gloss": "it depends on the situation",
+      "audio": "看情况.mp3"
     },
     {
       "hanzi": "都可以",
@@ -665,7 +692,8 @@
         "either is fine",
         "all are okay"
       ],
-      "english_gloss": "either is fine; all are okay"
+      "english_gloss": "either is fine; all are okay",
+      "audio": "都可以.mp3"
     },
     {
       "hanzi": "我无所谓。",
@@ -682,7 +710,8 @@
       "english_answers": [
         "… is better, after all"
       ],
-      "english_gloss": "… is better, after all"
+      "english_gloss": "… is better, after all",
+      "audio": "还是……好.mp3"
     },
     {
       "hanzi": "不如",
@@ -701,7 +730,8 @@
         "opinion",
         "point of view"
       ],
-      "english_gloss": "opinion; point of view"
+      "english_gloss": "opinion; point of view",
+      "audio": "看法.mp3"
     },
     {
       "hanzi": "意见",
@@ -721,7 +751,8 @@
         "viewpoint",
         "standpoint"
       ],
-      "english_gloss": "viewpoint; standpoint"
+      "english_gloss": "viewpoint; standpoint",
+      "audio": "观点.mp3"
     },
     {
       "hanzi": "态度",
@@ -833,7 +864,8 @@
         "that makes sense",
         "reasonable"
       ],
-      "english_gloss": "that makes sense; reasonable"
+      "english_gloss": "that makes sense; reasonable",
+      "audio": "有道理.mp3"
     },
     {
       "hanzi": "说得对",
@@ -842,7 +874,8 @@
         "that's right",
         "well said"
       ],
-      "english_gloss": "that's right; well said"
+      "english_gloss": "that's right; well said",
+      "audio": "说得对.mp3"
     },
     {
       "hanzi": "不一定",
@@ -895,7 +928,8 @@
       "english_answers": [
         "to be honest"
       ],
-      "english_gloss": "to be honest"
+      "english_gloss": "to be honest",
+      "audio": "说实话.mp3"
     },
     {
       "hanzi": "不好说",

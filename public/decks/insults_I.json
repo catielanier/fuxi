@@ -11,7 +11,8 @@
       "english_answers": [
         "idiot; fool"
       ],
-      "english_gloss": "idiot; fool"
+      "english_gloss": "idiot; fool",
+      "audio": "笨蛋.mp3"
     },
     {
       "hanzi": "傻瓜",
@@ -37,7 +38,8 @@
       "english_answers": [
         "moron; idiot"
       ],
-      "english_gloss": "moron; idiot"
+      "english_gloss": "moron; idiot",
+      "audio": "蠢货.mp3"
     },
     {
       "hanzi": "白痴",
@@ -45,7 +47,8 @@
       "english_answers": [
         "idiot; imbecile"
       ],
-      "english_gloss": "idiot; imbecile"
+      "english_gloss": "idiot; imbecile",
+      "audio": "白痴.mp3"
     },
     {
       "hanzi": "二货",
@@ -71,7 +74,8 @@
       "english_answers": [
         "blockhead"
       ],
-      "english_gloss": "blockhead"
+      "english_gloss": "blockhead",
+      "audio": "木头脑袋.mp3"
     },
     {
       "hanzi": "缺心眼",
@@ -79,7 +83,8 @@
       "english_answers": [
         "clueless; foolish"
       ],
-      "english_gloss": "clueless; foolish"
+      "english_gloss": "clueless; foolish",
+      "audio": "缺心眼.mp3"
     },
     {
       "hanzi": "没脑子",
@@ -87,7 +92,8 @@
       "english_answers": [
         "brainless; thoughtless"
       ],
-      "english_gloss": "brainless; thoughtless"
+      "english_gloss": "brainless; thoughtless",
+      "audio": "没脑子.mp3"
     },
     {
       "hanzi": "脑子进水了",
@@ -95,7 +101,8 @@
       "english_answers": [
         "have water in your brain; be stupid"
       ],
-      "english_gloss": "have water in your brain; be stupid"
+      "english_gloss": "have water in your brain; be stupid",
+      "audio": "脑子进水了.mp3"
     },
     {
       "hanzi": "脑子有病吧？",
@@ -103,7 +110,8 @@
       "english_answers": [
         "What's wrong with your head? (insult)"
       ],
-      "english_gloss": "What's wrong with your head? (insult)"
+      "english_gloss": "What's wrong with your head? (insult)",
+      "audio": "脑子有病吧？.mp3"
     },
     {
       "hanzi": "傻逼",
@@ -129,7 +137,8 @@
       "english_answers": [
         "so damn stupid"
       ],
-      "english_gloss": "so damn stupid"
+      "english_gloss": "so damn stupid",
+      "audio": "蠢死了.mp3"
     },
     {
       "hanzi": "真没眼力见",
@@ -137,7 +146,8 @@
       "english_answers": [
         "so tactless; can't read the room"
       ],
-      "english_gloss": "so tactless; can't read the room"
+      "english_gloss": "so tactless; can't read the room",
+      "audio": "真没眼力见.mp3"
     },
     {
       "hanzi": "不长眼",
@@ -154,7 +164,8 @@
       "english_answers": [
         "good-for-nothing; no ambition"
       ],
-      "english_gloss": "good-for-nothing; no ambition"
+      "english_gloss": "good-for-nothing; no ambition",
+      "audio": "没出息.mp3"
     },
     {
       "hanzi": "废物",
@@ -171,7 +182,8 @@
       "english_answers": [
         "useless fool (lit. rice bucket)"
       ],
-      "english_gloss": "useless fool (lit. rice bucket)"
+      "english_gloss": "useless fool (lit. rice bucket)",
+      "audio": "饭桶.mp3"
     },
     {
       "hanzi": "混蛋",
@@ -179,7 +191,8 @@
       "english_answers": [
         "bastard; jerk"
       ],
-      "english_gloss": "bastard; jerk"
+      "english_gloss": "bastard; jerk",
+      "audio": "混蛋.mp3"
     },
     {
       "hanzi": "王八蛋",
@@ -187,7 +200,8 @@
       "english_answers": [
         "bastard; son of a bitch"
       ],
-      "english_gloss": "bastard; son of a bitch"
+      "english_gloss": "bastard; son of a bitch",
+      "audio": "王八蛋.mp3"
     },
     {
       "hanzi": "坏蛋",
@@ -204,7 +218,8 @@
       "english_answers": [
         "jerk; bastard (colloquial)"
       ],
-      "english_gloss": "jerk; bastard (colloquial)"
+      "english_gloss": "jerk; bastard (colloquial)",
+      "audio": "混球.mp3"
     },
     {
       "hanzi": "人渣",
@@ -221,7 +236,8 @@
       "english_answers": [
         "scummy man; toxic boyfriend"
       ],
-      "english_gloss": "scummy man; toxic boyfriend"
+      "english_gloss": "scummy man; toxic boyfriend",
+      "audio": "渣男.mp3"
     },
     {
       "hanzi": "渣女",
@@ -229,7 +245,8 @@
       "english_answers": [
         "scummy woman; toxic girlfriend"
       ],
-      "english_gloss": "scummy woman; toxic girlfriend"
+      "english_gloss": "scummy woman; toxic girlfriend",
+      "audio": "渣女.mp3"
     },
     {
       "hanzi": "败类",
@@ -237,7 +254,8 @@
       "english_answers": [
         "disgrace; rotten person"
       ],
-      "english_gloss": "disgrace; rotten person"
+      "english_gloss": "disgrace; rotten person",
+      "audio": "败类.mp3"
     },
     {
       "hanzi": "小人",
@@ -290,7 +308,8 @@
       "english_answers": [
         "hypocritical; fake"
       ],
-      "english_gloss": "hypocritical; fake"
+      "english_gloss": "hypocritical; fake",
+      "audio": "虚伪.mp3"
     },
     {
       "hanzi": "假惺惺",
@@ -307,7 +326,8 @@
       "english_answers": [
         "put on airs; act fake"
       ],
-      "english_gloss": "put on airs; act fake"
+      "english_gloss": "put on airs; act fake",
+      "audio": "装模作样.mp3"
     },
     {
       "hanzi": "装逼",
@@ -315,7 +335,8 @@
       "english_answers": [
         "show off pretentiously (vulgar)"
       ],
-      "english_gloss": "show off pretentiously (vulgar)"
+      "english_gloss": "show off pretentiously (vulgar)",
+      "audio": "装逼.mp3"
     },
     {
       "hanzi": "吹牛",
@@ -341,7 +362,8 @@
       "english_answers": [
         "brown-noser; suck-up"
       ],
-      "english_gloss": "brown-noser; suck-up"
+      "english_gloss": "brown-noser; suck-up",
+      "audio": "马屁精.mp3"
     },
     {
       "hanzi": "拍马屁",
@@ -358,7 +380,8 @@
       "english_answers": [
         "lackey; henchman"
       ],
-      "english_gloss": "lackey; henchman"
+      "english_gloss": "lackey; henchman",
+      "audio": "狗腿子.mp3"
     },
     {
       "hanzi": "小气鬼",
@@ -384,7 +407,8 @@
       "english_answers": [
         "selfish jerk"
       ],
-      "english_gloss": "selfish jerk"
+      "english_gloss": "selfish jerk",
+      "audio": "自私鬼.mp3"
     },
     {
       "hanzi": "事儿精",
@@ -401,7 +425,8 @@
       "english_answers": [
         "pain in the neck; nuisance"
       ],
-      "english_gloss": "pain in the neck; nuisance"
+      "english_gloss": "pain in the neck; nuisance",
+      "audio": "烦人精.mp3"
     },
     {
       "hanzi": "讨人嫌",
@@ -409,7 +434,8 @@
       "english_answers": [
         "obnoxious; unlikeable"
       ],
-      "english_gloss": "obnoxious; unlikeable"
+      "english_gloss": "obnoxious; unlikeable",
+      "audio": "讨人嫌.mp3"
     },
     {
       "hanzi": "嘴欠",
@@ -435,7 +461,8 @@
       "english_answers": [
         "talk complete nonsense"
       ],
-      "english_gloss": "talk complete nonsense"
+      "english_gloss": "talk complete nonsense",
+      "audio": "胡说八道.mp3"
     },
     {
       "hanzi": "胡扯",
@@ -443,7 +470,8 @@
       "english_answers": [
         "talk rubbish; bullshit"
       ],
-      "english_gloss": "talk rubbish; bullshit"
+      "english_gloss": "talk rubbish; bullshit",
+      "audio": "胡扯.mp3"
     },
     {
       "hanzi": "瞎说",
@@ -451,7 +479,8 @@
       "english_answers": [
         "talk nonsense"
       ],
-      "english_gloss": "talk nonsense"
+      "english_gloss": "talk nonsense",
+      "audio": "瞎说.mp3"
     },
     {
       "hanzi": "放屁",
@@ -468,7 +497,8 @@
       "english_answers": [
         "bullshit; utter crap"
       ],
-      "english_gloss": "bullshit; utter crap"
+      "english_gloss": "bullshit; utter crap",
+      "audio": "狗屁.mp3"
     },
     {
       "hanzi": "屁话",
@@ -503,7 +533,8 @@
       "english_answers": [
         "talk total bullshit"
       ],
-      "english_gloss": "talk total bullshit"
+      "english_gloss": "talk total bullshit",
+      "audio": "瞎扯淡.mp3"
     },
     {
       "hanzi": "一派胡言",
@@ -556,7 +587,8 @@
       "english_answers": [
         "Damn!; crap!"
       ],
-      "english_gloss": "Damn!; crap!"
+      "english_gloss": "Damn!; crap!",
+      "audio": "靠！.mp3"
     },
     {
       "hanzi": "我去！",
@@ -573,7 +605,8 @@
       "english_answers": [
         "so fucking annoying"
       ],
-      "english_gloss": "so fucking annoying"
+      "english_gloss": "so fucking annoying",
+      "audio": "真他妈烦.mp3"
     },
     {
       "hanzi": "去你的",
@@ -599,7 +632,8 @@
       "english_answers": [
         "Get lost!; fuck off!"
       ],
-      "english_gloss": "Get lost!; fuck off!"
+      "english_gloss": "Get lost!; fuck off!",
+      "audio": "滚！.mp3"
     },
     {
       "hanzi": "滚开！",
@@ -607,7 +641,8 @@
       "english_answers": [
         "Get out of the way!; piss off!"
       ],
-      "english_gloss": "Get out of the way!; piss off!"
+      "english_gloss": "Get out of the way!; piss off!",
+      "audio": "滚开！.mp3"
     },
     {
       "hanzi": "滚蛋！",
@@ -615,7 +650,8 @@
       "english_answers": [
         "Get lost!; piss off!"
       ],
-      "english_gloss": "Get lost!; piss off!"
+      "english_gloss": "Get lost!; piss off!",
+      "audio": "滚蛋！.mp3"
     },
     {
       "hanzi": "滚远点！",
@@ -623,7 +659,8 @@
       "english_answers": [
         "Get the hell away!"
       ],
-      "english_gloss": "Get the hell away!"
+      "english_gloss": "Get the hell away!",
+      "audio": "滚远点！.mp3"
     },
     {
       "hanzi": "闭嘴！",
@@ -631,7 +668,8 @@
       "english_answers": [
         "Shut up!"
       ],
-      "english_gloss": "Shut up!"
+      "english_gloss": "Shut up!",
+      "audio": "闭嘴！.mp3"
     },
     {
       "hanzi": "少废话！",
@@ -747,7 +785,8 @@
       "english_answers": [
         "What the hell is wrong with you?"
       ],
-      "english_gloss": "What the hell is wrong with you?"
+      "english_gloss": "What the hell is wrong with you?",
+      "audio": "有毛病吧？.mp3"
     },
     {
       "hanzi": "神经病",
@@ -755,7 +794,8 @@
       "english_answers": [
         "crazy person; psycho (stigmatizing insult)"
       ],
-      "english_gloss": "crazy person; psycho (stigmatizing insult)"
+      "english_gloss": "crazy person; psycho (stigmatizing insult)",
+      "audio": "神经病.mp3"
     },
     {
       "hanzi": "变态",
@@ -835,7 +875,8 @@
       "english_answers": [
         "Stay away from me!"
       ],
-      "english_gloss": "Stay away from me!"
+      "english_gloss": "Stay away from me!",
+      "audio": "离我远点！.mp3"
     },
     {
       "hanzi": "别碰我！",
@@ -861,7 +902,8 @@
       "english_answers": [
         "ill-mannered; no upbringing"
       ],
-      "english_gloss": "ill-mannered; no upbringing"
+      "english_gloss": "ill-mannered; no upbringing",
+      "audio": "没教养.mp3"
     }
   ]
 }

@@ -21,7 +21,8 @@
         "makeup sponge",
         "beauty blender"
       ],
-      "english_gloss": "makeup sponge / beauty blender"
+      "english_gloss": "makeup sponge / beauty blender",
+      "audio": "美妆蛋.mp3"
     },
     {
       "hanzi": "粉扑",
@@ -30,7 +31,8 @@
         "powder puff",
         "cushion puff"
       ],
-      "english_gloss": "powder puff / cushion puff"
+      "english_gloss": "powder puff / cushion puff",
+      "audio": "粉扑.mp3"
     },
     {
       "hanzi": "化妆棉",
@@ -47,7 +49,8 @@
       "english_answers": [
         "cotton swab"
       ],
-      "english_gloss": "cotton swab"
+      "english_gloss": "cotton swab",
+      "audio": "棉签.mp3"
     },
     {
       "hanzi": "镜子",
@@ -55,7 +58,8 @@
       "english_answers": [
         "mirror"
       ],
-      "english_gloss": "mirror"
+      "english_gloss": "mirror",
+      "audio": "镜子.mp3"
     },
     {
       "hanzi": "头发",
@@ -82,7 +86,8 @@
         "get a haircut",
         "cut hair"
       ],
-      "english_gloss": "get a haircut / cut hair"
+      "english_gloss": "get a haircut / cut hair",
+      "audio": "理发.mp3"
     },
     {
       "hanzi": "剪头发",
@@ -100,7 +105,8 @@
         "barbershop",
         "hair salon"
       ],
-      "english_gloss": "barbershop / hair salon"
+      "english_gloss": "barbershop / hair salon",
+      "audio": "理发店.mp3"
     },
     {
       "hanzi": "美发店",
@@ -108,7 +114,8 @@
       "english_answers": [
         "hair salon"
       ],
-      "english_gloss": "hair salon"
+      "english_gloss": "hair salon",
+      "audio": "美发店.mp3"
     },
     {
       "hanzi": "发型师",
@@ -126,7 +133,8 @@
         "barber",
         "hairdresser"
       ],
-      "english_gloss": "barber / hairdresser"
+      "english_gloss": "barber / hairdresser",
+      "audio": "理发师.mp3"
     },
     {
       "hanzi": "洗头",
@@ -134,7 +142,8 @@
       "english_answers": [
         "wash hair"
       ],
-      "english_gloss": "wash hair"
+      "english_gloss": "wash hair",
+      "audio": "洗头.mp3"
     },
     {
       "hanzi": "吹头发",
@@ -160,7 +169,8 @@
       "english_answers": [
         "shampoo"
       ],
-      "english_gloss": "shampoo"
+      "english_gloss": "shampoo",
+      "audio": "洗发水.mp3"
     },
     {
       "hanzi": "护发素",
@@ -223,7 +233,8 @@
       "english_answers": [
         "comb"
       ],
-      "english_gloss": "comb"
+      "english_gloss": "comb",
+      "audio": "梳子.mp3"
     },
     {
       "hanzi": "发刷",
@@ -240,7 +251,8 @@
       "english_answers": [
         "hair straightener"
       ],
-      "english_gloss": "hair straightener"
+      "english_gloss": "hair straightener",
+      "audio": "直发器.mp3"
     },
     {
       "hanzi": "卷发棒",
@@ -268,7 +280,8 @@
         "straight hair",
         "straighten hair"
       ],
-      "english_gloss": "straight hair / straighten hair"
+      "english_gloss": "straight hair / straighten hair",
+      "audio": "直发.mp3"
     },
     {
       "hanzi": "烫发",
@@ -276,7 +289,8 @@
       "english_answers": [
         "perm hair"
       ],
-      "english_gloss": "perm hair"
+      "english_gloss": "perm hair",
+      "audio": "烫发.mp3"
     },
     {
       "hanzi": "染发",
@@ -284,7 +298,8 @@
       "english_answers": [
         "dye hair"
       ],
-      "english_gloss": "dye hair"
+      "english_gloss": "dye hair",
+      "audio": "染发.mp3"
     },
     {
       "hanzi": "染发剂",
@@ -292,7 +307,8 @@
       "english_answers": [
         "hair dye"
       ],
-      "english_gloss": "hair dye"
+      "english_gloss": "hair dye",
+      "audio": "染发剂.mp3"
     },
     {
       "hanzi": "发色",
@@ -309,7 +325,8 @@
       "english_answers": [
         "black hair"
       ],
-      "english_gloss": "black hair"
+      "english_gloss": "black hair",
+      "audio": "黑发.mp3"
     },
     {
       "hanzi": "棕色头发",
@@ -317,7 +334,8 @@
       "english_answers": [
         "brown hair"
       ],
-      "english_gloss": "brown hair"
+      "english_gloss": "brown hair",
+      "audio": "棕色头发.mp3"
     },
     {
       "hanzi": "金发",
@@ -325,7 +343,8 @@
       "english_answers": [
         "blond hair"
       ],
-      "english_gloss": "blond hair"
+      "english_gloss": "blond hair",
+      "audio": "金发.mp3"
     },
     {
       "hanzi": "红发",
@@ -333,7 +352,8 @@
       "english_answers": [
         "red hair"
       ],
-      "english_gloss": "red hair"
+      "english_gloss": "red hair",
+      "audio": "红发.mp3"
     },
     {
       "hanzi": "漂发",
@@ -341,7 +361,8 @@
       "english_answers": [
         "bleach hair"
       ],
-      "english_gloss": "bleach hair"
+      "english_gloss": "bleach hair",
+      "audio": "漂发.mp3"
     },
     {
       "hanzi": "补染",
@@ -349,7 +370,8 @@
       "english_answers": [
         "touch up hair dye"
       ],
-      "english_gloss": "touch up hair dye"
+      "english_gloss": "touch up hair dye",
+      "audio": "补染.mp3"
     },
     {
       "hanzi": "发根",
@@ -396,7 +418,8 @@
         "blunt",
         "straight bangs"
       ],
-      "english_gloss": "blunt / straight bangs"
+      "english_gloss": "blunt / straight bangs",
+      "audio": "齐刘海.mp3"
     },
     {
       "hanzi": "侧刘海",
@@ -422,7 +445,8 @@
       "english_answers": [
         "long hair"
       ],
-      "english_gloss": "long hair"
+      "english_gloss": "long hair",
+      "audio": "长发.mp3"
     },
     {
       "hanzi": "短发",
@@ -430,7 +454,8 @@
       "english_answers": [
         "short hair"
       ],
-      "english_gloss": "short hair"
+      "english_gloss": "short hair",
+      "audio": "短发.mp3"
     },
     {
       "hanzi": "中长发",
@@ -447,7 +472,8 @@
       "english_answers": [
         "ponytail"
       ],
-      "english_gloss": "ponytail"
+      "english_gloss": "ponytail",
+      "audio": "马尾.mp3"
     },
     {
       "hanzi": "辫子",
@@ -455,7 +481,8 @@
       "english_answers": [
         "braid"
       ],
-      "english_gloss": "braid"
+      "english_gloss": "braid",
+      "audio": "辫子.mp3"
     },
     {
       "hanzi": "盘发",
@@ -464,7 +491,8 @@
         "updo",
         "put hair up"
       ],
-      "english_gloss": "updo / put hair up"
+      "english_gloss": "updo / put hair up",
+      "audio": "盘发.mp3"
     },
     {
       "hanzi": "发夹",
@@ -502,7 +530,8 @@
         "hair tie",
         "elastic band"
       ],
-      "english_gloss": "hair tie / elastic band"
+      "english_gloss": "hair tie / elastic band",
+      "audio": "皮筋.mp3"
     },
     {
       "hanzi": "修剪",
@@ -537,7 +566,8 @@
       "english_answers": [
         "leave it a little longer"
       ],
-      "english_gloss": "leave it a little longer"
+      "english_gloss": "leave it a little longer",
+      "audio": "留长一点.mp3"
     },
     {
       "hanzi": "两边",
@@ -563,7 +593,8 @@
       "english_answers": [
         "the top"
       ],
-      "english_gloss": "the top"
+      "english_gloss": "the top",
+      "audio": "顶部.mp3"
     },
     {
       "hanzi": "打薄",
@@ -589,7 +620,8 @@
       "english_answers": [
         "wash, cut and blow-dry"
       ],
-      "english_gloss": "wash, cut and blow-dry"
+      "english_gloss": "wash, cut and blow-dry",
+      "audio": "洗剪吹.mp3"
     },
     {
       "hanzi": "美甲",
@@ -598,7 +630,8 @@
         "manicure",
         "nail art"
       ],
-      "english_gloss": "manicure / nail art"
+      "english_gloss": "manicure / nail art",
+      "audio": "美甲.mp3"
     },
     {
       "hanzi": "美甲店",
@@ -606,7 +639,8 @@
       "english_answers": [
         "nail salon"
       ],
-      "english_gloss": "nail salon"
+      "english_gloss": "nail salon",
+      "audio": "美甲店.mp3"
     },
     {
       "hanzi": "指甲",
@@ -624,7 +658,8 @@
       "english_answers": [
         "toenail"
       ],
-      "english_gloss": "toenail"
+      "english_gloss": "toenail",
+      "audio": "脚趾甲.mp3"
     },
     {
       "hanzi": "指甲油",
@@ -641,7 +676,8 @@
       "english_answers": [
         "gel nail polish"
       ],
-      "english_gloss": "gel nail polish"
+      "english_gloss": "gel nail polish",
+      "audio": "甲油胶.mp3"
     },
     {
       "hanzi": "卸甲",
@@ -687,7 +723,8 @@
       "english_answers": [
         "nail file"
       ],
-      "english_gloss": "nail file"
+      "english_gloss": "nail file",
+      "audio": "锉刀.mp3"
     },
     {
       "hanzi": "长一点",
@@ -695,7 +732,8 @@
       "english_answers": [
         "a little longer"
       ],
-      "english_gloss": "a little longer"
+      "english_gloss": "a little longer",
+      "audio": "长一点.mp3"
     },
     {
       "hanzi": "短一点",
@@ -703,7 +741,8 @@
       "english_answers": [
         "a little shorter"
       ],
-      "english_gloss": "a little shorter"
+      "english_gloss": "a little shorter",
+      "audio": "短一点.mp3"
     },
     {
       "hanzi": "圆形",
@@ -729,7 +768,8 @@
       "english_answers": [
         "oval shape"
       ],
-      "english_gloss": "oval shape"
+      "english_gloss": "oval shape",
+      "audio": "椭圆形.mp3"
     },
     {
       "hanzi": "法式美甲",
@@ -737,7 +777,8 @@
       "english_answers": [
         "French manicure"
       ],
-      "english_gloss": "French manicure"
+      "english_gloss": "French manicure",
+      "audio": "法式美甲.mp3"
     },
     {
       "hanzi": "亮片",
@@ -755,7 +796,8 @@
       "english_answers": [
         "hair removal"
       ],
-      "english_gloss": "hair removal"
+      "english_gloss": "hair removal",
+      "audio": "除毛.mp3"
     },
     {
       "hanzi": "脱毛",
@@ -764,7 +806,8 @@
         "depilation",
         "hair removal"
       ],
-      "english_gloss": "depilation / hair removal"
+      "english_gloss": "depilation / hair removal",
+      "audio": "脱毛.mp3"
     },
     {
       "hanzi": "脱毛膏",
@@ -772,7 +815,8 @@
       "english_answers": [
         "depilatory cream"
       ],
-      "english_gloss": "depilatory cream"
+      "english_gloss": "depilatory cream",
+      "audio": "脱毛膏.mp3"
     },
     {
       "hanzi": "蜜蜡脱毛",
@@ -780,7 +824,8 @@
       "english_answers": [
         "waxing"
       ],
-      "english_gloss": "waxing"
+      "english_gloss": "waxing",
+      "audio": "蜜蜡脱毛.mp3"
     },
     {
       "hanzi": "刮毛",
@@ -806,7 +851,8 @@
       "english_answers": [
         "underarm hair"
       ],
-      "english_gloss": "underarm hair"
+      "english_gloss": "underarm hair",
+      "audio": "腋毛.mp3"
     },
     {
       "hanzi": "腿毛",
@@ -814,7 +860,8 @@
       "english_answers": [
         "leg hair"
       ],
-      "english_gloss": "leg hair"
+      "english_gloss": "leg hair",
+      "audio": "腿毛.mp3"
     },
     {
       "hanzi": "体毛",
@@ -831,7 +878,8 @@
       "english_answers": [
         "body lotion"
       ],
-      "english_gloss": "body lotion"
+      "english_gloss": "body lotion",
+      "audio": "身体乳.mp3"
     },
     {
       "hanzi": "润肤露",
@@ -839,7 +887,8 @@
       "english_answers": [
         "moisturizing body lotion"
       ],
-      "english_gloss": "moisturizing body lotion"
+      "english_gloss": "moisturizing body lotion",
+      "audio": "润肤露.mp3"
     },
     {
       "hanzi": "护手霜",
@@ -857,7 +906,8 @@
         "body wash",
         "shower gel"
       ],
-      "english_gloss": "body wash / shower gel"
+      "english_gloss": "body wash / shower gel",
+      "audio": "沐浴露.mp3"
     },
     {
       "hanzi": "香皂",
@@ -865,7 +915,8 @@
       "english_answers": [
         "soap"
       ],
-      "english_gloss": "soap"
+      "english_gloss": "soap",
+      "audio": "香皂.mp3"
     },
     {
       "hanzi": "香水",
@@ -873,7 +924,8 @@
       "english_answers": [
         "perfume"
       ],
-      "english_gloss": "perfume"
+      "english_gloss": "perfume",
+      "audio": "香水.mp3"
     }
   ]
 }

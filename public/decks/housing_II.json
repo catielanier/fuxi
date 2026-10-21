@@ -94,7 +94,8 @@
       "english_answers": [
         "dust"
       ],
-      "english_gloss": "dust"
+      "english_gloss": "dust",
+      "audio": "灰尘.mp3"
     },
     {
       "hanzi": "扫把",
@@ -174,7 +175,8 @@
       "english_answers": [
         "disinfect"
       ],
-      "english_gloss": "disinfect"
+      "english_gloss": "disinfect",
+      "audio": "消毒.mp3"
     },
     {
       "hanzi": "清洁剂",
@@ -183,7 +185,8 @@
         "cleaning product",
         "detergent"
       ],
-      "english_gloss": "cleaning product / detergent"
+      "english_gloss": "cleaning product / detergent",
+      "audio": "清洁剂.mp3"
     },
     {
       "hanzi": "洗衣服",
@@ -191,7 +194,8 @@
       "english_answers": [
         "wash clothes"
       ],
-      "english_gloss": "wash clothes"
+      "english_gloss": "wash clothes",
+      "audio": "洗衣服.mp3"
     },
     {
       "hanzi": "晾衣服",
@@ -199,7 +203,8 @@
       "english_answers": [
         "hang laundry to dry"
       ],
-      "english_gloss": "hang laundry to dry"
+      "english_gloss": "hang laundry to dry",
+      "audio": "晾衣服.mp3"
     },
     {
       "hanzi": "晒衣服",
@@ -207,7 +212,8 @@
       "english_answers": [
         "dry clothes in the sun"
       ],
-      "english_gloss": "dry clothes in the sun"
+      "english_gloss": "dry clothes in the sun",
+      "audio": "晒衣服.mp3"
     },
     {
       "hanzi": "叠衣服",
@@ -224,7 +230,8 @@
       "english_answers": [
         "iron clothes"
       ],
-      "english_gloss": "iron clothes"
+      "english_gloss": "iron clothes",
+      "audio": "熨衣服.mp3"
     },
     {
       "hanzi": "洗衣液",
@@ -232,7 +239,8 @@
       "english_answers": [
         "liquid laundry detergent"
       ],
-      "english_gloss": "liquid laundry detergent"
+      "english_gloss": "liquid laundry detergent",
+      "audio": "洗衣液.mp3"
     },
     {
       "hanzi": "洗衣粉",
@@ -240,7 +248,8 @@
       "english_answers": [
         "laundry powder"
       ],
-      "english_gloss": "laundry powder"
+      "english_gloss": "laundry powder",
+      "audio": "洗衣粉.mp3"
     },
     {
       "hanzi": "柔顺剂",
@@ -248,7 +257,8 @@
       "english_answers": [
         "fabric softener"
       ],
-      "english_gloss": "fabric softener"
+      "english_gloss": "fabric softener",
+      "audio": "柔顺剂.mp3"
     },
     {
       "hanzi": "衣架",
@@ -256,7 +266,8 @@
       "english_answers": [
         "clothes hanger"
       ],
-      "english_gloss": "clothes hanger"
+      "english_gloss": "clothes hanger",
+      "audio": "衣架.mp3"
     },
     {
       "hanzi": "晾衣架",
@@ -264,7 +275,8 @@
       "english_answers": [
         "drying rack"
       ],
-      "english_gloss": "drying rack"
+      "english_gloss": "drying rack",
+      "audio": "晾衣架.mp3"
     },
     {
       "hanzi": "洗衣篮",
@@ -272,7 +284,8 @@
       "english_answers": [
         "laundry basket"
       ],
-      "english_gloss": "laundry basket"
+      "english_gloss": "laundry basket",
+      "audio": "洗衣篮.mp3"
     },
     {
       "hanzi": "洗碗",
@@ -280,7 +293,8 @@
       "english_answers": [
         "wash dishes"
       ],
-      "english_gloss": "wash dishes"
+      "english_gloss": "wash dishes",
+      "audio": "洗碗.mp3"
     },
     {
       "hanzi": "洗洁精",
@@ -288,7 +302,8 @@
       "english_answers": [
         "dish soap"
       ],
-      "english_gloss": "dish soap"
+      "english_gloss": "dish soap",
+      "audio": "洗洁精.mp3"
     },
     {
       "hanzi": "海绵",
@@ -296,7 +311,8 @@
       "english_answers": [
         "sponge"
       ],
-      "english_gloss": "sponge"
+      "english_gloss": "sponge",
+      "audio": "海绵.mp3"
     },
     {
       "hanzi": "刷子",
@@ -322,7 +338,8 @@
       "english_answers": [
         "stain"
       ],
-      "english_gloss": "stain"
+      "english_gloss": "stain",
+      "audio": "污渍.mp3"
     },
     {
       "hanzi": "发霉",
@@ -340,7 +357,8 @@
         "mold",
         "fungus"
       ],
-      "english_gloss": "mold / fungus"
+      "english_gloss": "mold / fungus",
+      "audio": "霉菌.mp3"
     },
     {
       "hanzi": "异味",
@@ -357,7 +375,8 @@
       "english_answers": [
         "water pipe"
       ],
-      "english_gloss": "water pipe"
+      "english_gloss": "water pipe",
+      "audio": "水管.mp3"
     },
     {
       "hanzi": "水龙头",
@@ -366,7 +385,8 @@
         "faucet",
         "tap"
       ],
-      "english_gloss": "faucet / tap"
+      "english_gloss": "faucet / tap",
+      "audio": "水龙头.mp3"
     },
     {
       "hanzi": "水槽",
@@ -374,7 +394,8 @@
       "english_answers": [
         "sink basin"
       ],
-      "english_gloss": "sink basin"
+      "english_gloss": "sink basin",
+      "audio": "水槽.mp3"
     },
     {
       "hanzi": "下水道",
@@ -411,7 +432,8 @@
       "english_answers": [
         "water leak"
       ],
-      "english_gloss": "water leak"
+      "english_gloss": "water leak",
+      "audio": "漏水.mp3"
     },
     {
       "hanzi": "渗水",
@@ -419,7 +441,8 @@
       "english_answers": [
         "water seepage"
       ],
-      "english_gloss": "water seepage"
+      "english_gloss": "water seepage",
+      "audio": "渗水.mp3"
     },
     {
       "hanzi": "水压",
@@ -427,7 +450,8 @@
       "english_answers": [
         "water pressure"
       ],
-      "english_gloss": "water pressure"
+      "english_gloss": "water pressure",
+      "audio": "水压.mp3"
     },
     {
       "hanzi": "停水",
@@ -444,7 +468,8 @@
       "english_answers": [
         "toilet"
       ],
-      "english_gloss": "toilet"
+      "english_gloss": "toilet",
+      "audio": "马桶.mp3"
     },
     {
       "hanzi": "冲水",
@@ -461,7 +486,8 @@
       "english_answers": [
         "the toilet is clogged"
       ],
-      "english_gloss": "the toilet is clogged"
+      "english_gloss": "the toilet is clogged",
+      "audio": "马桶堵了.mp3"
     },
     {
       "hanzi": "皮搋子",
@@ -469,7 +495,8 @@
       "english_answers": [
         "toilet plunger"
       ],
-      "english_gloss": "toilet plunger"
+      "english_gloss": "toilet plunger",
+      "audio": "皮搋子.mp3"
     },
     {
       "hanzi": "淋浴",
@@ -477,7 +504,8 @@
       "english_answers": [
         "shower"
       ],
-      "english_gloss": "shower"
+      "english_gloss": "shower",
+      "audio": "淋浴.mp3"
     },
     {
       "hanzi": "花洒",
@@ -485,7 +513,8 @@
       "english_answers": [
         "showerhead"
       ],
-      "english_gloss": "showerhead"
+      "english_gloss": "showerhead",
+      "audio": "花洒.mp3"
     },
     {
       "hanzi": "浴缸",
@@ -493,7 +522,8 @@
       "english_answers": [
         "bathtub"
       ],
-      "english_gloss": "bathtub"
+      "english_gloss": "bathtub",
+      "audio": "浴缸.mp3"
     },
     {
       "hanzi": "地漏",
@@ -510,7 +540,8 @@
       "english_answers": [
         "hot-water supply"
       ],
-      "english_gloss": "hot-water supply"
+      "english_gloss": "hot-water supply",
+      "audio": "热水供应.mp3"
     },
     {
       "hanzi": "水表",
@@ -518,7 +549,8 @@
       "english_answers": [
         "water meter"
       ],
-      "english_gloss": "water meter"
+      "english_gloss": "water meter",
+      "audio": "水表.mp3"
     },
     {
       "hanzi": "电路",
@@ -526,7 +558,8 @@
       "english_answers": [
         "electrical circuit"
       ],
-      "english_gloss": "electrical circuit"
+      "english_gloss": "electrical circuit",
+      "audio": "电路.mp3"
     },
     {
       "hanzi": "电线",
@@ -534,7 +567,8 @@
       "english_answers": [
         "electrical wire"
       ],
-      "english_gloss": "electrical wire"
+      "english_gloss": "electrical wire",
+      "audio": "电线.mp3"
     },
     {
       "hanzi": "电闸",
@@ -543,7 +577,8 @@
         "main electrical switch",
         "breaker"
       ],
-      "english_gloss": "main electrical switch / breaker"
+      "english_gloss": "main electrical switch / breaker",
+      "audio": "电闸.mp3"
     },
     {
       "hanzi": "跳闸",
@@ -551,7 +586,8 @@
       "english_answers": [
         "circuit breaker trips"
       ],
-      "english_gloss": "circuit breaker trips"
+      "english_gloss": "circuit breaker trips",
+      "audio": "跳闸.mp3"
     },
     {
       "hanzi": "停电",
@@ -568,7 +604,8 @@
       "english_answers": [
         "short circuit"
       ],
-      "english_gloss": "short circuit"
+      "english_gloss": "short circuit",
+      "audio": "短路.mp3"
     },
     {
       "hanzi": "漏电",
@@ -576,7 +613,8 @@
       "english_answers": [
         "electrical current leakage"
       ],
-      "english_gloss": "electrical current leakage"
+      "english_gloss": "electrical current leakage",
+      "audio": "漏电.mp3"
     },
     {
       "hanzi": "电压",
@@ -584,7 +622,8 @@
       "english_answers": [
         "voltage"
       ],
-      "english_gloss": "voltage"
+      "english_gloss": "voltage",
+      "audio": "电压.mp3"
     },
     {
       "hanzi": "电表",
@@ -592,7 +631,8 @@
       "english_answers": [
         "electricity meter"
       ],
-      "english_gloss": "electricity meter"
+      "english_gloss": "electricity meter",
+      "audio": "电表.mp3"
     },
     {
       "hanzi": "灯泡",
@@ -600,7 +640,8 @@
       "english_answers": [
         "light bulb"
       ],
-      "english_gloss": "light bulb"
+      "english_gloss": "light bulb",
+      "audio": "灯泡.mp3"
     },
     {
       "hanzi": "换灯泡",
@@ -637,7 +678,8 @@
         "repair",
         "maintenance"
       ],
-      "english_gloss": "repair / maintenance"
+      "english_gloss": "repair / maintenance",
+      "audio": "维修.mp3"
     },
     {
       "hanzi": "修理",
@@ -683,7 +725,8 @@
       "english_answers": [
         "sound insulation"
       ],
-      "english_gloss": "sound insulation"
+      "english_gloss": "sound insulation",
+      "audio": "隔音.mp3"
     },
     {
       "hanzi": "通风",
@@ -691,7 +734,8 @@
       "english_answers": [
         "ventilation"
       ],
-      "english_gloss": "ventilation"
+      "english_gloss": "ventilation",
+      "audio": "通风.mp3"
     },
     {
       "hanzi": "报修",
@@ -708,7 +752,8 @@
       "english_answers": [
         "repair technician"
       ],
-      "english_gloss": "repair technician"
+      "english_gloss": "repair technician",
+      "audio": "维修人员.mp3"
     },
     {
       "hanzi": "上门维修",
@@ -734,7 +779,8 @@
       "english_answers": [
         "it hasn't been fixed yet"
       ],
-      "english_gloss": "it hasn't been fixed yet"
+      "english_gloss": "it hasn't been fixed yet",
+      "audio": "还没修好.mp3"
     },
     {
       "hanzi": "尽快",
@@ -770,7 +816,8 @@
       "english_answers": [
         "compensation"
       ],
-      "english_gloss": "compensation"
+      "english_gloss": "compensation",
+      "audio": "赔偿.mp3"
     },
     {
       "hanzi": "责任",
@@ -779,7 +826,8 @@
         "responsibility",
         "liability"
       ],
-      "english_gloss": "responsibility / liability"
+      "english_gloss": "responsibility / liability",
+      "audio": "责任.mp3"
     },
     {
       "hanzi": "损坏",
@@ -796,7 +844,8 @@
       "english_answers": [
         "normal use"
       ],
-      "english_gloss": "normal use"
+      "english_gloss": "normal use",
+      "audio": "正常使用.mp3"
     },
     {
       "hanzi": "维修费用",
@@ -804,7 +853,8 @@
       "english_answers": [
         "repair costs"
       ],
-      "english_gloss": "repair costs"
+      "english_gloss": "repair costs",
+      "audio": "维修费用.mp3"
     },
     {
       "hanzi": "蟑螂",
@@ -812,7 +862,8 @@
       "english_answers": [
         "cockroach"
       ],
-      "english_gloss": "cockroach"
+      "english_gloss": "cockroach",
+      "audio": "蟑螂.mp3"
     },
     {
       "hanzi": "老鼠",
@@ -821,7 +872,8 @@
         "mouse",
         "rat"
       ],
-      "english_gloss": "mouse / rat"
+      "english_gloss": "mouse / rat",
+      "audio": "老鼠.mp3"
     },
     {
       "hanzi": "蚊子",
@@ -829,7 +881,8 @@
       "english_answers": [
         "mosquito"
       ],
-      "english_gloss": "mosquito"
+      "english_gloss": "mosquito",
+      "audio": "蚊子.mp3"
     },
     {
       "hanzi": "虫害",
@@ -837,7 +890,8 @@
       "english_answers": [
         "pest infestation"
       ],
-      "english_gloss": "pest infestation"
+      "english_gloss": "pest infestation",
+      "audio": "虫害.mp3"
     },
     {
       "hanzi": "杀虫剂",
@@ -845,7 +899,8 @@
       "english_answers": [
         "insecticide"
       ],
-      "english_gloss": "insecticide"
+      "english_gloss": "insecticide",
+      "audio": "杀虫剂.mp3"
     },
     {
       "hanzi": "灭虫",
@@ -853,7 +908,8 @@
       "english_answers": [
         "exterminate pests"
       ],
-      "english_gloss": "exterminate pests"
+      "english_gloss": "exterminate pests",
+      "audio": "灭虫.mp3"
     },
     {
       "hanzi": "防虫",
@@ -861,7 +917,8 @@
       "english_answers": [
         "pest prevention"
       ],
-      "english_gloss": "pest prevention"
+      "english_gloss": "pest prevention",
+      "audio": "防虫.mp3"
     }
   ]
 }

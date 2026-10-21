@@ -11,7 +11,8 @@
       "english_answers": [
         "paper"
       ],
-      "english_gloss": "paper"
+      "english_gloss": "paper",
+      "audio": "纸.mp3"
     },
     {
       "hanzi": "一张纸",
@@ -28,7 +29,8 @@
       "english_answers": [
         "paper / sheets of paper"
       ],
-      "english_gloss": "paper / sheets of paper"
+      "english_gloss": "paper / sheets of paper",
+      "audio": "纸张.mp3"
     },
     {
       "hanzi": "笔",
@@ -36,7 +38,8 @@
       "english_answers": [
         "pen / writing instrument"
       ],
-      "english_gloss": "pen / writing instrument"
+      "english_gloss": "pen / writing instrument",
+      "audio": "笔.mp3"
     },
     {
       "hanzi": "铅笔",
@@ -44,7 +47,8 @@
       "english_answers": [
         "pencil"
       ],
-      "english_gloss": "pencil"
+      "english_gloss": "pencil",
+      "audio": "铅笔.mp3"
     },
     {
       "hanzi": "自动铅笔",
@@ -52,7 +56,8 @@
       "english_answers": [
         "mechanical pencil"
       ],
-      "english_gloss": "mechanical pencil"
+      "english_gloss": "mechanical pencil",
+      "audio": "自动铅笔.mp3"
     },
     {
       "hanzi": "钢笔",
@@ -60,7 +65,8 @@
       "english_answers": [
         "fountain pen"
       ],
-      "english_gloss": "fountain pen"
+      "english_gloss": "fountain pen",
+      "audio": "钢笔.mp3"
     },
     {
       "hanzi": "圆珠笔",
@@ -86,7 +92,8 @@
       "english_answers": [
         "marker pen"
       ],
-      "english_gloss": "marker pen"
+      "english_gloss": "marker pen",
+      "audio": "马克笔.mp3"
     },
     {
       "hanzi": "荧光笔",
@@ -94,7 +101,8 @@
       "english_answers": [
         "highlighter"
       ],
-      "english_gloss": "highlighter"
+      "english_gloss": "highlighter",
+      "audio": "荧光笔.mp3"
     },
     {
       "hanzi": "彩色铅笔",
@@ -111,7 +119,8 @@
       "english_answers": [
         "crayon"
       ],
-      "english_gloss": "crayon"
+      "english_gloss": "crayon",
+      "audio": "蜡笔.mp3"
     },
     {
       "hanzi": "粉笔",
@@ -119,7 +128,8 @@
       "english_answers": [
         "chalk"
       ],
-      "english_gloss": "chalk"
+      "english_gloss": "chalk",
+      "audio": "粉笔.mp3"
     },
     {
       "hanzi": "橡皮",
@@ -127,7 +137,8 @@
       "english_answers": [
         "eraser"
       ],
-      "english_gloss": "eraser"
+      "english_gloss": "eraser",
+      "audio": "橡皮.mp3"
     },
     {
       "hanzi": "橡皮擦",
@@ -135,7 +146,8 @@
       "english_answers": [
         "eraser"
       ],
-      "english_gloss": "eraser"
+      "english_gloss": "eraser",
+      "audio": "橡皮擦.mp3"
     },
     {
       "hanzi": "尺子",
@@ -170,7 +182,8 @@
       "english_answers": [
         "utility knife / craft knife"
       ],
-      "english_gloss": "utility knife / craft knife"
+      "english_gloss": "utility knife / craft knife",
+      "audio": "美工刀.mp3"
     },
     {
       "hanzi": "胶水",
@@ -178,7 +191,8 @@
       "english_answers": [
         "glue"
       ],
-      "english_gloss": "glue"
+      "english_gloss": "glue",
+      "audio": "胶水.mp3"
     },
     {
       "hanzi": "胶棒",
@@ -186,7 +200,8 @@
       "english_answers": [
         "glue stick"
       ],
-      "english_gloss": "glue stick"
+      "english_gloss": "glue stick",
+      "audio": "胶棒.mp3"
     },
     {
       "hanzi": "胶带",
@@ -194,7 +209,8 @@
       "english_answers": [
         "adhesive tape"
       ],
-      "english_gloss": "adhesive tape"
+      "english_gloss": "adhesive tape",
+      "audio": "胶带.mp3"
     },
     {
       "hanzi": "透明胶带",
@@ -202,7 +218,8 @@
       "english_answers": [
         "clear tape"
       ],
-      "english_gloss": "clear tape"
+      "english_gloss": "clear tape",
+      "audio": "透明胶带.mp3"
     },
     {
       "hanzi": "双面胶",
@@ -219,7 +236,8 @@
       "english_answers": [
         "stapler"
       ],
-      "english_gloss": "stapler"
+      "english_gloss": "stapler",
+      "audio": "订书机.mp3"
     },
     {
       "hanzi": "订书钉",
@@ -227,7 +245,8 @@
       "english_answers": [
         "staples"
       ],
-      "english_gloss": "staples"
+      "english_gloss": "staples",
+      "audio": "订书钉.mp3"
     },
     {
       "hanzi": "回形针",
@@ -244,7 +263,8 @@
       "english_answers": [
         "binder clip"
       ],
-      "english_gloss": "binder clip"
+      "english_gloss": "binder clip",
+      "audio": "长尾夹.mp3"
     },
     {
       "hanzi": "文件夹",
@@ -261,7 +281,8 @@
       "english_answers": [
         "notebook"
       ],
-      "english_gloss": "notebook"
+      "english_gloss": "notebook",
+      "audio": "笔记本.mp3"
     },
     {
       "hanzi": "便签纸",
@@ -296,7 +317,8 @@
       "english_answers": [
         "label / tag"
       ],
-      "english_gloss": "label / tag"
+      "english_gloss": "label / tag",
+      "audio": "标签.mp3"
     },
     {
       "hanzi": "贴纸",
@@ -304,7 +326,8 @@
       "english_answers": [
         "sticker"
       ],
-      "english_gloss": "sticker"
+      "english_gloss": "sticker",
+      "audio": "贴纸.mp3"
     },
     {
       "hanzi": "卡片",
@@ -321,7 +344,8 @@
       "english_answers": [
         "cardboard"
       ],
-      "english_gloss": "cardboard"
+      "english_gloss": "cardboard",
+      "audio": "纸板.mp3"
     },
     {
       "hanzi": "打印纸",
@@ -365,7 +389,8 @@
       "english_answers": [
         "paint / pigment"
       ],
-      "english_gloss": "paint / pigment"
+      "english_gloss": "paint / pigment",
+      "audio": "颜料.mp3"
     },
     {
       "hanzi": "水彩",
@@ -373,7 +398,8 @@
       "english_answers": [
         "watercolour paint"
       ],
-      "english_gloss": "watercolour paint"
+      "english_gloss": "watercolour paint",
+      "audio": "水彩.mp3"
     },
     {
       "hanzi": "水彩笔",
@@ -381,7 +407,8 @@
       "english_answers": [
         "felt-tip pen / watercolour marker"
       ],
-      "english_gloss": "felt-tip pen / watercolour marker"
+      "english_gloss": "felt-tip pen / watercolour marker",
+      "audio": "水彩笔.mp3"
     },
     {
       "hanzi": "丙烯颜料",
@@ -398,7 +425,8 @@
       "english_answers": [
         "oil paint"
       ],
-      "english_gloss": "oil paint"
+      "english_gloss": "oil paint",
+      "audio": "油画颜料.mp3"
     },
     {
       "hanzi": "油漆",
@@ -406,7 +434,8 @@
       "english_answers": [
         "paint for surfaces"
       ],
-      "english_gloss": "paint for surfaces"
+      "english_gloss": "paint for surfaces",
+      "audio": "油漆.mp3"
     },
     {
       "hanzi": "画笔",
@@ -414,7 +443,8 @@
       "english_answers": [
         "paintbrush / drawing brush"
       ],
-      "english_gloss": "paintbrush / drawing brush"
+      "english_gloss": "paintbrush / drawing brush",
+      "audio": "画笔.mp3"
     },
     {
       "hanzi": "刷子",
@@ -431,7 +461,8 @@
       "english_answers": [
         "canvas for painting"
       ],
-      "english_gloss": "canvas for painting"
+      "english_gloss": "canvas for painting",
+      "audio": "画布.mp3"
     },
     {
       "hanzi": "画纸",
@@ -439,7 +470,8 @@
       "english_answers": [
         "drawing paper"
       ],
-      "english_gloss": "drawing paper"
+      "english_gloss": "drawing paper",
+      "audio": "画纸.mp3"
     },
     {
       "hanzi": "调色板",
@@ -447,7 +479,8 @@
       "english_answers": [
         "palette"
       ],
-      "english_gloss": "palette"
+      "english_gloss": "palette",
+      "audio": "调色板.mp3"
     },
     {
       "hanzi": "画架",
@@ -455,7 +488,8 @@
       "english_answers": [
         "easel"
       ],
-      "english_gloss": "easel"
+      "english_gloss": "easel",
+      "audio": "画架.mp3"
     },
     {
       "hanzi": "削笔刀",
@@ -481,7 +515,8 @@
       "english_answers": [
         "pencil case"
       ],
-      "english_gloss": "pencil case"
+      "english_gloss": "pencil case",
+      "audio": "笔袋.mp3"
     },
     {
       "hanzi": "书签",
@@ -507,7 +542,8 @@
       "english_answers": [
         "table / desk"
       ],
-      "english_gloss": "table / desk"
+      "english_gloss": "table / desk",
+      "audio": "桌子.mp3"
     },
     {
       "hanzi": "抽屉",
@@ -542,7 +578,8 @@
       "english_answers": [
         "tissue"
       ],
-      "english_gloss": "tissue"
+      "english_gloss": "tissue",
+      "audio": "纸巾.mp3"
     },
     {
       "hanzi": "卫生纸",
@@ -559,7 +596,8 @@
       "english_answers": [
         "napkin"
       ],
-      "english_gloss": "napkin"
+      "english_gloss": "napkin",
+      "audio": "餐巾纸.mp3"
     },
     {
       "hanzi": "湿纸巾",
@@ -567,7 +605,8 @@
       "english_answers": [
         "wet wipe"
       ],
-      "english_gloss": "wet wipe"
+      "english_gloss": "wet wipe",
+      "audio": "湿纸巾.mp3"
     },
     {
       "hanzi": "抹布",
@@ -584,7 +623,8 @@
       "english_answers": [
         "towel"
       ],
-      "english_gloss": "towel"
+      "english_gloss": "towel",
+      "audio": "毛巾.mp3"
     },
     {
       "hanzi": "海绵",
@@ -592,7 +632,8 @@
       "english_answers": [
         "sponge"
       ],
-      "english_gloss": "sponge"
+      "english_gloss": "sponge",
+      "audio": "海绵.mp3"
     },
     {
       "hanzi": "扫帚",
@@ -609,7 +650,8 @@
       "english_answers": [
         "dustpan"
       ],
-      "english_gloss": "dustpan"
+      "english_gloss": "dustpan",
+      "audio": "簸箕.mp3"
     },
     {
       "hanzi": "拖把",
@@ -626,7 +668,8 @@
       "english_answers": [
         "bucket"
       ],
-      "english_gloss": "bucket"
+      "english_gloss": "bucket",
+      "audio": "水桶.mp3"
     },
     {
       "hanzi": "喷壶",
@@ -643,7 +686,8 @@
       "english_answers": [
         "dishwashing liquid"
       ],
-      "english_gloss": "dishwashing liquid"
+      "english_gloss": "dishwashing liquid",
+      "audio": "洗洁精.mp3"
     },
     {
       "hanzi": "洗衣液",
@@ -651,7 +695,8 @@
       "english_answers": [
         "liquid laundry detergent"
       ],
-      "english_gloss": "liquid laundry detergent"
+      "english_gloss": "liquid laundry detergent",
+      "audio": "洗衣液.mp3"
     },
     {
       "hanzi": "肥皂",
@@ -659,7 +704,8 @@
       "english_answers": [
         "soap"
       ],
-      "english_gloss": "soap"
+      "english_gloss": "soap",
+      "audio": "肥皂.mp3"
     },
     {
       "hanzi": "电池",
@@ -667,7 +713,8 @@
       "english_answers": [
         "battery"
       ],
-      "english_gloss": "battery"
+      "english_gloss": "battery",
+      "audio": "电池.mp3"
     },
     {
       "hanzi": "充电器",
@@ -711,7 +758,8 @@
       "english_answers": [
         "electric wire"
       ],
-      "english_gloss": "electric wire"
+      "english_gloss": "electric wire",
+      "audio": "电线.mp3"
     },
     {
       "hanzi": "灯泡",
@@ -719,7 +767,8 @@
       "english_answers": [
         "light bulb"
       ],
-      "english_gloss": "light bulb"
+      "english_gloss": "light bulb",
+      "audio": "灯泡.mp3"
     },
     {
       "hanzi": "手电筒",
@@ -745,7 +794,8 @@
       "english_answers": [
         "key"
       ],
-      "english_gloss": "key"
+      "english_gloss": "key",
+      "audio": "钥匙.mp3"
     },
     {
       "hanzi": "锁",
@@ -753,7 +803,8 @@
       "english_answers": [
         "lock"
       ],
-      "english_gloss": "lock"
+      "english_gloss": "lock",
+      "audio": "锁.mp3"
     },
     {
       "hanzi": "螺丝",
@@ -761,7 +812,8 @@
       "english_answers": [
         "screw"
       ],
-      "english_gloss": "screw"
+      "english_gloss": "screw",
+      "audio": "螺丝.mp3"
     },
     {
       "hanzi": "螺丝刀",
@@ -769,7 +821,8 @@
       "english_answers": [
         "screwdriver"
       ],
-      "english_gloss": "screwdriver"
+      "english_gloss": "screwdriver",
+      "audio": "螺丝刀.mp3"
     },
     {
       "hanzi": "锤子",
@@ -777,7 +830,8 @@
       "english_answers": [
         "hammer"
       ],
-      "english_gloss": "hammer"
+      "english_gloss": "hammer",
+      "audio": "锤子.mp3"
     },
     {
       "hanzi": "钉子",
@@ -785,7 +839,8 @@
       "english_answers": [
         "nail"
       ],
-      "english_gloss": "nail"
+      "english_gloss": "nail",
+      "audio": "钉子.mp3"
     },
     {
       "hanzi": "钳子",
@@ -793,7 +848,8 @@
       "english_answers": [
         "pliers"
       ],
-      "english_gloss": "pliers"
+      "english_gloss": "pliers",
+      "audio": "钳子.mp3"
     },
     {
       "hanzi": "扳手",
@@ -810,7 +866,8 @@
       "english_answers": [
         "rubber gloves"
       ],
-      "english_gloss": "rubber gloves"
+      "english_gloss": "rubber gloves",
+      "audio": "胶皮手套.mp3"
     },
     {
       "hanzi": "塑料袋",
@@ -827,7 +884,8 @@
       "english_answers": [
         "cardboard box"
       ],
-      "english_gloss": "cardboard box"
+      "english_gloss": "cardboard box",
+      "audio": "纸箱.mp3"
     },
     {
       "hanzi": "收纳盒",
@@ -844,7 +902,8 @@
       "english_answers": [
         "basket"
       ],
-      "english_gloss": "basket"
+      "english_gloss": "basket",
+      "audio": "篮子.mp3"
     }
   ]
 }

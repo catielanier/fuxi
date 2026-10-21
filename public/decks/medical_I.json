@@ -38,7 +38,8 @@
       "english_answers": [
         "forehead"
       ],
-      "english_gloss": "forehead"
+      "english_gloss": "forehead",
+      "audio": "额头.mp3"
     },
     {
       "hanzi": "脸",
@@ -46,7 +47,8 @@
       "english_answers": [
         "face"
       ],
-      "english_gloss": "face"
+      "english_gloss": "face",
+      "audio": "脸.mp3"
     },
     {
       "hanzi": "脸颊",
@@ -54,7 +56,8 @@
       "english_answers": [
         "cheek"
       ],
-      "english_gloss": "cheek"
+      "english_gloss": "cheek",
+      "audio": "脸颊.mp3"
     },
     {
       "hanzi": "眉毛",
@@ -62,7 +65,8 @@
       "english_answers": [
         "eyebrow"
       ],
-      "english_gloss": "eyebrow"
+      "english_gloss": "eyebrow",
+      "audio": "眉毛.mp3"
     },
     {
       "hanzi": "睫毛",
@@ -70,7 +74,8 @@
       "english_answers": [
         "eyelash"
       ],
-      "english_gloss": "eyelash"
+      "english_gloss": "eyelash",
+      "audio": "睫毛.mp3"
     },
     {
       "hanzi": "眼睛",
@@ -78,7 +83,8 @@
       "english_answers": [
         "eye"
       ],
-      "english_gloss": "eye"
+      "english_gloss": "eye",
+      "audio": "眼睛.mp3"
     },
     {
       "hanzi": "眼皮",
@@ -86,7 +92,8 @@
       "english_answers": [
         "eyelid"
       ],
-      "english_gloss": "eyelid"
+      "english_gloss": "eyelid",
+      "audio": "眼皮.mp3"
     },
     {
       "hanzi": "瞳孔",
@@ -94,7 +101,8 @@
       "english_answers": [
         "pupil of the eye"
       ],
-      "english_gloss": "pupil of the eye"
+      "english_gloss": "pupil of the eye",
+      "audio": "瞳孔.mp3"
     },
     {
       "hanzi": "耳朵",
@@ -102,7 +110,8 @@
       "english_answers": [
         "ear"
       ],
-      "english_gloss": "ear"
+      "english_gloss": "ear",
+      "audio": "耳朵.mp3"
     },
     {
       "hanzi": "耳垂",
@@ -110,7 +119,8 @@
       "english_answers": [
         "earlobe"
       ],
-      "english_gloss": "earlobe"
+      "english_gloss": "earlobe",
+      "audio": "耳垂.mp3"
     },
     {
       "hanzi": "鼻子",
@@ -118,7 +128,8 @@
       "english_answers": [
         "nose"
       ],
-      "english_gloss": "nose"
+      "english_gloss": "nose",
+      "audio": "鼻子.mp3"
     },
     {
       "hanzi": "鼻孔",
@@ -126,7 +137,8 @@
       "english_answers": [
         "nostril"
       ],
-      "english_gloss": "nostril"
+      "english_gloss": "nostril",
+      "audio": "鼻孔.mp3"
     },
     {
       "hanzi": "嘴巴",
@@ -152,7 +164,8 @@
       "english_answers": [
         "tongue"
       ],
-      "english_gloss": "tongue"
+      "english_gloss": "tongue",
+      "audio": "舌头.mp3"
     },
     {
       "hanzi": "牙齿",
@@ -160,7 +173,8 @@
       "english_answers": [
         "teeth"
       ],
-      "english_gloss": "teeth"
+      "english_gloss": "teeth",
+      "audio": "牙齿.mp3"
     },
     {
       "hanzi": "下巴",
@@ -177,7 +191,8 @@
       "english_answers": [
         "body"
       ],
-      "english_gloss": "body"
+      "english_gloss": "body",
+      "audio": "身体.mp3"
     },
     {
       "hanzi": "脖子",
@@ -185,7 +200,8 @@
       "english_answers": [
         "neck"
       ],
-      "english_gloss": "neck"
+      "english_gloss": "neck",
+      "audio": "脖子.mp3"
     },
     {
       "hanzi": "喉咙",
@@ -202,7 +218,8 @@
       "english_answers": [
         "shoulder"
       ],
-      "english_gloss": "shoulder"
+      "english_gloss": "shoulder",
+      "audio": "肩膀.mp3"
     },
     {
       "hanzi": "胸部",
@@ -211,7 +228,8 @@
         "chest",
         "breast area"
       ],
-      "english_gloss": "chest / breast area"
+      "english_gloss": "chest / breast area",
+      "audio": "胸部.mp3"
     },
     {
       "hanzi": "乳房",
@@ -228,7 +246,8 @@
       "english_answers": [
         "front of chest"
       ],
-      "english_gloss": "front of chest"
+      "english_gloss": "front of chest",
+      "audio": "胸口.mp3"
     },
     {
       "hanzi": "乳头",
@@ -245,7 +264,8 @@
       "english_answers": [
         "back"
       ],
-      "english_gloss": "back"
+      "english_gloss": "back",
+      "audio": "背部.mp3"
     },
     {
       "hanzi": "腰",
@@ -254,7 +274,8 @@
         "waist",
         "lower back"
       ],
-      "english_gloss": "waist / lower back"
+      "english_gloss": "waist / lower back",
+      "audio": "腰.mp3"
     },
     {
       "hanzi": "腹部",
@@ -262,7 +283,8 @@
       "english_answers": [
         "abdomen (formal)"
       ],
-      "english_gloss": "abdomen (formal)"
+      "english_gloss": "abdomen (formal)",
+      "audio": "腹部.mp3"
     },
     {
       "hanzi": "肚子",
@@ -271,7 +293,8 @@
         "belly",
         "stomach area (everyday)"
       ],
-      "english_gloss": "belly / stomach area (everyday)"
+      "english_gloss": "belly / stomach area (everyday)",
+      "audio": "肚子.mp3"
     },
     {
       "hanzi": "肚脐",
@@ -279,7 +302,8 @@
       "english_answers": [
         "belly button"
       ],
-      "english_gloss": "belly button"
+      "english_gloss": "belly button",
+      "audio": "肚脐.mp3"
     },
     {
       "hanzi": "臀部",
@@ -288,7 +312,8 @@
         "buttocks (anatomical",
         "polite)"
       ],
-      "english_gloss": "buttocks (anatomical / polite)"
+      "english_gloss": "buttocks (anatomical / polite)",
+      "audio": "臀部.mp3"
     },
     {
       "hanzi": "屁股",
@@ -306,7 +331,8 @@
       "english_answers": [
         "skin"
       ],
-      "english_gloss": "skin"
+      "english_gloss": "skin",
+      "audio": "皮肤.mp3"
     },
     {
       "hanzi": "毛孔",
@@ -314,7 +340,8 @@
       "english_answers": [
         "skin pore"
       ],
-      "english_gloss": "skin pore"
+      "english_gloss": "skin pore",
+      "audio": "毛孔.mp3"
     },
     {
       "hanzi": "体毛",
@@ -331,7 +358,8 @@
       "english_answers": [
         "armpit (anatomical)"
       ],
-      "english_gloss": "armpit (anatomical)"
+      "english_gloss": "armpit (anatomical)",
+      "audio": "腋窝.mp3"
     },
     {
       "hanzi": "腋下",
@@ -339,7 +367,8 @@
       "english_answers": [
         "underarm"
       ],
-      "english_gloss": "underarm"
+      "english_gloss": "underarm",
+      "audio": "腋下.mp3"
     },
     {
       "hanzi": "手臂",
@@ -374,7 +403,8 @@
       "english_answers": [
         "elbow (everyday)"
       ],
-      "english_gloss": "elbow (everyday)"
+      "english_gloss": "elbow (everyday)",
+      "audio": "胳膊肘.mp3"
     },
     {
       "hanzi": "手腕",
@@ -436,7 +466,8 @@
       "english_answers": [
         "bone"
       ],
-      "english_gloss": "bone"
+      "english_gloss": "bone",
+      "audio": "骨头.mp3"
     },
     {
       "hanzi": "肌肉",
@@ -444,7 +475,8 @@
       "english_answers": [
         "muscle"
       ],
-      "english_gloss": "muscle"
+      "english_gloss": "muscle",
+      "audio": "肌肉.mp3"
     },
     {
       "hanzi": "脊椎",
@@ -453,7 +485,8 @@
         "spine",
         "vertebral column"
       ],
-      "english_gloss": "spine / vertebral column"
+      "english_gloss": "spine / vertebral column",
+      "audio": "脊椎.mp3"
     },
     {
       "hanzi": "腿",
@@ -461,7 +494,8 @@
       "english_answers": [
         "leg"
       ],
-      "english_gloss": "leg"
+      "english_gloss": "leg",
+      "audio": "腿.mp3"
     },
     {
       "hanzi": "大腿",
@@ -488,7 +522,8 @@
       "english_answers": [
         "knee"
       ],
-      "english_gloss": "knee"
+      "english_gloss": "knee",
+      "audio": "膝盖.mp3"
     },
     {
       "hanzi": "脚踝",
@@ -496,7 +531,8 @@
       "english_answers": [
         "ankle"
       ],
-      "english_gloss": "ankle"
+      "english_gloss": "ankle",
+      "audio": "脚踝.mp3"
     },
     {
       "hanzi": "脚后跟",
@@ -504,7 +540,8 @@
       "english_answers": [
         "heel"
       ],
-      "english_gloss": "heel"
+      "english_gloss": "heel",
+      "audio": "脚后跟.mp3"
     },
     {
       "hanzi": "脚趾",
@@ -512,7 +549,8 @@
       "english_answers": [
         "toe"
       ],
-      "english_gloss": "toe"
+      "english_gloss": "toe",
+      "audio": "脚趾.mp3"
     },
     {
       "hanzi": "大脑",
@@ -538,7 +576,8 @@
       "english_answers": [
         "lung"
       ],
-      "english_gloss": "lung"
+      "english_gloss": "lung",
+      "audio": "肺.mp3"
     },
     {
       "hanzi": "胃",
@@ -546,7 +585,8 @@
       "english_answers": [
         "stomach (organ)"
       ],
-      "english_gloss": "stomach (organ)"
+      "english_gloss": "stomach (organ)",
+      "audio": "胃.mp3"
     },
     {
       "hanzi": "肠道",
@@ -554,7 +594,8 @@
       "english_answers": [
         "intestinal tract"
       ],
-      "english_gloss": "intestinal tract"
+      "english_gloss": "intestinal tract",
+      "audio": "肠道.mp3"
     },
     {
       "hanzi": "小肠",
@@ -580,7 +621,8 @@
       "english_answers": [
         "liver"
       ],
-      "english_gloss": "liver"
+      "english_gloss": "liver",
+      "audio": "肝脏.mp3"
     },
     {
       "hanzi": "肾脏",
@@ -588,7 +630,8 @@
       "english_answers": [
         "kidney"
       ],
-      "english_gloss": "kidney"
+      "english_gloss": "kidney",
+      "audio": "肾脏.mp3"
     },
     {
       "hanzi": "膀胱",
@@ -596,7 +639,8 @@
       "english_answers": [
         "urinary bladder"
       ],
-      "english_gloss": "urinary bladder"
+      "english_gloss": "urinary bladder",
+      "audio": "膀胱.mp3"
     },
     {
       "hanzi": "食道",
@@ -604,7 +648,8 @@
       "english_answers": [
         "esophagus (common term)"
       ],
-      "english_gloss": "esophagus (common term)"
+      "english_gloss": "esophagus (common term)",
+      "audio": "食道.mp3"
     },
     {
       "hanzi": "气管",
@@ -613,7 +658,8 @@
         "trachea",
         "windpipe"
       ],
-      "english_gloss": "trachea / windpipe"
+      "english_gloss": "trachea / windpipe",
+      "audio": "气管.mp3"
     },
     {
       "hanzi": "血管",
@@ -621,7 +667,8 @@
       "english_answers": [
         "blood vessel"
       ],
-      "english_gloss": "blood vessel"
+      "english_gloss": "blood vessel",
+      "audio": "血管.mp3"
     },
     {
       "hanzi": "动脉",
@@ -638,7 +685,8 @@
       "english_answers": [
         "vein"
       ],
-      "english_gloss": "vein"
+      "english_gloss": "vein",
+      "audio": "静脉.mp3"
     },
     {
       "hanzi": "血液",
@@ -646,7 +694,8 @@
       "english_answers": [
         "blood"
       ],
-      "english_gloss": "blood"
+      "english_gloss": "blood",
+      "audio": "血液.mp3"
     },
     {
       "hanzi": "神经",
@@ -654,7 +703,8 @@
       "english_answers": [
         "nerve"
       ],
-      "english_gloss": "nerve"
+      "english_gloss": "nerve",
+      "audio": "神经.mp3"
     },
     {
       "hanzi": "淋巴结",
@@ -662,7 +712,8 @@
       "english_answers": [
         "lymph node"
       ],
-      "english_gloss": "lymph node"
+      "english_gloss": "lymph node",
+      "audio": "淋巴结.mp3"
     },
     {
       "hanzi": "甲状腺",
@@ -670,7 +721,8 @@
       "english_answers": [
         "thyroid gland"
       ],
-      "english_gloss": "thyroid gland"
+      "english_gloss": "thyroid gland",
+      "audio": "甲状腺.mp3"
     },
     {
       "hanzi": "免疫系统",
@@ -688,7 +740,8 @@
         "genitalia",
         "reproductive organs (formal)"
       ],
-      "english_gloss": "genitalia / reproductive organs (formal)"
+      "english_gloss": "genitalia / reproductive organs (formal)",
+      "audio": "生殖器.mp3"
     },
     {
       "hanzi": "外阴",
@@ -723,7 +776,8 @@
       "english_answers": [
         "clitoris (formal)"
       ],
-      "english_gloss": "clitoris (formal)"
+      "english_gloss": "clitoris (formal)",
+      "audio": "阴蒂.mp3"
     },
     {
       "hanzi": "阴道",
@@ -731,7 +785,8 @@
       "english_answers": [
         "vagina (anatomical)"
       ],
-      "english_gloss": "vagina (anatomical)"
+      "english_gloss": "vagina (anatomical)",
+      "audio": "阴道.mp3"
     },
     {
       "hanzi": "子宫",
@@ -757,7 +812,8 @@
       "english_answers": [
         "fallopian tube (formal)"
       ],
-      "english_gloss": "fallopian tube (formal)"
+      "english_gloss": "fallopian tube (formal)",
+      "audio": "输卵管.mp3"
     },
     {
       "hanzi": "阴茎",
@@ -765,7 +821,8 @@
       "english_answers": [
         "penis (anatomical)"
       ],
-      "english_gloss": "penis (anatomical)"
+      "english_gloss": "penis (anatomical)",
+      "audio": "阴茎.mp3"
     },
     {
       "hanzi": "龟头",
@@ -773,7 +830,8 @@
       "english_answers": [
         "glans penis (anatomical)"
       ],
-      "english_gloss": "glans penis (anatomical)"
+      "english_gloss": "glans penis (anatomical)",
+      "audio": "龟头.mp3"
     },
     {
       "hanzi": "包皮",
@@ -790,7 +848,8 @@
       "english_answers": [
         "scrotum (formal)"
       ],
-      "english_gloss": "scrotum (formal)"
+      "english_gloss": "scrotum (formal)",
+      "audio": "阴囊.mp3"
     },
     {
       "hanzi": "睾丸",
@@ -798,7 +857,8 @@
       "english_answers": [
         "testicle (formal)"
       ],
-      "english_gloss": "testicle (formal)"
+      "english_gloss": "testicle (formal)",
+      "audio": "睾丸.mp3"
     },
     {
       "hanzi": "前列腺",
@@ -835,7 +895,8 @@
         "pee-pee",
         "penis (childish slang)"
       ],
-      "english_gloss": "pee-pee / penis (childish slang)"
+      "english_gloss": "pee-pee / penis (childish slang)",
+      "audio": "鸡鸡.mp3"
     },
     {
       "hanzi": "小弟弟",
@@ -854,7 +915,8 @@
         "private parts",
         "intimate area (euphemistic)"
       ],
-      "english_gloss": "private parts / intimate area (euphemistic)"
+      "english_gloss": "private parts / intimate area (euphemistic)",
+      "audio": "私处.mp3"
     }
   ]
 }

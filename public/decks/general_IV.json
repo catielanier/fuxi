@@ -11,7 +11,8 @@
       "english_answers": [
         "hot"
       ],
-      "english_gloss": "hot"
+      "english_gloss": "hot",
+      "audio": "热.mp3"
     },
     {
       "hanzi": "只",
@@ -29,7 +30,8 @@
       "english_answers": [
         "measure word for vehicles"
       ],
-      "english_gloss": "measure word for vehicles"
+      "english_gloss": "measure word for vehicles",
+      "audio": "辆.mp3"
     },
     {
       "hanzi": "台",
@@ -49,7 +51,8 @@
         "films",
         "works"
       ],
-      "english_gloss": "measure word for phones / films / works"
+      "english_gloss": "measure word for phones / films / works",
+      "audio": "部.mp3"
     },
     {
       "hanzi": "家",
@@ -67,7 +70,8 @@
       "english_answers": [
         "measure word for rooms"
       ],
-      "english_gloss": "measure word for rooms"
+      "english_gloss": "measure word for rooms",
+      "audio": "间.mp3"
     },
     {
       "hanzi": "层",
@@ -86,7 +90,8 @@
         "building",
         "floor"
       ],
-      "english_gloss": "building / floor"
+      "english_gloss": "building / floor",
+      "audio": "楼.mp3"
     },
     {
       "hanzi": "次",
@@ -95,7 +100,8 @@
         "time",
         "occurrence"
       ],
-      "english_gloss": "time / occurrence"
+      "english_gloss": "time / occurrence",
+      "audio": "次.mp3"
     },
     {
       "hanzi": "遍",
@@ -103,7 +109,8 @@
       "english_answers": [
         "time through an action from start to finish"
       ],
-      "english_gloss": "time through an action from start to finish"
+      "english_gloss": "time through an action from start to finish",
+      "audio": "遍.mp3"
     },
     {
       "hanzi": "趟",
@@ -112,7 +119,8 @@
         "trip",
         "run"
       ],
-      "english_gloss": "trip / run"
+      "english_gloss": "trip / run",
+      "audio": "趟.mp3"
     },
     {
       "hanzi": "回",
@@ -131,7 +139,8 @@
         "kind",
         "type"
       ],
-      "english_gloss": "kind / type"
+      "english_gloss": "kind / type",
+      "audio": "种.mp3"
     },
     {
       "hanzi": "块",
@@ -151,7 +160,8 @@
         "0.1 yuan",
         "dime"
       ],
-      "english_gloss": "0.1 yuan / dime"
+      "english_gloss": "0.1 yuan / dime",
+      "audio": "毛.mp3"
     },
     {
       "hanzi": "角",
@@ -159,7 +169,8 @@
       "english_answers": [
         "0.1 yuan"
       ],
-      "english_gloss": "0.1 yuan"
+      "english_gloss": "0.1 yuan",
+      "audio": "角.mp3"
     },
     {
       "hanzi": "分",
@@ -187,7 +198,8 @@
       "english_answers": [
         "meter"
       ],
-      "english_gloss": "meter"
+      "english_gloss": "meter",
+      "audio": "米.mp3"
     },
     {
       "hanzi": "公斤",
@@ -261,7 +273,8 @@
         "about to",
         "very soon"
       ],
-      "english_gloss": "about to / very soon"
+      "english_gloss": "about to / very soon",
+      "audio": "马上就.mp3"
     },
     {
       "hanzi": "后来",
@@ -307,7 +320,8 @@
       "english_answers": [
         "suddenly"
       ],
-      "english_gloss": "suddenly"
+      "english_gloss": "suddenly",
+      "audio": "突然.mp3"
     },
     {
       "hanzi": "顺便",
@@ -316,7 +330,8 @@
         "conveniently",
         "while you're at it"
       ],
-      "english_gloss": "conveniently / while you're at it"
+      "english_gloss": "conveniently / while you're at it",
+      "audio": "顺便.mp3"
     },
     {
       "hanzi": "顺路",
@@ -325,7 +340,8 @@
         "on the way",
         "along the route"
       ],
-      "english_gloss": "on the way / along the route"
+      "english_gloss": "on the way / along the route",
+      "audio": "顺路.mp3"
     },
     {
       "hanzi": "直接",
@@ -333,7 +349,8 @@
       "english_answers": [
         "directly"
       ],
-      "english_gloss": "directly"
+      "english_gloss": "directly",
+      "audio": "直接.mp3"
     },
     {
       "hanzi": "差点儿",
@@ -351,7 +368,8 @@
       "english_answers": [
         "at least"
       ],
-      "english_gloss": "at least"
+      "english_gloss": "at least",
+      "audio": "至少.mp3"
     },
     {
       "hanzi": "至多",
@@ -359,7 +377,8 @@
       "english_answers": [
         "at most"
       ],
-      "english_gloss": "at most"
+      "english_gloss": "at most",
+      "audio": "至多.mp3"
     },
     {
       "hanzi": "差别",
@@ -427,7 +446,8 @@
         "every",
         "each"
       ],
-      "english_gloss": "every / each"
+      "english_gloss": "every / each",
+      "audio": "每.mp3"
     },
     {
       "hanzi": "所有",
@@ -456,7 +476,8 @@
         "a certain",
         "some"
       ],
-      "english_gloss": "a certain / some"
+      "english_gloss": "a certain / some",
+      "audio": "某.mp3"
     },
     {
       "hanzi": "够不够",
@@ -474,7 +495,8 @@
         "can or can't",
         "is it possible?"
       ],
-      "english_gloss": "can or can't / is it possible?"
+      "english_gloss": "can or can't / is it possible?",
+      "audio": "能不能.mp3"
     },
     {
       "hanzi": "要不要",
@@ -482,7 +504,8 @@
       "english_answers": [
         "want it or not?"
       ],
-      "english_gloss": "want it or not?"
+      "english_gloss": "want it or not?",
+      "audio": "要不要.mp3"
     },
     {
       "hanzi": "有没有",
@@ -491,7 +514,8 @@
         "is there",
         "do you have?"
       ],
-      "english_gloss": "is there / do you have?"
+      "english_gloss": "is there / do you have?",
+      "audio": "有没有.mp3"
     },
     {
       "hanzi": "是不是",
@@ -499,7 +523,8 @@
       "english_answers": [
         "is it or isn't it?"
       ],
-      "english_gloss": "is it or isn't it?"
+      "english_gloss": "is it or isn't it?",
+      "audio": "是不是.mp3"
     },
     {
       "hanzi": "对不对",
@@ -517,7 +542,8 @@
         "remember",
         "keep in mind"
       ],
-      "english_gloss": "remember / keep in mind"
+      "english_gloss": "remember / keep in mind",
+      "audio": "记住.mp3"
     },
     {
       "hanzi": "忘了",
@@ -678,7 +704,8 @@
       "english_answers": [
         "return to someone"
       ],
-      "english_gloss": "return to someone"
+      "english_gloss": "return to someone",
+      "audio": "还给.mp3"
     },
     {
       "hanzi": "接",
@@ -699,7 +726,8 @@
         "give",
         "see someone off"
       ],
-      "english_gloss": "deliver / give / see someone off"
+      "english_gloss": "deliver / give / see someone off",
+      "audio": "送.mp3"
     },
     {
       "hanzi": "接人",
@@ -717,7 +745,8 @@
         "see someone off",
         "give to someone"
       ],
-      "english_gloss": "see someone off / give to someone"
+      "english_gloss": "see someone off / give to someone",
+      "audio": "送人.mp3"
     },
     {
       "hanzi": "经过",
@@ -726,7 +755,8 @@
         "pass by",
         "go through"
       ],
-      "english_gloss": "pass by / go through"
+      "english_gloss": "pass by / go through",
+      "audio": "经过.mp3"
     },
     {
       "hanzi": "经过这里",
@@ -734,7 +764,8 @@
       "english_answers": [
         "pass through here"
       ],
-      "english_gloss": "pass through here"
+      "english_gloss": "pass through here",
+      "audio": "经过这里.mp3"
     },
     {
       "hanzi": "往",
@@ -752,7 +783,8 @@
       "english_answers": [
         "go straight"
       ],
-      "english_gloss": "go straight"
+      "english_gloss": "go straight",
+      "audio": "直走.mp3"
     },
     {
       "hanzi": "左转",
@@ -778,7 +810,8 @@
       "english_answers": [
         "cross the street"
       ],
-      "english_gloss": "cross the street"
+      "english_gloss": "cross the street",
+      "audio": "过马路.mp3"
     },
     {
       "hanzi": "红绿灯",
@@ -786,7 +819,8 @@
       "english_answers": [
         "traffic light"
       ],
-      "english_gloss": "traffic light"
+      "english_gloss": "traffic light",
+      "audio": "红绿灯.mp3"
     },
     {
       "hanzi": "人行道",
@@ -815,7 +849,8 @@
         "miss",
         "pass one's stop"
       ],
-      "english_gloss": "miss / pass one's stop"
+      "english_gloss": "miss / pass one's stop",
+      "audio": "过站.mp3"
     },
     {
       "hanzi": "坐过站",
@@ -832,7 +867,8 @@
       "english_answers": [
         "wait for a vehicle"
       ],
-      "english_gloss": "wait for a vehicle"
+      "english_gloss": "wait for a vehicle",
+      "audio": "等车.mp3"
     },
     {
       "hanzi": "赶车",
@@ -840,7 +876,8 @@
       "english_answers": [
         "rush to catch a bus/train"
       ],
-      "english_gloss": "rush to catch a bus/train"
+      "english_gloss": "rush to catch a bus/train",
+      "audio": "赶车.mp3"
     },
     {
       "hanzi": "零钱",
@@ -848,7 +885,8 @@
       "english_answers": [
         "small change"
       ],
-      "english_gloss": "small change"
+      "english_gloss": "small change",
+      "audio": "零钱.mp3"
     },
     {
       "hanzi": "找钱",
@@ -875,7 +913,8 @@
       "english_answers": [
         "owe"
       ],
-      "english_gloss": "owe"
+      "english_gloss": "owe",
+      "audio": "欠.mp3"
     },
     {
       "hanzi": "欠钱",
@@ -883,7 +922,8 @@
       "english_answers": [
         "owe money"
       ],
-      "english_gloss": "owe money"
+      "english_gloss": "owe money",
+      "audio": "欠钱.mp3"
     },
     {
       "hanzi": "交钱",

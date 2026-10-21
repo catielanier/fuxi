@@ -41,7 +41,8 @@
       "english_answers": [
         "divided by"
       ],
-      "english_gloss": "divided by"
+      "english_gloss": "divided by",
+      "audio": "除以.mp3"
     },
     {
       "hanzi": "等于",
@@ -49,7 +50,8 @@
       "english_answers": [
         "equals"
       ],
-      "english_gloss": "equals"
+      "english_gloss": "equals",
+      "audio": "等于.mp3"
     },
     {
       "hanzi": "计算",
@@ -57,7 +59,8 @@
       "english_answers": [
         "calculate"
       ],
-      "english_gloss": "calculate"
+      "english_gloss": "calculate",
+      "audio": "计算.mp3"
     },
     {
       "hanzi": "算",
@@ -66,7 +69,8 @@
         "calculate",
         "count"
       ],
-      "english_gloss": "calculate; count"
+      "english_gloss": "calculate; count",
+      "audio": "算.mp3"
     },
     {
       "hanzi": "算错",
@@ -74,7 +78,8 @@
       "english_answers": [
         "calculate incorrectly"
       ],
-      "english_gloss": "calculate incorrectly"
+      "english_gloss": "calculate incorrectly",
+      "audio": "算错.mp3"
     },
     {
       "hanzi": "算对",
@@ -82,7 +87,8 @@
       "english_answers": [
         "calculate correctly"
       ],
-      "english_gloss": "calculate correctly"
+      "english_gloss": "calculate correctly",
+      "audio": "算对.mp3"
     },
     {
       "hanzi": "数字",
@@ -127,7 +133,8 @@
       "english_answers": [
         "monetary amount"
       ],
-      "english_gloss": "monetary amount"
+      "english_gloss": "monetary amount",
+      "audio": "金额.mp3"
     },
     {
       "hanzi": "合计",
@@ -210,7 +217,8 @@
       "english_answers": [
         "at least"
       ],
-      "english_gloss": "at least"
+      "english_gloss": "at least",
+      "audio": "至少.mp3"
     },
     {
       "hanzi": "至多",
@@ -218,7 +226,8 @@
       "english_answers": [
         "at most"
       ],
-      "english_gloss": "at most"
+      "english_gloss": "at most",
+      "audio": "至多.mp3"
     },
     {
       "hanzi": "超过",
@@ -227,7 +236,8 @@
         "exceed",
         "more than"
       ],
-      "english_gloss": "exceed; more than"
+      "english_gloss": "exceed; more than",
+      "audio": "超过.mp3"
     },
     {
       "hanzi": "不到",
@@ -330,7 +340,8 @@
       "english_answers": [
         "percentage"
       ],
-      "english_gloss": "percentage"
+      "english_gloss": "percentage",
+      "audio": "百分比.mp3"
     },
     {
       "hanzi": "百分之十",
@@ -338,7 +349,8 @@
       "english_answers": [
         "ten percent"
       ],
-      "english_gloss": "ten percent"
+      "english_gloss": "ten percent",
+      "audio": "百分之十.mp3"
     },
     {
       "hanzi": "百分点",
@@ -346,7 +358,8 @@
       "english_answers": [
         "percentage point"
       ],
-      "english_gloss": "percentage point"
+      "english_gloss": "percentage point",
+      "audio": "百分点.mp3"
     },
     {
       "hanzi": "小数",
@@ -373,7 +386,8 @@
         "zero point five",
         "0.5"
       ],
-      "english_gloss": "zero point five; 0.5"
+      "english_gloss": "zero point five; 0.5",
+      "audio": "零点五.mp3"
     },
     {
       "hanzi": "四舍五入",
@@ -390,7 +404,8 @@
       "english_answers": [
         "approximately equals"
       ],
-      "english_gloss": "approximately equals"
+      "english_gloss": "approximately equals",
+      "audio": "约等于.mp3"
     },
     {
       "hanzi": "一百零一",
@@ -524,7 +539,8 @@
       "english_answers": [
         "current price"
       ],
-      "english_gloss": "current price"
+      "english_gloss": "current price",
+      "audio": "现价.mp3"
     },
     {
       "hanzi": "标价",
@@ -532,7 +548,8 @@
       "english_answers": [
         "listed price"
       ],
-      "english_gloss": "listed price"
+      "english_gloss": "listed price",
+      "audio": "标价.mp3"
     },
     {
       "hanzi": "优惠",
@@ -589,7 +606,8 @@
       "english_answers": [
         "spend-threshold discount"
       ],
-      "english_gloss": "spend-threshold discount"
+      "english_gloss": "spend-threshold discount",
+      "audio": "满减.mp3"
     },
     {
       "hanzi": "含税",
@@ -615,7 +633,8 @@
       "english_answers": [
         "tax rate"
       ],
-      "english_gloss": "tax rate"
+      "english_gloss": "tax rate",
+      "audio": "税率.mp3"
     },
     {
       "hanzi": "增值税",
@@ -651,7 +670,8 @@
         "bill",
         "statement"
       ],
-      "english_gloss": "bill; statement"
+      "english_gloss": "bill; statement",
+      "audio": "账单.mp3"
     },
     {
       "hanzi": "费用",
@@ -660,7 +680,8 @@
         "expense",
         "fee"
       ],
-      "english_gloss": "expense; fee"
+      "english_gloss": "expense; fee",
+      "audio": "费用.mp3"
     },
     {
       "hanzi": "手续费",
@@ -678,7 +699,8 @@
       "english_answers": [
         "service fee"
       ],
-      "english_gloss": "service fee"
+      "english_gloss": "service fee",
+      "audio": "服务费.mp3"
     },
     {
       "hanzi": "附加费",
@@ -686,7 +708,8 @@
       "english_answers": [
         "surcharge"
       ],
-      "english_gloss": "surcharge"
+      "english_gloss": "surcharge",
+      "audio": "附加费.mp3"
     },
     {
       "hanzi": "押金",
@@ -712,7 +735,8 @@
       "english_answers": [
         "advance payment"
       ],
-      "english_gloss": "advance payment"
+      "english_gloss": "advance payment",
+      "audio": "预付款.mp3"
     },
     {
       "hanzi": "尾款",
@@ -738,7 +762,8 @@
       "english_answers": [
         "refund"
       ],
-      "english_gloss": "refund"
+      "english_gloss": "refund",
+      "audio": "退款.mp3"
     },
     {
       "hanzi": "找零",
@@ -801,7 +826,8 @@
       "english_answers": [
         "overdue"
       ],
-      "english_gloss": "overdue"
+      "english_gloss": "overdue",
+      "audio": "逾期.mp3"
     },
     {
       "hanzi": "滞纳金",
@@ -809,7 +835,8 @@
       "english_answers": [
         "late payment surcharge"
       ],
-      "english_gloss": "late payment surcharge"
+      "english_gloss": "late payment surcharge",
+      "audio": "滞纳金.mp3"
     },
     {
       "hanzi": "违约金",
@@ -817,7 +844,8 @@
       "english_answers": [
         "contractual penalty"
       ],
-      "english_gloss": "contractual penalty"
+      "english_gloss": "contractual penalty",
+      "audio": "违约金.mp3"
     },
     {
       "hanzi": "这价格含税吗？",
@@ -825,7 +853,8 @@
       "english_answers": [
         "Does this price include tax?"
       ],
-      "english_gloss": "Does this price include tax?"
+      "english_gloss": "Does this price include tax?",
+      "audio": "这价格含税吗？.mp3"
     },
     {
       "hanzi": "一共多少钱？",
@@ -860,7 +889,8 @@
       "english_answers": [
         "exchange rate"
       ],
-      "english_gloss": "exchange rate"
+      "english_gloss": "exchange rate",
+      "audio": "汇率.mp3"
     },
     {
       "hanzi": "利率",
@@ -877,7 +907,8 @@
       "english_answers": [
         "principal amount"
       ],
-      "english_gloss": "principal amount"
+      "english_gloss": "principal amount",
+      "audio": "本金.mp3"
     },
     {
       "hanzi": "利息",

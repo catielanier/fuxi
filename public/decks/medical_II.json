@@ -12,7 +12,8 @@
         "hurt",
         "be painful"
       ],
-      "english_gloss": "hurt / be painful"
+      "english_gloss": "hurt / be painful",
+      "audio": "疼.mp3"
     },
     {
       "hanzi": "疼痛",
@@ -21,7 +22,8 @@
         "pain (general",
         "medical)"
       ],
-      "english_gloss": "pain (general / medical)"
+      "english_gloss": "pain (general / medical)",
+      "audio": "疼痛.mp3"
     },
     {
       "hanzi": "痛",
@@ -30,7 +32,8 @@
         "painful",
         "pain"
       ],
-      "english_gloss": "painful / pain"
+      "english_gloss": "painful / pain",
+      "audio": "痛.mp3"
     },
     {
       "hanzi": "酸痛",
@@ -39,7 +42,8 @@
         "sore",
         "aching"
       ],
-      "english_gloss": "sore / aching"
+      "english_gloss": "sore / aching",
+      "audio": "酸痛.mp3"
     },
     {
       "hanzi": "刺痛",
@@ -57,7 +61,8 @@
       "english_answers": [
         "dull, lingering pain"
       ],
-      "english_gloss": "dull, lingering pain"
+      "english_gloss": "dull, lingering pain",
+      "audio": "隐痛.mp3"
     },
     {
       "hanzi": "剧痛",
@@ -75,7 +80,8 @@
         "distending",
         "pressure-like pain"
       ],
-      "english_gloss": "distending / pressure-like pain"
+      "english_gloss": "distending / pressure-like pain",
+      "audio": "胀痛.mp3"
     },
     {
       "hanzi": "抽筋",
@@ -92,7 +98,8 @@
       "english_answers": [
         "numbness"
       ],
-      "english_gloss": "numbness"
+      "english_gloss": "numbness",
+      "audio": "麻木.mp3"
     },
     {
       "hanzi": "发麻",
@@ -119,7 +126,8 @@
       "english_answers": [
         "itchy"
       ],
-      "english_gloss": "itchy"
+      "english_gloss": "itchy",
+      "audio": "痒.mp3"
     },
     {
       "hanzi": "灼热感",
@@ -127,7 +135,8 @@
       "english_answers": [
         "burning sensation"
       ],
-      "english_gloss": "burning sensation"
+      "english_gloss": "burning sensation",
+      "audio": "灼热感.mp3"
     },
     {
       "hanzi": "肿",
@@ -135,7 +144,8 @@
       "english_answers": [
         "swollen"
       ],
-      "english_gloss": "swollen"
+      "english_gloss": "swollen",
+      "audio": "肿.mp3"
     },
     {
       "hanzi": "红肿",
@@ -143,7 +153,8 @@
       "english_answers": [
         "red and swollen"
       ],
-      "english_gloss": "red and swollen"
+      "english_gloss": "red and swollen",
+      "audio": "红肿.mp3"
     },
     {
       "hanzi": "僵硬",
@@ -171,7 +182,8 @@
       "english_answers": [
         "fatigue"
       ],
-      "english_gloss": "fatigue"
+      "english_gloss": "fatigue",
+      "audio": "疲劳.mp3"
     },
     {
       "hanzi": "不舒服",
@@ -189,7 +201,8 @@
       "english_answers": [
         "symptom"
       ],
-      "english_gloss": "symptom"
+      "english_gloss": "symptom",
+      "audio": "症状.mp3"
     },
     {
       "hanzi": "疾病",
@@ -198,7 +211,8 @@
         "disease",
         "illness"
       ],
-      "english_gloss": "disease / illness"
+      "english_gloss": "disease / illness",
+      "audio": "疾病.mp3"
     },
     {
       "hanzi": "生病",
@@ -206,7 +220,8 @@
       "english_answers": [
         "be sick"
       ],
-      "english_gloss": "be sick"
+      "english_gloss": "be sick",
+      "audio": "生病.mp3"
     },
     {
       "hanzi": "发烧",
@@ -232,7 +247,8 @@
       "english_answers": [
         "high fever"
       ],
-      "english_gloss": "high fever"
+      "english_gloss": "high fever",
+      "audio": "高烧.mp3"
     },
     {
       "hanzi": "体温",
@@ -277,7 +293,8 @@
       "english_answers": [
         "night sweats"
       ],
-      "english_gloss": "night sweats"
+      "english_gloss": "night sweats",
+      "audio": "盗汗.mp3"
     },
     {
       "hanzi": "头疼",
@@ -313,7 +330,8 @@
         "faint",
         "pass out"
       ],
-      "english_gloss": "faint / pass out"
+      "english_gloss": "faint / pass out",
+      "audio": "晕倒.mp3"
     },
     {
       "hanzi": "恶心",
@@ -341,7 +359,8 @@
       "english_answers": [
         "dehydration"
       ],
-      "english_gloss": "dehydration"
+      "english_gloss": "dehydration",
+      "audio": "脱水.mp3"
     },
     {
       "hanzi": "过敏",
@@ -350,7 +369,8 @@
         "allergy",
         "allergic reaction"
       ],
-      "english_gloss": "allergy / allergic reaction"
+      "english_gloss": "allergy / allergic reaction",
+      "audio": "过敏.mp3"
     },
     {
       "hanzi": "皮疹",
@@ -358,7 +378,8 @@
       "english_answers": [
         "skin rash"
       ],
-      "english_gloss": "skin rash"
+      "english_gloss": "skin rash",
+      "audio": "皮疹.mp3"
     },
     {
       "hanzi": "腹泻",
@@ -366,7 +387,8 @@
       "english_answers": [
         "diarrhea (formal)"
       ],
-      "english_gloss": "diarrhea (formal)"
+      "english_gloss": "diarrhea (formal)",
+      "audio": "腹泻.mp3"
     },
     {
       "hanzi": "拉肚子",
@@ -392,7 +414,8 @@
       "english_answers": [
         "stomach pain"
       ],
-      "english_gloss": "stomach pain"
+      "english_gloss": "stomach pain",
+      "audio": "胃痛.mp3"
     },
     {
       "hanzi": "胃灼热",
@@ -401,7 +424,8 @@
         "heartburn",
         "stomach burning"
       ],
-      "english_gloss": "heartburn / stomach burning"
+      "english_gloss": "heartburn / stomach burning",
+      "audio": "胃灼热.mp3"
     },
     {
       "hanzi": "反酸",
@@ -430,7 +454,8 @@
         "bloating",
         "gas"
       ],
-      "english_gloss": "bloating / gas"
+      "english_gloss": "bloating / gas",
+      "audio": "胀气.mp3"
     },
     {
       "hanzi": "食欲不振",
@@ -438,7 +463,8 @@
       "english_answers": [
         "loss of appetite"
       ],
-      "english_gloss": "loss of appetite"
+      "english_gloss": "loss of appetite",
+      "audio": "食欲不振.mp3"
     },
     {
       "hanzi": "消化不良",
@@ -446,7 +472,8 @@
       "english_answers": [
         "indigestion"
       ],
-      "english_gloss": "indigestion"
+      "english_gloss": "indigestion",
+      "audio": "消化不良.mp3"
     },
     {
       "hanzi": "咳嗽",
@@ -472,7 +499,8 @@
       "english_answers": [
         "phlegm"
       ],
-      "english_gloss": "phlegm"
+      "english_gloss": "phlegm",
+      "audio": "痰.mp3"
     },
     {
       "hanzi": "鼻塞",
@@ -480,7 +508,8 @@
       "english_answers": [
         "nasal congestion"
       ],
-      "english_gloss": "nasal congestion"
+      "english_gloss": "nasal congestion",
+      "audio": "鼻塞.mp3"
     },
     {
       "hanzi": "流鼻涕",
@@ -488,7 +517,8 @@
       "english_answers": [
         "have a runny nose"
       ],
-      "english_gloss": "have a runny nose"
+      "english_gloss": "have a runny nose",
+      "audio": "流鼻涕.mp3"
     },
     {
       "hanzi": "打喷嚏",
@@ -514,7 +544,8 @@
       "english_answers": [
         "shortness of breath"
       ],
-      "english_gloss": "shortness of breath"
+      "english_gloss": "shortness of breath",
+      "audio": "气短.mp3"
     },
     {
       "hanzi": "喉咙痛",
@@ -541,7 +572,8 @@
       "english_answers": [
         "anxiety"
       ],
-      "english_gloss": "anxiety"
+      "english_gloss": "anxiety",
+      "audio": "焦虑.mp3"
     },
     {
       "hanzi": "焦虑症",
@@ -549,7 +581,8 @@
       "english_answers": [
         "anxiety disorder"
       ],
-      "english_gloss": "anxiety disorder"
+      "english_gloss": "anxiety disorder",
+      "audio": "焦虑症.mp3"
     },
     {
       "hanzi": "惊恐发作",
@@ -615,7 +648,8 @@
         "nervous",
         "tense"
       ],
-      "english_gloss": "nervous / tense"
+      "english_gloss": "nervous / tense",
+      "audio": "紧张.mp3"
     },
     {
       "hanzi": "烦躁",
@@ -624,7 +658,8 @@
         "irritable",
         "agitated"
       ],
-      "english_gloss": "irritable / agitated"
+      "english_gloss": "irritable / agitated",
+      "audio": "烦躁.mp3"
     },
     {
       "hanzi": "注意力",
@@ -633,7 +668,8 @@
         "attention",
         "concentration"
       ],
-      "english_gloss": "attention / concentration"
+      "english_gloss": "attention / concentration",
+      "audio": "注意力.mp3"
     },
     {
       "hanzi": "注意力不集中",
@@ -641,7 +677,8 @@
       "english_answers": [
         "difficulty concentrating"
       ],
-      "english_gloss": "difficulty concentrating"
+      "english_gloss": "difficulty concentrating",
+      "audio": "注意力不集中.mp3"
     },
     {
       "hanzi": "失眠",
@@ -696,7 +733,8 @@
         "tinnitus",
         "ringing in the ears"
       ],
-      "english_gloss": "tinnitus / ringing in the ears"
+      "english_gloss": "tinnitus / ringing in the ears",
+      "audio": "耳鸣.mp3"
     },
     {
       "hanzi": "眩晕",
@@ -704,7 +742,8 @@
       "english_answers": [
         "vertigo"
       ],
-      "english_gloss": "vertigo"
+      "english_gloss": "vertigo",
+      "audio": "眩晕.mp3"
     },
     {
       "hanzi": "副作用",
@@ -721,7 +760,8 @@
       "english_answers": [
         "see a doctor"
       ],
-      "english_gloss": "see a doctor"
+      "english_gloss": "see a doctor",
+      "audio": "看医生.mp3"
     },
     {
       "hanzi": "描述",
@@ -748,7 +788,8 @@
       "english_answers": [
         "suddenly"
       ],
-      "english_gloss": "suddenly"
+      "english_gloss": "suddenly",
+      "audio": "突然.mp3"
     },
     {
       "hanzi": "逐渐",
@@ -756,7 +797,8 @@
       "english_answers": [
         "gradually"
       ],
-      "english_gloss": "gradually"
+      "english_gloss": "gradually",
+      "audio": "逐渐.mp3"
     },
     {
       "hanzi": "偶尔",
@@ -773,7 +815,8 @@
       "english_answers": [
         "frequently"
       ],
-      "english_gloss": "frequently"
+      "english_gloss": "frequently",
+      "audio": "经常.mp3"
     },
     {
       "hanzi": "一直",
@@ -812,7 +855,8 @@
         "ease",
         "relieve (symptoms)"
       ],
-      "english_gloss": "ease / relieve (symptoms)"
+      "english_gloss": "ease / relieve (symptoms)",
+      "audio": "缓解.mp3"
     },
     {
       "hanzi": "发作",
@@ -842,7 +886,8 @@
         "mild",
         "slight"
       ],
-      "english_gloss": "mild / slight"
+      "english_gloss": "mild / slight",
+      "audio": "轻微.mp3"
     },
     {
       "hanzi": "慢性",
@@ -868,7 +913,8 @@
       "english_answers": [
         "medical history"
       ],
-      "english_gloss": "medical history"
+      "english_gloss": "medical history",
+      "audio": "病史.mp3"
     },
     {
       "hanzi": "既往病史",
@@ -886,7 +932,8 @@
         "trigger",
         "precipitating factor"
       ],
-      "english_gloss": "trigger / precipitating factor"
+      "english_gloss": "trigger / precipitating factor",
+      "audio": "诱因.mp3"
     },
     {
       "hanzi": "复发",

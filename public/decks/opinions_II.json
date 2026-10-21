@@ -22,7 +22,8 @@
         "interesting",
         "engaging"
       ],
-      "english_gloss": "interesting; engaging"
+      "english_gloss": "interesting; engaging",
+      "audio": "有趣.mp3"
     },
     {
       "hanzi": "有意思",
@@ -31,7 +32,8 @@
         "interesting",
         "amusing"
       ],
-      "english_gloss": "interesting; amusing"
+      "english_gloss": "interesting; amusing",
+      "audio": "有意思.mp3"
     },
     {
       "hanzi": "逗",
@@ -40,7 +42,8 @@
         "funny",
         "amusing (colloquial)"
       ],
-      "english_gloss": "funny; amusing (colloquial)"
+      "english_gloss": "funny; amusing (colloquial)",
+      "audio": "逗.mp3"
     },
     {
       "hanzi": "搞笑",
@@ -78,7 +81,8 @@
       "english_answers": [
         "have a sense of humor"
       ],
-      "english_gloss": "have a sense of humor"
+      "english_gloss": "have a sense of humor",
+      "audio": "有幽默感.mp3"
     },
     {
       "hanzi": "精彩",
@@ -88,7 +92,8 @@
         "exciting",
         "brilliant"
       ],
-      "english_gloss": "wonderful; exciting; brilliant"
+      "english_gloss": "wonderful; exciting; brilliant",
+      "audio": "精彩.mp3"
     },
     {
       "hanzi": "刺激",
@@ -107,7 +112,8 @@
         "satisfying",
         "a real thrill"
       ],
-      "english_gloss": "satisfying; a real thrill"
+      "english_gloss": "satisfying; a real thrill",
+      "audio": "过瘾.mp3"
     },
     {
       "hanzi": "酷",
@@ -115,7 +121,8 @@
       "english_answers": [
         "cool"
       ],
-      "english_gloss": "cool"
+      "english_gloss": "cool",
+      "audio": "酷.mp3"
     },
     {
       "hanzi": "太棒了！",
@@ -134,7 +141,8 @@
         "creative",
         "imaginative"
       ],
-      "english_gloss": "creative; imaginative"
+      "english_gloss": "creative; imaginative",
+      "audio": "有创意.mp3"
     },
     {
       "hanzi": "新鲜",
@@ -171,7 +179,8 @@
       "english_answers": [
         "This game is really fun."
       ],
-      "english_gloss": "This game is really fun."
+      "english_gloss": "This game is really fun.",
+      "audio": "这游戏真好玩。.mp3"
     },
     {
       "hanzi": "这个笑话挺逗的。",
@@ -179,7 +188,8 @@
       "english_answers": [
         "This joke is pretty funny."
       ],
-      "english_gloss": "This joke is pretty funny."
+      "english_gloss": "This joke is pretty funny.",
+      "audio": "这个笑话挺逗的。.mp3"
     },
     {
       "hanzi": "这场演出太精彩了！",
@@ -187,7 +197,8 @@
       "english_answers": [
         "That performance was amazing!"
       ],
-      "english_gloss": "That performance was amazing!"
+      "english_gloss": "That performance was amazing!",
+      "audio": "这场演出太精彩了！.mp3"
     },
     {
       "hanzi": "无聊",
@@ -207,7 +218,8 @@
         "no fun",
         "dull"
       ],
-      "english_gloss": "boring; no fun; dull"
+      "english_gloss": "boring; no fun; dull",
+      "audio": "没劲.mp3"
     },
     {
       "hanzi": "没意思",
@@ -217,7 +229,8 @@
         "pointless",
         "no fun"
       ],
-      "english_gloss": "uninteresting; pointless; no fun"
+      "english_gloss": "uninteresting; pointless; no fun",
+      "audio": "没意思.mp3"
     },
     {
       "hanzi": "枯燥",
@@ -226,7 +239,8 @@
         "dull",
         "tedious"
       ],
-      "english_gloss": "dull; tedious"
+      "english_gloss": "dull; tedious",
+      "audio": "枯燥.mp3"
     },
     {
       "hanzi": "乏味",
@@ -255,7 +269,8 @@
         "annoying",
         "bothersome"
       ],
-      "english_gloss": "annoying; bothersome"
+      "english_gloss": "annoying; bothersome",
+      "audio": "烦人.mp3"
     },
     {
       "hanzi": "讨人厌",
@@ -264,7 +279,8 @@
         "unlikable",
         "irritating"
       ],
-      "english_gloss": "unlikable; irritating"
+      "english_gloss": "unlikable; irritating",
+      "audio": "讨人厌.mp3"
     },
     {
       "hanzi": "烦死了！",
@@ -273,7 +289,8 @@
         "So annoying!",
         "I'm fed up!"
       ],
-      "english_gloss": "So annoying!; I'm fed up!"
+      "english_gloss": "So annoying!; I'm fed up!",
+      "audio": "烦死了！.mp3"
     },
     {
       "hanzi": "吵",
@@ -311,7 +328,8 @@
         "slow and fussy",
         "dithering (regional colloquial)"
       ],
-      "english_gloss": "slow and fussy; dithering (regional colloquial)"
+      "english_gloss": "slow and fussy; dithering (regional colloquial)",
+      "audio": "磨叽.mp3"
     },
     {
       "hanzi": "麻烦",
@@ -320,7 +338,8 @@
         "troublesome",
         "inconvenient"
       ],
-      "english_gloss": "troublesome; inconvenient"
+      "english_gloss": "troublesome; inconvenient",
+      "audio": "麻烦.mp3"
     },
     {
       "hanzi": "费劲",
@@ -329,7 +348,8 @@
         "takes effort",
         "a hassle"
       ],
-      "english_gloss": "takes effort; a hassle"
+      "english_gloss": "takes effort; a hassle",
+      "audio": "费劲.mp3"
     },
     {
       "hanzi": "累人",
@@ -338,7 +358,8 @@
         "tiring",
         "exhausting"
       ],
-      "english_gloss": "tiring; exhausting"
+      "english_gloss": "tiring; exhausting",
+      "audio": "累人.mp3"
     },
     {
       "hanzi": "令人失望",
@@ -365,7 +386,8 @@
       "english_answers": [
         "I didn't expect it to be this boring."
       ],
-      "english_gloss": "I didn't expect it to be this boring."
+      "english_gloss": "I didn't expect it to be this boring.",
+      "audio": "没想到这么无聊。.mp3"
     },
     {
       "hanzi": "别这么啰嗦。",
@@ -415,7 +437,8 @@
         "curious",
         "rare"
       ],
-      "english_gloss": "unusual; curious; rare"
+      "english_gloss": "unusual; curious; rare",
+      "audio": "稀奇.mp3"
     },
     {
       "hanzi": "离奇",
@@ -424,7 +447,8 @@
         "bizarre",
         "uncanny"
       ],
-      "english_gloss": "bizarre; uncanny"
+      "english_gloss": "bizarre; uncanny",
+      "audio": "离奇.mp3"
     },
     {
       "hanzi": "诡异",
@@ -434,7 +458,8 @@
         "uncanny",
         "weird"
       ],
-      "english_gloss": "eerie; uncanny; weird"
+      "english_gloss": "eerie; uncanny; weird",
+      "audio": "诡异.mp3"
     },
     {
       "hanzi": "反常",
@@ -464,7 +489,8 @@
         "inexplicable",
         "makes no sense"
       ],
-      "english_gloss": "baffling; inexplicable; makes no sense"
+      "english_gloss": "baffling; inexplicable; makes no sense",
+      "audio": "莫名其妙.mp3"
     },
     {
       "hanzi": "离谱",
@@ -474,7 +500,8 @@
         "outrageous",
         "absurd"
       ],
-      "english_gloss": "ridiculous; outrageous; absurd"
+      "english_gloss": "ridiculous; outrageous; absurd",
+      "audio": "离谱.mp3"
     },
     {
       "hanzi": "荒唐",
@@ -483,7 +510,8 @@
         "absurd",
         "preposterous"
       ],
-      "english_gloss": "absurd; preposterous"
+      "english_gloss": "absurd; preposterous",
+      "audio": "荒唐.mp3"
     },
     {
       "hanzi": "可笑",
@@ -502,7 +530,8 @@
         "comical",
         "ludicrous"
       ],
-      "english_gloss": "comical; ludicrous"
+      "english_gloss": "comical; ludicrous",
+      "audio": "滑稽.mp3"
     },
     {
       "hanzi": "傻",
@@ -551,7 +580,8 @@
       "english_answers": [
         "That's just ridiculous!"
       ],
-      "english_gloss": "That's just ridiculous!"
+      "english_gloss": "That's just ridiculous!",
+      "audio": "这也太离谱了吧！.mp3"
     },
     {
       "hanzi": "他有点古怪。",
@@ -578,7 +608,8 @@
         "beautiful",
         "pretty"
       ],
-      "english_gloss": "beautiful; pretty"
+      "english_gloss": "beautiful; pretty",
+      "audio": "漂亮.mp3"
     },
     {
       "hanzi": "好看",
@@ -597,7 +628,8 @@
         "ugly",
         "unpleasant-looking"
       ],
-      "english_gloss": "ugly; unpleasant-looking"
+      "english_gloss": "ugly; unpleasant-looking",
+      "audio": "难看.mp3"
     },
     {
       "hanzi": "可爱",
@@ -616,7 +648,8 @@
         "charming",
         "captivating"
       ],
-      "english_gloss": "charming; captivating"
+      "english_gloss": "charming; captivating",
+      "audio": "迷人.mp3"
     },
     {
       "hanzi": "优雅",
@@ -656,7 +689,8 @@
         "high-end",
         "sophisticated"
       ],
-      "english_gloss": "high-end; sophisticated"
+      "english_gloss": "high-end; sophisticated",
+      "audio": "高级.mp3"
     },
     {
       "hanzi": "廉价感",
@@ -676,7 +710,8 @@
         "refined",
         "well made"
       ],
-      "english_gloss": "exquisite; refined; well made"
+      "english_gloss": "exquisite; refined; well made",
+      "audio": "精致.mp3"
     },
     {
       "hanzi": "粗糙",
@@ -685,7 +720,8 @@
         "rough",
         "poorly finished"
       ],
-      "english_gloss": "rough; poorly finished"
+      "english_gloss": "rough; poorly finished",
+      "audio": "粗糙.mp3"
     },
     {
       "hanzi": "耐看",
@@ -694,7 +730,8 @@
         "gets better the more you look",
         "pleasing over time"
       ],
-      "english_gloss": "gets better the more you look; pleasing over time"
+      "english_gloss": "gets better the more you look; pleasing over time",
+      "audio": "耐看.mp3"
     },
     {
       "hanzi": "顺眼",
@@ -703,7 +740,8 @@
         "pleasing to the eye",
         "looks right"
       ],
-      "english_gloss": "pleasing to the eye; looks right"
+      "english_gloss": "pleasing to the eye; looks right",
+      "audio": "顺眼.mp3"
     },
     {
       "hanzi": "不顺眼",
@@ -722,7 +760,8 @@
         "tasteful",
         "have good taste"
       ],
-      "english_gloss": "tasteful; have good taste"
+      "english_gloss": "tasteful; have good taste",
+      "audio": "有品味.mp3"
     },
     {
       "hanzi": "很有特色",
@@ -740,7 +779,8 @@
       "english_answers": [
         "This design grows on you visually."
       ],
-      "english_gloss": "This design grows on you visually."
+      "english_gloss": "This design grows on you visually.",
+      "audio": "这个设计很耐看。.mp3"
     },
     {
       "hanzi": "这个颜色有点俗气。",
@@ -748,7 +788,8 @@
       "english_answers": [
         "This color is a little tacky."
       ],
-      "english_gloss": "This color is a little tacky."
+      "english_gloss": "This color is a little tacky.",
+      "audio": "这个颜色有点俗气。.mp3"
     },
     {
       "hanzi": "我觉得挺顺眼的。",
@@ -786,7 +827,8 @@
         "okay",
         "not bad"
       ],
-      "english_gloss": "okay; not bad"
+      "english_gloss": "okay; not bad",
+      "audio": "还行.mp3"
     },
     {
       "hanzi": "凑合",
@@ -805,7 +847,8 @@
         "so-so",
         "mediocre"
       ],
-      "english_gloss": "so-so; mediocre"
+      "english_gloss": "so-so; mediocre",
+      "audio": "马马虎虎.mp3"
     },
     {
       "hanzi": "挺好的",
@@ -823,7 +866,8 @@
         "quite good",
         "not bad"
       ],
-      "english_gloss": "quite good; not bad"
+      "english_gloss": "quite good; not bad",
+      "audio": "还不错.mp3"
     },
     {
       "hanzi": "太夸张了",
@@ -841,7 +885,8 @@
       "english_answers": [
         "a bit over the top"
       ],
-      "english_gloss": "a bit over the top"
+      "english_gloss": "a bit over the top",
+      "audio": "有点过头了.mp3"
     },
     {
       "hanzi": "不怎么样",
@@ -936,7 +981,8 @@
         "a matter of opinion",
         "opinions vary"
       ],
-      "english_gloss": "a matter of opinion; opinions vary"
+      "english_gloss": "a matter of opinion; opinions vary",
+      "audio": "见仁见智.mp3"
     },
     {
       "hanzi": "我觉得也就那样。",

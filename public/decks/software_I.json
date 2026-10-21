@@ -11,7 +11,8 @@
       "english_answers": [
         "software development"
       ],
-      "english_gloss": "software development"
+      "english_gloss": "software development",
+      "audio": "软件开发.mp3"
     },
     {
       "hanzi": "程序员",
@@ -19,7 +20,8 @@
       "english_answers": [
         "programmer"
       ],
-      "english_gloss": "programmer"
+      "english_gloss": "programmer",
+      "audio": "程序员.mp3"
     },
     {
       "hanzi": "开发者",
@@ -36,7 +38,8 @@
       "english_answers": [
         "programming"
       ],
-      "english_gloss": "programming"
+      "english_gloss": "programming",
+      "audio": "编程.mp3"
     },
     {
       "hanzi": "代码",
@@ -53,7 +56,8 @@
       "english_answers": [
         "source code"
       ],
-      "english_gloss": "source code"
+      "english_gloss": "source code",
+      "audio": "源代码.mp3"
     },
     {
       "hanzi": "编程语言",
@@ -61,7 +65,8 @@
       "english_answers": [
         "programming language"
       ],
-      "english_gloss": "programming language"
+      "english_gloss": "programming language",
+      "audio": "编程语言.mp3"
     },
     {
       "hanzi": "变量",
@@ -105,7 +110,8 @@
       "english_answers": [
         "return value"
       ],
-      "english_gloss": "return value"
+      "english_gloss": "return value",
+      "audio": "返回值.mp3"
     },
     {
       "hanzi": "数据类型",
@@ -149,7 +155,8 @@
       "english_answers": [
         "conditional logic"
       ],
-      "english_gloss": "conditional logic"
+      "english_gloss": "conditional logic",
+      "audio": "条件判断.mp3"
     },
     {
       "hanzi": "循环",
@@ -175,7 +182,8 @@
       "english_answers": [
         "algorithm"
       ],
-      "english_gloss": "algorithm"
+      "english_gloss": "algorithm",
+      "audio": "算法.mp3"
     },
     {
       "hanzi": "网页",
@@ -183,7 +191,8 @@
       "english_answers": [
         "webpage"
       ],
-      "english_gloss": "webpage"
+      "english_gloss": "webpage",
+      "audio": "网页.mp3"
     },
     {
       "hanzi": "网站",
@@ -191,7 +200,8 @@
       "english_answers": [
         "website"
       ],
-      "english_gloss": "website"
+      "english_gloss": "website",
+      "audio": "网站.mp3"
     },
     {
       "hanzi": "浏览器",
@@ -199,7 +209,8 @@
       "english_answers": [
         "browser"
       ],
-      "english_gloss": "browser"
+      "english_gloss": "browser",
+      "audio": "浏览器.mp3"
     },
     {
       "hanzi": "前端",
@@ -234,7 +245,8 @@
       "english_answers": [
         "user interface"
       ],
-      "english_gloss": "user interface"
+      "english_gloss": "user interface",
+      "audio": "用户界面.mp3"
     },
     {
       "hanzi": "用户体验",
@@ -242,7 +254,8 @@
       "english_answers": [
         "user experience"
       ],
-      "english_gloss": "user experience"
+      "english_gloss": "user experience",
+      "audio": "用户体验.mp3"
     },
     {
       "hanzi": "组件",
@@ -250,7 +263,8 @@
       "english_answers": [
         "component"
       ],
-      "english_gloss": "component"
+      "english_gloss": "component",
+      "audio": "组件.mp3"
     },
     {
       "hanzi": "属性",
@@ -268,7 +282,8 @@
       "english_answers": [
         "state management"
       ],
-      "english_gloss": "state management"
+      "english_gloss": "state management",
+      "audio": "状态管理.mp3"
     },
     {
       "hanzi": "响应式",
@@ -296,7 +311,8 @@
         "style",
         "styling"
       ],
-      "english_gloss": "style / styling"
+      "english_gloss": "style / styling",
+      "audio": "样式.mp3"
     },
     {
       "hanzi": "样式表",
@@ -304,7 +320,8 @@
       "english_answers": [
         "stylesheet"
       ],
-      "english_gloss": "stylesheet"
+      "english_gloss": "stylesheet",
+      "audio": "样式表.mp3"
     },
     {
       "hanzi": "断点",
@@ -330,7 +347,8 @@
       "english_answers": [
         "form"
       ],
-      "english_gloss": "form"
+      "english_gloss": "form",
+      "audio": "表单.mp3"
     },
     {
       "hanzi": "输入框",
@@ -338,7 +356,8 @@
       "english_answers": [
         "input field"
       ],
-      "english_gloss": "input field"
+      "english_gloss": "input field",
+      "audio": "输入框.mp3"
     },
     {
       "hanzi": "路由",
@@ -346,7 +365,8 @@
       "english_answers": [
         "routing"
       ],
-      "english_gloss": "routing"
+      "english_gloss": "routing",
+      "audio": "路由.mp3"
     },
     {
       "hanzi": "服务器",
@@ -354,7 +374,8 @@
       "english_answers": [
         "server"
       ],
-      "english_gloss": "server"
+      "english_gloss": "server",
+      "audio": "服务器.mp3"
     },
     {
       "hanzi": "客户端",
@@ -390,7 +411,8 @@
       "english_answers": [
         "request"
       ],
-      "english_gloss": "request"
+      "english_gloss": "request",
+      "audio": "请求.mp3"
     },
     {
       "hanzi": "响应",
@@ -416,7 +438,8 @@
       "english_answers": [
         "authentication"
       ],
-      "english_gloss": "authentication"
+      "english_gloss": "authentication",
+      "audio": "身份验证.mp3"
     },
     {
       "hanzi": "权限",
@@ -425,7 +448,8 @@
         "permissions",
         "authorization"
       ],
-      "english_gloss": "permissions / authorization"
+      "english_gloss": "permissions / authorization",
+      "audio": "权限.mp3"
     },
     {
       "hanzi": "会话",
@@ -442,7 +466,8 @@
       "english_answers": [
         "cache"
       ],
-      "english_gloss": "cache"
+      "english_gloss": "cache",
+      "audio": "缓存.mp3"
     },
     {
       "hanzi": "中间件",
@@ -495,7 +520,8 @@
       "english_answers": [
         "query"
       ],
-      "english_gloss": "query"
+      "english_gloss": "query",
+      "audio": "查询.mp3"
     },
     {
       "hanzi": "索引",
@@ -503,7 +529,8 @@
       "english_answers": [
         "index"
       ],
-      "english_gloss": "index"
+      "english_gloss": "index",
+      "audio": "索引.mp3"
     },
     {
       "hanzi": "主键",
@@ -529,7 +556,8 @@
       "english_answers": [
         "version control"
       ],
-      "english_gloss": "version control"
+      "english_gloss": "version control",
+      "audio": "版本控制.mp3"
     },
     {
       "hanzi": "代码仓库",
@@ -601,7 +629,8 @@
       "english_answers": [
         "error"
       ],
-      "english_gloss": "error"
+      "english_gloss": "error",
+      "audio": "错误.mp3"
     },
     {
       "hanzi": "漏洞",
@@ -610,7 +639,8 @@
         "vulnerability",
         "security flaw"
       ],
-      "english_gloss": "vulnerability / security flaw"
+      "english_gloss": "vulnerability / security flaw",
+      "audio": "漏洞.mp3"
     },
     {
       "hanzi": "缺陷",
@@ -619,7 +649,8 @@
         "defect",
         "bug"
       ],
-      "english_gloss": "defect / bug"
+      "english_gloss": "defect / bug",
+      "audio": "缺陷.mp3"
     },
     {
       "hanzi": "调试",
@@ -627,7 +658,8 @@
       "english_answers": [
         "debug"
       ],
-      "english_gloss": "debug"
+      "english_gloss": "debug",
+      "audio": "调试.mp3"
     },
     {
       "hanzi": "断言",
@@ -662,7 +694,8 @@
       "english_answers": [
         "integration test"
       ],
-      "english_gloss": "integration test"
+      "english_gloss": "integration test",
+      "audio": "集成测试.mp3"
     },
     {
       "hanzi": "测试覆盖率",
@@ -670,7 +703,8 @@
       "english_answers": [
         "test coverage"
       ],
-      "english_gloss": "test coverage"
+      "english_gloss": "test coverage",
+      "audio": "测试覆盖率.mp3"
     },
     {
       "hanzi": "重构",
@@ -678,7 +712,8 @@
       "english_answers": [
         "refactor"
       ],
-      "english_gloss": "refactor"
+      "english_gloss": "refactor",
+      "audio": "重构.mp3"
     },
     {
       "hanzi": "性能优化",
@@ -713,7 +748,8 @@
       "english_answers": [
         "production environment"
       ],
-      "english_gloss": "production environment"
+      "english_gloss": "production environment",
+      "audio": "生产环境.mp3"
     },
     {
       "hanzi": "构建",
@@ -721,7 +757,8 @@
       "english_answers": [
         "build (software)"
       ],
-      "english_gloss": "build (software)"
+      "english_gloss": "build (software)",
+      "audio": "构建.mp3"
     },
     {
       "hanzi": "编译",
@@ -729,7 +766,8 @@
       "english_answers": [
         "compile"
       ],
-      "english_gloss": "compile"
+      "english_gloss": "compile",
+      "audio": "编译.mp3"
     },
     {
       "hanzi": "依赖项",
@@ -746,7 +784,8 @@
       "english_answers": [
         "software package"
       ],
-      "english_gloss": "software package"
+      "english_gloss": "software package",
+      "audio": "软件包.mp3"
     },
     {
       "hanzi": "容器",
@@ -764,7 +803,8 @@
         "container image",
         "image"
       ],
-      "english_gloss": "container image / image"
+      "english_gloss": "container image / image",
+      "audio": "镜像.mp3"
     },
     {
       "hanzi": "部署",
@@ -772,7 +812,8 @@
       "english_answers": [
         "deploy"
       ],
-      "english_gloss": "deploy"
+      "english_gloss": "deploy",
+      "audio": "部署.mp3"
     },
     {
       "hanzi": "持续集成",
@@ -807,7 +848,8 @@
       "english_answers": [
         "monitoring"
       ],
-      "english_gloss": "monitoring"
+      "english_gloss": "monitoring",
+      "audio": "监控.mp3"
     },
     {
       "hanzi": "故障排查",
@@ -843,7 +885,8 @@
       "english_answers": [
         "terminal"
       ],
-      "english_gloss": "terminal"
+      "english_gloss": "terminal",
+      "audio": "终端.mp3"
     },
     {
       "hanzi": "框架",
@@ -851,7 +894,8 @@
       "english_answers": [
         "framework"
       ],
-      "english_gloss": "framework"
+      "english_gloss": "framework",
+      "audio": "框架.mp3"
     },
     {
       "hanzi": "开源",

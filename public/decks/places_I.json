@@ -39,7 +39,8 @@
       "english_answers": [
         "suburbs"
       ],
-      "english_gloss": "suburbs"
+      "english_gloss": "suburbs",
+      "audio": "郊区.mp3"
     },
     {
       "hanzi": "街道",
@@ -48,7 +49,8 @@
         "street",
         "neighborhood administrative office"
       ],
-      "english_gloss": "street / neighborhood administrative office"
+      "english_gloss": "street / neighborhood administrative office",
+      "audio": "街道.mp3"
     },
     {
       "hanzi": "小区",
@@ -66,7 +68,8 @@
         "community",
         "neighborhood"
       ],
-      "english_gloss": "community / neighborhood"
+      "english_gloss": "community / neighborhood",
+      "audio": "社区.mp3"
     },
     {
       "hanzi": "居民楼",
@@ -102,7 +105,8 @@
       "english_answers": [
         "multistory building"
       ],
-      "english_gloss": "multistory building"
+      "english_gloss": "multistory building",
+      "audio": "楼房.mp3"
     },
     {
       "hanzi": "高楼",
@@ -110,7 +114,8 @@
       "english_answers": [
         "tall building"
       ],
-      "english_gloss": "tall building"
+      "english_gloss": "tall building",
+      "audio": "高楼.mp3"
     },
     {
       "hanzi": "写字楼",
@@ -154,7 +159,8 @@
       "english_answers": [
         "old urban district"
       ],
-      "english_gloss": "old urban district"
+      "english_gloss": "old urban district",
+      "audio": "老城区.mp3"
     },
     {
       "hanzi": "新城区",
@@ -199,7 +205,8 @@
       "english_answers": [
         "supermarket"
       ],
-      "english_gloss": "supermarket"
+      "english_gloss": "supermarket",
+      "audio": "超市.mp3"
     },
     {
       "hanzi": "便利店",
@@ -225,7 +232,8 @@
       "english_answers": [
         "general store"
       ],
-      "english_gloss": "general store"
+      "english_gloss": "general store",
+      "audio": "杂货店.mp3"
     },
     {
       "hanzi": "商场",
@@ -242,7 +250,8 @@
       "english_answers": [
         "shopping center"
       ],
-      "english_gloss": "shopping center"
+      "english_gloss": "shopping center",
+      "audio": "购物中心.mp3"
     },
     {
       "hanzi": "百货商店",
@@ -250,7 +259,8 @@
       "english_answers": [
         "department store"
       ],
-      "english_gloss": "department store"
+      "english_gloss": "department store",
+      "audio": "百货商店.mp3"
     },
     {
       "hanzi": "菜市场",
@@ -258,7 +268,8 @@
       "english_answers": [
         "fresh food market"
       ],
-      "english_gloss": "fresh food market"
+      "english_gloss": "fresh food market",
+      "audio": "菜市场.mp3"
     },
     {
       "hanzi": "农贸市场",
@@ -275,7 +286,8 @@
       "english_answers": [
         "fruit shop"
       ],
-      "english_gloss": "fruit shop"
+      "english_gloss": "fruit shop",
+      "audio": "水果店.mp3"
     },
     {
       "hanzi": "肉店",
@@ -283,7 +295,8 @@
       "english_answers": [
         "butcher shop"
       ],
-      "english_gloss": "butcher shop"
+      "english_gloss": "butcher shop",
+      "audio": "肉店.mp3"
     },
     {
       "hanzi": "面包店",
@@ -291,7 +304,8 @@
       "english_answers": [
         "bakery"
       ],
-      "english_gloss": "bakery"
+      "english_gloss": "bakery",
+      "audio": "面包店.mp3"
     },
     {
       "hanzi": "花店",
@@ -299,7 +313,8 @@
       "english_answers": [
         "flower shop"
       ],
-      "english_gloss": "flower shop"
+      "english_gloss": "flower shop",
+      "audio": "花店.mp3"
     },
     {
       "hanzi": "书店",
@@ -326,7 +341,8 @@
         "optician",
         "eyewear shop"
       ],
-      "english_gloss": "optician / eyewear shop"
+      "english_gloss": "optician / eyewear shop",
+      "audio": "眼镜店.mp3"
     },
     {
       "hanzi": "手机店",
@@ -362,7 +378,8 @@
         "restaurant",
         "eatery"
       ],
-      "english_gloss": "restaurant / eatery"
+      "english_gloss": "restaurant / eatery",
+      "audio": "饭馆.mp3"
     },
     {
       "hanzi": "餐厅",
@@ -371,7 +388,8 @@
         "restaurant",
         "dining hall"
       ],
-      "english_gloss": "restaurant / dining hall"
+      "english_gloss": "restaurant / dining hall",
+      "audio": "餐厅.mp3"
     },
     {
       "hanzi": "小吃店",
@@ -407,7 +425,8 @@
       "english_answers": [
         "teahouse"
       ],
-      "english_gloss": "teahouse"
+      "english_gloss": "teahouse",
+      "audio": "茶馆.mp3"
     },
     {
       "hanzi": "夜市",
@@ -424,7 +443,8 @@
       "english_answers": [
         "food street"
       ],
-      "english_gloss": "food street"
+      "english_gloss": "food street",
+      "audio": "美食街.mp3"
     },
     {
       "hanzi": "步行街",
@@ -432,7 +452,8 @@
       "english_answers": [
         "pedestrian shopping street"
       ],
-      "english_gloss": "pedestrian shopping street"
+      "english_gloss": "pedestrian shopping street",
+      "audio": "步行街.mp3"
     },
     {
       "hanzi": "广场",
@@ -459,7 +480,8 @@
       "english_answers": [
         "amusement park"
       ],
-      "english_gloss": "amusement park"
+      "english_gloss": "amusement park",
+      "audio": "游乐园.mp3"
     },
     {
       "hanzi": "电影院",
@@ -467,7 +489,8 @@
       "english_answers": [
         "cinema"
       ],
-      "english_gloss": "cinema"
+      "english_gloss": "cinema",
+      "audio": "电影院.mp3"
     },
     {
       "hanzi": "剧院",
@@ -494,7 +517,8 @@
         "art museum",
         "gallery"
       ],
-      "english_gloss": "art museum / gallery"
+      "english_gloss": "art museum / gallery",
+      "audio": "美术馆.mp3"
     },
     {
       "hanzi": "图书馆",
@@ -520,7 +544,8 @@
       "english_answers": [
         "swimming facility"
       ],
-      "english_gloss": "swimming facility"
+      "english_gloss": "swimming facility",
+      "audio": "游泳馆.mp3"
     },
     {
       "hanzi": "健身房",
@@ -546,7 +571,8 @@
       "english_answers": [
         "clinic"
       ],
-      "english_gloss": "clinic"
+      "english_gloss": "clinic",
+      "audio": "诊所.mp3"
     },
     {
       "hanzi": "药店",
@@ -554,7 +580,8 @@
       "english_answers": [
         "pharmacy"
       ],
-      "english_gloss": "pharmacy"
+      "english_gloss": "pharmacy",
+      "audio": "药店.mp3"
     },
     {
       "hanzi": "银行",
@@ -562,7 +589,8 @@
       "english_answers": [
         "bank"
       ],
-      "english_gloss": "bank"
+      "english_gloss": "bank",
+      "audio": "银行.mp3"
     },
     {
       "hanzi": "自动取款机",
@@ -570,7 +598,8 @@
       "english_answers": [
         "ATM"
       ],
-      "english_gloss": "ATM"
+      "english_gloss": "ATM",
+      "audio": "自动取款机.mp3"
     },
     {
       "hanzi": "邮局",
@@ -578,7 +607,8 @@
       "english_answers": [
         "post office"
       ],
-      "english_gloss": "post office"
+      "english_gloss": "post office",
+      "audio": "邮局.mp3"
     },
     {
       "hanzi": "派出所",
@@ -586,7 +616,8 @@
       "english_answers": [
         "local police station"
       ],
-      "english_gloss": "local police station"
+      "english_gloss": "local police station",
+      "audio": "派出所.mp3"
     },
     {
       "hanzi": "公安局",
@@ -603,7 +634,8 @@
       "english_answers": [
         "fire station"
       ],
-      "english_gloss": "fire station"
+      "english_gloss": "fire station",
+      "audio": "消防站.mp3"
     },
     {
       "hanzi": "市政府",
@@ -694,7 +726,8 @@
       "english_answers": [
         "consulate"
       ],
-      "english_gloss": "consulate"
+      "english_gloss": "consulate",
+      "audio": "领事馆.mp3"
     },
     {
       "hanzi": "大使馆",
@@ -712,7 +745,8 @@
         "barbershop",
         "hair salon"
       ],
-      "english_gloss": "barbershop / hair salon"
+      "english_gloss": "barbershop / hair salon",
+      "audio": "理发店.mp3"
     },
     {
       "hanzi": "美容院",
@@ -720,7 +754,8 @@
       "english_answers": [
         "beauty salon"
       ],
-      "english_gloss": "beauty salon"
+      "english_gloss": "beauty salon",
+      "audio": "美容院.mp3"
     },
     {
       "hanzi": "美甲店",
@@ -728,7 +763,8 @@
       "english_answers": [
         "nail salon"
       ],
-      "english_gloss": "nail salon"
+      "english_gloss": "nail salon",
+      "audio": "美甲店.mp3"
     },
     {
       "hanzi": "洗衣店",
@@ -737,7 +773,8 @@
         "laundry",
         "dry cleaner"
       ],
-      "english_gloss": "laundry / dry cleaner"
+      "english_gloss": "laundry / dry cleaner",
+      "audio": "洗衣店.mp3"
     },
     {
       "hanzi": "修理店",
@@ -773,7 +810,8 @@
       "english_answers": [
         "property management office"
       ],
-      "english_gloss": "property management office"
+      "english_gloss": "property management office",
+      "audio": "物业管理处.mp3"
     },
     {
       "hanzi": "售楼处",
@@ -874,7 +912,8 @@
         "bird",
         "pet market"
       ],
-      "english_gloss": "flower / bird / pet market"
+      "english_gloss": "flower / bird / pet market",
+      "audio": "花鸟市场.mp3"
     },
     {
       "hanzi": "旧货市场",
@@ -882,7 +921,8 @@
       "english_answers": [
         "secondhand goods market"
       ],
-      "english_gloss": "secondhand goods market"
+      "english_gloss": "secondhand goods market",
+      "audio": "旧货市场.mp3"
     }
   ]
 }

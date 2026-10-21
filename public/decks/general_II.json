@@ -57,7 +57,8 @@
       "english_answers": [
         "who"
       ],
-      "english_gloss": "who"
+      "english_gloss": "who",
+      "audio": "谁.mp3"
     },
     {
       "hanzi": "什么时候",
@@ -152,7 +153,8 @@
       "english_answers": [
         "although"
       ],
-      "english_gloss": "although"
+      "english_gloss": "although",
+      "audio": "虽然.mp3"
     },
     {
       "hanzi": "而且",
@@ -161,7 +163,8 @@
         "moreover",
         "and also"
       ],
-      "english_gloss": "moreover / and also"
+      "english_gloss": "moreover / and also",
+      "audio": "而且.mp3"
     },
     {
       "hanzi": "或者",
@@ -180,7 +183,8 @@
         "still",
         "had better"
       ],
-      "english_gloss": "or / still / had better"
+      "english_gloss": "or / still / had better",
+      "audio": "还是.mp3"
     },
     {
       "hanzi": "然后",
@@ -189,7 +193,8 @@
         "then",
         "afterward"
       ],
-      "english_gloss": "then / afterward"
+      "english_gloss": "then / afterward",
+      "audio": "然后.mp3"
     },
     {
       "hanzi": "不过",
@@ -218,7 +223,8 @@
       "english_answers": [
         "for example"
       ],
-      "english_gloss": "for example"
+      "english_gloss": "for example",
+      "audio": "比如.mp3"
     },
     {
       "hanzi": "特别",
@@ -227,7 +233,8 @@
         "especially",
         "particularly"
       ],
-      "english_gloss": "especially / particularly"
+      "english_gloss": "especially / particularly",
+      "audio": "特别.mp3"
     },
     {
       "hanzi": "比较",
@@ -236,7 +243,8 @@
         "relatively",
         "compare"
       ],
-      "english_gloss": "relatively / compare"
+      "english_gloss": "relatively / compare",
+      "audio": "比较.mp3"
     },
     {
       "hanzi": "差不多",
@@ -384,7 +392,8 @@
         "finally",
         "at last"
       ],
-      "english_gloss": "finally / at last"
+      "english_gloss": "finally / at last",
+      "audio": "终于.mp3"
     },
     {
       "hanzi": "一会儿",
@@ -401,7 +410,8 @@
       "english_answers": [
         "sometimes"
       ],
-      "english_gloss": "sometimes"
+      "english_gloss": "sometimes",
+      "audio": "有时候.mp3"
     },
     {
       "hanzi": "每次",
@@ -409,7 +419,8 @@
       "english_answers": [
         "every time"
       ],
-      "english_gloss": "every time"
+      "english_gloss": "every time",
+      "audio": "每次.mp3"
     },
     {
       "hanzi": "一次",
@@ -427,7 +438,8 @@
       "english_answers": [
         "first time"
       ],
-      "english_gloss": "first time"
+      "english_gloss": "first time",
+      "audio": "第一次.mp3"
     },
     {
       "hanzi": "最后",
@@ -436,7 +448,8 @@
         "last",
         "finally"
       ],
-      "english_gloss": "last / finally"
+      "english_gloss": "last / finally",
+      "audio": "最后.mp3"
     },
     {
       "hanzi": "一起",
@@ -454,7 +467,8 @@
         "oneself",
         "self"
       ],
-      "english_gloss": "oneself / self"
+      "english_gloss": "oneself / self",
+      "audio": "自己.mp3"
     },
     {
       "hanzi": "别人",
@@ -502,7 +516,8 @@
         "problem",
         "question"
       ],
-      "english_gloss": "problem / question"
+      "english_gloss": "problem / question",
+      "audio": "问题.mp3"
     },
     {
       "hanzi": "办法",
@@ -531,7 +546,8 @@
         "result",
         "outcome"
       ],
-      "english_gloss": "result / outcome"
+      "english_gloss": "result / outcome",
+      "audio": "结果.mp3"
     },
     {
       "hanzi": "错误",
@@ -540,7 +556,8 @@
         "mistake",
         "error"
       ],
-      "english_gloss": "mistake / error"
+      "english_gloss": "mistake / error",
+      "audio": "错误.mp3"
     },
     {
       "hanzi": "麻烦了",
@@ -549,7 +566,8 @@
         "we're in trouble",
         "this is a problem"
       ],
-      "english_gloss": "we're in trouble / this is a problem"
+      "english_gloss": "we're in trouble / this is a problem",
+      "audio": "麻烦了.mp3"
     },
     {
       "hanzi": "坏了",
@@ -568,7 +586,8 @@
         "battery is dead",
         "no power"
       ],
-      "english_gloss": "battery is dead / no power"
+      "english_gloss": "battery is dead / no power",
+      "audio": "没电了.mp3"
     },
     {
       "hanzi": "断网了",
@@ -585,7 +604,8 @@
       "english_answers": [
         "no signal"
       ],
-      "english_gloss": "no signal"
+      "english_gloss": "no signal",
+      "audio": "没信号.mp3"
     },
     {
       "hanzi": "网络",
@@ -594,7 +614,8 @@
         "network",
         "internet"
       ],
-      "english_gloss": "network / internet"
+      "english_gloss": "network / internet",
+      "audio": "网络.mp3"
     },
     {
       "hanzi": "无线网",
@@ -613,7 +634,8 @@
         "mobile data allowance",
         "traffic"
       ],
-      "english_gloss": "mobile data allowance / traffic"
+      "english_gloss": "mobile data allowance / traffic",
+      "audio": "流量.mp3"
     },
     {
       "hanzi": "密码",
@@ -631,7 +653,8 @@
       "english_answers": [
         "verification code"
       ],
-      "english_gloss": "verification code"
+      "english_gloss": "verification code",
+      "audio": "验证码.mp3"
     },
     {
       "hanzi": "账号",
@@ -640,7 +663,8 @@
         "account",
         "username"
       ],
-      "english_gloss": "account / username"
+      "english_gloss": "account / username",
+      "audio": "账号.mp3"
     },
     {
       "hanzi": "登录",
@@ -648,7 +672,8 @@
       "english_answers": [
         "log in"
       ],
-      "english_gloss": "log in"
+      "english_gloss": "log in",
+      "audio": "登录.mp3"
     },
     {
       "hanzi": "退出",
@@ -657,7 +682,8 @@
         "exit",
         "log out"
       ],
-      "english_gloss": "exit / log out"
+      "english_gloss": "exit / log out",
+      "audio": "退出.mp3"
     },
     {
       "hanzi": "下载",
@@ -684,7 +710,8 @@
         "connect",
         "connection"
       ],
-      "english_gloss": "connect / connection"
+      "english_gloss": "connect / connection",
+      "audio": "连接.mp3"
     },
     {
       "hanzi": "充电器",
@@ -719,7 +746,8 @@
       "english_answers": [
         "telephone number"
       ],
-      "english_gloss": "telephone number"
+      "english_gloss": "telephone number",
+      "audio": "电话号码.mp3"
     },
     {
       "hanzi": "打电话",
@@ -783,7 +811,8 @@
         "station",
         "stop"
       ],
-      "english_gloss": "station / stop"
+      "english_gloss": "station / stop",
+      "audio": "车站.mp3"
     },
     {
       "hanzi": "下一站",
@@ -838,7 +867,8 @@
       "english_answers": [
         "be late"
       ],
-      "english_gloss": "be late"
+      "english_gloss": "be late",
+      "audio": "迟到.mp3"
     },
     {
       "hanzi": "来得及",
@@ -847,7 +877,8 @@
         "have enough time",
         "make it in time"
       ],
-      "english_gloss": "have enough time / make it in time"
+      "english_gloss": "have enough time / make it in time",
+      "audio": "来得及.mp3"
     },
     {
       "hanzi": "来不及",
@@ -856,7 +887,8 @@
         "too late",
         "not enough time"
       ],
-      "english_gloss": "too late / not enough time"
+      "english_gloss": "too late / not enough time",
+      "audio": "来不及.mp3"
     },
     {
       "hanzi": "天气",
@@ -903,7 +935,8 @@
         "cloudy",
         "overcast day"
       ],
-      "english_gloss": "cloudy / overcast day"
+      "english_gloss": "cloudy / overcast day",
+      "audio": "阴天.mp3"
     },
     {
       "hanzi": "晴天",
@@ -912,7 +945,8 @@
         "clear",
         "sunny day"
       ],
-      "english_gloss": "clear / sunny day"
+      "english_gloss": "clear / sunny day",
+      "audio": "晴天.mp3"
     },
     {
       "hanzi": "温度",
@@ -920,7 +954,8 @@
       "english_answers": [
         "temperature"
       ],
-      "english_gloss": "temperature"
+      "english_gloss": "temperature",
+      "audio": "温度.mp3"
     },
     {
       "hanzi": "冷",

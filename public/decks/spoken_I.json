@@ -11,7 +11,8 @@
       "english_answers": [
         "Seriously? / For real?"
       ],
-      "english_gloss": "Seriously? / For real?"
+      "english_gloss": "Seriously? / For real?",
+      "audio": "真的假的？.mp3"
     },
     {
       "hanzi": "不会吧！",
@@ -46,7 +47,8 @@
       "english_answers": [
         "ridiculous / wildly unreasonable"
       ],
-      "english_gloss": "ridiculous / wildly unreasonable"
+      "english_gloss": "ridiculous / wildly unreasonable",
+      "audio": "离谱.mp3"
     },
     {
       "hanzi": "太离谱了。",
@@ -63,7 +65,8 @@
       "english_answers": [
         "I give up / I'm speechless (colloquial)"
       ],
-      "english_gloss": "I give up / I'm speechless (colloquial)"
+      "english_gloss": "I give up / I'm speechless (colloquial)",
+      "audio": "服了.mp3"
     },
     {
       "hanzi": "我服了。",
@@ -98,7 +101,8 @@
       "english_answers": [
         "unbelievable / incredible (context-dependent)"
       ],
-      "english_gloss": "unbelievable / incredible (context-dependent)"
+      "english_gloss": "unbelievable / incredible (context-dependent)",
+      "audio": "绝了.mp3"
     },
     {
       "hanzi": "牛啊！",
@@ -106,7 +110,8 @@
       "english_answers": [
         "That's awesome! / Impressive!"
       ],
-      "english_gloss": "That's awesome! / Impressive!"
+      "english_gloss": "That's awesome! / Impressive!",
+      "audio": "牛啊！.mp3"
     },
     {
       "hanzi": "厉害",
@@ -123,7 +128,8 @@
       "english_answers": [
         "You really are something! (admiring or sarcastic)"
       ],
-      "english_gloss": "You really are something! (admiring or sarcastic)"
+      "english_gloss": "You really are something! (admiring or sarcastic)",
+      "audio": "真有你的。.mp3"
     },
     {
       "hanzi": "可以啊！",
@@ -149,7 +155,8 @@
       "english_answers": [
         "it's okay / not bad"
       ],
-      "english_gloss": "it's okay / not bad"
+      "english_gloss": "it's okay / not bad",
+      "audio": "还行.mp3"
     },
     {
       "hanzi": "还可以",
@@ -157,7 +164,8 @@
       "english_answers": [
         "it's alright / acceptable"
       ],
-      "english_gloss": "it's alright / acceptable"
+      "english_gloss": "it's alright / acceptable",
+      "audio": "还可以.mp3"
     },
     {
       "hanzi": "一般般",
@@ -201,7 +209,8 @@
       "english_answers": [
         "forget it / never mind"
       ],
-      "english_gloss": "forget it / never mind"
+      "english_gloss": "forget it / never mind",
+      "audio": "算了.mp3"
     },
     {
       "hanzi": "算了吧。",
@@ -209,7 +218,8 @@
       "english_answers": [
         "Let's forget it."
       ],
-      "english_gloss": "Let's forget it."
+      "english_gloss": "Let's forget it.",
+      "audio": "算了吧。.mp3"
     },
     {
       "hanzi": "随你",
@@ -217,7 +227,8 @@
       "english_answers": [
         "up to you (can sound dismissive)"
       ],
-      "english_gloss": "up to you (can sound dismissive)"
+      "english_gloss": "up to you (can sound dismissive)",
+      "audio": "随你.mp3"
     },
     {
       "hanzi": "看你吧。",
@@ -225,7 +236,8 @@
       "english_answers": [
         "It's up to you."
       ],
-      "english_gloss": "It's up to you."
+      "english_gloss": "It's up to you.",
+      "audio": "看你吧。.mp3"
     },
     {
       "hanzi": "都行",
@@ -233,7 +245,8 @@
       "english_answers": [
         "either way works"
       ],
-      "english_gloss": "either way works"
+      "english_gloss": "either way works",
+      "audio": "都行.mp3"
     },
     {
       "hanzi": "没问题",
@@ -241,7 +254,8 @@
       "english_answers": [
         "no problem"
       ],
-      "english_gloss": "no problem"
+      "english_gloss": "no problem",
+      "audio": "没问题.mp3"
     },
     {
       "hanzi": "没事儿",
@@ -249,7 +263,8 @@
       "english_answers": [
         "it's okay / nothing's wrong (northern colloquial)"
       ],
-      "english_gloss": "it's okay / nothing's wrong (northern colloquial)"
+      "english_gloss": "it's okay / nothing's wrong (northern colloquial)",
+      "audio": "没事儿.mp3"
     },
     {
       "hanzi": "没关系",
@@ -257,7 +272,8 @@
       "english_answers": [
         "no problem / it doesn't matter"
       ],
-      "english_gloss": "no problem / it doesn't matter"
+      "english_gloss": "no problem / it doesn't matter",
+      "audio": "没关系.mp3"
     },
     {
       "hanzi": "别急",
@@ -283,7 +299,8 @@
       "english_answers": [
         "wait a second"
       ],
-      "english_gloss": "wait a second"
+      "english_gloss": "wait a second",
+      "audio": "等一下.mp3"
     },
     {
       "hanzi": "稍等",
@@ -291,7 +308,8 @@
       "english_answers": [
         "hold on a moment"
       ],
-      "english_gloss": "hold on a moment"
+      "english_gloss": "hold on a moment",
+      "audio": "稍等.mp3"
     },
     {
       "hanzi": "先别急。",
@@ -317,7 +335,8 @@
       "english_answers": [
         "Let me think about it."
       ],
-      "english_gloss": "Let me think about it."
+      "english_gloss": "Let me think about it.",
+      "audio": "让我想想。.mp3"
     },
     {
       "hanzi": "怎么说呢？",
@@ -388,7 +407,8 @@
       "english_answers": [
         "for example"
       ],
-      "english_gloss": "for example"
+      "english_gloss": "for example",
+      "audio": "比如说.mp3"
     },
     {
       "hanzi": "反正",
@@ -414,7 +434,8 @@
       "english_answers": [
         "seriously / to be honest"
       ],
-      "english_gloss": "seriously / to be honest"
+      "english_gloss": "seriously / to be honest",
+      "audio": "说真的.mp3"
     },
     {
       "hanzi": "老实说",
@@ -422,7 +443,8 @@
       "english_answers": [
         "honestly speaking"
       ],
-      "english_gloss": "honestly speaking"
+      "english_gloss": "honestly speaking",
+      "audio": "老实说.mp3"
     },
     {
       "hanzi": "说实话",
@@ -430,7 +452,8 @@
       "english_answers": [
         "to tell the truth"
       ],
-      "english_gloss": "to tell the truth"
+      "english_gloss": "to tell the truth",
+      "audio": "说实话.mp3"
     },
     {
       "hanzi": "你知道吗？",
@@ -465,7 +488,8 @@
       "english_answers": [
         "that said / getting back to the point"
       ],
-      "english_gloss": "that said / getting back to the point"
+      "english_gloss": "that said / getting back to the point",
+      "audio": "话说回来.mp3"
     },
     {
       "hanzi": "对了",
@@ -482,7 +506,8 @@
       "english_answers": [
         "by the way"
       ],
-      "english_gloss": "by the way"
+      "english_gloss": "by the way",
+      "audio": "顺便说一下.mp3"
     },
     {
       "hanzi": "不过话说回来",
@@ -517,7 +542,8 @@
       "english_answers": [
         "no wonder"
       ],
-      "english_gloss": "no wonder"
+      "english_gloss": "no wonder",
+      "audio": "难怪.mp3"
     },
     {
       "hanzi": "果然",
@@ -525,7 +551,8 @@
       "english_answers": [
         "just as expected"
       ],
-      "english_gloss": "just as expected"
+      "english_gloss": "just as expected",
+      "audio": "果然.mp3"
     },
     {
       "hanzi": "没想到",
@@ -533,7 +560,8 @@
       "english_answers": [
         "I didn't expect that"
       ],
-      "english_gloss": "I didn't expect that"
+      "english_gloss": "I didn't expect that",
+      "audio": "没想到.mp3"
     },
     {
       "hanzi": "真的假的啊？",
@@ -541,7 +569,8 @@
       "english_answers": [
         "Wait, really?!"
       ],
-      "english_gloss": "Wait, really?!"
+      "english_gloss": "Wait, really?!",
+      "audio": "真的假的啊？.mp3"
     },
     {
       "hanzi": "那倒是。",
@@ -549,7 +578,8 @@
       "english_answers": [
         "That's true, actually."
       ],
-      "english_gloss": "That's true, actually."
+      "english_gloss": "That's true, actually.",
+      "audio": "那倒是。.mp3"
     },
     {
       "hanzi": "也是。",
@@ -566,7 +596,8 @@
       "english_answers": [
         "That makes sense."
       ],
-      "english_gloss": "That makes sense."
+      "english_gloss": "That makes sense.",
+      "audio": "有道理。.mp3"
     },
     {
       "hanzi": "说得也是。",
@@ -574,7 +605,8 @@
       "english_answers": [
         "You've got a point."
       ],
-      "english_gloss": "You've got a point."
+      "english_gloss": "You've got a point.",
+      "audio": "说得也是。.mp3"
     },
     {
       "hanzi": "确实",
@@ -582,7 +614,8 @@
       "english_answers": [
         "indeed / that's true"
       ],
-      "english_gloss": "indeed / that's true"
+      "english_gloss": "indeed / that's true",
+      "audio": "确实.mp3"
     },
     {
       "hanzi": "没错",
@@ -590,7 +623,8 @@
       "english_answers": [
         "exactly / that's right"
       ],
-      "english_gloss": "exactly / that's right"
+      "english_gloss": "exactly / that's right",
+      "audio": "没错.mp3"
     },
     {
       "hanzi": "可不是嘛！",
@@ -607,7 +641,8 @@
       "english_answers": [
         "Tell me about it! / Isn't that the truth!"
       ],
-      "english_gloss": "Tell me about it! / Isn't that the truth!"
+      "english_gloss": "Tell me about it! / Isn't that the truth!",
+      "audio": "谁说不是呢？.mp3"
     },
     {
       "hanzi": "不一定",
@@ -624,7 +659,8 @@
       "english_answers": [
         "Not necessarily!"
       ],
-      "english_gloss": "Not necessarily!"
+      "english_gloss": "Not necessarily!",
+      "audio": "那可不一定。.mp3"
     },
     {
       "hanzi": "不好说",
@@ -641,7 +677,8 @@
       "english_answers": [
         "it depends"
       ],
-      "english_gloss": "it depends"
+      "english_gloss": "it depends",
+      "audio": "看情况.mp3"
     },
     {
       "hanzi": "再说吧。",
@@ -667,7 +704,8 @@
       "english_answers": [
         "wait and see"
       ],
-      "english_gloss": "wait and see"
+      "english_gloss": "wait and see",
+      "audio": "等等看.mp3"
     },
     {
       "hanzi": "不着急",
@@ -684,7 +722,8 @@
       "english_answers": [
         "just chat casually"
       ],
-      "english_gloss": "just chat casually"
+      "english_gloss": "just chat casually",
+      "audio": "随便聊聊.mp3"
     },
     {
       "hanzi": "聊得来",
@@ -692,7 +731,8 @@
       "english_answers": [
         "hit it off in conversation"
       ],
-      "english_gloss": "hit it off in conversation"
+      "english_gloss": "hit it off in conversation",
+      "audio": "聊得来.mp3"
     },
     {
       "hanzi": "接得上话",
@@ -736,7 +776,8 @@
       "english_answers": [
         "I'm just messing with you. (northern)"
       ],
-      "english_gloss": "I'm just messing with you. (northern)"
+      "english_gloss": "I'm just messing with you. (northern)",
+      "audio": "逗你玩儿的。.mp3"
     },
     {
       "hanzi": "别当真。",
@@ -771,7 +812,8 @@
       "english_answers": [
         "hard to predict / can't say for sure"
       ],
-      "english_gloss": "hard to predict / can't say for sure"
+      "english_gloss": "hard to predict / can't say for sure",
+      "audio": "说不准.mp3"
     },
     {
       "hanzi": "差点儿忘了。",
@@ -797,7 +839,8 @@
       "english_answers": [
         "have enough time / make it in time"
       ],
-      "english_gloss": "have enough time / make it in time"
+      "english_gloss": "have enough time / make it in time",
+      "audio": "来得及.mp3"
     },
     {
       "hanzi": "来不及",
@@ -805,7 +848,8 @@
       "english_answers": [
         "not enough time / too late"
       ],
-      "english_gloss": "not enough time / too late"
+      "english_gloss": "not enough time / too late",
+      "audio": "来不及.mp3"
     },
     {
       "hanzi": "没办法",
@@ -813,7 +857,8 @@
       "english_answers": [
         "can't be helped / no way around it"
       ],
-      "english_gloss": "can't be helped / no way around it"
+      "english_gloss": "can't be helped / no way around it",
+      "audio": "没办法.mp3"
     },
     {
       "hanzi": "白忙活了。",
@@ -821,7 +866,8 @@
       "english_answers": [
         "All that work for nothing."
       ],
-      "english_gloss": "All that work for nothing."
+      "english_gloss": "All that work for nothing.",
+      "audio": "白忙活了。.mp3"
     },
     {
       "hanzi": "算我一个。",
@@ -829,7 +875,8 @@
       "english_answers": [
         "Count me in."
       ],
-      "english_gloss": "Count me in."
+      "english_gloss": "Count me in.",
+      "audio": "算我一个。.mp3"
     },
     {
       "hanzi": "我先撤了。",
@@ -855,7 +902,8 @@
       "english_answers": [
         "That's kind of interesting."
       ],
-      "english_gloss": "That's kind of interesting."
+      "english_gloss": "That's kind of interesting.",
+      "audio": "有点意思。.mp3"
     }
   ]
 }

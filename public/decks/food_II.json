@@ -11,7 +11,8 @@
       "english_answers": [
         "milk"
       ],
-      "english_gloss": "milk"
+      "english_gloss": "milk",
+      "audio": "牛奶.mp3"
     },
     {
       "hanzi": "豆浆",
@@ -19,7 +20,8 @@
       "english_answers": [
         "soy milk"
       ],
-      "english_gloss": "soy milk"
+      "english_gloss": "soy milk",
+      "audio": "豆浆.mp3"
     },
     {
       "hanzi": "果汁",
@@ -27,7 +29,8 @@
       "english_answers": [
         "fruit juice"
       ],
-      "english_gloss": "fruit juice"
+      "english_gloss": "fruit juice",
+      "audio": "果汁.mp3"
     },
     {
       "hanzi": "可乐",
@@ -45,7 +48,8 @@
         "soda",
         "soft drink"
       ],
-      "english_gloss": "soda / soft drink"
+      "english_gloss": "soda / soft drink",
+      "audio": "汽水.mp3"
     },
     {
       "hanzi": "矿泉水",
@@ -53,7 +57,8 @@
       "english_answers": [
         "mineral water"
       ],
-      "english_gloss": "mineral water"
+      "english_gloss": "mineral water",
+      "audio": "矿泉水.mp3"
     },
     {
       "hanzi": "热水",
@@ -61,7 +66,8 @@
       "english_answers": [
         "hot water"
       ],
-      "english_gloss": "hot water"
+      "english_gloss": "hot water",
+      "audio": "热水.mp3"
     },
     {
       "hanzi": "冰水",
@@ -87,7 +93,8 @@
       "english_answers": [
         "red wine"
       ],
-      "english_gloss": "red wine"
+      "english_gloss": "red wine",
+      "audio": "红酒.mp3"
     },
     {
       "hanzi": "白酒",
@@ -95,7 +102,8 @@
       "english_answers": [
         "Chinese distilled liquor"
       ],
-      "english_gloss": "Chinese distilled liquor"
+      "english_gloss": "Chinese distilled liquor",
+      "audio": "白酒.mp3"
     },
     {
       "hanzi": "奶茶",
@@ -112,7 +120,8 @@
       "english_answers": [
         "bubble tea"
       ],
-      "english_gloss": "bubble tea"
+      "english_gloss": "bubble tea",
+      "audio": "珍珠奶茶.mp3"
     },
     {
       "hanzi": "珍珠",
@@ -120,7 +129,8 @@
       "english_answers": [
         "tapioca pearls"
       ],
-      "english_gloss": "tapioca pearls"
+      "english_gloss": "tapioca pearls",
+      "audio": "珍珠.mp3"
     },
     {
       "hanzi": "冰块",
@@ -137,7 +147,8 @@
       "english_answers": [
         "sugar"
       ],
-      "english_gloss": "sugar"
+      "english_gloss": "sugar",
+      "audio": "糖.mp3"
     },
     {
       "hanzi": "盐",
@@ -145,7 +156,8 @@
       "english_answers": [
         "salt"
       ],
-      "english_gloss": "salt"
+      "english_gloss": "salt",
+      "audio": "盐.mp3"
     },
     {
       "hanzi": "胡椒",
@@ -154,7 +166,8 @@
         "pepper",
         "peppercorn seasoning"
       ],
-      "english_gloss": "pepper / peppercorn seasoning"
+      "english_gloss": "pepper / peppercorn seasoning",
+      "audio": "胡椒.mp3"
     },
     {
       "hanzi": "黑胡椒",
@@ -162,7 +175,8 @@
       "english_answers": [
         "black pepper"
       ],
-      "english_gloss": "black pepper"
+      "english_gloss": "black pepper",
+      "audio": "黑胡椒.mp3"
     },
     {
       "hanzi": "醋",
@@ -170,7 +184,8 @@
       "english_answers": [
         "vinegar"
       ],
-      "english_gloss": "vinegar"
+      "english_gloss": "vinegar",
+      "audio": "醋.mp3"
     },
     {
       "hanzi": "酱油",
@@ -178,7 +193,8 @@
       "english_answers": [
         "soy sauce"
       ],
-      "english_gloss": "soy sauce"
+      "english_gloss": "soy sauce",
+      "audio": "酱油.mp3"
     },
     {
       "hanzi": "辣椒酱",
@@ -186,7 +202,8 @@
       "english_answers": [
         "chili sauce"
       ],
-      "english_gloss": "chili sauce"
+      "english_gloss": "chili sauce",
+      "audio": "辣椒酱.mp3"
     },
     {
       "hanzi": "番茄酱",
@@ -194,7 +211,8 @@
       "english_answers": [
         "ketchup"
       ],
-      "english_gloss": "ketchup"
+      "english_gloss": "ketchup",
+      "audio": "番茄酱.mp3"
     },
     {
       "hanzi": "芥末",
@@ -203,7 +221,8 @@
         "mustard",
         "wasabi"
       ],
-      "english_gloss": "mustard / wasabi"
+      "english_gloss": "mustard / wasabi",
+      "audio": "芥末.mp3"
     },
     {
       "hanzi": "沙拉酱",
@@ -212,7 +231,8 @@
         "salad dressing",
         "mayonnaise-style dressing"
       ],
-      "english_gloss": "salad dressing / mayonnaise-style dressing"
+      "english_gloss": "salad dressing / mayonnaise-style dressing",
+      "audio": "沙拉酱.mp3"
     },
     {
       "hanzi": "蜂蜜",
@@ -220,7 +240,8 @@
       "english_answers": [
         "honey"
       ],
-      "english_gloss": "honey"
+      "english_gloss": "honey",
+      "audio": "蜂蜜.mp3"
     },
     {
       "hanzi": "黄油",
@@ -228,7 +249,8 @@
       "english_answers": [
         "butter"
       ],
-      "english_gloss": "butter"
+      "english_gloss": "butter",
+      "audio": "黄油.mp3"
     },
     {
       "hanzi": "奶酪",
@@ -245,7 +267,8 @@
       "english_answers": [
         "yogurt"
       ],
-      "english_gloss": "yogurt"
+      "english_gloss": "yogurt",
+      "audio": "酸奶.mp3"
     },
     {
       "hanzi": "早餐",
@@ -253,7 +276,8 @@
       "english_answers": [
         "breakfast"
       ],
-      "english_gloss": "breakfast"
+      "english_gloss": "breakfast",
+      "audio": "早餐.mp3"
     },
     {
       "hanzi": "午餐",
@@ -270,7 +294,8 @@
       "english_answers": [
         "dinner"
       ],
-      "english_gloss": "dinner"
+      "english_gloss": "dinner",
+      "audio": "晚餐.mp3"
     },
     {
       "hanzi": "早饭",
@@ -278,7 +303,8 @@
       "english_answers": [
         "breakfast"
       ],
-      "english_gloss": "breakfast"
+      "english_gloss": "breakfast",
+      "audio": "早饭.mp3"
     },
     {
       "hanzi": "午饭",
@@ -295,7 +321,8 @@
       "english_answers": [
         "dinner"
       ],
-      "english_gloss": "dinner"
+      "english_gloss": "dinner",
+      "audio": "晚饭.mp3"
     },
     {
       "hanzi": "油条",
@@ -303,7 +330,8 @@
       "english_answers": [
         "fried dough stick"
       ],
-      "english_gloss": "fried dough stick"
+      "english_gloss": "fried dough stick",
+      "audio": "油条.mp3"
     },
     {
       "hanzi": "煎饼",
@@ -311,7 +339,8 @@
       "english_answers": [
         "Chinese savory crepe"
       ],
-      "english_gloss": "Chinese savory crepe"
+      "english_gloss": "Chinese savory crepe",
+      "audio": "煎饼.mp3"
     },
     {
       "hanzi": "煎蛋",
@@ -319,7 +348,8 @@
       "english_answers": [
         "fried egg"
       ],
-      "english_gloss": "fried egg"
+      "english_gloss": "fried egg",
+      "audio": "煎蛋.mp3"
     },
     {
       "hanzi": "炒鸡蛋",
@@ -327,7 +357,8 @@
       "english_answers": [
         "scrambled eggs"
       ],
-      "english_gloss": "scrambled eggs"
+      "english_gloss": "scrambled eggs",
+      "audio": "炒鸡蛋.mp3"
     },
     {
       "hanzi": "蛋糕",
@@ -335,7 +366,8 @@
       "english_answers": [
         "cake"
       ],
-      "english_gloss": "cake"
+      "english_gloss": "cake",
+      "audio": "蛋糕.mp3"
     },
     {
       "hanzi": "饼干",
@@ -344,7 +376,8 @@
         "cookies",
         "biscuits"
       ],
-      "english_gloss": "cookies / biscuits"
+      "english_gloss": "cookies / biscuits",
+      "audio": "饼干.mp3"
     },
     {
       "hanzi": "巧克力",
@@ -370,7 +403,8 @@
       "english_answers": [
         "dessert"
       ],
-      "english_gloss": "dessert"
+      "english_gloss": "dessert",
+      "audio": "甜点.mp3"
     },
     {
       "hanzi": "糖果",
@@ -378,7 +412,8 @@
       "english_answers": [
         "candy"
       ],
-      "english_gloss": "candy"
+      "english_gloss": "candy",
+      "audio": "糖果.mp3"
     },
     {
       "hanzi": "薯片",
@@ -386,7 +421,8 @@
       "english_answers": [
         "potato chips"
       ],
-      "english_gloss": "potato chips"
+      "english_gloss": "potato chips",
+      "audio": "薯片.mp3"
     },
     {
       "hanzi": "爆米花",
@@ -394,7 +430,8 @@
       "english_answers": [
         "popcorn"
       ],
-      "english_gloss": "popcorn"
+      "english_gloss": "popcorn",
+      "audio": "爆米花.mp3"
     },
     {
       "hanzi": "零食",
@@ -402,7 +439,8 @@
       "english_answers": [
         "snacks"
       ],
-      "english_gloss": "snacks"
+      "english_gloss": "snacks",
+      "audio": "零食.mp3"
     },
     {
       "hanzi": "花生",
@@ -410,7 +448,8 @@
       "english_answers": [
         "peanuts"
       ],
-      "english_gloss": "peanuts"
+      "english_gloss": "peanuts",
+      "audio": "花生.mp3"
     },
     {
       "hanzi": "坚果",
@@ -427,7 +466,8 @@
       "english_answers": [
         "hot dog"
       ],
-      "english_gloss": "hot dog"
+      "english_gloss": "hot dog",
+      "audio": "热狗.mp3"
     },
     {
       "hanzi": "鸡块",
@@ -435,7 +475,8 @@
       "english_answers": [
         "chicken nuggets"
       ],
-      "english_gloss": "chicken nuggets"
+      "english_gloss": "chicken nuggets",
+      "audio": "鸡块.mp3"
     },
     {
       "hanzi": "鸡翅",
@@ -443,7 +484,8 @@
       "english_answers": [
         "chicken wings"
       ],
-      "english_gloss": "chicken wings"
+      "english_gloss": "chicken wings",
+      "audio": "鸡翅.mp3"
     },
     {
       "hanzi": "鸡腿",
@@ -452,7 +494,8 @@
         "chicken leg",
         "drumstick"
       ],
-      "english_gloss": "chicken leg / drumstick"
+      "english_gloss": "chicken leg / drumstick",
+      "audio": "鸡腿.mp3"
     },
     {
       "hanzi": "芝士汉堡",
@@ -460,7 +503,8 @@
       "english_answers": [
         "cheeseburger"
       ],
-      "english_gloss": "cheeseburger"
+      "english_gloss": "cheeseburger",
+      "audio": "芝士汉堡.mp3"
     },
     {
       "hanzi": "套餐",
@@ -637,7 +681,8 @@
       "english_answers": [
         "very spicy"
       ],
-      "english_gloss": "very spicy"
+      "english_gloss": "very spicy",
+      "audio": "特辣.mp3"
     },
     {
       "hanzi": "全熟",
@@ -731,7 +776,8 @@
         "steamed simply",
         "plain steamed"
       ],
-      "english_gloss": "steamed simply / plain steamed"
+      "english_gloss": "steamed simply / plain steamed",
+      "audio": "清蒸.mp3"
     },
     {
       "hanzi": "红烧",
@@ -739,7 +785,8 @@
       "english_answers": [
         "red-braised"
       ],
-      "english_gloss": "red-braised"
+      "english_gloss": "red-braised",
+      "audio": "红烧.mp3"
     },
     {
       "hanzi": "烧烤",
@@ -748,7 +795,8 @@
         "barbecue",
         "grilled food"
       ],
-      "english_gloss": "barbecue / grilled food"
+      "english_gloss": "barbecue / grilled food",
+      "audio": "烧烤.mp3"
     },
     {
       "hanzi": "烤肉",
@@ -757,7 +805,8 @@
         "grilled meat",
         "barbecue"
       ],
-      "english_gloss": "grilled meat / barbecue"
+      "english_gloss": "grilled meat / barbecue",
+      "audio": "烤肉.mp3"
     },
     {
       "hanzi": "火锅",
@@ -765,7 +814,8 @@
       "english_answers": [
         "hot pot"
       ],
-      "english_gloss": "hot pot"
+      "english_gloss": "hot pot",
+      "audio": "火锅.mp3"
     },
     {
       "hanzi": "自助餐",
@@ -773,7 +823,8 @@
       "english_answers": [
         "buffet"
       ],
-      "english_gloss": "buffet"
+      "english_gloss": "buffet",
+      "audio": "自助餐.mp3"
     },
     {
       "hanzi": "点菜",
@@ -781,7 +832,8 @@
       "english_answers": [
         "order dishes"
       ],
-      "english_gloss": "order dishes"
+      "english_gloss": "order dishes",
+      "audio": "点菜.mp3"
     },
     {
       "hanzi": "买单",
@@ -800,7 +852,8 @@
         "settle the bill",
         "check out"
       ],
-      "english_gloss": "settle the bill / check out"
+      "english_gloss": "settle the bill / check out",
+      "audio": "结账.mp3"
     },
     {
       "hanzi": "账单",
@@ -809,7 +862,8 @@
         "bill",
         "check"
       ],
-      "english_gloss": "bill / check"
+      "english_gloss": "bill / check",
+      "audio": "账单.mp3"
     },
     {
       "hanzi": "推荐",
@@ -837,7 +891,8 @@
         "allergic",
         "allergy"
       ],
-      "english_gloss": "allergic / allergy"
+      "english_gloss": "allergic / allergy",
+      "audio": "过敏.mp3"
     },
     {
       "hanzi": "食物过敏",
@@ -845,7 +900,8 @@
       "english_answers": [
         "food allergy"
       ],
-      "english_gloss": "food allergy"
+      "english_gloss": "food allergy",
+      "audio": "食物过敏.mp3"
     },
     {
       "hanzi": "花生过敏",
@@ -853,7 +909,8 @@
       "english_answers": [
         "peanut allergy"
       ],
-      "english_gloss": "peanut allergy"
+      "english_gloss": "peanut allergy",
+      "audio": "花生过敏.mp3"
     },
     {
       "hanzi": "海鲜过敏",
@@ -861,7 +918,8 @@
       "english_answers": [
         "seafood allergy"
       ],
-      "english_gloss": "seafood allergy"
+      "english_gloss": "seafood allergy",
+      "audio": "海鲜过敏.mp3"
     },
     {
       "hanzi": "不能吃",

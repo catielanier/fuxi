@@ -29,7 +29,8 @@
       "english_answers": [
         "wind instrument"
       ],
-      "english_gloss": "wind instrument"
+      "english_gloss": "wind instrument",
+      "audio": "管乐器.mp3"
     },
     {
       "hanzi": "打击乐器",
@@ -46,7 +47,8 @@
       "english_answers": [
         "keyboard instrument"
       ],
-      "english_gloss": "keyboard instrument"
+      "english_gloss": "keyboard instrument",
+      "audio": "键盘乐器.mp3"
     },
     {
       "hanzi": "木吉他",
@@ -54,7 +56,8 @@
       "english_answers": [
         "acoustic guitar"
       ],
-      "english_gloss": "acoustic guitar"
+      "english_gloss": "acoustic guitar",
+      "audio": "木吉他.mp3"
     },
     {
       "hanzi": "电吉他",
@@ -62,7 +65,8 @@
       "english_answers": [
         "electric guitar"
       ],
-      "english_gloss": "electric guitar"
+      "english_gloss": "electric guitar",
+      "audio": "电吉他.mp3"
     },
     {
       "hanzi": "贝斯",
@@ -70,7 +74,8 @@
       "english_answers": [
         "bass guitar"
       ],
-      "english_gloss": "bass guitar"
+      "english_gloss": "bass guitar",
+      "audio": "贝斯.mp3"
     },
     {
       "hanzi": "电贝斯",
@@ -78,7 +83,8 @@
       "english_answers": [
         "electric bass"
       ],
-      "english_gloss": "electric bass"
+      "english_gloss": "electric bass",
+      "audio": "电贝斯.mp3"
     },
     {
       "hanzi": "原声贝斯",
@@ -123,7 +129,8 @@
       "english_answers": [
         "piano"
       ],
-      "english_gloss": "piano"
+      "english_gloss": "piano",
+      "audio": "钢琴.mp3"
     },
     {
       "hanzi": "电子琴",
@@ -131,7 +138,8 @@
       "english_answers": [
         "electronic keyboard"
       ],
-      "english_gloss": "electronic keyboard"
+      "english_gloss": "electronic keyboard",
+      "audio": "电子琴.mp3"
     },
     {
       "hanzi": "合成器",
@@ -148,7 +156,8 @@
       "english_answers": [
         "drum kit"
       ],
-      "english_gloss": "drum kit"
+      "english_gloss": "drum kit",
+      "audio": "架子鼓.mp3"
     },
     {
       "hanzi": "萨克斯",
@@ -156,7 +165,8 @@
       "english_answers": [
         "saxophone"
       ],
-      "english_gloss": "saxophone"
+      "english_gloss": "saxophone",
+      "audio": "萨克斯.mp3"
     },
     {
       "hanzi": "小号",
@@ -173,7 +183,8 @@
       "english_answers": [
         "flute"
       ],
-      "english_gloss": "flute"
+      "english_gloss": "flute",
+      "audio": "长笛.mp3"
     },
     {
       "hanzi": "摇滚乐",
@@ -190,7 +201,8 @@
       "english_answers": [
         "heavy metal"
       ],
-      "english_gloss": "heavy metal"
+      "english_gloss": "heavy metal",
+      "audio": "重金属.mp3"
     },
     {
       "hanzi": "新金属",
@@ -243,7 +255,8 @@
       "english_answers": [
         "hardcore punk"
       ],
-      "english_gloss": "hardcore punk"
+      "english_gloss": "hardcore punk",
+      "audio": "硬核朋克.mp3"
     },
     {
       "hanzi": "朋克摇滚",
@@ -251,7 +264,8 @@
       "english_answers": [
         "punk rock"
       ],
-      "english_gloss": "punk rock"
+      "english_gloss": "punk rock",
+      "audio": "朋克摇滚.mp3"
     },
     {
       "hanzi": "后硬核",
@@ -268,7 +282,8 @@
       "english_answers": [
         "metalcore"
       ],
-      "english_gloss": "metalcore"
+      "english_gloss": "metalcore",
+      "audio": "金属核.mp3"
     },
     {
       "hanzi": "说唱金属",
@@ -276,7 +291,8 @@
       "english_answers": [
         "rap metal"
       ],
-      "english_gloss": "rap metal"
+      "english_gloss": "rap metal",
+      "audio": "说唱金属.mp3"
     },
     {
       "hanzi": "电子音乐",
@@ -284,7 +300,8 @@
       "english_answers": [
         "electronic music"
       ],
-      "english_gloss": "electronic music"
+      "english_gloss": "electronic music",
+      "audio": "电子音乐.mp3"
     },
     {
       "hanzi": "电子舞曲",
@@ -293,7 +310,8 @@
         "electronic dance music",
         "EDM"
       ],
-      "english_gloss": "electronic dance music / EDM"
+      "english_gloss": "electronic dance music / EDM",
+      "audio": "电子舞曲.mp3"
     },
     {
       "hanzi": "回响贝斯",
@@ -337,7 +355,8 @@
       "english_answers": [
         "jazz"
       ],
-      "english_gloss": "jazz"
+      "english_gloss": "jazz",
+      "audio": "爵士乐.mp3"
     },
     {
       "hanzi": "古典音乐",
@@ -363,7 +382,8 @@
       "english_answers": [
         "singer"
       ],
-      "english_gloss": "singer"
+      "english_gloss": "singer",
+      "audio": "歌手.mp3"
     },
     {
       "hanzi": "伴唱",
@@ -399,7 +419,8 @@
       "english_answers": [
         "bassist"
       ],
-      "english_gloss": "bassist"
+      "english_gloss": "bassist",
+      "audio": "贝斯手.mp3"
     },
     {
       "hanzi": "鼓手",
@@ -407,7 +428,8 @@
       "english_answers": [
         "drummer"
       ],
-      "english_gloss": "drummer"
+      "english_gloss": "drummer",
+      "audio": "鼓手.mp3"
     },
     {
       "hanzi": "键盘手",
@@ -415,7 +437,8 @@
       "english_answers": [
         "keyboardist"
       ],
-      "english_gloss": "keyboardist"
+      "english_gloss": "keyboardist",
+      "audio": "键盘手.mp3"
     },
     {
       "hanzi": "主音吉他手",
@@ -432,7 +455,8 @@
       "english_answers": [
         "rhythm guitarist"
       ],
-      "english_gloss": "rhythm guitarist"
+      "english_gloss": "rhythm guitarist",
+      "audio": "节奏吉他手.mp3"
     },
     {
       "hanzi": "乐队成员",
@@ -459,7 +483,8 @@
         "songwriter",
         "composer-lyricist"
       ],
-      "english_gloss": "songwriter / composer-lyricist"
+      "english_gloss": "songwriter / composer-lyricist",
+      "audio": "词曲作者.mp3"
     },
     {
       "hanzi": "作曲家",
@@ -486,7 +511,8 @@
         "arrange",
         "arrangement"
       ],
-      "english_gloss": "arrange / arrangement"
+      "english_gloss": "arrange / arrangement",
+      "audio": "编曲.mp3"
     },
     {
       "hanzi": "音乐制作人",
@@ -494,7 +520,8 @@
       "english_answers": [
         "music producer"
       ],
-      "english_gloss": "music producer"
+      "english_gloss": "music producer",
+      "audio": "音乐制作人.mp3"
     },
     {
       "hanzi": "录音师",
@@ -511,7 +538,8 @@
       "english_answers": [
         "sound engineer"
       ],
-      "english_gloss": "sound engineer"
+      "english_gloss": "sound engineer",
+      "audio": "调音师.mp3"
     },
     {
       "hanzi": "经纪人",
@@ -520,7 +548,8 @@
         "artist manager",
         "agent"
       ],
-      "english_gloss": "artist manager / agent"
+      "english_gloss": "artist manager / agent",
+      "audio": "经纪人.mp3"
     },
     {
       "hanzi": "歌曲",
@@ -528,7 +557,8 @@
       "english_answers": [
         "song"
       ],
-      "english_gloss": "song"
+      "english_gloss": "song",
+      "audio": "歌曲.mp3"
     },
     {
       "hanzi": "歌词",
@@ -536,7 +566,8 @@
       "english_answers": [
         "song lyrics"
       ],
-      "english_gloss": "song lyrics"
+      "english_gloss": "song lyrics",
+      "audio": "歌词.mp3"
     },
     {
       "hanzi": "曲调",
@@ -545,7 +576,8 @@
         "tune",
         "melody"
       ],
-      "english_gloss": "tune / melody"
+      "english_gloss": "tune / melody",
+      "audio": "曲调.mp3"
     },
     {
       "hanzi": "主歌",
@@ -581,7 +613,8 @@
       "english_answers": [
         "instrumental interlude"
       ],
-      "english_gloss": "instrumental interlude"
+      "english_gloss": "instrumental interlude",
+      "audio": "间奏.mp3"
     },
     {
       "hanzi": "尾奏",
@@ -598,7 +631,8 @@
       "english_answers": [
         "bridge section (song)"
       ],
-      "english_gloss": "bridge section (song)"
+      "english_gloss": "bridge section (song)",
+      "audio": "桥段.mp3"
     },
     {
       "hanzi": "即兴演奏",
@@ -616,7 +650,8 @@
       "english_answers": [
         "solo performance"
       ],
-      "english_gloss": "solo performance"
+      "english_gloss": "solo performance",
+      "audio": "独奏.mp3"
     },
     {
       "hanzi": "合奏",
@@ -643,7 +678,8 @@
         "beat",
         "meter"
       ],
-      "english_gloss": "beat / meter"
+      "english_gloss": "beat / meter",
+      "audio": "节拍.mp3"
     },
     {
       "hanzi": "节奏型",
@@ -651,7 +687,8 @@
       "english_answers": [
         "rhythmic pattern"
       ],
-      "english_gloss": "rhythmic pattern"
+      "english_gloss": "rhythmic pattern",
+      "audio": "节奏型.mp3"
     },
     {
       "hanzi": "低音",
@@ -670,7 +707,8 @@
         "high notes",
         "treble"
       ],
-      "english_gloss": "high notes / treble"
+      "english_gloss": "high notes / treble",
+      "audio": "高音.mp3"
     },
     {
       "hanzi": "音色",
@@ -679,7 +717,8 @@
         "timbre",
         "tone quality"
       ],
-      "english_gloss": "timbre / tone quality"
+      "english_gloss": "timbre / tone quality",
+      "audio": "音色.mp3"
     },
     {
       "hanzi": "音量",
@@ -687,7 +726,8 @@
       "english_answers": [
         "volume"
       ],
-      "english_gloss": "volume"
+      "english_gloss": "volume",
+      "audio": "音量.mp3"
     },
     {
       "hanzi": "失真音色",
@@ -704,7 +744,8 @@
       "english_answers": [
         "form a band"
       ],
-      "english_gloss": "form a band"
+      "english_gloss": "form a band",
+      "audio": "组乐队.mp3"
     },
     {
       "hanzi": "加入乐队",
@@ -759,7 +800,8 @@
         "cover a song",
         "cover version"
       ],
-      "english_gloss": "cover a song / cover version"
+      "english_gloss": "cover a song / cover version",
+      "audio": "翻唱.mp3"
     },
     {
       "hanzi": "专辑",
@@ -785,7 +827,8 @@
       "english_answers": [
         "vinyl record"
       ],
-      "english_gloss": "vinyl record"
+      "english_gloss": "vinyl record",
+      "audio": "黑胶唱片.mp3"
     },
     {
       "hanzi": "巡演",
@@ -802,7 +845,8 @@
       "english_answers": [
         "music festival"
       ],
-      "english_gloss": "music festival"
+      "english_gloss": "music festival",
+      "audio": "音乐节.mp3"
     },
     {
       "hanzi": "演出场地",
@@ -810,7 +854,8 @@
       "english_answers": [
         "performance venue"
       ],
-      "english_gloss": "performance venue"
+      "english_gloss": "performance venue",
+      "audio": "演出场地.mp3"
     },
     {
       "hanzi": "舞台",
@@ -818,7 +863,8 @@
       "english_answers": [
         "stage"
       ],
-      "english_gloss": "stage"
+      "english_gloss": "stage",
+      "audio": "舞台.mp3"
     },
     {
       "hanzi": "观众",
@@ -826,7 +872,8 @@
       "english_answers": [
         "audience"
       ],
-      "english_gloss": "audience"
+      "english_gloss": "audience",
+      "audio": "观众.mp3"
     },
     {
       "hanzi": "音响系统",
@@ -835,7 +882,8 @@
         "sound system",
         "PA"
       ],
-      "english_gloss": "sound system / PA"
+      "english_gloss": "sound system / PA",
+      "audio": "音响系统.mp3"
     },
     {
       "hanzi": "返听音箱",
@@ -843,7 +891,8 @@
       "english_answers": [
         "stage monitor speaker"
       ],
-      "english_gloss": "stage monitor speaker"
+      "english_gloss": "stage monitor speaker",
+      "audio": "返听音箱.mp3"
     },
     {
       "hanzi": "彩排",
@@ -871,7 +920,8 @@
         "performance setlist",
         "repertoire"
       ],
-      "english_gloss": "performance setlist / repertoire"
+      "english_gloss": "performance setlist / repertoire",
+      "audio": "演出曲目.mp3"
     }
   ]
 }

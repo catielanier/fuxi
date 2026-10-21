@@ -20,7 +20,8 @@
       "english_answers": [
         "passive sentence construction"
       ],
-      "english_gloss": "passive sentence construction"
+      "english_gloss": "passive sentence construction",
+      "audio": "被字句.mp3"
     },
     {
       "hanzi": "了",
@@ -37,7 +38,8 @@
       "english_answers": [
         "experiential aspect particle: have done before"
       ],
-      "english_gloss": "experiential aspect particle: have done before"
+      "english_gloss": "experiential aspect particle: have done before",
+      "audio": "过.mp3"
     },
     {
       "hanzi": "着",
@@ -45,7 +47,8 @@
       "english_answers": [
         "aspect particle: ongoing state"
       ],
-      "english_gloss": "aspect particle: ongoing state"
+      "english_gloss": "aspect particle: ongoing state",
+      "audio": "着.mp3"
     },
     {
       "hanzi": "正在",
@@ -53,7 +56,8 @@
       "english_answers": [
         "currently in the process of"
       ],
-      "english_gloss": "currently in the process of"
+      "english_gloss": "currently in the process of",
+      "audio": "正在.mp3"
     },
     {
       "hanzi": "已经",
@@ -70,7 +74,8 @@
       "english_answers": [
         "not yet"
       ],
-      "english_gloss": "not yet"
+      "english_gloss": "not yet",
+      "audio": "还没.mp3"
     },
     {
       "hanzi": "刚刚",
@@ -132,7 +137,8 @@
       "english_answers": [
         "The door is open."
       ],
-      "english_gloss": "The door is open."
+      "english_gloss": "The door is open.",
+      "audio": "门开着。.mp3"
     },
     {
       "hanzi": "他已经走了。",
@@ -176,7 +182,8 @@
       "english_answers": [
         "Please close the door."
       ],
-      "english_gloss": "Please close the door."
+      "english_gloss": "Please close the door.",
+      "audio": "请把门关上。.mp3"
     },
     {
       "hanzi": "我把手机弄丢了。",
@@ -193,7 +200,8 @@
       "english_answers": [
         "This book has been borrowed."
       ],
-      "english_gloss": "This book has been borrowed."
+      "english_gloss": "This book has been borrowed.",
+      "audio": "这本书被借走了。.mp3"
     },
     {
       "hanzi": "我的电脑被修好了。",
@@ -219,7 +227,8 @@
       "english_answers": [
         "finish watching/reading"
       ],
-      "english_gloss": "finish watching/reading"
+      "english_gloss": "finish watching/reading",
+      "audio": "看完.mp3"
     },
     {
       "hanzi": "吃完",
@@ -263,7 +272,8 @@
       "english_answers": [
         "understand through reading/watching"
       ],
-      "english_gloss": "understand through reading/watching"
+      "english_gloss": "understand through reading/watching",
+      "audio": "看懂.mp3"
     },
     {
       "hanzi": "听清楚",
@@ -280,7 +290,8 @@
       "english_answers": [
         "see clearly"
       ],
-      "english_gloss": "see clearly"
+      "english_gloss": "see clearly",
+      "audio": "看清楚.mp3"
     },
     {
       "hanzi": "找到了",
@@ -316,7 +327,8 @@
         "memorize",
         "keep in mind"
       ],
-      "english_gloss": "memorize; keep in mind"
+      "english_gloss": "memorize; keep in mind",
+      "audio": "记住.mp3"
     },
     {
       "hanzi": "忘掉",
@@ -352,7 +364,8 @@
       "english_answers": [
         "walk in"
       ],
-      "english_gloss": "walk in"
+      "english_gloss": "walk in",
+      "audio": "走进去.mp3"
     },
     {
       "hanzi": "跑出来",
@@ -360,7 +373,8 @@
       "english_answers": [
         "run out"
       ],
-      "english_gloss": "run out"
+      "english_gloss": "run out",
+      "audio": "跑出来.mp3"
     },
     {
       "hanzi": "拿回来",
@@ -377,7 +391,8 @@
       "english_answers": [
         "send/take over there"
       ],
-      "english_gloss": "send/take over there"
+      "english_gloss": "send/take over there",
+      "audio": "送过去.mp3"
     },
     {
       "hanzi": "听不懂",
@@ -394,7 +409,8 @@
       "english_answers": [
         "can't understand by reading"
       ],
-      "english_gloss": "can't understand by reading"
+      "english_gloss": "can't understand by reading",
+      "audio": "看不懂.mp3"
     },
     {
       "hanzi": "买不起",
@@ -420,7 +436,8 @@
       "english_answers": [
         "can't come"
       ],
-      "english_gloss": "can't come"
+      "english_gloss": "can't come",
+      "audio": "来不了.mp3"
     },
     {
       "hanzi": "来得了",
@@ -428,7 +445,8 @@
       "english_answers": [
         "able to come"
       ],
-      "english_gloss": "able to come"
+      "english_gloss": "able to come",
+      "audio": "来得了.mp3"
     },
     {
       "hanzi": "做得到",
@@ -454,7 +472,8 @@
       "english_answers": [
         "speak too quickly"
       ],
-      "english_gloss": "speak too quickly"
+      "english_gloss": "speak too quickly",
+      "audio": "说得太快.mp3"
     },
     {
       "hanzi": "说得很好",
@@ -462,7 +481,8 @@
       "english_answers": [
         "speak very well"
       ],
-      "english_gloss": "speak very well"
+      "english_gloss": "speak very well",
+      "audio": "说得很好.mp3"
     },
     {
       "hanzi": "我听不懂。",
@@ -488,7 +508,8 @@
       "english_answers": [
         "This is hard to explain."
       ],
-      "english_gloss": "This is hard to explain."
+      "english_gloss": "This is hard to explain.",
+      "audio": "这件事很难解释。.mp3"
     },
     {
       "hanzi": "比",
@@ -497,7 +518,8 @@
         "than",
         "comparative marker"
       ],
-      "english_gloss": "than; comparative marker"
+      "english_gloss": "than; comparative marker",
+      "audio": "比.mp3"
     },
     {
       "hanzi": "没有……那么……",
@@ -505,7 +527,8 @@
       "english_answers": [
         "not as… as…"
       ],
-      "english_gloss": "not as… as…"
+      "english_gloss": "not as… as…",
+      "audio": "没有……那么…….mp3"
     },
     {
       "hanzi": "跟……一样",
@@ -513,7 +536,8 @@
       "english_answers": [
         "the same as…"
       ],
-      "english_gloss": "the same as…"
+      "english_gloss": "the same as…",
+      "audio": "跟……一样.mp3"
     },
     {
       "hanzi": "越来越",
@@ -521,7 +545,8 @@
       "english_answers": [
         "more and more"
       ],
-      "english_gloss": "more and more"
+      "english_gloss": "more and more",
+      "audio": "越来越.mp3"
     },
     {
       "hanzi": "越……越……",
@@ -529,7 +554,8 @@
       "english_answers": [
         "the more… the more…"
       ],
-      "english_gloss": "the more… the more…"
+      "english_gloss": "the more… the more…",
+      "audio": "越……越…….mp3"
     },
     {
       "hanzi": "更",
@@ -538,7 +564,8 @@
         "more",
         "even more"
       ],
-      "english_gloss": "more; even more"
+      "english_gloss": "more; even more",
+      "audio": "更.mp3"
     },
     {
       "hanzi": "最",
@@ -547,7 +574,8 @@
         "most",
         "the most"
       ],
-      "english_gloss": "most; the most"
+      "english_gloss": "most; the most",
+      "audio": "最.mp3"
     },
     {
       "hanzi": "稍微",
@@ -556,7 +584,8 @@
         "slightly",
         "a little"
       ],
-      "english_gloss": "slightly; a little"
+      "english_gloss": "slightly; a little",
+      "audio": "稍微.mp3"
     },
     {
       "hanzi": "有点儿",
@@ -564,7 +593,8 @@
       "english_answers": [
         "a bit (often undesirable)"
       ],
-      "english_gloss": "a bit (often undesirable)"
+      "english_gloss": "a bit (often undesirable)",
+      "audio": "有点儿.mp3"
     },
     {
       "hanzi": "一点儿",
@@ -582,7 +612,8 @@
       "english_answers": [
         "This is more expensive than that."
       ],
-      "english_gloss": "This is more expensive than that."
+      "english_gloss": "This is more expensive than that.",
+      "audio": "这个比那个贵。.mp3"
     },
     {
       "hanzi": "今天没有昨天冷。",
@@ -617,7 +648,8 @@
       "english_answers": [
         "The more you practice, the easier it gets."
       ],
-      "english_gloss": "The more you practice, the easier it gets."
+      "english_gloss": "The more you practice, the easier it gets.",
+      "audio": "越练越容易。.mp3"
     },
     {
       "hanzi": "虽然……但是……",
@@ -625,7 +657,8 @@
       "english_answers": [
         "although… nevertheless…"
       ],
-      "english_gloss": "although… nevertheless…"
+      "english_gloss": "although… nevertheless…",
+      "audio": "虽然……但是…….mp3"
     },
     {
       "hanzi": "如果……就……",
@@ -651,7 +684,8 @@
       "english_answers": [
         "unless… otherwise…"
       ],
-      "english_gloss": "unless… otherwise…"
+      "english_gloss": "unless… otherwise…",
+      "audio": "除非……否则…….mp3"
     },
     {
       "hanzi": "不但……而且……",
@@ -695,7 +729,8 @@
       "english_answers": [
         "even…"
       ],
-      "english_gloss": "even…"
+      "english_gloss": "even…",
+      "audio": "连……都…….mp3"
     },
     {
       "hanzi": "除了……以外……",
@@ -704,7 +739,8 @@
         "apart from…",
         "besides…"
       ],
-      "english_gloss": "apart from…; besides…"
+      "english_gloss": "apart from…; besides…",
+      "audio": "除了……以外…….mp3"
     },
     {
       "hanzi": "尽管……还是……",
@@ -730,7 +766,8 @@
       "english_answers": [
         "if… then… (colloquial)"
       ],
-      "english_gloss": "if… then… (colloquial)"
+      "english_gloss": "if… then… (colloquial)",
+      "audio": "要是……就…….mp3"
     },
     {
       "hanzi": "一边……一边……",
@@ -814,7 +851,8 @@
         "it seems",
         "apparently"
       ],
-      "english_gloss": "it seems; apparently"
+      "english_gloss": "it seems; apparently",
+      "audio": "看来.mp3"
     },
     {
       "hanzi": "难道……吗？",
@@ -822,7 +860,8 @@
       "english_answers": [
         "could it really be that…? (rhetorical)"
       ],
-      "english_gloss": "could it really be that…? (rhetorical)"
+      "english_gloss": "could it really be that…? (rhetorical)",
+      "audio": "难道……吗？.mp3"
     },
     {
       "hanzi": "是不是",
@@ -831,7 +870,8 @@
         "whether",
         "is it or not"
       ],
-      "english_gloss": "whether; is it or not"
+      "english_gloss": "whether; is it or not",
+      "audio": "是不是.mp3"
     },
     {
       "hanzi": "有没有",
@@ -839,7 +879,8 @@
       "english_answers": [
         "whether there is/has been"
       ],
-      "english_gloss": "whether there is/has been"
+      "english_gloss": "whether there is/has been",
+      "audio": "有没有.mp3"
     },
     {
       "hanzi": "什么都",
@@ -858,7 +899,8 @@
         "nobody",
         "not anyone"
       ],
-      "english_gloss": "nobody; not anyone"
+      "english_gloss": "nobody; not anyone",
+      "audio": "谁也不.mp3"
     },
     {
       "hanzi": "一点儿也不",
@@ -876,7 +918,8 @@
         "simply not",
         "not at all"
       ],
-      "english_gloss": "simply not; not at all"
+      "english_gloss": "simply not; not at all",
+      "audio": "根本不.mp3"
     }
   ]
 }

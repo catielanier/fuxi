@@ -30,7 +30,8 @@
       "english_answers": [
         "rectangular"
       ],
-      "english_gloss": "rectangular"
+      "english_gloss": "rectangular",
+      "audio": "长方形.mp3"
     },
     {
       "hanzi": "三角形",
@@ -47,7 +48,8 @@
       "english_answers": [
         "oval"
       ],
-      "english_gloss": "oval"
+      "english_gloss": "oval",
+      "audio": "椭圆形.mp3"
     },
     {
       "hanzi": "菱形",
@@ -56,7 +58,8 @@
         "diamond-shaped",
         "rhombus"
       ],
-      "english_gloss": "diamond-shaped / rhombus"
+      "english_gloss": "diamond-shaped / rhombus",
+      "audio": "菱形.mp3"
     },
     {
       "hanzi": "心形",
@@ -73,7 +76,8 @@
       "english_answers": [
         "star-shaped"
       ],
-      "english_gloss": "star-shaped"
+      "english_gloss": "star-shaped",
+      "audio": "星形.mp3"
     },
     {
       "hanzi": "球形",
@@ -81,7 +85,8 @@
       "english_answers": [
         "spherical"
       ],
-      "english_gloss": "spherical"
+      "english_gloss": "spherical",
+      "audio": "球形.mp3"
     },
     {
       "hanzi": "圆柱形",
@@ -98,7 +103,8 @@
       "english_answers": [
         "cube"
       ],
-      "english_gloss": "cube"
+      "english_gloss": "cube",
+      "audio": "立方体.mp3"
     },
     {
       "hanzi": "圆锥形",
@@ -135,7 +141,8 @@
       "english_answers": [
         "straight (not bent)"
       ],
-      "english_gloss": "straight (not bent)"
+      "english_gloss": "straight (not bent)",
+      "audio": "笔直.mp3"
     },
     {
       "hanzi": "歪",
@@ -144,7 +151,8 @@
         "crooked",
         "tilted"
       ],
-      "english_gloss": "crooked / tilted"
+      "english_gloss": "crooked / tilted",
+      "audio": "歪.mp3"
     },
     {
       "hanzi": "对称",
@@ -171,7 +179,8 @@
         "edge",
         "border"
       ],
-      "english_gloss": "edge / border"
+      "english_gloss": "edge / border",
+      "audio": "边缘.mp3"
     },
     {
       "hanzi": "角落",
@@ -179,7 +188,8 @@
       "english_answers": [
         "corner"
       ],
-      "english_gloss": "corner"
+      "english_gloss": "corner",
+      "audio": "角落.mp3"
     },
     {
       "hanzi": "大小",
@@ -196,7 +206,8 @@
       "english_answers": [
         "length"
       ],
-      "english_gloss": "length"
+      "english_gloss": "length",
+      "audio": "长度.mp3"
     },
     {
       "hanzi": "宽度",
@@ -213,7 +224,8 @@
       "english_answers": [
         "height"
       ],
-      "english_gloss": "height"
+      "english_gloss": "height",
+      "audio": "高度.mp3"
     },
     {
       "hanzi": "厚度",
@@ -230,7 +242,8 @@
       "english_answers": [
         "depth"
       ],
-      "english_gloss": "depth"
+      "english_gloss": "depth",
+      "audio": "深度.mp3"
     },
     {
       "hanzi": "直径",
@@ -238,7 +251,8 @@
       "english_answers": [
         "diameter"
       ],
-      "english_gloss": "diameter"
+      "english_gloss": "diameter",
+      "audio": "直径.mp3"
     },
     {
       "hanzi": "半径",
@@ -265,7 +279,8 @@
       "english_answers": [
         "area"
       ],
-      "english_gloss": "area"
+      "english_gloss": "area",
+      "audio": "面积.mp3"
     },
     {
       "hanzi": "体积",
@@ -311,7 +326,8 @@
         "miniature",
         "mini"
       ],
-      "english_gloss": "miniature / mini"
+      "english_gloss": "miniature / mini",
+      "audio": "迷你.mp3"
     },
     {
       "hanzi": "巨大",
@@ -328,7 +344,8 @@
       "english_answers": [
         "long and slender"
       ],
-      "english_gloss": "long and slender"
+      "english_gloss": "long and slender",
+      "audio": "细长.mp3"
     },
     {
       "hanzi": "短粗",
@@ -336,7 +353,8 @@
       "english_answers": [
         "short and thick"
       ],
-      "english_gloss": "short and thick"
+      "english_gloss": "short and thick",
+      "audio": "短粗.mp3"
     },
     {
       "hanzi": "宽敞",
@@ -354,7 +372,8 @@
         "narrow",
         "cramped"
       ],
-      "english_gloss": "narrow / cramped"
+      "english_gloss": "narrow / cramped",
+      "audio": "狭窄.mp3"
     },
     {
       "hanzi": "厚",
@@ -371,7 +390,8 @@
       "english_answers": [
         "thin (material)"
       ],
-      "english_gloss": "thin (material)"
+      "english_gloss": "thin (material)",
+      "audio": "薄.mp3"
     },
     {
       "hanzi": "粗",
@@ -380,7 +400,8 @@
         "thick",
         "coarse"
       ],
-      "english_gloss": "thick / coarse"
+      "english_gloss": "thick / coarse",
+      "audio": "粗.mp3"
     },
     {
       "hanzi": "细",
@@ -389,7 +410,8 @@
         "thin",
         "fine"
       ],
-      "english_gloss": "thin / fine"
+      "english_gloss": "thin / fine",
+      "audio": "细.mp3"
     },
     {
       "hanzi": "重",
@@ -397,7 +419,8 @@
       "english_answers": [
         "heavy"
       ],
-      "english_gloss": "heavy"
+      "english_gloss": "heavy",
+      "audio": "重.mp3"
     },
     {
       "hanzi": "轻",
@@ -405,7 +428,8 @@
       "english_answers": [
         "light (in weight)"
       ],
-      "english_gloss": "light (in weight)"
+      "english_gloss": "light (in weight)",
+      "audio": "轻.mp3"
     },
     {
       "hanzi": "结实",
@@ -414,7 +438,8 @@
         "sturdy",
         "solidly built"
       ],
-      "english_gloss": "sturdy / solidly built"
+      "english_gloss": "sturdy / solidly built",
+      "audio": "结实.mp3"
     },
     {
       "hanzi": "脆弱",
@@ -423,7 +448,8 @@
         "fragile",
         "vulnerable"
       ],
-      "english_gloss": "fragile / vulnerable"
+      "english_gloss": "fragile / vulnerable",
+      "audio": "脆弱.mp3"
     },
     {
       "hanzi": "坚固",
@@ -442,7 +468,8 @@
         "soft",
         "pliable"
       ],
-      "english_gloss": "soft / pliable"
+      "english_gloss": "soft / pliable",
+      "audio": "柔软.mp3"
     },
     {
       "hanzi": "坚硬",
@@ -461,7 +488,8 @@
         "elastic",
         "stretchy"
       ],
-      "english_gloss": "elastic / stretchy"
+      "english_gloss": "elastic / stretchy",
+      "audio": "有弹性.mp3"
     },
     {
       "hanzi": "灵活",
@@ -470,7 +498,8 @@
         "flexible",
         "nimble"
       ],
-      "english_gloss": "flexible / nimble"
+      "english_gloss": "flexible / nimble",
+      "audio": "灵活.mp3"
     },
     {
       "hanzi": "僵硬",
@@ -498,7 +527,8 @@
       "english_answers": [
         "durable"
       ],
-      "english_gloss": "durable"
+      "english_gloss": "durable",
+      "audio": "耐用.mp3"
     },
     {
       "hanzi": "易碎",
@@ -507,7 +537,8 @@
         "fragile",
         "breakable"
       ],
-      "english_gloss": "fragile / breakable"
+      "english_gloss": "fragile / breakable",
+      "audio": "易碎.mp3"
     },
     {
       "hanzi": "防水",
@@ -515,7 +546,8 @@
       "english_answers": [
         "waterproof"
       ],
-      "english_gloss": "waterproof"
+      "english_gloss": "waterproof",
+      "audio": "防水.mp3"
     },
     {
       "hanzi": "防滑",
@@ -523,7 +555,8 @@
       "english_answers": [
         "slip-resistant"
       ],
-      "english_gloss": "slip-resistant"
+      "english_gloss": "slip-resistant",
+      "audio": "防滑.mp3"
     },
     {
       "hanzi": "光滑",
@@ -540,7 +573,8 @@
       "english_answers": [
         "rough (texture)"
       ],
-      "english_gloss": "rough (texture)"
+      "english_gloss": "rough (texture)",
+      "audio": "粗糙.mp3"
     },
     {
       "hanzi": "滑",
@@ -548,7 +582,8 @@
       "english_answers": [
         "slippery"
       ],
-      "english_gloss": "slippery"
+      "english_gloss": "slippery",
+      "audio": "滑.mp3"
     },
     {
       "hanzi": "黏",
@@ -556,7 +591,8 @@
       "english_answers": [
         "sticky"
       ],
-      "english_gloss": "sticky"
+      "english_gloss": "sticky",
+      "audio": "黏.mp3"
     },
     {
       "hanzi": "干燥",
@@ -574,7 +610,8 @@
         "damp",
         "humid"
       ],
-      "english_gloss": "damp / humid"
+      "english_gloss": "damp / humid",
+      "audio": "潮湿.mp3"
     },
     {
       "hanzi": "湿透",
@@ -582,7 +619,8 @@
       "english_answers": [
         "soaked through"
       ],
-      "english_gloss": "soaked through"
+      "english_gloss": "soaked through",
+      "audio": "湿透.mp3"
     },
     {
       "hanzi": "蓬松",
@@ -590,7 +628,8 @@
       "english_answers": [
         "fluffy"
       ],
-      "english_gloss": "fluffy"
+      "english_gloss": "fluffy",
+      "audio": "蓬松.mp3"
     },
     {
       "hanzi": "松软",
@@ -598,7 +637,8 @@
       "english_answers": [
         "soft and fluffy"
       ],
-      "english_gloss": "soft and fluffy"
+      "english_gloss": "soft and fluffy",
+      "audio": "松软.mp3"
     },
     {
       "hanzi": "扎手",
@@ -615,7 +655,8 @@
       "english_answers": [
         "sharp (blade)"
       ],
-      "english_gloss": "sharp (blade)"
+      "english_gloss": "sharp (blade)",
+      "audio": "锋利.mp3"
     },
     {
       "hanzi": "钝",
@@ -624,7 +665,8 @@
         "blunt",
         "dull (blade)"
       ],
-      "english_gloss": "blunt / dull (blade)"
+      "english_gloss": "blunt / dull (blade)",
+      "audio": "钝.mp3"
     },
     {
       "hanzi": "尖",
@@ -672,7 +714,8 @@
       "english_answers": [
         "hollow"
       ],
-      "english_gloss": "hollow"
+      "english_gloss": "hollow",
+      "audio": "空心.mp3"
     },
     {
       "hanzi": "实心",
@@ -689,7 +732,8 @@
       "english_answers": [
         "transparent"
       ],
-      "english_gloss": "transparent"
+      "english_gloss": "transparent",
+      "audio": "透明.mp3"
     },
     {
       "hanzi": "半透明",
@@ -726,7 +770,8 @@
         "dark",
         "dim"
       ],
-      "english_gloss": "dark / dim"
+      "english_gloss": "dark / dim",
+      "audio": "暗.mp3"
     },
     {
       "hanzi": "有光泽",
@@ -735,7 +780,8 @@
         "glossy",
         "lustrous"
       ],
-      "english_gloss": "glossy / lustrous"
+      "english_gloss": "glossy / lustrous",
+      "audio": "有光泽.mp3"
     },
     {
       "hanzi": "哑光",
@@ -764,7 +810,8 @@
         "fade",
         "lose color"
       ],
-      "english_gloss": "fade / lose color"
+      "english_gloss": "fade / lose color",
+      "audio": "褪色.mp3"
     },
     {
       "hanzi": "斑点",
@@ -782,7 +829,8 @@
       "english_answers": [
         "stripes"
       ],
-      "english_gloss": "stripes"
+      "english_gloss": "stripes",
+      "audio": "条纹.mp3"
     },
     {
       "hanzi": "裂缝",
@@ -791,7 +839,8 @@
         "crack",
         "fissure"
       ],
-      "english_gloss": "crack / fissure"
+      "english_gloss": "crack / fissure",
+      "audio": "裂缝.mp3"
     },
     {
       "hanzi": "划痕",
@@ -809,7 +858,8 @@
         "wrinkle",
         "crease"
       ],
-      "english_gloss": "wrinkle / crease"
+      "english_gloss": "wrinkle / crease",
+      "audio": "皱纹.mp3"
     },
     {
       "hanzi": "有棱有角",
@@ -818,7 +868,8 @@
         "angular",
         "with sharp edges"
       ],
-      "english_gloss": "angular / with sharp edges"
+      "english_gloss": "angular / with sharp edges",
+      "audio": "有棱有角.mp3"
     },
     {
       "hanzi": "凹凸不平",
@@ -837,7 +888,8 @@
         "crooked",
         "twisted"
       ],
-      "english_gloss": "crooked / twisted"
+      "english_gloss": "crooked / twisted",
+      "audio": "歪歪扭扭.mp3"
     },
     {
       "hanzi": "表面",
@@ -845,7 +897,8 @@
       "english_answers": [
         "surface"
       ],
-      "english_gloss": "surface"
+      "english_gloss": "surface",
+      "audio": "表面.mp3"
     },
     {
       "hanzi": "摸起来",
@@ -863,7 +916,8 @@
         "to look",
         "to appear"
       ],
-      "english_gloss": "to look / to appear"
+      "english_gloss": "to look / to appear",
+      "audio": "看起来.mp3"
     },
     {
       "hanzi": "这个是空心的。",
@@ -871,7 +925,8 @@
       "english_answers": [
         "This one is hollow."
       ],
-      "english_gloss": "This one is hollow."
+      "english_gloss": "This one is hollow.",
+      "audio": "这个是空心的。.mp3"
     },
     {
       "hanzi": "表面很光滑。",
@@ -879,7 +934,8 @@
       "english_answers": [
         "The surface is very smooth."
       ],
-      "english_gloss": "The surface is very smooth."
+      "english_gloss": "The surface is very smooth.",
+      "audio": "表面很光滑。.mp3"
     },
     {
       "hanzi": "这块布很薄。",
@@ -887,7 +943,8 @@
       "english_answers": [
         "This piece of fabric is thin."
       ],
-      "english_gloss": "This piece of fabric is thin."
+      "english_gloss": "This piece of fabric is thin.",
+      "audio": "这块布很薄。.mp3"
     }
   ]
 }

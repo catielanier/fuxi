@@ -48,7 +48,8 @@
       "english_answers": [
         "ride-hailing car"
       ],
-      "english_gloss": "ride-hailing car"
+      "english_gloss": "ride-hailing car",
+      "audio": "网约车.mp3"
     },
     {
       "hanzi": "地铁",
@@ -66,7 +67,8 @@
       "english_answers": [
         "light rail"
       ],
-      "english_gloss": "light rail"
+      "english_gloss": "light rail",
+      "audio": "轻轨.mp3"
     },
     {
       "hanzi": "火车",
@@ -74,7 +76,8 @@
       "english_answers": [
         "train"
       ],
-      "english_gloss": "train"
+      "english_gloss": "train",
+      "audio": "火车.mp3"
     },
     {
       "hanzi": "高铁",
@@ -82,7 +85,8 @@
       "english_answers": [
         "high-speed rail"
       ],
-      "english_gloss": "high-speed rail"
+      "english_gloss": "high-speed rail",
+      "audio": "高铁.mp3"
     },
     {
       "hanzi": "动车",
@@ -100,7 +104,8 @@
       "english_answers": [
         "long-distance coach"
       ],
-      "english_gloss": "long-distance coach"
+      "english_gloss": "long-distance coach",
+      "audio": "长途汽车.mp3"
     },
     {
       "hanzi": "班车",
@@ -109,7 +114,8 @@
         "scheduled shuttle",
         "commuter bus"
       ],
-      "english_gloss": "scheduled shuttle / commuter bus"
+      "english_gloss": "scheduled shuttle / commuter bus",
+      "audio": "班车.mp3"
     },
     {
       "hanzi": "校车",
@@ -117,7 +123,8 @@
       "english_answers": [
         "school bus"
       ],
-      "english_gloss": "school bus"
+      "english_gloss": "school bus",
+      "audio": "校车.mp3"
     },
     {
       "hanzi": "摩托车",
@@ -135,7 +142,8 @@
         "electric vehicle",
         "e-bike"
       ],
-      "english_gloss": "electric vehicle / e-bike"
+      "english_gloss": "electric vehicle / e-bike",
+      "audio": "电动车.mp3"
     },
     {
       "hanzi": "自行车",
@@ -143,7 +151,8 @@
       "english_answers": [
         "bicycle"
       ],
-      "english_gloss": "bicycle"
+      "english_gloss": "bicycle",
+      "audio": "自行车.mp3"
     },
     {
       "hanzi": "共享单车",
@@ -160,7 +169,8 @@
       "english_answers": [
         "privately owned car"
       ],
-      "english_gloss": "privately owned car"
+      "english_gloss": "privately owned car",
+      "audio": "私家车.mp3"
     },
     {
       "hanzi": "面包车",
@@ -168,7 +178,8 @@
       "english_answers": [
         "van"
       ],
-      "english_gloss": "van"
+      "english_gloss": "van",
+      "audio": "面包车.mp3"
     },
     {
       "hanzi": "三轮车",
@@ -194,7 +205,8 @@
       "english_answers": [
         "station"
       ],
-      "english_gloss": "station"
+      "english_gloss": "station",
+      "audio": "车站.mp3"
     },
     {
       "hanzi": "火车站",
@@ -202,7 +214,8 @@
       "english_answers": [
         "railway station"
       ],
-      "english_gloss": "railway station"
+      "english_gloss": "railway station",
+      "audio": "火车站.mp3"
     },
     {
       "hanzi": "地铁站",
@@ -219,7 +232,8 @@
       "english_answers": [
         "bus terminal"
       ],
-      "english_gloss": "bus terminal"
+      "english_gloss": "bus terminal",
+      "audio": "汽车站.mp3"
     },
     {
       "hanzi": "机场",
@@ -227,7 +241,8 @@
       "english_answers": [
         "airport"
       ],
-      "english_gloss": "airport"
+      "english_gloss": "airport",
+      "audio": "机场.mp3"
     },
     {
       "hanzi": "航站楼",
@@ -235,7 +250,8 @@
       "english_answers": [
         "airport terminal"
       ],
-      "english_gloss": "airport terminal"
+      "english_gloss": "airport terminal",
+      "audio": "航站楼.mp3"
     },
     {
       "hanzi": "站台",
@@ -243,7 +259,8 @@
       "english_answers": [
         "platform"
       ],
-      "english_gloss": "platform"
+      "english_gloss": "platform",
+      "audio": "站台.mp3"
     },
     {
       "hanzi": "候车室",
@@ -269,7 +286,8 @@
       "english_answers": [
         "ticket vending machine"
       ],
-      "english_gloss": "ticket vending machine"
+      "english_gloss": "ticket vending machine",
+      "audio": "自动售票机.mp3"
     },
     {
       "hanzi": "车票",
@@ -277,7 +295,8 @@
       "english_answers": [
         "transport ticket"
       ],
-      "english_gloss": "transport ticket"
+      "english_gloss": "transport ticket",
+      "audio": "车票.mp3"
     },
     {
       "hanzi": "单程票",
@@ -378,7 +397,8 @@
       "english_answers": [
         "west side"
       ],
-      "english_gloss": "west side"
+      "english_gloss": "west side",
+      "audio": "西边.mp3"
     },
     {
       "hanzi": "南边",
@@ -463,7 +483,8 @@
         "nearby",
         "vicinity"
       ],
-      "english_gloss": "nearby / vicinity"
+      "english_gloss": "nearby / vicinity",
+      "audio": "附近.mp3"
     },
     {
       "hanzi": "一直走",
@@ -517,7 +538,8 @@
         "pass by",
         "go through"
       ],
-      "english_gloss": "pass by / go through"
+      "english_gloss": "pass by / go through",
+      "audio": "经过.mp3"
     },
     {
       "hanzi": "路过",
@@ -525,7 +547,8 @@
       "english_answers": [
         "pass by"
       ],
-      "english_gloss": "pass by"
+      "english_gloss": "pass by",
+      "audio": "路过.mp3"
     },
     {
       "hanzi": "迷路",
@@ -533,7 +556,8 @@
       "english_answers": [
         "get lost"
       ],
-      "english_gloss": "get lost"
+      "english_gloss": "get lost",
+      "audio": "迷路.mp3"
     },
     {
       "hanzi": "马路",
@@ -542,7 +566,8 @@
         "road",
         "street"
       ],
-      "english_gloss": "road / street"
+      "english_gloss": "road / street",
+      "audio": "马路.mp3"
     },
     {
       "hanzi": "大街",
@@ -589,7 +614,8 @@
       "english_answers": [
         "traffic light"
       ],
-      "english_gloss": "traffic light"
+      "english_gloss": "traffic light",
+      "audio": "红绿灯.mp3"
     },
     {
       "hanzi": "斑马线",
@@ -616,7 +642,8 @@
       "english_answers": [
         "bicycle lane"
       ],
-      "english_gloss": "bicycle lane"
+      "english_gloss": "bicycle lane",
+      "audio": "自行车道.mp3"
     },
     {
       "hanzi": "机动车道",
@@ -624,7 +651,8 @@
       "english_answers": [
         "motor vehicle lane"
       ],
-      "english_gloss": "motor vehicle lane"
+      "english_gloss": "motor vehicle lane",
+      "audio": "机动车道.mp3"
     },
     {
       "hanzi": "单行道",
@@ -642,7 +670,8 @@
         "elevated roadway",
         "overpass"
       ],
-      "english_gloss": "elevated roadway / overpass"
+      "english_gloss": "elevated roadway / overpass",
+      "audio": "高架桥.mp3"
     },
     {
       "hanzi": "立交桥",
@@ -651,7 +680,8 @@
         "highway interchange",
         "overpass"
       ],
-      "english_gloss": "highway interchange / overpass"
+      "english_gloss": "highway interchange / overpass",
+      "audio": "立交桥.mp3"
     },
     {
       "hanzi": "隧道",
@@ -659,7 +689,8 @@
       "english_answers": [
         "tunnel"
       ],
-      "english_gloss": "tunnel"
+      "english_gloss": "tunnel",
+      "audio": "隧道.mp3"
     },
     {
       "hanzi": "地下通道",
@@ -686,7 +717,8 @@
         "expressway",
         "highway"
       ],
-      "english_gloss": "expressway / highway"
+      "english_gloss": "expressway / highway",
+      "audio": "高速公路.mp3"
     },
     {
       "hanzi": "收费站",
@@ -713,7 +745,8 @@
       "english_answers": [
         "take a detour"
       ],
-      "english_gloss": "take a detour"
+      "english_gloss": "take a detour",
+      "audio": "绕路.mp3"
     },
     {
       "hanzi": "路线",
@@ -721,7 +754,8 @@
       "english_answers": [
         "route"
       ],
-      "english_gloss": "route"
+      "english_gloss": "route",
+      "audio": "路线.mp3"
     },
     {
       "hanzi": "地图",
@@ -758,7 +792,8 @@
       "english_answers": [
         "destination"
       ],
-      "english_gloss": "destination"
+      "english_gloss": "destination",
+      "audio": "目的地.mp3"
     },
     {
       "hanzi": "出发",
@@ -787,7 +822,8 @@
         "terminal",
         "last stop"
       ],
-      "english_gloss": "terminal / last stop"
+      "english_gloss": "terminal / last stop",
+      "audio": "终点站.mp3"
     },
     {
       "hanzi": "下一站",
@@ -814,7 +850,8 @@
         "last bus",
         "train of the day"
       ],
-      "english_gloss": "last bus / train of the day"
+      "english_gloss": "last bus / train of the day",
+      "audio": "末班车.mp3"
     },
     {
       "hanzi": "首班车",
@@ -823,7 +860,8 @@
         "first bus",
         "train of the day"
       ],
-      "english_gloss": "first bus / train of the day"
+      "english_gloss": "first bus / train of the day",
+      "audio": "首班车.mp3"
     },
     {
       "hanzi": "车费",
@@ -831,7 +869,8 @@
       "english_answers": [
         "fare"
       ],
-      "english_gloss": "fare"
+      "english_gloss": "fare",
+      "audio": "车费.mp3"
     },
     {
       "hanzi": "打车",
@@ -860,7 +899,8 @@
         "travel on foot",
         "walk"
       ],
-      "english_gloss": "travel on foot / walk"
+      "english_gloss": "travel on foot / walk",
+      "audio": "步行.mp3"
     },
     {
       "hanzi": "距离",
@@ -868,7 +908,8 @@
       "english_answers": [
         "distance"
       ],
-      "english_gloss": "distance"
+      "english_gloss": "distance",
+      "audio": "距离.mp3"
     },
     {
       "hanzi": "远近",
@@ -876,7 +917,8 @@
       "english_answers": [
         "how far or near"
       ],
-      "english_gloss": "how far or near"
+      "english_gloss": "how far or near",
+      "audio": "远近.mp3"
     },
     {
       "hanzi": "交通拥堵",
@@ -893,7 +935,8 @@
       "english_answers": [
         "speed limit"
       ],
-      "english_gloss": "speed limit"
+      "english_gloss": "speed limit",
+      "audio": "限速.mp3"
     }
   ]
 }

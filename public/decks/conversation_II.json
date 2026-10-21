@@ -29,7 +29,8 @@
       "english_answers": [
         "Could you say that again?"
       ],
-      "english_gloss": "Could you say that again?"
+      "english_gloss": "Could you say that again?",
+      "audio": "能再说一遍吗？.mp3"
     },
     {
       "hanzi": "麻烦你说慢一点。",
@@ -37,7 +38,8 @@
       "english_answers": [
         "Please speak a little slower."
       ],
-      "english_gloss": "Please speak a little slower."
+      "english_gloss": "Please speak a little slower.",
+      "audio": "麻烦你说慢一点。.mp3"
     },
     {
       "hanzi": "能换个说法吗？",
@@ -45,7 +47,8 @@
       "english_answers": [
         "Could you put it another way?"
       ],
-      "english_gloss": "Could you put it another way?"
+      "english_gloss": "Could you put it another way?",
+      "audio": "能换个说法吗？.mp3"
     },
     {
       "hanzi": "我的意思是……",
@@ -80,7 +83,8 @@
       "english_answers": [
         "Let me try saying that again."
       ],
-      "english_gloss": "Let me try saying that again."
+      "english_gloss": "Let me try saying that again.",
+      "audio": "让我重新说一下。.mp3"
     },
     {
       "hanzi": "我理解得对吗？",
@@ -115,7 +119,8 @@
       "english_answers": [
         "Could you be more specific?"
       ],
-      "english_gloss": "Could you be more specific?"
+      "english_gloss": "Could you be more specific?",
+      "audio": "能说具体一点吗？.mp3"
     },
     {
       "hanzi": "你指的是哪个？",
@@ -150,7 +155,8 @@
       "english_answers": [
         "I agree on that point."
       ],
-      "english_gloss": "I agree on that point."
+      "english_gloss": "I agree on that point.",
+      "audio": "这一点我同意。.mp3"
     },
     {
       "hanzi": "这一点我不太同意。",
@@ -158,7 +164,8 @@
       "english_answers": [
         "I don't quite agree on that point."
       ],
-      "english_gloss": "I don't quite agree on that point."
+      "english_gloss": "I don't quite agree on that point.",
+      "audio": "这一点我不太同意。.mp3"
     },
     {
       "hanzi": "我有不同的看法。",
@@ -211,7 +218,8 @@
       "english_answers": [
         "That depends on the situation."
       ],
-      "english_gloss": "That depends on the situation."
+      "english_gloss": "That depends on the situation.",
+      "audio": "这要看情况。.mp3"
     },
     {
       "hanzi": "我不太确定。",
@@ -327,7 +335,8 @@
       "english_answers": [
         "That's not the main point."
       ],
-      "english_gloss": "That's not the main point."
+      "english_gloss": "That's not the main point.",
+      "audio": "这不是重点。.mp3"
     },
     {
       "hanzi": "重点在于……",
@@ -335,7 +344,8 @@
       "english_answers": [
         "The key point is…"
       ],
-      "english_gloss": "The key point is…"
+      "english_gloss": "The key point is…",
+      "audio": "重点在于…….mp3"
     },
     {
       "hanzi": "问题是……",
@@ -343,7 +353,8 @@
       "english_answers": [
         "The problem is…"
       ],
-      "english_gloss": "The problem is…"
+      "english_gloss": "The problem is…",
+      "audio": "问题是…….mp3"
     },
     {
       "hanzi": "关键是……",
@@ -432,7 +443,8 @@
       "english_answers": [
         "Let's set this topic aside for now."
       ],
-      "english_gloss": "Let's set this topic aside for now."
+      "english_gloss": "Let's set this topic aside for now.",
+      "audio": "这个话题先放一放。.mp3"
     },
     {
       "hanzi": "换个话题吧。",
@@ -503,7 +515,8 @@
       "english_answers": [
         "Thanks for clarifying."
       ],
-      "english_gloss": "Thanks for clarifying."
+      "english_gloss": "Thanks for clarifying.",
+      "audio": "谢谢你解释清楚。.mp3"
     },
     {
       "hanzi": "抱歉，让你误会了。",
@@ -547,7 +560,8 @@
       "english_answers": [
         "Is there another way?"
       ],
-      "english_gloss": "Is there another way?"
+      "english_gloss": "Is there another way?",
+      "audio": "有没有别的办法？.mp3"
     },
     {
       "hanzi": "能不能折中一下？",
@@ -555,7 +569,8 @@
       "english_answers": [
         "Could we compromise?"
       ],
-      "english_gloss": "Could we compromise?"
+      "english_gloss": "Could we compromise?",
+      "audio": "能不能折中一下？.mp3"
     },
     {
       "hanzi": "我愿意考虑。",
@@ -572,7 +587,8 @@
       "english_answers": [
         "I can accept this condition."
       ],
-      "english_gloss": "I can accept this condition."
+      "english_gloss": "I can accept this condition.",
+      "audio": "这个条件我能接受。.mp3"
     },
     {
       "hanzi": "这个条件我接受不了。",
@@ -580,7 +596,8 @@
       "english_answers": [
         "I can't accept this condition."
       ],
-      "english_gloss": "I can't accept this condition."
+      "english_gloss": "I can't accept this condition.",
+      "audio": "这个条件我接受不了。.mp3"
     },
     {
       "hanzi": "能不能再便宜一点？",
@@ -588,7 +605,8 @@
       "english_answers": [
         "Could it be a little cheaper?"
       ],
-      "english_gloss": "Could it be a little cheaper?"
+      "english_gloss": "Could it be a little cheaper?",
+      "audio": "能不能再便宜一点？.mp3"
     },
     {
       "hanzi": "价格还有商量的余地吗？",
@@ -614,7 +632,8 @@
       "english_answers": [
         "Which fees does this include?"
       ],
-      "english_gloss": "Which fees does this include?"
+      "english_gloss": "Which fees does this include?",
+      "audio": "这包括哪些费用？.mp3"
     },
     {
       "hanzi": "有没有额外收费？",
@@ -622,7 +641,8 @@
       "english_answers": [
         "Are there additional charges?"
       ],
-      "english_gloss": "Are there additional charges?"
+      "english_gloss": "Are there additional charges?",
+      "audio": "有没有额外收费？.mp3"
     },
     {
       "hanzi": "请把价格写清楚。",
@@ -630,7 +650,8 @@
       "english_answers": [
         "Please write out the price clearly."
       ],
-      "english_gloss": "Please write out the price clearly."
+      "english_gloss": "Please write out the price clearly.",
+      "audio": "请把价格写清楚。.mp3"
     },
     {
       "hanzi": "我需要书面确认。",
@@ -656,7 +677,8 @@
       "english_answers": [
         "What does this clause mean?"
       ],
-      "english_gloss": "What does this clause mean?"
+      "english_gloss": "What does this clause mean?",
+      "audio": "这一条是什么意思？.mp3"
     },
     {
       "hanzi": "可以修改这一条吗？",
@@ -700,7 +722,8 @@
       "english_answers": [
         "Please let me know ahead of time."
       ],
-      "english_gloss": "Please let me know ahead of time."
+      "english_gloss": "Please let me know ahead of time.",
+      "audio": "请提前通知我。.mp3"
     },
     {
       "hanzi": "我现在不方便。",
@@ -717,7 +740,8 @@
       "english_answers": [
         "Would a bit later work?"
       ],
-      "english_gloss": "Would a bit later work?"
+      "english_gloss": "Would a bit later work?",
+      "audio": "晚一点可以吗？.mp3"
     },
     {
       "hanzi": "我们再约个时间。",
@@ -743,7 +767,8 @@
       "english_answers": [
         "This is important to me."
       ],
-      "english_gloss": "This is important to me."
+      "english_gloss": "This is important to me.",
+      "audio": "这对我很重要。.mp3"
     },
     {
       "hanzi": "我不太舒服。",
@@ -769,7 +794,8 @@
       "english_answers": [
         "Please respect my decision."
       ],
-      "english_gloss": "Please respect my decision."
+      "english_gloss": "Please respect my decision.",
+      "audio": "请尊重我的决定。.mp3"
     },
     {
       "hanzi": "我需要一点空间。",
@@ -795,7 +821,8 @@
       "english_answers": [
         "Let's talk when we've both calmed down."
       ],
-      "english_gloss": "Let's talk when we've both calmed down."
+      "english_gloss": "Let's talk when we've both calmed down.",
+      "audio": "等我们都冷静了再谈。.mp3"
     },
     {
       "hanzi": "这件事我们慢慢商量。",
@@ -803,7 +830,8 @@
       "english_answers": [
         "Let's take time to discuss this."
       ],
-      "english_gloss": "Let's take time to discuss this."
+      "english_gloss": "Let's take time to discuss this.",
+      "audio": "这件事我们慢慢商量。.mp3"
     },
     {
       "hanzi": "那我们就这么定了。",
@@ -811,7 +839,8 @@
       "english_answers": [
         "Then it's settled."
       ],
-      "english_gloss": "Then it's settled."
+      "english_gloss": "Then it's settled.",
+      "audio": "那我们就这么定了。.mp3"
     },
     {
       "hanzi": "我再确认一遍。",
@@ -855,7 +884,8 @@
       "english_answers": [
         "Thanks for taking time to explain."
       ],
-      "english_gloss": "Thanks for taking time to explain."
+      "english_gloss": "Thanks for taking time to explain.",
+      "audio": "谢谢你花时间解释。.mp3"
     },
     {
       "hanzi": "这次聊得很有帮助。",
@@ -863,7 +893,8 @@
       "english_answers": [
         "This conversation was really helpful."
       ],
-      "english_gloss": "This conversation was really helpful."
+      "english_gloss": "This conversation was really helpful.",
+      "audio": "这次聊得很有帮助。.mp3"
     },
     {
       "hanzi": "谢谢你的耐心。",
@@ -871,7 +902,8 @@
       "english_answers": [
         "Thank you for your patience."
       ],
-      "english_gloss": "Thank you for your patience."
+      "english_gloss": "Thank you for your patience.",
+      "audio": "谢谢你的耐心。.mp3"
     }
   ]
 }

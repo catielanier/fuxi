@@ -11,7 +11,8 @@
       "english_answers": [
         "bowl"
       ],
-      "english_gloss": "bowl"
+      "english_gloss": "bowl",
+      "audio": "碗.mp3"
     },
     {
       "hanzi": "盘子",
@@ -19,7 +20,8 @@
       "english_answers": [
         "plate"
       ],
-      "english_gloss": "plate"
+      "english_gloss": "plate",
+      "audio": "盘子.mp3"
     },
     {
       "hanzi": "碟子",
@@ -27,7 +29,8 @@
       "english_answers": [
         "small plate / saucer"
       ],
-      "english_gloss": "small plate / saucer"
+      "english_gloss": "small plate / saucer",
+      "audio": "碟子.mp3"
     },
     {
       "hanzi": "杯子",
@@ -35,7 +38,8 @@
       "english_answers": [
         "cup"
       ],
-      "english_gloss": "cup"
+      "english_gloss": "cup",
+      "audio": "杯子.mp3"
     },
     {
       "hanzi": "玻璃杯",
@@ -43,7 +47,8 @@
       "english_answers": [
         "drinking glass"
       ],
-      "english_gloss": "drinking glass"
+      "english_gloss": "drinking glass",
+      "audio": "玻璃杯.mp3"
     },
     {
       "hanzi": "马克杯",
@@ -51,7 +56,8 @@
       "english_answers": [
         "mug"
       ],
-      "english_gloss": "mug"
+      "english_gloss": "mug",
+      "audio": "马克杯.mp3"
     },
     {
       "hanzi": "保温杯",
@@ -68,7 +74,8 @@
       "english_answers": [
         "water jug / kettle"
       ],
-      "english_gloss": "water jug / kettle"
+      "english_gloss": "water jug / kettle",
+      "audio": "水壶.mp3"
     },
     {
       "hanzi": "烧水壶",
@@ -76,7 +83,8 @@
       "english_answers": [
         "kettle for boiling water"
       ],
-      "english_gloss": "kettle for boiling water"
+      "english_gloss": "kettle for boiling water",
+      "audio": "烧水壶.mp3"
     },
     {
       "hanzi": "茶壶",
@@ -84,7 +92,8 @@
       "english_answers": [
         "teapot"
       ],
-      "english_gloss": "teapot"
+      "english_gloss": "teapot",
+      "audio": "茶壶.mp3"
     },
     {
       "hanzi": "筷子",
@@ -92,7 +101,8 @@
       "english_answers": [
         "chopsticks"
       ],
-      "english_gloss": "chopsticks"
+      "english_gloss": "chopsticks",
+      "audio": "筷子.mp3"
     },
     {
       "hanzi": "勺子",
@@ -109,7 +119,8 @@
       "english_answers": [
         "soup spoon"
       ],
-      "english_gloss": "soup spoon"
+      "english_gloss": "soup spoon",
+      "audio": "汤匙.mp3"
     },
     {
       "hanzi": "叉子",
@@ -126,7 +137,8 @@
       "english_answers": [
         "table knife"
       ],
-      "english_gloss": "table knife"
+      "english_gloss": "table knife",
+      "audio": "餐刀.mp3"
     },
     {
       "hanzi": "菜刀",
@@ -134,7 +146,8 @@
       "english_answers": [
         "kitchen knife"
       ],
-      "english_gloss": "kitchen knife"
+      "english_gloss": "kitchen knife",
+      "audio": "菜刀.mp3"
     },
     {
       "hanzi": "砧板",
@@ -142,7 +155,8 @@
       "english_answers": [
         "chopping board"
       ],
-      "english_gloss": "chopping board"
+      "english_gloss": "chopping board",
+      "audio": "砧板.mp3"
     },
     {
       "hanzi": "锅",
@@ -150,7 +164,8 @@
       "english_answers": [
         "cooking pot / pan"
       ],
-      "english_gloss": "cooking pot / pan"
+      "english_gloss": "cooking pot / pan",
+      "audio": "锅.mp3"
     },
     {
       "hanzi": "炒锅",
@@ -158,7 +173,8 @@
       "english_answers": [
         "wok"
       ],
-      "english_gloss": "wok"
+      "english_gloss": "wok",
+      "audio": "炒锅.mp3"
     },
     {
       "hanzi": "平底锅",
@@ -175,7 +191,8 @@
       "english_answers": [
         "soup pot"
       ],
-      "english_gloss": "soup pot"
+      "english_gloss": "soup pot",
+      "audio": "汤锅.mp3"
     },
     {
       "hanzi": "锅盖",
@@ -183,7 +200,8 @@
       "english_answers": [
         "pot lid"
       ],
-      "english_gloss": "pot lid"
+      "english_gloss": "pot lid",
+      "audio": "锅盖.mp3"
     },
     {
       "hanzi": "锅铲",
@@ -191,7 +209,8 @@
       "english_answers": [
         "spatula / wok turner"
       ],
-      "english_gloss": "spatula / wok turner"
+      "english_gloss": "spatula / wok turner",
+      "audio": "锅铲.mp3"
     },
     {
       "hanzi": "漏勺",
@@ -199,7 +218,8 @@
       "english_answers": [
         "slotted spoon / strainer ladle"
       ],
-      "english_gloss": "slotted spoon / strainer ladle"
+      "english_gloss": "slotted spoon / strainer ladle",
+      "audio": "漏勺.mp3"
     },
     {
       "hanzi": "饭勺",
@@ -207,7 +227,8 @@
       "english_answers": [
         "rice serving spoon"
       ],
-      "english_gloss": "rice serving spoon"
+      "english_gloss": "rice serving spoon",
+      "audio": "饭勺.mp3"
     },
     {
       "hanzi": "夹子",
@@ -260,7 +281,8 @@
       "english_answers": [
         "funnel"
       ],
-      "english_gloss": "funnel"
+      "english_gloss": "funnel",
+      "audio": "漏斗.mp3"
     },
     {
       "hanzi": "滤网",
@@ -268,7 +290,8 @@
       "english_answers": [
         "strainer / mesh filter"
       ],
-      "english_gloss": "strainer / mesh filter"
+      "english_gloss": "strainer / mesh filter",
+      "audio": "滤网.mp3"
     },
     {
       "hanzi": "量杯",
@@ -276,7 +299,8 @@
       "english_answers": [
         "measuring cup"
       ],
-      "english_gloss": "measuring cup"
+      "english_gloss": "measuring cup",
+      "audio": "量杯.mp3"
     },
     {
       "hanzi": "量勺",
@@ -284,7 +308,8 @@
       "english_answers": [
         "measuring spoon"
       ],
-      "english_gloss": "measuring spoon"
+      "english_gloss": "measuring spoon",
+      "audio": "量勺.mp3"
     },
     {
       "hanzi": "擀面杖",
@@ -301,7 +326,8 @@
       "english_answers": [
         "baking tray"
       ],
-      "english_gloss": "baking tray"
+      "english_gloss": "baking tray",
+      "audio": "烤盘.mp3"
     },
     {
       "hanzi": "烤架",
@@ -309,7 +335,8 @@
       "english_answers": [
         "oven rack / grill rack"
       ],
-      "english_gloss": "oven rack / grill rack"
+      "english_gloss": "oven rack / grill rack",
+      "audio": "烤架.mp3"
     },
     {
       "hanzi": "隔热垫",
@@ -317,7 +344,8 @@
       "english_answers": [
         "heat-resistant mat / trivet"
       ],
-      "english_gloss": "heat-resistant mat / trivet"
+      "english_gloss": "heat-resistant mat / trivet",
+      "audio": "隔热垫.mp3"
     },
     {
       "hanzi": "锅垫",
@@ -325,7 +353,8 @@
       "english_answers": [
         "pot stand / trivet"
       ],
-      "english_gloss": "pot stand / trivet"
+      "english_gloss": "pot stand / trivet",
+      "audio": "锅垫.mp3"
     },
     {
       "hanzi": "围裙",
@@ -369,7 +398,8 @@
       "english_answers": [
         "oven"
       ],
-      "english_gloss": "oven"
+      "english_gloss": "oven",
+      "audio": "烤箱.mp3"
     },
     {
       "hanzi": "电饭煲",
@@ -377,7 +407,8 @@
       "english_answers": [
         "rice cooker"
       ],
-      "english_gloss": "rice cooker"
+      "english_gloss": "rice cooker",
+      "audio": "电饭煲.mp3"
     },
     {
       "hanzi": "电磁炉",
@@ -385,7 +416,8 @@
       "english_answers": [
         "induction cooker"
       ],
-      "english_gloss": "induction cooker"
+      "english_gloss": "induction cooker",
+      "audio": "电磁炉.mp3"
     },
     {
       "hanzi": "燃气灶",
@@ -393,7 +425,8 @@
       "english_answers": [
         "gas stove"
       ],
-      "english_gloss": "gas stove"
+      "english_gloss": "gas stove",
+      "audio": "燃气灶.mp3"
     },
     {
       "hanzi": "抽油烟机",
@@ -410,7 +443,8 @@
       "english_answers": [
         "dishwasher"
       ],
-      "english_gloss": "dishwasher"
+      "english_gloss": "dishwasher",
+      "audio": "洗碗机.mp3"
     },
     {
       "hanzi": "水槽",
@@ -418,7 +452,8 @@
       "english_answers": [
         "sink / basin"
       ],
-      "english_gloss": "sink / basin"
+      "english_gloss": "sink / basin",
+      "audio": "水槽.mp3"
     },
     {
       "hanzi": "沥水架",
@@ -426,7 +461,8 @@
       "english_answers": [
         "dish drying rack"
       ],
-      "english_gloss": "dish drying rack"
+      "english_gloss": "dish drying rack",
+      "audio": "沥水架.mp3"
     },
     {
       "hanzi": "餐具",
@@ -434,7 +470,8 @@
       "english_answers": [
         "tableware / cutlery"
       ],
-      "english_gloss": "tableware / cutlery"
+      "english_gloss": "tableware / cutlery",
+      "audio": "餐具.mp3"
     },
     {
       "hanzi": "厨具",
@@ -451,7 +488,8 @@
       "english_answers": [
         "lunch box"
       ],
-      "english_gloss": "lunch box"
+      "english_gloss": "lunch box",
+      "audio": "饭盒.mp3"
     },
     {
       "hanzi": "保鲜盒",
@@ -477,7 +515,8 @@
       "english_answers": [
         "glass jar"
       ],
-      "english_gloss": "glass jar"
+      "english_gloss": "glass jar",
+      "audio": "玻璃罐.mp3"
     },
     {
       "hanzi": "罐子",
@@ -485,7 +524,8 @@
       "english_answers": [
         "jar / canister"
       ],
-      "english_gloss": "jar / canister"
+      "english_gloss": "jar / canister",
+      "audio": "罐子.mp3"
     },
     {
       "hanzi": "瓶子",
@@ -493,7 +533,8 @@
       "english_answers": [
         "bottle"
       ],
-      "english_gloss": "bottle"
+      "english_gloss": "bottle",
+      "audio": "瓶子.mp3"
     },
     {
       "hanzi": "塑料瓶",
@@ -510,7 +551,8 @@
       "english_answers": [
         "bottle cap"
       ],
-      "english_gloss": "bottle cap"
+      "english_gloss": "bottle cap",
+      "audio": "瓶盖.mp3"
     },
     {
       "hanzi": "盖子",
@@ -518,7 +560,8 @@
       "english_answers": [
         "lid / cover"
       ],
-      "english_gloss": "lid / cover"
+      "english_gloss": "lid / cover",
+      "audio": "盖子.mp3"
     },
     {
       "hanzi": "塞子",
@@ -553,7 +596,8 @@
       "english_answers": [
         "aluminium foil"
       ],
-      "english_gloss": "aluminium foil"
+      "english_gloss": "aluminium foil",
+      "audio": "铝箔纸.mp3"
     },
     {
       "hanzi": "烘焙纸",
@@ -561,7 +605,8 @@
       "english_answers": [
         "baking parchment"
       ],
-      "english_gloss": "baking parchment"
+      "english_gloss": "baking parchment",
+      "audio": "烘焙纸.mp3"
     },
     {
       "hanzi": "密封袋",
@@ -578,7 +623,8 @@
       "english_answers": [
         "zip-top bag"
       ],
-      "english_gloss": "zip-top bag"
+      "english_gloss": "zip-top bag",
+      "audio": "自封袋.mp3"
     },
     {
       "hanzi": "购物袋",
@@ -586,7 +632,8 @@
       "english_answers": [
         "shopping bag"
       ],
-      "english_gloss": "shopping bag"
+      "english_gloss": "shopping bag",
+      "audio": "购物袋.mp3"
     },
     {
       "hanzi": "包装袋",
@@ -621,7 +668,8 @@
       "english_answers": [
         "paper bag"
       ],
-      "english_gloss": "paper bag"
+      "english_gloss": "paper bag",
+      "audio": "纸袋.mp3"
     },
     {
       "hanzi": "泡沫塑料",
@@ -629,7 +677,8 @@
       "english_answers": [
         "foam plastic"
       ],
-      "english_gloss": "foam plastic"
+      "english_gloss": "foam plastic",
+      "audio": "泡沫塑料.mp3"
     },
     {
       "hanzi": "气泡膜",
@@ -637,7 +686,8 @@
       "english_answers": [
         "bubble wrap"
       ],
-      "english_gloss": "bubble wrap"
+      "english_gloss": "bubble wrap",
+      "audio": "气泡膜.mp3"
     },
     {
       "hanzi": "封口",
@@ -663,7 +713,8 @@
       "english_answers": [
         "barcode"
       ],
-      "english_gloss": "barcode"
+      "english_gloss": "barcode",
+      "audio": "条形码.mp3"
     },
     {
       "hanzi": "二维码",
@@ -680,7 +731,8 @@
       "english_answers": [
         "instruction manual"
       ],
-      "english_gloss": "instruction manual"
+      "english_gloss": "instruction manual",
+      "audio": "说明书.mp3"
     },
     {
       "hanzi": "保修卡",
@@ -715,7 +767,8 @@
       "english_answers": [
         "clothes hanger"
       ],
-      "english_gloss": "clothes hanger"
+      "english_gloss": "clothes hanger",
+      "audio": "衣架.mp3"
     },
     {
       "hanzi": "晾衣架",
@@ -723,7 +776,8 @@
       "english_answers": [
         "drying rack"
       ],
-      "english_gloss": "drying rack"
+      "english_gloss": "drying rack",
+      "audio": "晾衣架.mp3"
     },
     {
       "hanzi": "储物柜",
@@ -767,7 +821,8 @@
       "english_answers": [
         "compartment / shelf layer"
       ],
-      "english_gloss": "compartment / shelf layer"
+      "english_gloss": "compartment / shelf layer",
+      "audio": "隔层.mp3"
     },
     {
       "hanzi": "托盘",
@@ -784,7 +839,8 @@
       "english_answers": [
         "rack / shelf / stand"
       ],
-      "english_gloss": "rack / shelf / stand"
+      "english_gloss": "rack / shelf / stand",
+      "audio": "架子.mp3"
     },
     {
       "hanzi": "盒盖",
@@ -792,7 +848,8 @@
       "english_answers": [
         "box lid"
       ],
-      "english_gloss": "box lid"
+      "english_gloss": "box lid",
+      "audio": "盒盖.mp3"
     },
     {
       "hanzi": "绳子",
@@ -800,7 +857,8 @@
       "english_answers": [
         "rope / cord"
       ],
-      "english_gloss": "rope / cord"
+      "english_gloss": "rope / cord",
+      "audio": "绳子.mp3"
     },
     {
       "hanzi": "橡皮筋",
@@ -808,7 +866,8 @@
       "english_answers": [
         "rubber band"
       ],
-      "english_gloss": "rubber band"
+      "english_gloss": "rubber band",
+      "audio": "橡皮筋.mp3"
     },
     {
       "hanzi": "扎带",
@@ -834,7 +893,8 @@
       "english_answers": [
         "placemat"
       ],
-      "english_gloss": "placemat"
+      "english_gloss": "placemat",
+      "audio": "餐垫.mp3"
     },
     {
       "hanzi": "针线盒",
@@ -842,7 +902,8 @@
       "english_answers": [
         "sewing kit box"
       ],
-      "english_gloss": "sewing kit box"
+      "english_gloss": "sewing kit box",
+      "audio": "针线盒.mp3"
     }
   ]
 }
