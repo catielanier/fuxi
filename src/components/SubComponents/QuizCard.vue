@@ -68,23 +68,31 @@ const insertTone = (tone: number): void => {
   if (props.answered || props.isSaving) return
 
   const input = pinyinInputElement.value
+  if (!input) return
 
-  if (!input) {
-    pinyinValue.value += String(tone)
-    return
+  const value = props.pinyinInput
+  const start = input.selectionStart ?? value.length
+  const end = input.selectionEnd ?? start
+  const toneString = String(tone)
+
+  let replaceStart = start
+  let replaceEnd = end
+
+  // Replace an existing tone immediately before the cursor.
+  if (start === end && start > 0 && /[1-4]/.test(value[start - 1] ?? '')) {
+    replaceStart = start - 1
+  }
+  // Replace an existing tone immediately after the cursor.
+  else if (start === end && /[1-4]/.test(value[start] ?? '')) {
+    replaceEnd = start + 1
   }
 
-  const start = input.selectionStart ?? props.pinyinInput.length
-  const end = input.selectionEnd ?? start
-
-  pinyinValue.value =
-    props.pinyinInput.slice(0, start) +
-    String(tone) +
-    props.pinyinInput.slice(end)
+  pinyinValue.value = value.slice(0, replaceStart) + toneString + value.slice(replaceEnd)
 
   void nextTick(() => {
     input.focus()
-    input.setSelectionRange(start + 1, start + 1)
+    const cursorPosition = replaceStart + 1
+    input.setSelectionRange(cursorPosition, cursorPosition)
   })
 }
 
@@ -122,9 +130,7 @@ defineExpose({
 
   <form class="quiz-form" @submit.prevent="handleSubmit">
     <template v-if="stage === 'pinyin'">
-      <label for="pinyin-answer">
-        Enter the Pinyin
-      </label>
+      <label for="pinyin-answer"> Enter the Pinyin </label>
 
       <input
         id="pinyin-answer"
@@ -141,14 +147,15 @@ defineExpose({
 
       <div class="tone-buttons">
         <button
-          v-for="tone in 4"
-          :key="tone"
+          v-for="(mark, index) in ['ā', 'á', 'ǎ', 'à']"
+          :key="index"
           type="button"
           :disabled="answered || isSaving"
+          :aria-label="`Tone ${index + 1}: ${mark}`"
           @pointerdown.prevent
-          @click="insertTone(tone)"
+          @click="insertTone(index + 1)"
         >
-          {{ tone }}
+          <span class="tone-mark">{{ mark }}</span>
         </button>
       </div>
 
@@ -158,9 +165,7 @@ defineExpose({
     </template>
 
     <template v-else>
-      <label for="english-answer">
-        Enter the English meaning
-      </label>
+      <label for="english-answer"> Enter the English meaning </label>
 
       <input
         id="english-answer"
@@ -190,11 +195,7 @@ defineExpose({
       {{ error }}
     </p>
 
-    <button
-      type="submit"
-      class="quiz-submit"
-      :disabled="!canSubmit"
-    >
+    <button type="submit" class="quiz-submit" :disabled="!canSubmit">
       {{ submitLabel }}
     </button>
   </form>
