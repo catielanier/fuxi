@@ -139,7 +139,7 @@
       "hanzi": "笔直",
       "pinyin": "bǐzhí",
       "english_answers": [
-        "straight (not bent)"
+        "straight"
       ],
       "english_gloss": "straight (not bent)",
       "audio": "笔直.mp3"
@@ -388,7 +388,7 @@
       "hanzi": "薄",
       "pinyin": "báo",
       "english_answers": [
-        "thin (material)"
+        "thin"
       ],
       "english_gloss": "thin (material)",
       "audio": "薄.mp3"
@@ -426,7 +426,7 @@
       "hanzi": "轻",
       "pinyin": "qīng",
       "english_answers": [
-        "light (in weight)"
+        "light"
       ],
       "english_gloss": "light (in weight)",
       "audio": "轻.mp3"
@@ -571,7 +571,7 @@
       "hanzi": "粗糙",
       "pinyin": "cūcāo",
       "english_answers": [
-        "rough (texture)"
+        "rough"
       ],
       "english_gloss": "rough (texture)",
       "audio": "粗糙.mp3"
@@ -653,7 +653,7 @@
       "hanzi": "锋利",
       "pinyin": "fēnglì",
       "english_answers": [
-        "sharp (blade)"
+        "sharp"
       ],
       "english_gloss": "sharp (blade)",
       "audio": "锋利.mp3"
@@ -663,7 +663,7 @@
       "pinyin": "dùn",
       "english_answers": [
         "blunt",
-        "dull (blade)"
+        "dull"
       ],
       "english_gloss": "blunt / dull (blade)",
       "audio": "钝.mp3"
@@ -721,7 +721,7 @@
       "hanzi": "实心",
       "pinyin": "shíxīn",
       "english_answers": [
-        "solid (not hollow)"
+        "solid"
       ],
       "english_gloss": "solid (not hollow)",
       "audio": "实心.mp3"
@@ -904,7 +904,7 @@
       "hanzi": "摸起来",
       "pinyin": "mō qǐlái",
       "english_answers": [
-        "to feel (to the touch)"
+        "to feel"
       ],
       "english_gloss": "to feel (to the touch)",
       "audio": "摸起来.mp3"

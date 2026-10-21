@@ -18,7 +18,7 @@
       "hanzi": "生理性别",
       "pinyin": "shēnglǐ xìngbié",
       "english_answers": [
-        "biological sex (context-dependent)"
+        "biological sex"
       ],
       "english_gloss": "biological sex (context-dependent)",
       "audio": "生理性别.mp3"
@@ -110,7 +110,7 @@
       "pinyin": "yǐnshēn",
       "english_answers": [
         "remain undisclosed",
-        "stealth (community)"
+        "stealth"
       ],
       "english_gloss": "remain undisclosed / stealth (community)",
       "audio": "隐身.mp3"
@@ -209,7 +209,7 @@
       "hanzi": "荷尔蒙",
       "pinyin": "hé'ěrméng",
       "english_answers": [
-        "hormones (borrowed term)"
+        "hormones"
       ],
       "english_gloss": "hormones (borrowed term)",
       "audio": "荷尔蒙.mp3"
@@ -429,7 +429,7 @@
       "pinyin": "liāo",
       "english_answers": [
         "flirt",
-        "make a move (slang)"
+        "make a move"
       ],
       "english_gloss": "flirt / make a move (slang)",
       "audio": "撩.mp3"
@@ -605,7 +605,7 @@
       "hanzi": "直男",
       "pinyin": "zhínán",
       "english_answers": [
-        "straight man (slang)"
+        "straight man"
       ],
       "english_gloss": "straight man (slang)",
       "audio": "直男.mp3"
@@ -614,7 +614,7 @@
       "hanzi": "直女",
       "pinyin": "zhínǚ",
       "english_answers": [
-        "straight woman (slang)"
+        "straight woman"
       ],
       "english_gloss": "straight woman (slang)",
       "audio": "直女.mp3"
@@ -624,7 +624,7 @@
       "pinyin": "wān de",
       "english_answers": [
         "gay",
-        "not straight (slang)"
+        "not straight"
       ],
       "english_gloss": "gay / not straight (slang)",
       "audio": "弯的.mp3"
@@ -634,7 +634,7 @@
       "pinyin": "zhí de",
       "english_answers": [
         "straight",
-        "heterosexual (slang)"
+        "heterosexual"
       ],
       "english_gloss": "straight / heterosexual (slang)",
       "audio": "直的.mp3"
@@ -643,7 +643,7 @@
       "hanzi": "双",
       "pinyin": "shuāng",
       "english_answers": [
-        "bisexual (shorthand; context-dependent)"
+        "bisexual"
       ],
       "english_gloss": "bisexual (shorthand; context-dependent)",
       "audio": "双.mp3"
@@ -652,8 +652,7 @@
       "hanzi": "姬",
       "pinyin": "jī",
       "english_answers": [
-        "lesbian (community",
-        "internet slang)"
+        "lesbian"
       ],
       "english_gloss": "lesbian (community / internet slang)",
       "audio": "姬.mp3"
@@ -662,7 +661,7 @@
       "hanzi": "基佬",
       "pinyin": "jīlǎo",
       "english_answers": [
-        "gay man (can be derogatory)"
+        "gay man"
       ],
       "english_gloss": "gay man (can be derogatory)",
       "audio": "基佬.mp3"
@@ -672,7 +671,7 @@
       "pinyin": "nántóng",
       "english_answers": [
         "gay man",
-        "male homosexuality (short)"
+        "male homosexuality"
       ],
       "english_gloss": "gay man / male homosexuality (short)",
       "audio": "男同.mp3"
@@ -682,7 +681,7 @@
       "pinyin": "nǚtóng",
       "english_answers": [
         "lesbian",
-        "female homosexuality (short)"
+        "female homosexuality"
       ],
       "english_gloss": "lesbian / female homosexuality (short)",
       "audio": "女同.mp3"
@@ -701,7 +700,7 @@
       "pinyin": "jīquān",
       "english_answers": [
         "lesbian community",
-        "scene (slang)"
+        "scene"
       ],
       "english_gloss": "lesbian community / scene (slang)",
       "audio": "姬圈.mp3"
@@ -710,7 +709,7 @@
       "hanzi": "嗑CP",
       "pinyin": "kē CP",
       "english_answers": [
-        "ship a couple (internet slang)"
+        "ship a couple"
       ],
       "english_gloss": "ship a couple (internet slang)",
       "audio": "嗑CP.mp3"

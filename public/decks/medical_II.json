@@ -19,8 +19,7 @@
       "hanzi": "疼痛",
       "pinyin": "téngtòng",
       "english_answers": [
-        "pain (general",
-        "medical)"
+        "pain"
       ],
       "english_gloss": "pain (general / medical)",
       "audio": "疼痛.mp3"
@@ -385,7 +384,7 @@
       "hanzi": "腹泻",
       "pinyin": "fùxiè",
       "english_answers": [
-        "diarrhea (formal)"
+        "diarrhea"
       ],
       "english_gloss": "diarrhea (formal)",
       "audio": "腹泻.mp3"
@@ -394,7 +393,7 @@
       "hanzi": "拉肚子",
       "pinyin": "lā dùzi",
       "english_answers": [
-        "have diarrhea (colloquial)"
+        "have diarrhea"
       ],
       "english_gloss": "have diarrhea (colloquial)",
       "audio": "拉肚子.mp3"
@@ -442,7 +441,7 @@
       "pinyin": "dǎgé",
       "english_answers": [
         "hiccup",
-        "burp (context-dependent)"
+        "burp"
       ],
       "english_gloss": "hiccup / burp (context-dependent)",
       "audio": "打嗝.mp3"
@@ -853,7 +852,7 @@
       "pinyin": "huǎnjiě",
       "english_answers": [
         "ease",
-        "relieve (symptoms)"
+        "relieve"
       ],
       "english_gloss": "ease / relieve (symptoms)",
       "audio": "缓解.mp3"

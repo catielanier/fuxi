@@ -200,7 +200,7 @@
       "hanzi": "耳鼻喉科",
       "pinyin": "ěrbíhóukē",
       "english_answers": [
-        "ear nose and throat (ENT)"
+        "ear nose and throat"
       ],
       "english_gloss": "ear nose and throat (ENT)",
       "audio": "耳鼻喉科.mp3"
@@ -309,7 +309,7 @@
       "hanzi": "血常规",
       "pinyin": "xuè chángguī",
       "english_answers": [
-        "complete blood count (CBC)"
+        "complete blood count"
       ],
       "english_gloss": "complete blood count (CBC)",
       "audio": "血常规.mp3"
@@ -438,7 +438,7 @@
       "hanzi": "B超",
       "pinyin": "B chāo",
       "english_answers": [
-        "ultrasound scan (colloquial)"
+        "ultrasound scan"
       ],
       "english_gloss": "ultrasound scan (colloquial)",
       "audio": "B超.mp3"
@@ -474,7 +474,7 @@
       "hanzi": "心电图",
       "pinyin": "xīndiàntú",
       "english_answers": [
-        "electrocardiogram (ECG)"
+        "electrocardiogram"
       ],
       "english_gloss": "electrocardiogram (ECG)",
       "audio": "心电图.mp3"
@@ -796,7 +796,7 @@
       "hanzi": "打针",
       "pinyin": "dǎzhēn",
       "english_answers": [
-        "get an injection (colloquial)"
+        "get an injection"
       ],
       "english_gloss": "get an injection (colloquial)",
       "audio": "打针.mp3"
@@ -825,7 +825,7 @@
       "pinyin": "féngzhēn",
       "english_answers": [
         "stitches",
-        "sutures (colloquial)"
+        "sutures"
       ],
       "english_gloss": "stitches / sutures (colloquial)",
       "audio": "缝针.mp3"

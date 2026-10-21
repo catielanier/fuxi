@@ -10,7 +10,7 @@
       "pinyin": "xìngbié",
       "english_answers": [
         "gender",
-        "sex (depending on context)"
+        "sex"
       ],
       "english_gloss": "gender / sex (depending on context)",
       "audio": "性别.mp3"
@@ -105,7 +105,7 @@
       "hanzi": "酷儿",
       "pinyin": "kù'ér",
       "english_answers": [
-        "queer (reclaimed identity)"
+        "queer"
       ],
       "english_gloss": "queer (reclaimed identity)",
       "audio": "酷儿.mp3"
@@ -177,7 +177,7 @@
       "hanzi": "拉拉",
       "pinyin": "lālā",
       "english_answers": [
-        "lesbian (community slang)"
+        "lesbian"
       ],
       "english_gloss": "lesbian (community slang)",
       "audio": "拉拉.mp3"
@@ -186,7 +186,7 @@
       "hanzi": "同志",
       "pinyin": "tóngzhì",
       "english_answers": [
-        "LGBTQ+/gay (community usage); also 'comrade'"
+        "LGBTQ+/gay; also 'comrade'"
       ],
       "english_gloss": "LGBTQ+/gay (community usage); also 'comrade'",
       "audio": "同志.mp3"
@@ -213,7 +213,7 @@
       "hanzi": "跨女",
       "pinyin": "kuànǚ",
       "english_answers": [
-        "trans woman (community shorthand)"
+        "trans woman"
       ],
       "english_gloss": "trans woman (community shorthand)",
       "audio": "跨女.mp3"
@@ -222,7 +222,7 @@
       "hanzi": "跨男",
       "pinyin": "kuànán",
       "english_answers": [
-        "trans man (community shorthand)"
+        "trans man"
       ],
       "english_gloss": "trans man (community shorthand)",
       "audio": "跨男.mp3"
@@ -231,7 +231,7 @@
       "hanzi": "性别焦虑",
       "pinyin": "xìngbié jiāolǜ",
       "english_answers": [
-        "gender dysphoria (commonly used; clinical usage may vary)"
+        "gender dysphoria"
       ],
       "english_gloss": "gender dysphoria (commonly used; clinical usage may vary)",
       "audio": "性别焦虑.mp3"
@@ -241,7 +241,7 @@
       "pinyin": "xìngbié bù'ān",
       "english_answers": [
         "gender incongruence",
-        "gender-related distress (context-dependent)"
+        "gender-related distress"
       ],
       "english_gloss": "gender incongruence / gender-related distress (context-dependent)",
       "audio": "性别不安.mp3"
@@ -368,7 +368,7 @@
       "pinyin": "biànxìngrén",
       "english_answers": [
         "transsexual",
-        "trans person (older, often insensitive; context matters)"
+        "trans person"
       ],
       "english_gloss": "transsexual / trans person (older, often insensitive; context matters)",
       "audio": "变性人.mp3"
@@ -451,7 +451,7 @@
       "pinyin": "tā",
       "english_answers": [
         "she",
-        "her (written)"
+        "her"
       ],
       "english_gloss": "she / her (written)",
       "audio": "她.mp3"
@@ -461,7 +461,7 @@
       "pinyin": "tā",
       "english_answers": [
         "he",
-        "him (written)"
+        "him"
       ],
       "english_gloss": "he / him (written)",
       "audio": "他.mp3"
@@ -595,7 +595,7 @@
       "hanzi": "对象",
       "pinyin": "duìxiàng",
       "english_answers": [
-        "romantic partner (colloquial)"
+        "romantic partner"
       ],
       "english_gloss": "romantic partner (colloquial)",
       "audio": "对象.mp3"
@@ -745,7 +745,7 @@
       "pinyin": "tóngyì",
       "english_answers": [
         "consent",
-        "agree (context-dependent)"
+        "agree"
       ],
       "english_gloss": "consent / agree (context-dependent)",
       "audio": "同意.mp3"
@@ -849,7 +849,7 @@
       "pinyin": "kǒngtóng",
       "english_answers": [
         "homophobic",
-        "homophobia (shorthand)"
+        "homophobia"
       ],
       "english_gloss": "homophobic / homophobia (shorthand)",
       "audio": "恐同.mp3"
@@ -859,7 +859,7 @@
       "pinyin": "kǒngkuà",
       "english_answers": [
         "transphobic",
-        "transphobia (shorthand)"
+        "transphobia"
       ],
       "english_gloss": "transphobic / transphobia (shorthand)",
       "audio": "恐跨.mp3"
@@ -905,7 +905,7 @@
       "hanzi": "腐女",
       "pinyin": "fǔnǚ",
       "english_answers": [
-        "female fan of male/male romance (fandom slang)"
+        "female fan of male/male romance"
       ],
       "english_gloss": "female fan of male/male romance (fandom slang)",
       "audio": "腐女.mp3"
@@ -915,7 +915,7 @@
       "pinyin": "bǎihé",
       "english_answers": [
         "girls' love",
-        "female-female romance (media slang)"
+        "female-female romance"
       ],
       "english_gloss": "girls' love / female-female romance (media slang)",
       "audio": "百合.mp3"
@@ -935,7 +935,7 @@
       "pinyin": "niángniangqiāng",
       "english_answers": [
         "effeminate man",
-        "sissy (derogatory)"
+        "sissy"
       ],
       "english_gloss": "effeminate man / sissy (derogatory)",
       "audio": "娘娘腔.mp3"

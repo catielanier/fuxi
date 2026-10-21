@@ -290,7 +290,7 @@
       "pinyin": "xiǎngyìngshì",
       "english_answers": [
         "reactive",
-        "responsive (by context)"
+        "responsive"
       ],
       "english_gloss": "reactive / responsive (by context)",
       "audio": "响应式.mp3"
@@ -609,7 +609,7 @@
       "hanzi": "拉取请求",
       "pinyin": "lāqǔ qǐngqiú",
       "english_answers": [
-        "pull request (translated term)"
+        "pull request"
       ],
       "english_gloss": "pull request (translated term)",
       "audio": "拉取请求.mp3"
@@ -755,7 +755,7 @@
       "hanzi": "构建",
       "pinyin": "gòujiàn",
       "english_answers": [
-        "build (software)"
+        "build"
       ],
       "english_gloss": "build (software)",
       "audio": "构建.mp3"
