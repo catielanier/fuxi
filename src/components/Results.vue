@@ -51,33 +51,19 @@ const activeResultId = computed(() => {
   return typeof id === 'string' ? id : undefined
 })
 
-const totalCards = computed(
-  () => result.value?.totalCards ?? 0,
-)
+const totalCards = computed(() => result.value?.totalCards ?? 0)
 
-const totalPoints = computed(
-  () => totalCards.value * 2,
-)
+const totalPoints = computed(() => totalCards.value * 2)
 
 const correctPinyin = computed(
-  () =>
-    result.value?.results.reduce(
-      (total, card) => total + Number(card.pinyin.correct),
-      0,
-    ) ?? 0,
+  () => result.value?.results.reduce((total, card) => total + Number(card.pinyin.correct), 0) ?? 0,
 )
 
 const correctEnglish = computed(
-  () =>
-    result.value?.results.reduce(
-      (total, card) => total + Number(card.english.correct),
-      0,
-    ) ?? 0,
+  () => result.value?.results.reduce((total, card) => total + Number(card.english.correct), 0) ?? 0,
 )
 
-const score = computed(
-  () => correctPinyin.value + correctEnglish.value,
-)
+const score = computed(() => correctPinyin.value + correctEnglish.value)
 
 const percentage = computed(() => {
   if (!totalPoints.value) return 0
@@ -87,28 +73,22 @@ const percentage = computed(() => {
 
 const correctCards = computed(
   () =>
-    result.value?.results.filter(
-      (card) => card.pinyin.correct && card.english.correct,
-    ).length ?? 0,
+    result.value?.results.filter((card) => card.pinyin.correct && card.english.correct).length ?? 0,
 )
 
 const partialCards = computed(
   () =>
-    result.value?.results.filter(
-      (card) => card.pinyin.correct !== card.english.correct,
-    ).length ?? 0,
+    result.value?.results.filter((card) => card.pinyin.correct !== card.english.correct).length ??
+    0,
 )
 
 const incorrectCards = computed(
   () =>
-    result.value?.results.filter(
-      (card) => !card.pinyin.correct && !card.english.correct,
-    ).length ?? 0,
+    result.value?.results.filter((card) => !card.pinyin.correct && !card.english.correct).length ??
+    0,
 )
 
-const sortedResults = computed<QuizCardResult[]>(() =>
-  result.value?.results ?? [],
-)
+const sortedResults = computed<QuizCardResult[]>(() => result.value?.results ?? [])
 
 const formatDate = (date: string): string =>
   new Intl.DateTimeFormat('en-CA', {
@@ -116,18 +96,14 @@ const formatDate = (date: string): string =>
     timeStyle: 'short',
   }).format(new Date(date))
 
-const getVocabularyCard = (
-  card: QuizCardResult,
-): VocabularyCard | undefined => {
+const getVocabularyCard = (card: QuizCardResult): VocabularyCard | undefined => {
   const indexedCard = vocabularyCards.value[card.cardIndex]
 
   if (indexedCard?.hanzi === card.hanzi) {
     return indexedCard
   }
 
-  return vocabularyCards.value.find(
-    (vocabularyCard) => vocabularyCard.hanzi === card.hanzi,
-  )
+  return vocabularyCards.value.find((vocabularyCard) => vocabularyCard.hanzi === card.hanzi)
 }
 
 const getAudioUrl = (card: QuizCardResult): string | null => {
@@ -150,9 +126,7 @@ const stopAudio = (): void => {
 }
 
 const playAudio = async (cardIndex: number): Promise<void> => {
-  const card = result.value?.results.find(
-    (item) => item.cardIndex === cardIndex,
-  )
+  const card = result.value?.results.find((item) => item.cardIndex === cardIndex)
 
   if (!card || !audioPlayer) return
 
@@ -160,10 +134,7 @@ const playAudio = async (cardIndex: number): Promise<void> => {
 
   if (!url) return
 
-  if (
-    playingCardIndex.value === cardIndex &&
-    !audioPlayer.paused
-  ) {
+  if (playingCardIndex.value === cardIndex && !audioPlayer.paused) {
     stopAudio()
     return
   }
@@ -197,17 +168,12 @@ const handleAudioError = (): void => {
   playingCardIndex.value = null
 }
 
-const loadVocabulary = async (
-  deckId: string,
-  version: number,
-): Promise<void> => {
+const loadVocabulary = async (deckId: string, version: number): Promise<void> => {
   isVocabularyLoading.value = true
   vocabularyCards.value = []
 
   try {
-    const manifestResponse = await fetch(
-      `${import.meta.env.BASE_URL}deck-manifest.json`,
-    )
+    const manifestResponse = await fetch(`${import.meta.env.BASE_URL}deck-manifest.json`)
 
     if (!manifestResponse.ok) {
       throw new Error('Unable to load deck manifest.')
@@ -215,26 +181,39 @@ const loadVocabulary = async (
 
     const manifest: DeckManifest = await manifestResponse.json()
 
-    const deck = manifest.decks.find(
-      (item) => item.id === deckId,
-    )
+    const deck = manifest.decks.find((item) => item.id === deckId)
 
     if (!deck) {
       throw new Error(`Deck not found: ${deckId}`)
     }
 
-    const vocabularyResponse = await fetch(
-      `${import.meta.env.BASE_URL}decks/${deck.filename}`,
-    )
+    // Normalize the path to avoid duplicating "decks/".
+    const relativePath = deck.filename.replace(/^\/+/, '')
+
+    const deckPath = relativePath.startsWith('decks/') ? relativePath : `decks/${relativePath}`
+
+    const vocabularyResponse = await fetch(`${import.meta.env.BASE_URL}${deckPath}`)
 
     if (!vocabularyResponse.ok) {
-      throw new Error('Unable to load vocabulary.')
+      throw new Error(`Unable to load vocabulary: ${deckPath}`)
     }
 
-    const vocabulary: VocabularyDeck =
-      await vocabularyResponse.json()
+    // Detect unexpected HTML responses before attempting JSON parsing.
+    const contentType = vocabularyResponse.headers.get('content-type') ?? ''
+
+    if (!contentType.includes('application/json')) {
+      throw new Error(
+        `Expected JSON but received ${contentType || 'unknown content type'} from ${deckPath}`,
+      )
+    }
+
+    const vocabulary: VocabularyDeck = await vocabularyResponse.json()
 
     if (version !== requestVersion) return
+
+    if (vocabulary.id !== deck.id) {
+      throw new Error('Deck ID does not match its manifest.')
+    }
 
     vocabularyCards.value = vocabulary.cards
   } catch (err) {
@@ -270,10 +249,7 @@ const loadResult = async (): Promise<void> => {
         throw new Error('Please log in to view this result.')
       }
 
-      const resultRef = dbRef(
-        db,
-        `users/${currentUser.value.uid}/results/${activeResultId.value}`,
-      )
+      const resultRef = dbRef(db, `users/${currentUser.value.uid}/results/${activeResultId.value}`)
 
       const snapshot = await get(resultRef)
 
@@ -299,24 +275,18 @@ const loadResult = async (): Promise<void> => {
   } catch (err) {
     if (version !== requestVersion) return
 
-    error.value =
-      err instanceof Error
-        ? err.message
-        : 'Unable to load results.'
+    error.value = err instanceof Error ? err.message : 'Unable to load results.'
 
     isLoading.value = false
     isVocabularyLoading.value = false
   }
 }
 
-watch(
-  [authReady, currentUser, activeResultId, () => props.result],
-  () => {
-    if (!authReady.value) return
+watch([authReady, currentUser, activeResultId, () => props.result], () => {
+  if (!authReady.value) return
 
-    void loadResult()
-  },
-)
+  void loadResult()
+})
 
 onMounted(() => {
   audioPlayer = new Audio()
@@ -362,9 +332,7 @@ onUnmounted(() => {
     <section class="content-container results-page">
       <h3><span>复习结果</span> · Results</h3>
 
-      <p v-if="isLoading" role="status">
-        Loading results...
-      </p>
+      <p v-if="isLoading" role="status">Loading results...</p>
 
       <p v-else-if="error" role="alert" class="results-error">
         {{ error }}
@@ -375,9 +343,7 @@ onUnmounted(() => {
           <div>
             <h4>{{ result.deckTitle }}</h4>
 
-            <p>
-              Completed {{ formatDate(result.completedAt) }}
-            </p>
+            <p>Completed {{ formatDate(result.completedAt) }}</p>
           </div>
 
           <RouterLink
@@ -395,28 +361,20 @@ onUnmounted(() => {
           <div class="score-primary">
             <span class="score-label">Your Score</span>
 
-            <strong class="score-percentage">
-              {{ percentage.toFixed(1) }}%
-            </strong>
+            <strong class="score-percentage"> {{ percentage.toFixed(1) }}% </strong>
 
-            <span class="score-points">
-              {{ score }} / {{ totalPoints }} points
-            </span>
+            <span class="score-points"> {{ score }} / {{ totalPoints }} points </span>
           </div>
 
           <div class="score-breakdown">
             <div class="score-stat">
               <span>Pinyin Correct</span>
-              <strong>
-                {{ correctPinyin }} / {{ totalCards }}
-              </strong>
+              <strong> {{ correctPinyin }} / {{ totalCards }} </strong>
             </div>
 
             <div class="score-stat">
               <span>English Correct</span>
-              <strong>
-                {{ correctEnglish }} / {{ totalCards }}
-              </strong>
+              <strong> {{ correctEnglish }} / {{ totalCards }} </strong>
             </div>
           </div>
         </div>
@@ -441,9 +399,7 @@ onUnmounted(() => {
         <div class="results-list-heading">
           <h4>Vocabulary Review</h4>
 
-          <p v-if="isVocabularyLoading" role="status">
-            Loading pronunciation files...
-          </p>
+          <p v-if="isVocabularyLoading" role="status">Loading pronunciation files...</p>
         </div>
 
         <div class="results-grid">
@@ -459,15 +415,9 @@ onUnmounted(() => {
         </div>
 
         <div class="results-actions">
-          <RouterLink to="/decks" class="back-button">
-            Back to Decks
-          </RouterLink>
+          <RouterLink to="/decks" class="back-button"> Back to Decks </RouterLink>
 
-          <RouterLink
-            v-if="currentUser"
-            to="/history"
-            class="back-button"
-          >
+          <RouterLink v-if="currentUser" to="/history" class="back-button">
             View History
           </RouterLink>
         </div>
