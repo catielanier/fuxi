@@ -7,7 +7,7 @@
   "cards": [
     {
       "hanzi": "有感觉",
-      "pinyin": "yǒu gǎnjué",
+      "pinyin": "yǒugǎnjué",
       "english_answers": [
         "feel chemistry",
         "feel something"
@@ -17,7 +17,7 @@
     },
     {
       "hanzi": "来电",
-      "pinyin": "lái diàn",
+      "pinyin": "láidiàn",
       "english_answers": [
         "feel a spark",
         "click romantically"
@@ -27,7 +27,7 @@
     },
     {
       "hanzi": "擦出火花",
-      "pinyin": "cā chū huǒhuā",
+      "pinyin": "cāchūhuǒhuā",
       "english_answers": [
         "spark chemistry",
         "hit it off"
@@ -37,7 +37,7 @@
     },
     {
       "hanzi": "气氛到了",
-      "pinyin": "qìfēn dào le",
+      "pinyin": "qìfēndàole",
       "english_answers": [
         "the mood is right"
       ],
@@ -46,7 +46,7 @@
     },
     {
       "hanzi": "有那个意思",
-      "pinyin": "yǒu nàge yìsi",
+      "pinyin": "yǒunàgeyìsi",
       "english_answers": [
         "have that kind of intention",
         "suggestive"
@@ -104,7 +104,7 @@
     },
     {
       "hanzi": "欲擒故纵",
-      "pinyin": "yù qín gù zòng",
+      "pinyin": "yùqíngùzòng",
       "english_answers": [
         "play hard to get"
       ],
@@ -122,7 +122,7 @@
     },
     {
       "hanzi": "会撩",
-      "pinyin": "huì liáo",
+      "pinyin": "huìliáo",
       "english_answers": [
         "good at flirting"
       ],
@@ -131,7 +131,7 @@
     },
     {
       "hanzi": "土味情话",
-      "pinyin": "tǔwèi qínghuà",
+      "pinyin": "tǔwèiqínghuà",
       "english_answers": [
         "cheesy pickup line"
       ],
@@ -140,7 +140,7 @@
     },
     {
       "hanzi": "打情骂俏",
-      "pinyin": "dǎqíng màqiào",
+      "pinyin": "dǎqíngmàqiào",
       "english_answers": [
         "flirt and banter"
       ],
@@ -149,7 +149,7 @@
     },
     {
       "hanzi": "眉来眼去",
-      "pinyin": "méi lái yǎn qù",
+      "pinyin": "méiláiyǎnqù",
       "english_answers": [
         "exchange flirtatious glances"
       ],
@@ -158,7 +158,7 @@
     },
     {
       "hanzi": "眼神交流",
-      "pinyin": "yǎnshén jiāoliú",
+      "pinyin": "yǎnshénjiāoliú",
       "english_answers": [
         "eye contact"
       ],
@@ -167,7 +167,7 @@
     },
     {
       "hanzi": "主动一点",
-      "pinyin": "zhǔdòng yìdiǎn",
+      "pinyin": "zhǔdòngyìdiǎn",
       "english_answers": [
         "take a little more initiative"
       ],
@@ -176,7 +176,7 @@
     },
     {
       "hanzi": "这样可以吗？",
-      "pinyin": "Zhèyàng kěyǐ ma?",
+      "pinyin": "Zhèyàngkěyǐma?",
       "english_answers": [
         "Is this okay?"
       ],
@@ -185,7 +185,7 @@
     },
     {
       "hanzi": "你舒服吗？",
-      "pinyin": "Nǐ shūfu ma?",
+      "pinyin": "Nǐshūfuma?",
       "english_answers": [
         "Are you comfortable?"
       ],
@@ -194,7 +194,7 @@
     },
     {
       "hanzi": "先停一下。",
-      "pinyin": "Xiān tíng yíxià.",
+      "pinyin": "Xiāntíngyíxià.",
       "english_answers": [
         "Let's pause for a moment."
       ],
@@ -203,7 +203,7 @@
     },
     {
       "hanzi": "我想缓一缓。",
-      "pinyin": "Wǒ xiǎng huǎn yi huǎn.",
+      "pinyin": "Wǒxiǎnghuǎnyihuǎn.",
       "english_answers": [
         "I need a moment."
       ],
@@ -212,7 +212,7 @@
     },
     {
       "hanzi": "我不想继续。",
-      "pinyin": "Wǒ bù xiǎng jìxù.",
+      "pinyin": "Wǒbùxiǎngjìxù.",
       "english_answers": [
         "I don't want to continue."
       ],
@@ -221,7 +221,7 @@
     },
     {
       "hanzi": "我们换个方式吧。",
-      "pinyin": "Wǒmen huàn ge fāngshì ba.",
+      "pinyin": "Wǒmenhuàngefāngshìba.",
       "english_answers": [
         "Let's try a different way."
       ],
@@ -230,7 +230,7 @@
     },
     {
       "hanzi": "我喜欢这样。",
-      "pinyin": "Wǒ xǐhuan zhèyàng.",
+      "pinyin": "Wǒxǐhuanzhèyàng.",
       "english_answers": [
         "I like it this way."
       ],
@@ -239,7 +239,7 @@
     },
     {
       "hanzi": "再靠近一点。",
-      "pinyin": "Zài kàojìn yìdiǎn.",
+      "pinyin": "Zàikàojìnyìdiǎn.",
       "english_answers": [
         "Come a little closer."
       ],
@@ -248,7 +248,7 @@
     },
     {
       "hanzi": "抱紧一点。",
-      "pinyin": "Bào jǐn yìdiǎn.",
+      "pinyin": "Bàojǐnyìdiǎn.",
       "english_answers": [
         "Hold me a bit tighter."
       ],
@@ -257,7 +257,7 @@
     },
     {
       "hanzi": "别闹。",
-      "pinyin": "Bié nào.",
+      "pinyin": "Biénào.",
       "english_answers": [
         "Stop teasing",
         "cut it out"
@@ -267,7 +267,7 @@
     },
     {
       "hanzi": "坏坏的",
-      "pinyin": "huài huài de",
+      "pinyin": "huàihuàide",
       "english_answers": [
         "naughty",
         "mischievous"
@@ -277,7 +277,7 @@
     },
     {
       "hanzi": "小坏蛋",
-      "pinyin": "xiǎo huàidàn",
+      "pinyin": "xiǎohuàidàn",
       "english_answers": [
         "you little rascal"
       ],
@@ -306,7 +306,7 @@
     },
     {
       "hanzi": "黄段子",
-      "pinyin": "huáng duànzi",
+      "pinyin": "huángduànzi",
       "english_answers": [
         "dirty joke"
       ],
@@ -315,7 +315,7 @@
     },
     {
       "hanzi": "开黄腔",
-      "pinyin": "kāi huángqiāng",
+      "pinyin": "kāihuángqiāng",
       "english_answers": [
         "make sexual jokes"
       ],
@@ -324,7 +324,7 @@
     },
     {
       "hanzi": "荤段子",
-      "pinyin": "hūn duànzi",
+      "pinyin": "hūnduànzi",
       "english_answers": [
         "risqué joke"
       ],
@@ -333,7 +333,7 @@
     },
     {
       "hanzi": "少儿不宜",
-      "pinyin": "shào'ér bù yí",
+      "pinyin": "shào'érbùyí",
       "english_answers": [
         "not suitable for children"
       ],
@@ -342,7 +342,7 @@
     },
     {
       "hanzi": "尺度很大",
-      "pinyin": "chǐdù hěn dà",
+      "pinyin": "chǐdùhěndà",
       "english_answers": [
         "very explicit",
         "pushes boundaries"
@@ -371,7 +371,7 @@
     },
     {
       "hanzi": "车速太快",
-      "pinyin": "chēsù tài kuài",
+      "pinyin": "chēsùtàikuài",
       "english_answers": [
         "things got suggestive fast"
       ],
@@ -380,7 +380,7 @@
     },
     {
       "hanzi": "上高速",
-      "pinyin": "shàng gāosù",
+      "pinyin": "shànggāosù",
       "english_answers": [
         "turn very suggestive"
       ],
@@ -389,7 +389,7 @@
     },
     {
       "hanzi": "想歪了",
-      "pinyin": "xiǎng wāi le",
+      "pinyin": "xiǎngwāile",
       "english_answers": [
         "took it in a dirty direction"
       ],
@@ -398,7 +398,7 @@
     },
     {
       "hanzi": "别想歪了。",
-      "pinyin": "Bié xiǎng wāi le.",
+      "pinyin": "Biéxiǎngwāile.",
       "english_answers": [
         "Don't take it the wrong way."
       ],
@@ -407,7 +407,7 @@
     },
     {
       "hanzi": "有点露骨",
-      "pinyin": "yǒudiǎn lùgǔ",
+      "pinyin": "yǒudiǎnlùgǔ",
       "english_answers": [
         "a bit explicit",
         "too revealing"
@@ -417,7 +417,7 @@
     },
     {
       "hanzi": "多人性行为",
-      "pinyin": "duō rén xìng xíngwéi",
+      "pinyin": "duōrénxìngxíngwéi",
       "english_answers": [
         "sexual activity involving multiple people"
       ],
@@ -426,7 +426,7 @@
     },
     {
       "hanzi": "群体性爱",
-      "pinyin": "qúntǐ xìng'ài",
+      "pinyin": "qúntǐxìng'ài",
       "english_answers": [
         "group sexual activity"
       ],
@@ -445,7 +445,7 @@
     },
     {
       "hanzi": "换伴侣",
-      "pinyin": "huàn bànlǚ",
+      "pinyin": "huànbànlǚ",
       "english_answers": [
         "switch partners"
       ],
@@ -454,7 +454,7 @@
     },
     {
       "hanzi": "开放式关系",
-      "pinyin": "kāifàng shì guānxì",
+      "pinyin": "kāifàngshìguānxì",
       "english_answers": [
         "open relationship"
       ],
@@ -463,7 +463,7 @@
     },
     {
       "hanzi": "多元之爱",
-      "pinyin": "duōyuán zhī ài",
+      "pinyin": "duōyuánzhīài",
       "english_answers": [
         "polyamory"
       ],
@@ -472,7 +472,7 @@
     },
     {
       "hanzi": "多伴侣关系",
-      "pinyin": "duō bànlǚ guānxì",
+      "pinyin": "duōbànlǚguānxì",
       "english_answers": [
         "multi-partner relationship"
       ],
@@ -481,7 +481,7 @@
     },
     {
       "hanzi": "非一夫一妻制",
-      "pinyin": "fēi yì fū yì qī zhì",
+      "pinyin": "fēiyìfūyìqīzhì",
       "english_answers": [
         "non-monogamy"
       ],
@@ -490,7 +490,7 @@
     },
     {
       "hanzi": "一夜情",
-      "pinyin": "yí yè qíng",
+      "pinyin": "yíyèqíng",
       "english_answers": [
         "one-night stand"
       ],
@@ -528,7 +528,7 @@
     },
     {
       "hanzi": "性伴侣",
-      "pinyin": "xìng bànlǚ",
+      "pinyin": "xìngbànlǚ",
       "english_answers": [
         "sexual partner"
       ],
@@ -537,7 +537,7 @@
     },
     {
       "hanzi": "亲密伴侣",
-      "pinyin": "qīnmì bànlǚ",
+      "pinyin": "qīnmìbànlǚ",
       "english_answers": [
         "intimate partner"
       ],
@@ -546,7 +546,7 @@
     },
     {
       "hanzi": "性关系",
-      "pinyin": "xìng guānxì",
+      "pinyin": "xìngguānxì",
       "english_answers": [
         "sexual relationship",
         "sexual relations"
@@ -556,7 +556,7 @@
     },
     {
       "hanzi": "发生性关系",
-      "pinyin": "fāshēng xìng guānxì",
+      "pinyin": "fāshēngxìngguānxì",
       "english_answers": [
         "have sexual relations"
       ],
@@ -575,7 +575,7 @@
     },
     {
       "hanzi": "上床",
-      "pinyin": "shàng chuáng",
+      "pinyin": "shàngchuáng",
       "english_answers": [
         "go to bed",
         "have sex"
@@ -641,7 +641,7 @@
     },
     {
       "hanzi": "性高潮",
-      "pinyin": "xìng gāocháo",
+      "pinyin": "xìnggāocháo",
       "english_answers": [
         "sexual orgasm"
       ],
@@ -736,7 +736,7 @@
     },
     {
       "hanzi": "亲密接触",
-      "pinyin": "qīnmì jiēchù",
+      "pinyin": "qīnmìjiēchù",
       "english_answers": [
         "intimate physical contact"
       ],
@@ -745,7 +745,7 @@
     },
     {
       "hanzi": "身体接触",
-      "pinyin": "shēntǐ jiēchù",
+      "pinyin": "shēntǐjiēchù",
       "english_answers": [
         "physical contact"
       ],
@@ -754,7 +754,7 @@
     },
     {
       "hanzi": "性传播感染",
-      "pinyin": "xìng chuánbō gǎnrǎn",
+      "pinyin": "xìngchuánbōgǎnrǎn",
       "english_answers": [
         "sexually transmitted infection"
       ],
@@ -782,7 +782,7 @@
     },
     {
       "hanzi": "避孕套",
-      "pinyin": "bìyùn tào",
+      "pinyin": "bìyùntào",
       "english_answers": [
         "condom"
       ],
@@ -791,7 +791,7 @@
     },
     {
       "hanzi": "安全套",
-      "pinyin": "ānquán tào",
+      "pinyin": "ānquántào",
       "english_answers": [
         "condom"
       ],
@@ -800,7 +800,7 @@
     },
     {
       "hanzi": "紧急避孕",
-      "pinyin": "jǐnjí bìyùn",
+      "pinyin": "jǐnjíbìyùn",
       "english_answers": [
         "emergency contraception"
       ],
@@ -809,7 +809,7 @@
     },
     {
       "hanzi": "性健康",
-      "pinyin": "xìng jiànkāng",
+      "pinyin": "xìngjiànkāng",
       "english_answers": [
         "sexual health"
       ],
@@ -818,7 +818,7 @@
     },
     {
       "hanzi": "性教育",
-      "pinyin": "xìng jiàoyù",
+      "pinyin": "xìngjiàoyù",
       "english_answers": [
         "sex education"
       ],
@@ -827,7 +827,7 @@
     },
     {
       "hanzi": "性行为",
-      "pinyin": "xìng xíngwéi",
+      "pinyin": "xìngxíngwéi",
       "english_answers": [
         "sexual activity or behavior"
       ],
@@ -836,7 +836,7 @@
     },
     {
       "hanzi": "性经验",
-      "pinyin": "xìng jīngyàn",
+      "pinyin": "xìngjīngyàn",
       "english_answers": [
         "sexual experience"
       ],
@@ -845,7 +845,7 @@
     },
     {
       "hanzi": "性取向",
-      "pinyin": "xìng qǔxiàng",
+      "pinyin": "xìngqǔxiàng",
       "english_answers": [
         "sexual orientation"
       ],
@@ -854,7 +854,7 @@
     },
     {
       "hanzi": "性吸引力",
-      "pinyin": "xìng xīyǐnlì",
+      "pinyin": "xìngxīyǐnlì",
       "english_answers": [
         "sexual attractiveness",
         "sex appeal"
@@ -864,7 +864,7 @@
     },
     {
       "hanzi": "性吸引",
-      "pinyin": "xìng xīyǐn",
+      "pinyin": "xìngxīyǐn",
       "english_answers": [
         "sexual attraction"
       ],
@@ -893,7 +893,7 @@
     },
     {
       "hanzi": "性冷淡",
-      "pinyin": "xìng lěngdàn",
+      "pinyin": "xìnglěngdàn",
       "english_answers": [
         "low sexual desire"
       ],
@@ -902,7 +902,7 @@
     },
     {
       "hanzi": "性功能",
-      "pinyin": "xìng gōngnéng",
+      "pinyin": "xìnggōngnéng",
       "english_answers": [
         "sexual function"
       ],
@@ -911,7 +911,7 @@
     },
     {
       "hanzi": "性满足",
-      "pinyin": "xìng mǎnzú",
+      "pinyin": "xìngmǎnzú",
       "english_answers": [
         "sexual satisfaction"
       ],

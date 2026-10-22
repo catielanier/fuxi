@@ -7,7 +7,7 @@
   "cards": [
     {
       "hanzi": "支配欲",
-      "pinyin": "zhīpèi yù",
+      "pinyin": "zhīpèiyù",
       "english_answers": [
         "desire for dominance"
       ],
@@ -16,7 +16,7 @@
     },
     {
       "hanzi": "服从欲",
-      "pinyin": "fúcóng yù",
+      "pinyin": "fúcóngyù",
       "english_answers": [
         "desire to submit"
       ],
@@ -25,7 +25,7 @@
     },
     {
       "hanzi": "支配关系",
-      "pinyin": "zhīpèi guānxì",
+      "pinyin": "zhīpèiguānxì",
       "english_answers": [
         "dominance-and-submission dynamic"
       ],
@@ -34,7 +34,7 @@
     },
     {
       "hanzi": "权力交换",
-      "pinyin": "quánlì jiāohuàn",
+      "pinyin": "quánlìjiāohuàn",
       "english_answers": [
         "power exchange"
       ],
@@ -43,7 +43,7 @@
     },
     {
       "hanzi": "支配者",
-      "pinyin": "zhīpèi zhě",
+      "pinyin": "zhīpèizhě",
       "english_answers": [
         "dominant partner"
       ],
@@ -52,7 +52,7 @@
     },
     {
       "hanzi": "服从者",
-      "pinyin": "fúcóng zhě",
+      "pinyin": "fúcóngzhě",
       "english_answers": [
         "submissive partner"
       ],
@@ -61,7 +61,7 @@
     },
     {
       "hanzi": "主导角色",
-      "pinyin": "zhǔdǎo juésè",
+      "pinyin": "zhǔdǎojuésè",
       "english_answers": [
         "leading or dominant role"
       ],
@@ -89,7 +89,7 @@
     },
     {
       "hanzi": "情境协商",
-      "pinyin": "qíngjìng xiéshāng",
+      "pinyin": "qíngjìngxiéshāng",
       "english_answers": [
         "negotiating a scene"
       ],
@@ -98,7 +98,7 @@
     },
     {
       "hanzi": "事前沟通",
-      "pinyin": "shìqián gōutōng",
+      "pinyin": "shìqiángōutōng",
       "english_answers": [
         "discussion beforehand"
       ],
@@ -107,7 +107,7 @@
     },
     {
       "hanzi": "风险告知",
-      "pinyin": "fēngxiǎn gàozhī",
+      "pinyin": "fēngxiǎngàozhī",
       "english_answers": [
         "disclosure of risks"
       ],
@@ -116,7 +116,7 @@
     },
     {
       "hanzi": "风险意识",
-      "pinyin": "fēngxiǎn yìshí",
+      "pinyin": "fēngxiǎnyìshí",
       "english_answers": [
         "awareness of risk"
       ],
@@ -125,7 +125,7 @@
     },
     {
       "hanzi": "停下手势",
-      "pinyin": "tíngxià shǒushì",
+      "pinyin": "tíngxiàshǒushì",
       "english_answers": [
         "signal to stop"
       ],
@@ -134,7 +134,7 @@
     },
     {
       "hanzi": "非语言信号",
-      "pinyin": "fēi yǔyán xìnhào",
+      "pinyin": "fēiyǔyánxìnhào",
       "english_answers": [
         "nonverbal signal"
       ],
@@ -143,7 +143,7 @@
     },
     {
       "hanzi": "界限清单",
-      "pinyin": "jièxiàn qīngdān",
+      "pinyin": "jièxiànqīngdān",
       "english_answers": [
         "list of boundaries"
       ],
@@ -162,7 +162,7 @@
     },
     {
       "hanzi": "软性界限",
-      "pinyin": "ruǎnxìng jièxiàn",
+      "pinyin": "ruǎnxìngjièxiàn",
       "english_answers": [
         "soft limit"
       ],
@@ -171,7 +171,7 @@
     },
     {
       "hanzi": "硬性界限",
-      "pinyin": "yìngxìng jièxiàn",
+      "pinyin": "yìngxìngjièxiàn",
       "english_answers": [
         "hard limit"
       ],
@@ -180,7 +180,7 @@
     },
     {
       "hanzi": "场景设定",
-      "pinyin": "chǎngjǐng shèdìng",
+      "pinyin": "chǎngjǐngshèdìng",
       "english_answers": [
         "scene setup"
       ],
@@ -189,7 +189,7 @@
     },
     {
       "hanzi": "感官游戏",
-      "pinyin": "gǎnguān yóuxì",
+      "pinyin": "gǎnguānyóuxì",
       "english_answers": [
         "sensory play"
       ],
@@ -198,7 +198,7 @@
     },
     {
       "hanzi": "蒙眼游戏",
-      "pinyin": "méngyǎn yóuxì",
+      "pinyin": "méngyǎnyóuxì",
       "english_answers": [
         "blindfold play"
       ],
@@ -207,7 +207,7 @@
     },
     {
       "hanzi": "温度游戏",
-      "pinyin": "wēndù yóuxì",
+      "pinyin": "wēndùyóuxì",
       "english_answers": [
         "temperature play"
       ],
@@ -216,7 +216,7 @@
     },
     {
       "hanzi": "角色互换",
-      "pinyin": "juésè hùhuàn",
+      "pinyin": "juésèhùhuàn",
       "english_answers": [
         "switching roles"
       ],
@@ -225,7 +225,7 @@
     },
     {
       "hanzi": "命令式语气",
-      "pinyin": "mìnglìng shì yǔqì",
+      "pinyin": "mìnglìngshìyǔqì",
       "english_answers": [
         "commanding tone"
       ],
@@ -234,7 +234,7 @@
     },
     {
       "hanzi": "服从指令",
-      "pinyin": "fúcóng zhǐlìng",
+      "pinyin": "fúcóngzhǐlìng",
       "english_answers": [
         "follow an instruction"
       ],
@@ -243,7 +243,7 @@
     },
     {
       "hanzi": "奖励机制",
-      "pinyin": "jiǎnglì jīzhì",
+      "pinyin": "jiǎnglìjīzhì",
       "english_answers": [
         "reward system"
       ],
@@ -252,7 +252,7 @@
     },
     {
       "hanzi": "惩罚机制",
-      "pinyin": "chéngfá jīzhì",
+      "pinyin": "chéngfájīzhì",
       "english_answers": [
         "punishment framework"
       ],
@@ -261,7 +261,7 @@
     },
     {
       "hanzi": "束缚感",
-      "pinyin": "shùfù gǎn",
+      "pinyin": "shùfùgǎn",
       "english_answers": [
         "sensation of restraint"
       ],
@@ -270,7 +270,7 @@
     },
     {
       "hanzi": "放松束缚",
-      "pinyin": "fàngsōng shùfù",
+      "pinyin": "fàngsōngshùfù",
       "english_answers": [
         "loosen a restraint"
       ],
@@ -279,7 +279,7 @@
     },
     {
       "hanzi": "释放扣",
-      "pinyin": "shìfàng kòu",
+      "pinyin": "shìfàngkòu",
       "english_answers": [
         "quick-release clasp"
       ],
@@ -288,7 +288,7 @@
     },
     {
       "hanzi": "紧急解脱",
-      "pinyin": "jǐnjí jiětuō",
+      "pinyin": "jǐnjíjiětuō",
       "english_answers": [
         "emergency release"
       ],
@@ -297,7 +297,7 @@
     },
     {
       "hanzi": "安全剪刀",
-      "pinyin": "ānquán jiǎndāo",
+      "pinyin": "ānquánjiǎndāo",
       "english_answers": [
         "safety scissors"
       ],
@@ -306,7 +306,7 @@
     },
     {
       "hanzi": "束缚带",
-      "pinyin": "shùfù dài",
+      "pinyin": "shùfùdài",
       "english_answers": [
         "restraint strap"
       ],
@@ -315,7 +315,7 @@
     },
     {
       "hanzi": "皮革束带",
-      "pinyin": "pígé shùdài",
+      "pinyin": "pígéshùdài",
       "english_answers": [
         "leather restraint strap"
       ],
@@ -324,7 +324,7 @@
     },
     {
       "hanzi": "固定点",
-      "pinyin": "gùdìng diǎn",
+      "pinyin": "gùdìngdiǎn",
       "english_answers": [
         "anchor point"
       ],
@@ -333,7 +333,7 @@
     },
     {
       "hanzi": "姿势限制",
-      "pinyin": "zīshì xiànzhì",
+      "pinyin": "zīshìxiànzhì",
       "english_answers": [
         "restriction of movement"
       ],
@@ -342,7 +342,7 @@
     },
     {
       "hanzi": "结束场景",
-      "pinyin": "jiéshù chǎngjǐng",
+      "pinyin": "jiéshùchǎngjǐng",
       "english_answers": [
         "end a scene"
       ],
@@ -351,7 +351,7 @@
     },
     {
       "hanzi": "恢复时间",
-      "pinyin": "huīfù shíjiān",
+      "pinyin": "huīfùshíjiān",
       "english_answers": [
         "recovery time"
       ],
@@ -360,7 +360,7 @@
     },
     {
       "hanzi": "情绪检查",
-      "pinyin": "qíngxù jiǎnchá",
+      "pinyin": "qíngxùjiǎnchá",
       "english_answers": [
         "emotional check-in"
       ],
@@ -369,7 +369,7 @@
     },
     {
       "hanzi": "身体检查",
-      "pinyin": "shēntǐ jiǎnchá",
+      "pinyin": "shēntǐjiǎnchá",
       "english_answers": [
         "physical check-in"
       ],
@@ -378,7 +378,7 @@
     },
     {
       "hanzi": "事后复盘",
-      "pinyin": "shìhòu fùpán",
+      "pinyin": "shìhòufùpán",
       "english_answers": [
         "post-scene debrief"
       ],
@@ -387,7 +387,7 @@
     },
     {
       "hanzi": "心理安全",
-      "pinyin": "xīnlǐ ānquán",
+      "pinyin": "xīnlǐānquán",
       "english_answers": [
         "psychological safety"
       ],
@@ -396,7 +396,7 @@
     },
     {
       "hanzi": "自愿参与",
-      "pinyin": "zìyuàn cānyù",
+      "pinyin": "zìyuàncānyù",
       "english_answers": [
         "voluntary participation"
       ],
@@ -405,7 +405,7 @@
     },
     {
       "hanzi": "随时退出",
-      "pinyin": "suíshí tuìchū",
+      "pinyin": "suíshítuìchū",
       "english_answers": [
         "may withdraw at any time"
       ],
@@ -414,7 +414,7 @@
     },
     {
       "hanzi": "明确拒绝",
-      "pinyin": "míngquè jùjué",
+      "pinyin": "míngquèjùjué",
       "english_answers": [
         "explicit refusal"
       ],
@@ -423,7 +423,7 @@
     },
     {
       "hanzi": "经验程度",
-      "pinyin": "jīngyàn chéngdù",
+      "pinyin": "jīngyànchéngdù",
       "english_answers": [
         "level of experience"
       ],
@@ -432,7 +432,7 @@
     },
     {
       "hanzi": "节奏控制",
-      "pinyin": "jiézòu kòngzhì",
+      "pinyin": "jiézòukòngzhì",
       "english_answers": [
         "pace control"
       ],
@@ -441,7 +441,7 @@
     },
     {
       "hanzi": "疼痛耐受度",
-      "pinyin": "téngtòng nàishòudù",
+      "pinyin": "téngtòngnàishòudù",
       "english_answers": [
         "pain tolerance"
       ],
@@ -450,7 +450,7 @@
     },
     {
       "hanzi": "强度等级",
-      "pinyin": "qiángdù děngjí",
+      "pinyin": "qiángdùděngjí",
       "english_answers": [
         "intensity level"
       ],
@@ -459,7 +459,7 @@
     },
     {
       "hanzi": "情趣器具",
-      "pinyin": "qíngqù qìjù",
+      "pinyin": "qíngqùqìjù",
       "english_answers": [
         "intimate accessory or device"
       ],
@@ -468,7 +468,7 @@
     },
     {
       "hanzi": "按摩棒",
-      "pinyin": "ànmó bàng",
+      "pinyin": "ànmóbàng",
       "english_answers": [
         "massage wand",
         "may be intimate product"
@@ -487,7 +487,7 @@
     },
     {
       "hanzi": "震动蛋",
-      "pinyin": "zhèndòng dàn",
+      "pinyin": "zhèndòngdàn",
       "english_answers": [
         "vibrating egg"
       ],
@@ -496,7 +496,7 @@
     },
     {
       "hanzi": "吸吮器",
-      "pinyin": "xīshǔn qì",
+      "pinyin": "xīshǔnqì",
       "english_answers": [
         "suction-style stimulator"
       ],
@@ -505,7 +505,7 @@
     },
     {
       "hanzi": "脉冲刺激器",
-      "pinyin": "màichōng cìjīqì",
+      "pinyin": "màichōngcìjīqì",
       "english_answers": [
         "pulsed stimulator"
       ],
@@ -514,7 +514,7 @@
     },
     {
       "hanzi": "震动模式",
-      "pinyin": "zhèndòng móshì",
+      "pinyin": "zhèndòngmóshì",
       "english_answers": [
         "vibration mode"
       ],
@@ -523,7 +523,7 @@
     },
     {
       "hanzi": "震动强度",
-      "pinyin": "zhèndòng qiángdù",
+      "pinyin": "zhèndòngqiángdù",
       "english_answers": [
         "vibration intensity"
       ],
@@ -532,7 +532,7 @@
     },
     {
       "hanzi": "遥控款",
-      "pinyin": "yáokòng kuǎn",
+      "pinyin": "yáokòngkuǎn",
       "english_answers": [
         "remote-controlled model"
       ],
@@ -541,7 +541,7 @@
     },
     {
       "hanzi": "无线遥控",
-      "pinyin": "wúxiàn yáokòng",
+      "pinyin": "wúxiànyáokòng",
       "english_answers": [
         "wireless remote control"
       ],
@@ -550,7 +550,7 @@
     },
     {
       "hanzi": "充电款",
-      "pinyin": "chōngdiàn kuǎn",
+      "pinyin": "chōngdiànkuǎn",
       "english_answers": [
         "rechargeable model"
       ],
@@ -559,7 +559,7 @@
     },
     {
       "hanzi": "充电底座",
-      "pinyin": "chōngdiàn dǐzuò",
+      "pinyin": "chōngdiàndǐzuò",
       "english_answers": [
         "charging dock"
       ],
@@ -568,7 +568,7 @@
     },
     {
       "hanzi": "磁吸充电",
-      "pinyin": "cíxī chōngdiàn",
+      "pinyin": "cíxīchōngdiàn",
       "english_answers": [
         "magnetic charging"
       ],
@@ -577,7 +577,7 @@
     },
     {
       "hanzi": "防水等级",
-      "pinyin": "fángshuǐ děngjí",
+      "pinyin": "fángshuǐděngjí",
       "english_answers": [
         "water-resistance rating"
       ],
@@ -586,7 +586,7 @@
     },
     {
       "hanzi": "可水洗",
-      "pinyin": "kě shuǐxǐ",
+      "pinyin": "kěshuǐxǐ",
       "english_answers": [
         "washable with water"
       ],
@@ -595,7 +595,7 @@
     },
     {
       "hanzi": "表面纹理",
-      "pinyin": "biǎomiàn wénlǐ",
+      "pinyin": "biǎomiànwénlǐ",
       "english_answers": [
         "surface texture"
       ],
@@ -604,7 +604,7 @@
     },
     {
       "hanzi": "亲肤材质",
-      "pinyin": "qīnfū cáizhì",
+      "pinyin": "qīnfūcáizhì",
       "english_answers": [
         "skin-friendly material"
       ],
@@ -613,7 +613,7 @@
     },
     {
       "hanzi": "医用级硅胶",
-      "pinyin": "yīyòng jí guījiāo",
+      "pinyin": "yīyòngjíguījiāo",
       "english_answers": [
         "medical-grade silicone"
       ],
@@ -622,7 +622,7 @@
     },
     {
       "hanzi": "无孔材质",
-      "pinyin": "wú kǒng cáizhì",
+      "pinyin": "wúkǒngcáizhì",
       "english_answers": [
         "nonporous material"
       ],
@@ -631,7 +631,7 @@
     },
     {
       "hanzi": "清洁喷雾",
-      "pinyin": "qīngjié pēnwù",
+      "pinyin": "qīngjiépēnwù",
       "english_answers": [
         "cleaning spray"
       ],
@@ -640,7 +640,7 @@
     },
     {
       "hanzi": "专用清洁剂",
-      "pinyin": "zhuānyòng qīngjiéjì",
+      "pinyin": "zhuānyòngqīngjiéjì",
       "english_answers": [
         "specialized cleaner"
       ],
@@ -649,7 +649,7 @@
     },
     {
       "hanzi": "防尘袋",
-      "pinyin": "fángchén dài",
+      "pinyin": "fángchéndài",
       "english_answers": [
         "dust bag"
       ],
@@ -658,7 +658,7 @@
     },
     {
       "hanzi": "独立包装",
-      "pinyin": "dúlì bāozhuāng",
+      "pinyin": "dúlìbāozhuāng",
       "english_answers": [
         "individual packaging"
       ],
@@ -667,7 +667,7 @@
     },
     {
       "hanzi": "替换配件",
-      "pinyin": "tìhuàn pèijiàn",
+      "pinyin": "tìhuànpèijiàn",
       "english_answers": [
         "replacement accessory"
       ],
@@ -676,7 +676,7 @@
     },
     {
       "hanzi": "替换头",
-      "pinyin": "tìhuàn tóu",
+      "pinyin": "tìhuàntóu",
       "english_answers": [
         "interchangeable head"
       ],
@@ -685,7 +685,7 @@
     },
     {
       "hanzi": "底部吸盘",
-      "pinyin": "dǐbù xīpán",
+      "pinyin": "dǐbùxīpán",
       "english_answers": [
         "suction-cup base"
       ],
@@ -694,7 +694,7 @@
     },
     {
       "hanzi": "固定底座",
-      "pinyin": "gùdìng dǐzuò",
+      "pinyin": "gùdìngdǐzuò",
       "english_answers": [
         "fixed base"
       ],
@@ -703,7 +703,7 @@
     },
     {
       "hanzi": "佩戴式",
-      "pinyin": "pèidài shì",
+      "pinyin": "pèidàishì",
       "english_answers": [
         "wearable style"
       ],
@@ -712,7 +712,7 @@
     },
     {
       "hanzi": "手持式",
-      "pinyin": "shǒuchí shì",
+      "pinyin": "shǒuchíshì",
       "english_answers": [
         "handheld style"
       ],
@@ -721,7 +721,7 @@
     },
     {
       "hanzi": "静音设计",
-      "pinyin": "jìngyīn shèjì",
+      "pinyin": "jìngyīnshèjì",
       "english_answers": [
         "quiet-operation design"
       ],
@@ -730,7 +730,7 @@
     },
     {
       "hanzi": "噪音等级",
-      "pinyin": "zàoyīn děngjí",
+      "pinyin": "zàoyīnděngjí",
       "english_answers": [
         "noise level"
       ],
@@ -739,7 +739,7 @@
     },
     {
       "hanzi": "低频震动",
-      "pinyin": "dīpín zhèndòng",
+      "pinyin": "dīpínzhèndòng",
       "english_answers": [
         "low-frequency vibration"
       ],
@@ -748,7 +748,7 @@
     },
     {
       "hanzi": "多档调节",
-      "pinyin": "duō dàng tiáojié",
+      "pinyin": "duōdàngtiáojié",
       "english_answers": [
         "multiple adjustable settings"
       ],
@@ -757,7 +757,7 @@
     },
     {
       "hanzi": "无级调节",
-      "pinyin": "wújí tiáojié",
+      "pinyin": "wújítiáojié",
       "english_answers": [
         "stepless adjustment"
       ],
@@ -766,7 +766,7 @@
     },
     {
       "hanzi": "定时关闭",
-      "pinyin": "dìngshí guānbì",
+      "pinyin": "dìngshíguānbì",
       "english_answers": [
         "automatic timed shutoff"
       ],
@@ -775,7 +775,7 @@
     },
     {
       "hanzi": "电量提示",
-      "pinyin": "diànliàng tíshì",
+      "pinyin": "diànliàngtíshì",
       "english_answers": [
         "battery-level indicator"
       ],
@@ -784,7 +784,7 @@
     },
     {
       "hanzi": "过热保护",
-      "pinyin": "guòrè bǎohù",
+      "pinyin": "guòrèbǎohù",
       "english_answers": [
         "overheating protection"
       ],
@@ -802,7 +802,7 @@
     },
     {
       "hanzi": "水性润滑剂",
-      "pinyin": "shuǐxìng rùnhuájì",
+      "pinyin": "shuǐxìngrùnhuájì",
       "english_answers": [
         "water-based lubricant"
       ],
@@ -811,7 +811,7 @@
     },
     {
       "hanzi": "硅基润滑剂",
-      "pinyin": "guījī rùnhuájì",
+      "pinyin": "guījīrùnhuájì",
       "english_answers": [
         "silicone-based lubricant"
       ],
@@ -820,7 +820,7 @@
     },
     {
       "hanzi": "润滑剂残留",
-      "pinyin": "rùnhuájì cánliú",
+      "pinyin": "rùnhuájìcánliú",
       "english_answers": [
         "lubricant residue"
       ],
@@ -829,7 +829,7 @@
     },
     {
       "hanzi": "清洗说明",
-      "pinyin": "qīngxǐ shuōmíng",
+      "pinyin": "qīngxǐshuōmíng",
       "english_answers": [
         "cleaning instructions"
       ],
@@ -838,7 +838,7 @@
     },
     {
       "hanzi": "使用说明书",
-      "pinyin": "shǐyòng shuōmíngshū",
+      "pinyin": "shǐyòngshuōmíngshū",
       "english_answers": [
         "user manual"
       ],
@@ -847,7 +847,7 @@
     },
     {
       "hanzi": "退换政策",
-      "pinyin": "tuìhuàn zhèngcè",
+      "pinyin": "tuìhuànzhèngcè",
       "english_answers": [
         "return-and-exchange policy"
       ],
@@ -856,7 +856,7 @@
     },
     {
       "hanzi": "私密包装",
-      "pinyin": "sīmì bāozhuāng",
+      "pinyin": "sīmìbāozhuāng",
       "english_answers": [
         "discreet packaging"
       ],
@@ -865,7 +865,7 @@
     },
     {
       "hanzi": "敏感部位",
-      "pinyin": "mǐngǎn bùwèi",
+      "pinyin": "mǐngǎnbùwèi",
       "english_answers": [
         "sensitive area"
       ],
@@ -874,7 +874,7 @@
     },
     {
       "hanzi": "接触面",
-      "pinyin": "jiēchù miàn",
+      "pinyin": "jiēchùmiàn",
       "english_answers": [
         "contact surface"
       ],
@@ -883,7 +883,7 @@
     },
     {
       "hanzi": "过敏反应",
-      "pinyin": "guòmǐn fǎnyìng",
+      "pinyin": "guòmǐnfǎnyìng",
       "english_answers": [
         "allergic reaction"
       ],
@@ -892,7 +892,7 @@
     },
     {
       "hanzi": "三人性行为",
-      "pinyin": "sān rén xìng xíngwéi",
+      "pinyin": "sānrénxìngxíngwéi",
       "english_answers": [
         "threesome",
         "sexual activity involving three people"

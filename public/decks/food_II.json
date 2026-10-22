@@ -116,7 +116,7 @@
     },
     {
       "hanzi": "珍珠奶茶",
-      "pinyin": "zhēnzhū nǎichá",
+      "pinyin": "zhēnzhūnǎichá",
       "english_answers": [
         "bubble tea"
       ],
@@ -353,7 +353,7 @@
     },
     {
       "hanzi": "炒鸡蛋",
-      "pinyin": "chǎo jīdàn",
+      "pinyin": "chǎojīdàn",
       "english_answers": [
         "scrambled eggs"
       ],
@@ -499,7 +499,7 @@
     },
     {
       "hanzi": "芝士汉堡",
-      "pinyin": "zhīshì hànbǎo",
+      "pinyin": "zhīshìhànbǎo",
       "english_answers": [
         "cheeseburger"
       ],
@@ -594,7 +594,7 @@
     },
     {
       "hanzi": "不要",
-      "pinyin": "bú yào",
+      "pinyin": "búyào",
       "english_answers": [
         "don't want",
         "no"
@@ -604,7 +604,7 @@
     },
     {
       "hanzi": "少放",
-      "pinyin": "shǎo fàng",
+      "pinyin": "shǎofàng",
       "english_answers": [
         "put in less"
       ],
@@ -613,7 +613,7 @@
     },
     {
       "hanzi": "多放",
-      "pinyin": "duō fàng",
+      "pinyin": "duōfàng",
       "english_answers": [
         "put in more"
       ],
@@ -622,7 +622,7 @@
     },
     {
       "hanzi": "不放",
-      "pinyin": "bù fàng",
+      "pinyin": "bùfàng",
       "english_answers": [
         "don't add",
         "leave out"
@@ -632,7 +632,7 @@
     },
     {
       "hanzi": "少盐",
-      "pinyin": "shǎo yán",
+      "pinyin": "shǎoyán",
       "english_answers": [
         "less salt"
       ],
@@ -641,7 +641,7 @@
     },
     {
       "hanzi": "少糖",
-      "pinyin": "shǎo táng",
+      "pinyin": "shǎotáng",
       "english_answers": [
         "less sugar"
       ],
@@ -706,7 +706,7 @@
     },
     {
       "hanzi": "五分熟",
-      "pinyin": "wǔfēn shú",
+      "pinyin": "wǔfēnshú",
       "english_answers": [
         "medium steak doneness"
       ],
@@ -715,7 +715,7 @@
     },
     {
       "hanzi": "七分熟",
-      "pinyin": "qīfēn shú",
+      "pinyin": "qīfēnshú",
       "english_answers": [
         "medium-well steak doneness"
       ],
@@ -896,7 +896,7 @@
     },
     {
       "hanzi": "食物过敏",
-      "pinyin": "shíwù guòmǐn",
+      "pinyin": "shíwùguòmǐn",
       "english_answers": [
         "food allergy"
       ],
@@ -905,7 +905,7 @@
     },
     {
       "hanzi": "花生过敏",
-      "pinyin": "huāshēng guòmǐn",
+      "pinyin": "huāshēngguòmǐn",
       "english_answers": [
         "peanut allergy"
       ],
@@ -914,7 +914,7 @@
     },
     {
       "hanzi": "海鲜过敏",
-      "pinyin": "hǎixiān guòmǐn",
+      "pinyin": "hǎixiānguòmǐn",
       "english_answers": [
         "seafood allergy"
       ],
@@ -923,7 +923,7 @@
     },
     {
       "hanzi": "不能吃",
-      "pinyin": "bùnéng chī",
+      "pinyin": "bùnéngchī",
       "english_answers": [
         "cannot eat"
       ],

@@ -17,7 +17,7 @@
     },
     {
       "hanzi": "性取向",
-      "pinyin": "xìng qǔxiàng",
+      "pinyin": "xìngqǔxiàng",
       "english_answers": [
         "sexual orientation"
       ],
@@ -26,7 +26,7 @@
     },
     {
       "hanzi": "性别认同",
-      "pinyin": "xìngbié rèntóng",
+      "pinyin": "xìngbiérèntóng",
       "english_answers": [
         "gender identity"
       ],
@@ -35,7 +35,7 @@
     },
     {
       "hanzi": "性别表达",
-      "pinyin": "xìngbié biǎodá",
+      "pinyin": "xìngbiébiǎodá",
       "english_answers": [
         "gender expression"
       ],
@@ -94,7 +94,7 @@
     },
     {
       "hanzi": "无浪漫倾向",
-      "pinyin": "wú làngmàn qīngxiàng",
+      "pinyin": "wúlàngmànqīngxiàng",
       "english_answers": [
         "aromantic orientation"
       ],
@@ -130,7 +130,7 @@
     },
     {
       "hanzi": "非二元性别",
-      "pinyin": "fēi èryuán xìngbié",
+      "pinyin": "fēièryuánxìngbié",
       "english_answers": [
         "nonbinary gender"
       ],
@@ -139,7 +139,7 @@
     },
     {
       "hanzi": "性别流动",
-      "pinyin": "xìngbié liúdòng",
+      "pinyin": "xìngbiéliúdòng",
       "english_answers": [
         "genderfluid"
       ],
@@ -148,7 +148,7 @@
     },
     {
       "hanzi": "性别中立",
-      "pinyin": "xìngbié zhōnglì",
+      "pinyin": "xìngbiézhōnglì",
       "english_answers": [
         "gender-neutral"
       ],
@@ -157,7 +157,7 @@
     },
     {
       "hanzi": "男同性恋",
-      "pinyin": "nán tóngxìngliàn",
+      "pinyin": "nántóngxìngliàn",
       "english_answers": [
         "gay man"
       ],
@@ -166,7 +166,7 @@
     },
     {
       "hanzi": "女同性恋",
-      "pinyin": "nǚ tóngxìngliàn",
+      "pinyin": "nǚtóngxìngliàn",
       "english_answers": [
         "lesbian"
       ],
@@ -193,7 +193,7 @@
     },
     {
       "hanzi": "跨性别女性",
-      "pinyin": "kuàxìngbié nǚxìng",
+      "pinyin": "kuàxìngbiénǚxìng",
       "english_answers": [
         "transgender woman"
       ],
@@ -202,7 +202,7 @@
     },
     {
       "hanzi": "跨性别男性",
-      "pinyin": "kuàxìngbié nánxìng",
+      "pinyin": "kuàxìngbiénánxìng",
       "english_answers": [
         "transgender man"
       ],
@@ -229,7 +229,7 @@
     },
     {
       "hanzi": "性别焦虑",
-      "pinyin": "xìngbié jiāolǜ",
+      "pinyin": "xìngbiéjiāolǜ",
       "english_answers": [
         "gender dysphoria"
       ],
@@ -238,7 +238,7 @@
     },
     {
       "hanzi": "性别不安",
-      "pinyin": "xìngbié bù'ān",
+      "pinyin": "xìngbiébù'ān",
       "english_answers": [
         "gender incongruence",
         "gender-related distress"
@@ -248,7 +248,7 @@
     },
     {
       "hanzi": "性别肯定",
-      "pinyin": "xìngbié kěndìng",
+      "pinyin": "xìngbiékěndìng",
       "english_answers": [
         "gender affirmation"
       ],
@@ -257,7 +257,7 @@
     },
     {
       "hanzi": "性别肯定医疗",
-      "pinyin": "xìngbié kěndìng yīliáo",
+      "pinyin": "xìngbiékěndìngyīliáo",
       "english_answers": [
         "gender-affirming healthcare"
       ],
@@ -266,7 +266,7 @@
     },
     {
       "hanzi": "性别过渡",
-      "pinyin": "xìngbié guòdù",
+      "pinyin": "xìngbiéguòdù",
       "english_answers": [
         "gender transition"
       ],
@@ -275,7 +275,7 @@
     },
     {
       "hanzi": "社会过渡",
-      "pinyin": "shèhuì guòdù",
+      "pinyin": "shèhuìguòdù",
       "english_answers": [
         "social transition"
       ],
@@ -284,7 +284,7 @@
     },
     {
       "hanzi": "医疗过渡",
-      "pinyin": "yīliáo guòdù",
+      "pinyin": "yīliáoguòdù",
       "english_answers": [
         "medical transition"
       ],
@@ -293,7 +293,7 @@
     },
     {
       "hanzi": "激素治疗",
-      "pinyin": "jīsù zhìliáo",
+      "pinyin": "jīsùzhìliáo",
       "english_answers": [
         "hormone therapy"
       ],
@@ -302,7 +302,7 @@
     },
     {
       "hanzi": "激素替代疗法",
-      "pinyin": "jīsù tìdài liáofǎ",
+      "pinyin": "jīsùtìdàiliáofǎ",
       "english_answers": [
         "hormone replacement therapy"
       ],
@@ -329,7 +329,7 @@
     },
     {
       "hanzi": "抗雄激素",
-      "pinyin": "kàng xióngjīsù",
+      "pinyin": "kàngxióngjīsù",
       "english_answers": [
         "antiandrogen"
       ],
@@ -338,7 +338,7 @@
     },
     {
       "hanzi": "性别肯定手术",
-      "pinyin": "xìngbié kěndìng shǒushù",
+      "pinyin": "xìngbiékěndìngshǒushù",
       "english_answers": [
         "gender-affirming surgery"
       ],
@@ -411,7 +411,7 @@
     },
     {
       "hanzi": "证件性别",
-      "pinyin": "zhèngjiàn xìngbié",
+      "pinyin": "zhèngjiànxìngbié",
       "english_answers": [
         "gender marker on identification"
       ],
@@ -429,7 +429,7 @@
     },
     {
       "hanzi": "人称代词",
-      "pinyin": "rénchēng dàicí",
+      "pinyin": "rénchēngdàicí",
       "english_answers": [
         "personal pronoun"
       ],
@@ -477,7 +477,7 @@
     },
     {
       "hanzi": "公开身份",
-      "pinyin": "gōngkāi shēnfèn",
+      "pinyin": "gōngkāishēnfèn",
       "english_answers": [
         "disclose one's identity publicly"
       ],
@@ -496,7 +496,7 @@
     },
     {
       "hanzi": "身份认同",
-      "pinyin": "shēnfèn rèntóng",
+      "pinyin": "shēnfènrèntóng",
       "english_answers": [
         "identity",
         "sense of identity"
@@ -506,7 +506,7 @@
     },
     {
       "hanzi": "自我认同",
-      "pinyin": "zìwǒ rèntóng",
+      "pinyin": "zìwǒrèntóng",
       "english_answers": [
         "self-identification"
       ],
@@ -553,7 +553,7 @@
     },
     {
       "hanzi": "误称性别",
-      "pinyin": "wùchēng xìngbié",
+      "pinyin": "wùchēngxìngbié",
       "english_answers": [
         "misgender",
         "refer to someone by the wrong gender"
@@ -573,7 +573,7 @@
     },
     {
       "hanzi": "谈恋爱",
-      "pinyin": "tán liàn'ài",
+      "pinyin": "tánliàn'ài",
       "english_answers": [
         "date",
         "be in a relationship"
@@ -640,7 +640,7 @@
     },
     {
       "hanzi": "同性伴侣",
-      "pinyin": "tóngxìng bànlǚ",
+      "pinyin": "tóngxìngbànlǚ",
       "english_answers": [
         "same-sex partner",
         "couple"
@@ -686,7 +686,7 @@
     },
     {
       "hanzi": "同性婚姻",
-      "pinyin": "tóngxìng hūnyīn",
+      "pinyin": "tóngxìnghūnyīn",
       "english_answers": [
         "same-sex marriage"
       ],
@@ -705,7 +705,7 @@
     },
     {
       "hanzi": "性吸引",
-      "pinyin": "xìng xīyǐn",
+      "pinyin": "xìngxīyǐn",
       "english_answers": [
         "sexual attraction"
       ],
@@ -714,7 +714,7 @@
     },
     {
       "hanzi": "浪漫吸引",
-      "pinyin": "làngmàn xīyǐn",
+      "pinyin": "làngmànxīyǐn",
       "english_answers": [
         "romantic attraction"
       ],
@@ -723,7 +723,7 @@
     },
     {
       "hanzi": "亲密关系",
-      "pinyin": "qīnmì guānxì",
+      "pinyin": "qīnmìguānxì",
       "english_answers": [
         "intimate relationship"
       ],
@@ -761,7 +761,7 @@
     },
     {
       "hanzi": "骄傲月",
-      "pinyin": "jiāo'ào yuè",
+      "pinyin": "jiāo'àoyuè",
       "english_answers": [
         "Pride Month"
       ],
@@ -770,7 +770,7 @@
     },
     {
       "hanzi": "骄傲游行",
-      "pinyin": "jiāo'ào yóuxíng",
+      "pinyin": "jiāo'àoyóuxíng",
       "english_answers": [
         "Pride parade"
       ],
@@ -884,7 +884,7 @@
     },
     {
       "hanzi": "刻板印象",
-      "pinyin": "kèbǎn yìnxiàng",
+      "pinyin": "kèbǎnyìnxiàng",
       "english_answers": [
         "stereotype"
       ],

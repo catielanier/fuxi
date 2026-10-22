@@ -17,7 +17,7 @@
     },
     {
       "hanzi": "公共交通",
-      "pinyin": "gōnggòng jiāotōng",
+      "pinyin": "gōnggòngjiāotōng",
       "english_answers": [
         "public transportation"
       ],
@@ -100,7 +100,7 @@
     },
     {
       "hanzi": "长途汽车",
-      "pinyin": "chángtú qìchē",
+      "pinyin": "chángtúqìchē",
       "english_answers": [
         "long-distance coach"
       ],
@@ -156,7 +156,7 @@
     },
     {
       "hanzi": "共享单车",
-      "pinyin": "gòngxiǎng dānchē",
+      "pinyin": "gòngxiǎngdānchē",
       "english_answers": [
         "shared bicycle"
       ],
@@ -282,7 +282,7 @@
     },
     {
       "hanzi": "自动售票机",
-      "pinyin": "zìdòng shòupiàojī",
+      "pinyin": "zìdòngshòupiàojī",
       "english_answers": [
         "ticket vending machine"
       ],
@@ -488,7 +488,7 @@
     },
     {
       "hanzi": "一直走",
-      "pinyin": "yìzhí zǒu",
+      "pinyin": "yìzhízǒu",
       "english_answers": [
         "go straight"
       ],
@@ -591,7 +591,7 @@
     },
     {
       "hanzi": "十字路口",
-      "pinyin": "shízì lùkǒu",
+      "pinyin": "shízìlùkǒu",
       "english_answers": [
         "intersection",
         "crossroads"
@@ -601,7 +601,7 @@
     },
     {
       "hanzi": "丁字路口",
-      "pinyin": "dīngzì lùkǒu",
+      "pinyin": "dīngzìlùkǒu",
       "english_answers": [
         "T-junction"
       ],
@@ -694,7 +694,7 @@
     },
     {
       "hanzi": "地下通道",
-      "pinyin": "dìxià tōngdào",
+      "pinyin": "dìxiàtōngdào",
       "english_answers": [
         "pedestrian underpass"
       ],
@@ -712,7 +712,7 @@
     },
     {
       "hanzi": "高速公路",
-      "pinyin": "gāosù gōnglù",
+      "pinyin": "gāosùgōnglù",
       "english_answers": [
         "expressway",
         "highway"
@@ -827,7 +827,7 @@
     },
     {
       "hanzi": "下一站",
-      "pinyin": "xià yí zhàn",
+      "pinyin": "xiàyízhàn",
       "english_answers": [
         "next stop"
       ],
@@ -836,7 +836,7 @@
     },
     {
       "hanzi": "坐过站",
-      "pinyin": "zuò guò zhàn",
+      "pinyin": "zuòguòzhàn",
       "english_answers": [
         "miss one's stop"
       ],
@@ -922,7 +922,7 @@
     },
     {
       "hanzi": "交通拥堵",
-      "pinyin": "jiāotōng yōngdǔ",
+      "pinyin": "jiāotōngyōngdǔ",
       "english_answers": [
         "traffic congestion"
       ],

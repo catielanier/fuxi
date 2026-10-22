@@ -1,0 +1,930 @@
+{
+  "id": "basics_I",
+  "title": "Basics I",
+  "language": "zh-Hans",
+  "source": "Fuxi vocabulary curriculum",
+  "card_count": 100,
+  "cards": [
+    {
+      "hanzi": "你好",
+      "pinyin": "nǐ hǎo",
+      "english_answers": [
+        "hello",
+        "hi"
+      ],
+      "english_gloss": "hello / hi",
+      "audio": "你好.mp3"
+    },
+    {
+      "hanzi": "您好",
+      "pinyin": "nín hǎo",
+      "english_answers": [
+        "hello"
+      ],
+      "english_gloss": "hello",
+      "audio": "您好.mp3"
+    },
+    {
+      "hanzi": "早上好",
+      "pinyin": "zǎoshang hǎo",
+      "english_answers": [
+        "good morning"
+      ],
+      "english_gloss": "good morning",
+      "audio": "早上好.mp3"
+    },
+    {
+      "hanzi": "晚上好",
+      "pinyin": "wǎnshang hǎo",
+      "english_answers": [
+        "good evening"
+      ],
+      "english_gloss": "good evening",
+      "audio": "晚上好.mp3"
+    },
+    {
+      "hanzi": "晚安",
+      "pinyin": "wǎn'ān",
+      "english_answers": [
+        "good night"
+      ],
+      "english_gloss": "good night",
+      "audio": "晚安.mp3"
+    },
+    {
+      "hanzi": "再见",
+      "pinyin": "zàijiàn",
+      "english_answers": [
+        "goodbye"
+      ],
+      "english_gloss": "goodbye",
+      "audio": "再见.mp3"
+    },
+    {
+      "hanzi": "拜拜",
+      "pinyin": "bàibài",
+      "english_answers": [
+        "bye"
+      ],
+      "english_gloss": "bye",
+      "audio": "拜拜.mp3"
+    },
+    {
+      "hanzi": "谢谢",
+      "pinyin": "xièxie",
+      "english_answers": [
+        "thank you",
+        "thanks"
+      ],
+      "english_gloss": "thank you / thanks",
+      "audio": "谢谢.mp3"
+    },
+    {
+      "hanzi": "不客气",
+      "pinyin": "bú kèqi",
+      "english_answers": [
+        "you're welcome"
+      ],
+      "english_gloss": "you're welcome",
+      "audio": "不客气.mp3"
+    },
+    {
+      "hanzi": "请",
+      "pinyin": "qǐng",
+      "english_answers": [
+        "please"
+      ],
+      "english_gloss": "please",
+      "audio": "请.mp3"
+    },
+    {
+      "hanzi": "打扰一下",
+      "pinyin": "dǎrǎo yíxià",
+      "english_answers": [
+        "excuse me for interrupting"
+      ],
+      "english_gloss": "excuse me for interrupting",
+      "audio": "打扰一下.mp3"
+    },
+    {
+      "hanzi": "好的",
+      "pinyin": "hǎo de",
+      "english_answers": [
+        "okay",
+        "all right"
+      ],
+      "english_gloss": "okay / all right",
+      "audio": "好的.mp3"
+    },
+    {
+      "hanzi": "好吧",
+      "pinyin": "hǎo ba",
+      "english_answers": [
+        "okay then"
+      ],
+      "english_gloss": "okay then",
+      "audio": "好吧.mp3"
+    },
+    {
+      "hanzi": "是的",
+      "pinyin": "shì de",
+      "english_answers": [
+        "yes",
+        "that's right"
+      ],
+      "english_gloss": "yes / that's right",
+      "audio": "是的.mp3"
+    },
+    {
+      "hanzi": "不是",
+      "pinyin": "bú shì",
+      "english_answers": [
+        "is not",
+        "no"
+      ],
+      "english_gloss": "is not / no",
+      "audio": "不是.mp3"
+    },
+    {
+      "hanzi": "有",
+      "pinyin": "yǒu",
+      "english_answers": [
+        "have",
+        "there is"
+      ],
+      "english_gloss": "have / there is",
+      "audio": "有.mp3"
+    },
+    {
+      "hanzi": "没有",
+      "pinyin": "méiyǒu",
+      "english_answers": [
+        "don't have",
+        "there isn't"
+      ],
+      "english_gloss": "don't have / there isn't",
+      "audio": "没有.mp3"
+    },
+    {
+      "hanzi": "会",
+      "pinyin": "huì",
+      "english_answers": [
+        "know how to",
+        "will"
+      ],
+      "english_gloss": "know how to / will",
+      "audio": "会.mp3"
+    },
+    {
+      "hanzi": "不会",
+      "pinyin": "bú huì",
+      "english_answers": [
+        "don't know how to",
+        "won't"
+      ],
+      "english_gloss": "don't know how to / won't",
+      "audio": "不会.mp3"
+    },
+    {
+      "hanzi": "能",
+      "pinyin": "néng",
+      "english_answers": [
+        "be able to",
+        "can"
+      ],
+      "english_gloss": "be able to / can",
+      "audio": "能.mp3"
+    },
+    {
+      "hanzi": "不能",
+      "pinyin": "bù néng",
+      "english_answers": [
+        "cannot"
+      ],
+      "english_gloss": "cannot",
+      "audio": "不能.mp3"
+    },
+    {
+      "hanzi": "要",
+      "pinyin": "yào",
+      "english_answers": [
+        "want",
+        "need"
+      ],
+      "english_gloss": "want / need",
+      "audio": "要.mp3"
+    },
+    {
+      "hanzi": "不想",
+      "pinyin": "bù xiǎng",
+      "english_answers": [
+        "don't want to"
+      ],
+      "english_gloss": "don't want to",
+      "audio": "不想.mp3"
+    },
+    {
+      "hanzi": "不需要",
+      "pinyin": "bù xūyào",
+      "english_answers": [
+        "don't need"
+      ],
+      "english_gloss": "don't need",
+      "audio": "不需要.mp3"
+    },
+    {
+      "hanzi": "不知道",
+      "pinyin": "bù zhīdào",
+      "english_answers": [
+        "don't know"
+      ],
+      "english_gloss": "don't know",
+      "audio": "不知道.mp3"
+    },
+    {
+      "hanzi": "不明白",
+      "pinyin": "bù míngbai",
+      "english_answers": [
+        "don't understand"
+      ],
+      "english_gloss": "don't understand",
+      "audio": "不明白.mp3"
+    },
+    {
+      "hanzi": "我",
+      "pinyin": "wǒ",
+      "english_answers": [
+        "I",
+        "me"
+      ],
+      "english_gloss": "I / me",
+      "audio": "我.mp3"
+    },
+    {
+      "hanzi": "你",
+      "pinyin": "nǐ",
+      "english_answers": [
+        "you"
+      ],
+      "english_gloss": "you",
+      "audio": "你.mp3"
+    },
+    {
+      "hanzi": "您",
+      "pinyin": "nín",
+      "english_answers": [
+        "you"
+      ],
+      "english_gloss": "you",
+      "audio": "您.mp3"
+    },
+    {
+      "hanzi": "我们",
+      "pinyin": "wǒmen",
+      "english_answers": [
+        "we",
+        "us"
+      ],
+      "english_gloss": "we / us",
+      "audio": "我们.mp3"
+    },
+    {
+      "hanzi": "你们",
+      "pinyin": "nǐmen",
+      "english_answers": [
+        "you all"
+      ],
+      "english_gloss": "you all",
+      "audio": "你们.mp3"
+    },
+    {
+      "hanzi": "他们",
+      "pinyin": "tāmen",
+      "english_answers": [
+        "they",
+        "them"
+      ],
+      "english_gloss": "they / them",
+      "audio": "他们.mp3"
+    },
+    {
+      "hanzi": "她们",
+      "pinyin": "tāmen",
+      "english_answers": [
+        "they",
+        "them"
+      ],
+      "english_gloss": "they / them",
+      "audio": "她们.mp3"
+    },
+    {
+      "hanzi": "这",
+      "pinyin": "zhè",
+      "english_answers": [
+        "this"
+      ],
+      "english_gloss": "this",
+      "audio": "这.mp3"
+    },
+    {
+      "hanzi": "那",
+      "pinyin": "nà",
+      "english_answers": [
+        "that"
+      ],
+      "english_gloss": "that",
+      "audio": "那.mp3"
+    },
+    {
+      "hanzi": "这个",
+      "pinyin": "zhège",
+      "english_answers": [
+        "this one"
+      ],
+      "english_gloss": "this one",
+      "audio": "这个.mp3"
+    },
+    {
+      "hanzi": "那个",
+      "pinyin": "nàge",
+      "english_answers": [
+        "that one"
+      ],
+      "english_gloss": "that one",
+      "audio": "那个.mp3"
+    },
+    {
+      "hanzi": "吗",
+      "pinyin": "ma",
+      "english_answers": [
+        "question particle"
+      ],
+      "english_gloss": "question particle",
+      "audio": "吗.mp3"
+    },
+    {
+      "hanzi": "呢",
+      "pinyin": "ne",
+      "english_answers": [
+        "question particle"
+      ],
+      "english_gloss": "question particle",
+      "audio": "呢.mp3"
+    },
+    {
+      "hanzi": "吧",
+      "pinyin": "ba",
+      "english_answers": [
+        "suggestion particle"
+      ],
+      "english_gloss": "suggestion particle",
+      "audio": "吧.mp3"
+    },
+    {
+      "hanzi": "的",
+      "pinyin": "de",
+      "english_answers": [
+        "possessive particle"
+      ],
+      "english_gloss": "possessive particle",
+      "audio": "的.mp3"
+    },
+    {
+      "hanzi": "在",
+      "pinyin": "zài",
+      "english_answers": [
+        "at",
+        "in"
+      ],
+      "english_gloss": "at / in",
+      "audio": "在.mp3"
+    },
+    {
+      "hanzi": "和",
+      "pinyin": "hé",
+      "english_answers": [
+        "and",
+        "with"
+      ],
+      "english_gloss": "and / with",
+      "audio": "和.mp3"
+    },
+    {
+      "hanzi": "也",
+      "pinyin": "yě",
+      "english_answers": [
+        "also",
+        "too"
+      ],
+      "english_gloss": "also / too",
+      "audio": "也.mp3"
+    },
+    {
+      "hanzi": "都",
+      "pinyin": "dōu",
+      "english_answers": [
+        "all",
+        "both"
+      ],
+      "english_gloss": "all / both",
+      "audio": "都.mp3"
+    },
+    {
+      "hanzi": "很",
+      "pinyin": "hěn",
+      "english_answers": [
+        "very"
+      ],
+      "english_gloss": "very",
+      "audio": "很.mp3"
+    },
+    {
+      "hanzi": "太",
+      "pinyin": "tài",
+      "english_answers": [
+        "too",
+        "excessively"
+      ],
+      "english_gloss": "too / excessively",
+      "audio": "太.mp3"
+    },
+    {
+      "hanzi": "一",
+      "pinyin": "yī",
+      "english_answers": [
+        "one"
+      ],
+      "english_gloss": "one",
+      "audio": "一.mp3"
+    },
+    {
+      "hanzi": "二",
+      "pinyin": "èr",
+      "english_answers": [
+        "two"
+      ],
+      "english_gloss": "two",
+      "audio": "二.mp3"
+    },
+    {
+      "hanzi": "两",
+      "pinyin": "liǎng",
+      "english_answers": [
+        "two"
+      ],
+      "english_gloss": "two",
+      "audio": "两.mp3"
+    },
+    {
+      "hanzi": "零",
+      "pinyin": "líng",
+      "english_answers": [
+        "zero"
+      ],
+      "english_gloss": "zero",
+      "audio": "零.mp3"
+    },
+    {
+      "hanzi": "十",
+      "pinyin": "shí",
+      "english_answers": [
+        "ten"
+      ],
+      "english_gloss": "ten",
+      "audio": "十.mp3"
+    },
+    {
+      "hanzi": "百",
+      "pinyin": "bǎi",
+      "english_answers": [
+        "hundred"
+      ],
+      "english_gloss": "hundred",
+      "audio": "百.mp3"
+    },
+    {
+      "hanzi": "千",
+      "pinyin": "qiān",
+      "english_answers": [
+        "thousand"
+      ],
+      "english_gloss": "thousand",
+      "audio": "千.mp3"
+    },
+    {
+      "hanzi": "万",
+      "pinyin": "wàn",
+      "english_answers": [
+        "ten thousand"
+      ],
+      "english_gloss": "ten thousand",
+      "audio": "万.mp3"
+    },
+    {
+      "hanzi": "点",
+      "pinyin": "diǎn",
+      "english_answers": [
+        "o'clock",
+        "point"
+      ],
+      "english_gloss": "o'clock / point",
+      "audio": "点.mp3"
+    },
+    {
+      "hanzi": "你叫什么名字？",
+      "pinyin": "Nǐ jiào shénme míngzi?",
+      "english_answers": [
+        "what is your name"
+      ],
+      "english_gloss": "what is your name",
+      "audio": "你叫什么名字？.mp3"
+    },
+    {
+      "hanzi": "我叫……",
+      "pinyin": "Wǒ jiào…",
+      "english_answers": [
+        "my name is"
+      ],
+      "english_gloss": "my name is",
+      "audio": "我叫…….mp3"
+    },
+    {
+      "hanzi": "你是哪国人？",
+      "pinyin": "Nǐ shì nǎ guó rén?",
+      "english_answers": [
+        "what country are you from"
+      ],
+      "english_gloss": "what country are you from",
+      "audio": "你是哪国人？.mp3"
+    },
+    {
+      "hanzi": "我是加拿大人。",
+      "pinyin": "Wǒ shì Jiānádà rén.",
+      "english_answers": [
+        "I am Canadian"
+      ],
+      "english_gloss": "I am Canadian",
+      "audio": "我是加拿大人。.mp3"
+    },
+    {
+      "hanzi": "我住在这里。",
+      "pinyin": "Wǒ zhù zài zhèlǐ.",
+      "english_answers": [
+        "I live here"
+      ],
+      "english_gloss": "I live here",
+      "audio": "我住在这里。.mp3"
+    },
+    {
+      "hanzi": "我学中文。",
+      "pinyin": "Wǒ xué Zhōngwén.",
+      "english_answers": [
+        "I study Chinese"
+      ],
+      "english_gloss": "I study Chinese",
+      "audio": "我学中文。.mp3"
+    },
+    {
+      "hanzi": "我会说一点中文。",
+      "pinyin": "Wǒ huì shuō yìdiǎn Zhōngwén.",
+      "english_answers": [
+        "I speak a little Chinese"
+      ],
+      "english_gloss": "I speak a little Chinese",
+      "audio": "我会说一点中文。.mp3"
+    },
+    {
+      "hanzi": "请说慢一点。",
+      "pinyin": "Qǐng shuō màn yìdiǎn.",
+      "english_answers": [
+        "please speak more slowly"
+      ],
+      "english_gloss": "please speak more slowly",
+      "audio": "请说慢一点。.mp3"
+    },
+    {
+      "hanzi": "请再说一遍。",
+      "pinyin": "Qǐng zài shuō yí biàn.",
+      "english_answers": [
+        "please say it again"
+      ],
+      "english_gloss": "please say it again",
+      "audio": "请再说一遍。.mp3"
+    },
+    {
+      "hanzi": "这个怎么说？",
+      "pinyin": "Zhège zěnme shuō?",
+      "english_answers": [
+        "how do you say this"
+      ],
+      "english_gloss": "how do you say this",
+      "audio": "这个怎么说？.mp3"
+    },
+    {
+      "hanzi": "这个怎么写？",
+      "pinyin": "Zhège zěnme xiě?",
+      "english_answers": [
+        "how do you write this"
+      ],
+      "english_gloss": "how do you write this",
+      "audio": "这个怎么写？.mp3"
+    },
+    {
+      "hanzi": "我听懂了。",
+      "pinyin": "Wǒ tīng dǒng le.",
+      "english_answers": [
+        "I understood"
+      ],
+      "english_gloss": "I understood",
+      "audio": "我听懂了。.mp3"
+    },
+    {
+      "hanzi": "我忘了。",
+      "pinyin": "Wǒ wàng le.",
+      "english_answers": [
+        "I forgot"
+      ],
+      "english_gloss": "I forgot",
+      "audio": "我忘了。.mp3"
+    },
+    {
+      "hanzi": "我记得。",
+      "pinyin": "Wǒ jìde.",
+      "english_answers": [
+        "I remember"
+      ],
+      "english_gloss": "I remember",
+      "audio": "我记得。.mp3"
+    },
+    {
+      "hanzi": "请稍等。",
+      "pinyin": "Qǐng shāo děng.",
+      "english_answers": [
+        "please wait a moment"
+      ],
+      "english_gloss": "please wait a moment",
+      "audio": "请稍等。.mp3"
+    },
+    {
+      "hanzi": "请进。",
+      "pinyin": "Qǐng jìn.",
+      "english_answers": [
+        "please come in"
+      ],
+      "english_gloss": "please come in",
+      "audio": "请进。.mp3"
+    },
+    {
+      "hanzi": "请坐。",
+      "pinyin": "Qǐng zuò.",
+      "english_answers": [
+        "please sit down"
+      ],
+      "english_gloss": "please sit down",
+      "audio": "请坐。.mp3"
+    },
+    {
+      "hanzi": "这是谁的？",
+      "pinyin": "Zhè shì shéi de?",
+      "english_answers": [
+        "whose is this"
+      ],
+      "english_gloss": "whose is this",
+      "audio": "这是谁的？.mp3"
+    },
+    {
+      "hanzi": "这是我的。",
+      "pinyin": "Zhè shì wǒ de.",
+      "english_answers": [
+        "this is mine"
+      ],
+      "english_gloss": "this is mine",
+      "audio": "这是我的。.mp3"
+    },
+    {
+      "hanzi": "那不是我的。",
+      "pinyin": "Nà bú shì wǒ de.",
+      "english_answers": [
+        "that is not mine"
+      ],
+      "english_gloss": "that is not mine",
+      "audio": "那不是我的。.mp3"
+    },
+    {
+      "hanzi": "在哪里？",
+      "pinyin": "Zài nǎlǐ?",
+      "english_answers": [
+        "where is it"
+      ],
+      "english_gloss": "where is it",
+      "audio": "在哪里？.mp3"
+    },
+    {
+      "hanzi": "在这儿。",
+      "pinyin": "Zài zhèr.",
+      "english_answers": [
+        "it's here"
+      ],
+      "english_gloss": "it's here",
+      "audio": "在这儿。.mp3"
+    },
+    {
+      "hanzi": "在那儿。",
+      "pinyin": "Zài nàr.",
+      "english_answers": [
+        "it's there"
+      ],
+      "english_gloss": "it's there",
+      "audio": "在那儿。.mp3"
+    },
+    {
+      "hanzi": "有什么？",
+      "pinyin": "Yǒu shénme?",
+      "english_answers": [
+        "what is there"
+      ],
+      "english_gloss": "what is there",
+      "audio": "有什么？.mp3"
+    },
+    {
+      "hanzi": "还有吗？",
+      "pinyin": "Hái yǒu ma?",
+      "english_answers": [
+        "is there any more"
+      ],
+      "english_gloss": "is there any more",
+      "audio": "还有吗？.mp3"
+    },
+    {
+      "hanzi": "够了。",
+      "pinyin": "Gòu le.",
+      "english_answers": [
+        "that's enough"
+      ],
+      "english_gloss": "that's enough",
+      "audio": "够了。.mp3"
+    },
+    {
+      "hanzi": "不够。",
+      "pinyin": "Bú gòu.",
+      "english_answers": [
+        "not enough"
+      ],
+      "english_gloss": "not enough",
+      "audio": "不够。.mp3"
+    },
+    {
+      "hanzi": "多少钱？",
+      "pinyin": "Duōshao qián?",
+      "english_answers": [
+        "how much does it cost"
+      ],
+      "english_gloss": "how much does it cost",
+      "audio": "多少钱？.mp3"
+    },
+    {
+      "hanzi": "太贵了。",
+      "pinyin": "Tài guì le.",
+      "english_answers": [
+        "too expensive"
+      ],
+      "english_gloss": "too expensive",
+      "audio": "太贵了。.mp3"
+    },
+    {
+      "hanzi": "便宜一点。",
+      "pinyin": "Piányi yìdiǎn.",
+      "english_answers": [
+        "a little cheaper"
+      ],
+      "english_gloss": "a little cheaper",
+      "audio": "便宜一点。.mp3"
+    },
+    {
+      "hanzi": "我买这个。",
+      "pinyin": "Wǒ mǎi zhège.",
+      "english_answers": [
+        "I'll buy this"
+      ],
+      "english_gloss": "I'll buy this",
+      "audio": "我买这个。.mp3"
+    },
+    {
+      "hanzi": "我不要这个。",
+      "pinyin": "Wǒ bú yào zhège.",
+      "english_answers": [
+        "I don't want this"
+      ],
+      "english_gloss": "I don't want this",
+      "audio": "我不要这个。.mp3"
+    },
+    {
+      "hanzi": "我找不到。",
+      "pinyin": "Wǒ zhǎo bu dào.",
+      "english_answers": [
+        "I can't find it"
+      ],
+      "english_gloss": "I can't find it",
+      "audio": "我找不到。.mp3"
+    },
+    {
+      "hanzi": "我有一个问题。",
+      "pinyin": "Wǒ yǒu yí ge wèntí.",
+      "english_answers": [
+        "I have a question"
+      ],
+      "english_gloss": "I have a question",
+      "audio": "我有一个问题。.mp3"
+    },
+    {
+      "hanzi": "我有时间。",
+      "pinyin": "Wǒ yǒu shíjiān.",
+      "english_answers": [
+        "I have time"
+      ],
+      "english_gloss": "I have time",
+      "audio": "我有时间。.mp3"
+    },
+    {
+      "hanzi": "我没时间。",
+      "pinyin": "Wǒ méi shíjiān.",
+      "english_answers": [
+        "I have no time"
+      ],
+      "english_gloss": "I have no time",
+      "audio": "我没时间。.mp3"
+    },
+    {
+      "hanzi": "我准备好了。",
+      "pinyin": "Wǒ zhǔnbèi hǎo le.",
+      "english_answers": [
+        "I'm ready"
+      ],
+      "english_gloss": "I'm ready",
+      "audio": "我准备好了。.mp3"
+    },
+    {
+      "hanzi": "我还没准备好。",
+      "pinyin": "Wǒ hái méi zhǔnbèi hǎo.",
+      "english_answers": [
+        "I'm not ready yet"
+      ],
+      "english_gloss": "I'm not ready yet",
+      "audio": "我还没准备好。.mp3"
+    },
+    {
+      "hanzi": "怎么办？",
+      "pinyin": "Zěnme bàn?",
+      "english_answers": [
+        "what should we do"
+      ],
+      "english_gloss": "what should we do",
+      "audio": "怎么办？.mp3"
+    },
+    {
+      "hanzi": "没问题。",
+      "pinyin": "Méi wèntí.",
+      "english_answers": [
+        "no problem"
+      ],
+      "english_gloss": "no problem",
+      "audio": "没问题。.mp3"
+    },
+    {
+      "hanzi": "哪一个？",
+      "pinyin": "Nǎ yí ge?",
+      "english_answers": [
+        "which one"
+      ],
+      "english_gloss": "which one",
+      "audio": "哪一个？.mp3"
+    },
+    {
+      "hanzi": "这两个一样吗？",
+      "pinyin": "Zhè liǎng ge yíyàng ma?",
+      "english_answers": [
+        "are these two the same"
+      ],
+      "english_gloss": "are these two the same",
+      "audio": "这两个一样吗？.mp3"
+    },
+    {
+      "hanzi": "我不确定。",
+      "pinyin": "Wǒ bú quèdìng.",
+      "english_answers": [
+        "I'm not sure"
+      ],
+      "english_gloss": "I'm not sure",
+      "audio": "我不确定。.mp3"
+    },
+    {
+      "hanzi": "我知道了。",
+      "pinyin": "Wǒ zhīdào le.",
+      "english_answers": [
+        "I see now"
+      ],
+      "english_gloss": "I see now",
+      "audio": "我知道了。.mp3"
+    }
+  ]
+}

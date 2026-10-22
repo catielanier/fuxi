@@ -16,7 +16,7 @@
     },
     {
       "hanzi": "市中心",
-      "pinyin": "shì zhōngxīn",
+      "pinyin": "shìzhōngxīn",
       "english_answers": [
         "city center",
         "downtown"
@@ -246,7 +246,7 @@
     },
     {
       "hanzi": "购物中心",
-      "pinyin": "gòuwù zhōngxīn",
+      "pinyin": "gòuwùzhōngxīn",
       "english_answers": [
         "shopping center"
       ],
@@ -255,7 +255,7 @@
     },
     {
       "hanzi": "百货商店",
-      "pinyin": "bǎihuò shāngdiàn",
+      "pinyin": "bǎihuòshāngdiàn",
       "english_answers": [
         "department store"
       ],
@@ -273,7 +273,7 @@
     },
     {
       "hanzi": "农贸市场",
-      "pinyin": "nóngmào shìchǎng",
+      "pinyin": "nóngmàoshìchǎng",
       "english_answers": [
         "farmers' market"
       ],
@@ -364,7 +364,7 @@
     },
     {
       "hanzi": "批发市场",
-      "pinyin": "pīfā shìchǎng",
+      "pinyin": "pīfāshìchǎng",
       "english_answers": [
         "wholesale market"
       ],
@@ -594,7 +594,7 @@
     },
     {
       "hanzi": "自动取款机",
-      "pinyin": "zìdòng qǔkuǎnjī",
+      "pinyin": "zìdòngqǔkuǎnjī",
       "english_answers": [
         "ATM"
       ],
@@ -639,7 +639,7 @@
     },
     {
       "hanzi": "市政府",
-      "pinyin": "shì zhèngfǔ",
+      "pinyin": "shìzhèngfǔ",
       "english_answers": [
         "municipal government"
       ],
@@ -713,7 +713,7 @@
     },
     {
       "hanzi": "培训中心",
-      "pinyin": "péixùn zhōngxīn",
+      "pinyin": "péixùnzhōngxīn",
       "english_answers": [
         "training center"
       ],
@@ -806,7 +806,7 @@
     },
     {
       "hanzi": "物业管理处",
-      "pinyin": "wùyè guǎnlǐchù",
+      "pinyin": "wùyèguǎnlǐchù",
       "english_answers": [
         "property management office"
       ],
@@ -824,7 +824,7 @@
     },
     {
       "hanzi": "房产中介",
-      "pinyin": "fángchǎn zhōngjiè",
+      "pinyin": "fángchǎnzhōngjiè",
       "english_answers": [
         "real estate agency"
       ],
@@ -861,7 +861,7 @@
     },
     {
       "hanzi": "公共厕所",
-      "pinyin": "gōnggòng cèsuǒ",
+      "pinyin": "gōnggòngcèsuǒ",
       "english_answers": [
         "public restroom"
       ],
@@ -897,7 +897,7 @@
     },
     {
       "hanzi": "宠物医院",
-      "pinyin": "chǒngwù yīyuàn",
+      "pinyin": "chǒngwùyīyuàn",
       "english_answers": [
         "veterinary hospital"
       ],
@@ -906,7 +906,7 @@
     },
     {
       "hanzi": "花鸟市场",
-      "pinyin": "huāniǎo shìchǎng",
+      "pinyin": "huāniǎoshìchǎng",
       "english_answers": [
         "flower",
         "bird",
@@ -917,7 +917,7 @@
     },
     {
       "hanzi": "旧货市场",
-      "pinyin": "jiùhuò shìchǎng",
+      "pinyin": "jiùhuòshìchǎng",
       "english_answers": [
         "secondhand goods market"
       ],

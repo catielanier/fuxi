@@ -201,7 +201,7 @@
     },
     {
       "hanzi": "洗衣服",
-      "pinyin": "xǐ yīfu",
+      "pinyin": "xǐyīfu",
       "english_answers": [
         "wash clothes",
         "do laundry"
@@ -211,7 +211,7 @@
     },
     {
       "hanzi": "晾衣服",
-      "pinyin": "liàng yīfu",
+      "pinyin": "liàngyīfu",
       "english_answers": [
         "hang clothes to dry"
       ],
@@ -258,7 +258,7 @@
     },
     {
       "hanzi": "倒垃圾",
-      "pinyin": "dào lājī",
+      "pinyin": "dàolājī",
       "english_answers": [
         "take out",
         "dump garbage"
@@ -831,7 +831,7 @@
     },
     {
       "hanzi": "等一下",
-      "pinyin": "děng yíxià",
+      "pinyin": "děngyíxià",
       "english_answers": [
         "wait a moment"
       ],

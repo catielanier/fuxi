@@ -7,7 +7,7 @@
   "cards": [
     {
       "hanzi": "把字句",
-      "pinyin": "bǎ zì jù",
+      "pinyin": "bǎzìjù",
       "english_answers": [
         "sentence pattern marking the affected object"
       ],
@@ -16,7 +16,7 @@
     },
     {
       "hanzi": "被字句",
-      "pinyin": "bèi zì jù",
+      "pinyin": "bèizìjù",
       "english_answers": [
         "passive sentence construction"
       ],
@@ -70,7 +70,7 @@
     },
     {
       "hanzi": "还没",
-      "pinyin": "hái méi",
+      "pinyin": "háiméi",
       "english_answers": [
         "not yet"
       ],
@@ -97,7 +97,7 @@
     },
     {
       "hanzi": "我吃过了。",
-      "pinyin": "Wǒ chī guo le.",
+      "pinyin": "Wǒchīguole.",
       "english_answers": [
         "I've eaten already."
       ],
@@ -106,7 +106,7 @@
     },
     {
       "hanzi": "我去过北京。",
-      "pinyin": "Wǒ qù guo Běijīng.",
+      "pinyin": "WǒqùguoBěijīng.",
       "english_answers": [
         "I've been to Beijing before."
       ],
@@ -115,7 +115,7 @@
     },
     {
       "hanzi": "我没去过上海。",
-      "pinyin": "Wǒ méi qù guo Shànghǎi.",
+      "pinyin": "WǒméiqùguoShànghǎi.",
       "english_answers": [
         "I've never been to Shanghai."
       ],
@@ -124,7 +124,7 @@
     },
     {
       "hanzi": "我正在学习中文。",
-      "pinyin": "Wǒ zhèngzài xuéxí Zhōngwén.",
+      "pinyin": "WǒzhèngzàixuéxíZhōngwén.",
       "english_answers": [
         "I'm studying Chinese right now."
       ],
@@ -133,7 +133,7 @@
     },
     {
       "hanzi": "门开着。",
-      "pinyin": "Mén kāi zhe.",
+      "pinyin": "Ménkāizhe.",
       "english_answers": [
         "The door is open."
       ],
@@ -142,7 +142,7 @@
     },
     {
       "hanzi": "他已经走了。",
-      "pinyin": "Tā yǐjīng zǒu le.",
+      "pinyin": "Tāyǐjīngzǒule.",
       "english_answers": [
         "He's already left."
       ],
@@ -151,7 +151,7 @@
     },
     {
       "hanzi": "我还没吃饭。",
-      "pinyin": "Wǒ hái méi chīfàn.",
+      "pinyin": "Wǒháiméichīfàn.",
       "english_answers": [
         "I haven't eaten yet."
       ],
@@ -160,7 +160,7 @@
     },
     {
       "hanzi": "天冷了。",
-      "pinyin": "Tiān lěng le.",
+      "pinyin": "Tiānlěngle.",
       "english_answers": [
         "It's gotten cold."
       ],
@@ -169,7 +169,7 @@
     },
     {
       "hanzi": "我把钥匙忘在家里了。",
-      "pinyin": "Wǒ bǎ yàoshi wàng zài jiālǐ le.",
+      "pinyin": "Wǒbǎyàoshiwàngzàijiālǐle.",
       "english_answers": [
         "I left the keys at home."
       ],
@@ -178,7 +178,7 @@
     },
     {
       "hanzi": "请把门关上。",
-      "pinyin": "Qǐng bǎ mén guān shàng.",
+      "pinyin": "Qǐngbǎménguānshàng.",
       "english_answers": [
         "Please close the door."
       ],
@@ -187,7 +187,7 @@
     },
     {
       "hanzi": "我把手机弄丢了。",
-      "pinyin": "Wǒ bǎ shǒujī nòng diū le.",
+      "pinyin": "Wǒbǎshǒujīnòngdiūle.",
       "english_answers": [
         "I lost my phone."
       ],
@@ -196,7 +196,7 @@
     },
     {
       "hanzi": "这本书被借走了。",
-      "pinyin": "Zhè běn shū bèi jiè zǒu le.",
+      "pinyin": "Zhèběnshūbèijièzǒule.",
       "english_answers": [
         "This book has been borrowed."
       ],
@@ -205,7 +205,7 @@
     },
     {
       "hanzi": "我的电脑被修好了。",
-      "pinyin": "Wǒ de diànnǎo bèi xiū hǎo le.",
+      "pinyin": "Wǒdediànnǎobèixiūhǎole.",
       "english_answers": [
         "My computer was repaired."
       ],
@@ -214,7 +214,7 @@
     },
     {
       "hanzi": "我的包被偷了。",
-      "pinyin": "Wǒ de bāo bèi tōu le.",
+      "pinyin": "Wǒdebāobèitōule.",
       "english_answers": [
         "My bag was stolen."
       ],
@@ -223,7 +223,7 @@
     },
     {
       "hanzi": "看完",
-      "pinyin": "kàn wán",
+      "pinyin": "kànwán",
       "english_answers": [
         "finish watching/reading"
       ],
@@ -232,7 +232,7 @@
     },
     {
       "hanzi": "吃完",
-      "pinyin": "chī wán",
+      "pinyin": "chīwán",
       "english_answers": [
         "finish eating"
       ],
@@ -241,7 +241,7 @@
     },
     {
       "hanzi": "做完",
-      "pinyin": "zuò wán",
+      "pinyin": "zuòwán",
       "english_answers": [
         "finish doing"
       ],
@@ -250,7 +250,7 @@
     },
     {
       "hanzi": "写完",
-      "pinyin": "xiě wán",
+      "pinyin": "xiěwán",
       "english_answers": [
         "finish writing"
       ],
@@ -259,7 +259,7 @@
     },
     {
       "hanzi": "听懂",
-      "pinyin": "tīng dǒng",
+      "pinyin": "tīngdǒng",
       "english_answers": [
         "understand through listening"
       ],
@@ -268,7 +268,7 @@
     },
     {
       "hanzi": "看懂",
-      "pinyin": "kàn dǒng",
+      "pinyin": "kàndǒng",
       "english_answers": [
         "understand through reading/watching"
       ],
@@ -277,7 +277,7 @@
     },
     {
       "hanzi": "听清楚",
-      "pinyin": "tīng qīngchu",
+      "pinyin": "tīngqīngchu",
       "english_answers": [
         "hear clearly"
       ],
@@ -286,7 +286,7 @@
     },
     {
       "hanzi": "看清楚",
-      "pinyin": "kàn qīngchu",
+      "pinyin": "kànqīngchu",
       "english_answers": [
         "see clearly"
       ],
@@ -295,7 +295,7 @@
     },
     {
       "hanzi": "找到了",
-      "pinyin": "zhǎo dào le",
+      "pinyin": "zhǎodàole",
       "english_answers": [
         "found it"
       ],
@@ -304,7 +304,7 @@
     },
     {
       "hanzi": "买到了",
-      "pinyin": "mǎi dào le",
+      "pinyin": "mǎidàole",
       "english_answers": [
         "managed to buy it"
       ],
@@ -313,7 +313,7 @@
     },
     {
       "hanzi": "想起来了",
-      "pinyin": "xiǎng qǐlái le",
+      "pinyin": "xiǎngqǐláile",
       "english_answers": [
         "remembered it"
       ],
@@ -342,7 +342,7 @@
     },
     {
       "hanzi": "拿出来",
-      "pinyin": "ná chūlái",
+      "pinyin": "náchūlái",
       "english_answers": [
         "take out"
       ],
@@ -351,7 +351,7 @@
     },
     {
       "hanzi": "放进去",
-      "pinyin": "fàng jìnqù",
+      "pinyin": "fàngjìnqù",
       "english_answers": [
         "put inside"
       ],
@@ -360,7 +360,7 @@
     },
     {
       "hanzi": "走进去",
-      "pinyin": "zǒu jìnqù",
+      "pinyin": "zǒujìnqù",
       "english_answers": [
         "walk in"
       ],
@@ -369,7 +369,7 @@
     },
     {
       "hanzi": "跑出来",
-      "pinyin": "pǎo chūlái",
+      "pinyin": "pǎochūlái",
       "english_answers": [
         "run out"
       ],
@@ -378,7 +378,7 @@
     },
     {
       "hanzi": "拿回来",
-      "pinyin": "ná huílái",
+      "pinyin": "náhuílái",
       "english_answers": [
         "bring back"
       ],
@@ -387,7 +387,7 @@
     },
     {
       "hanzi": "送过去",
-      "pinyin": "sòng guòqù",
+      "pinyin": "sòngguòqù",
       "english_answers": [
         "send/take over there"
       ],
@@ -396,7 +396,7 @@
     },
     {
       "hanzi": "听不懂",
-      "pinyin": "tīng bu dǒng",
+      "pinyin": "tīngbudǒng",
       "english_answers": [
         "can't understand by listening"
       ],
@@ -405,7 +405,7 @@
     },
     {
       "hanzi": "看不懂",
-      "pinyin": "kàn bu dǒng",
+      "pinyin": "kànbudǒng",
       "english_answers": [
         "can't understand by reading"
       ],
@@ -414,7 +414,7 @@
     },
     {
       "hanzi": "买不起",
-      "pinyin": "mǎi bu qǐ",
+      "pinyin": "mǎibuqǐ",
       "english_answers": [
         "can't afford to buy"
       ],
@@ -423,7 +423,7 @@
     },
     {
       "hanzi": "买得起",
-      "pinyin": "mǎi de qǐ",
+      "pinyin": "mǎideqǐ",
       "english_answers": [
         "can afford to buy"
       ],
@@ -432,7 +432,7 @@
     },
     {
       "hanzi": "来不了",
-      "pinyin": "lái bu liǎo",
+      "pinyin": "láibuliǎo",
       "english_answers": [
         "can't come"
       ],
@@ -441,7 +441,7 @@
     },
     {
       "hanzi": "来得了",
-      "pinyin": "lái de liǎo",
+      "pinyin": "láideliǎo",
       "english_answers": [
         "able to come"
       ],
@@ -450,7 +450,7 @@
     },
     {
       "hanzi": "做得到",
-      "pinyin": "zuò de dào",
+      "pinyin": "zuòdedào",
       "english_answers": [
         "can manage to do it"
       ],
@@ -459,7 +459,7 @@
     },
     {
       "hanzi": "做不到",
-      "pinyin": "zuò bu dào",
+      "pinyin": "zuòbudào",
       "english_answers": [
         "can't manage to do it"
       ],
@@ -468,7 +468,7 @@
     },
     {
       "hanzi": "说得太快",
-      "pinyin": "shuō de tài kuài",
+      "pinyin": "shuōdetàikuài",
       "english_answers": [
         "speak too quickly"
       ],
@@ -477,7 +477,7 @@
     },
     {
       "hanzi": "说得很好",
-      "pinyin": "shuō de hěn hǎo",
+      "pinyin": "shuōdehěnhǎo",
       "english_answers": [
         "speak very well"
       ],
@@ -486,7 +486,7 @@
     },
     {
       "hanzi": "我听不懂。",
-      "pinyin": "Wǒ tīng bu dǒng.",
+      "pinyin": "Wǒtīngbudǒng.",
       "english_answers": [
         "I can't understand what I'm hearing."
       ],
@@ -495,7 +495,7 @@
     },
     {
       "hanzi": "你说得太快了。",
-      "pinyin": "Nǐ shuō de tài kuài le.",
+      "pinyin": "Nǐshuōdetàikuàile.",
       "english_answers": [
         "You're speaking too fast."
       ],
@@ -504,7 +504,7 @@
     },
     {
       "hanzi": "这件事很难解释。",
-      "pinyin": "Zhè jiàn shì hěn nán jiěshì.",
+      "pinyin": "Zhèjiànshìhěnnánjiěshì.",
       "english_answers": [
         "This is hard to explain."
       ],
@@ -523,7 +523,7 @@
     },
     {
       "hanzi": "没有……那么……",
-      "pinyin": "méiyǒu… nàme…",
+      "pinyin": "méiyǒu…nàme…",
       "english_answers": [
         "not as… as…"
       ],
@@ -532,7 +532,7 @@
     },
     {
       "hanzi": "跟……一样",
-      "pinyin": "gēn… yíyàng",
+      "pinyin": "gēn…yíyàng",
       "english_answers": [
         "the same as…"
       ],
@@ -541,7 +541,7 @@
     },
     {
       "hanzi": "越来越",
-      "pinyin": "yuè lái yuè",
+      "pinyin": "yuèláiyuè",
       "english_answers": [
         "more and more"
       ],
@@ -550,7 +550,7 @@
     },
     {
       "hanzi": "越……越……",
-      "pinyin": "yuè… yuè…",
+      "pinyin": "yuè…yuè…",
       "english_answers": [
         "the more… the more…"
       ],
@@ -608,7 +608,7 @@
     },
     {
       "hanzi": "这个比那个贵。",
-      "pinyin": "Zhège bǐ nàge guì.",
+      "pinyin": "Zhègebǐnàgeguì.",
       "english_answers": [
         "This is more expensive than that."
       ],
@@ -617,7 +617,7 @@
     },
     {
       "hanzi": "今天没有昨天冷。",
-      "pinyin": "Jīntiān méiyǒu zuótiān lěng.",
+      "pinyin": "Jīntiānméiyǒuzuótiānlěng.",
       "english_answers": [
         "Today isn't as cold as yesterday."
       ],
@@ -626,7 +626,7 @@
     },
     {
       "hanzi": "她跟我一样高。",
-      "pinyin": "Tā gēn wǒ yíyàng gāo.",
+      "pinyin": "Tāgēnwǒyíyànggāo.",
       "english_answers": [
         "She's the same height as me."
       ],
@@ -635,7 +635,7 @@
     },
     {
       "hanzi": "我越来越习惯了。",
-      "pinyin": "Wǒ yuè lái yuè xíguàn le.",
+      "pinyin": "Wǒyuèláiyuèxíguànle.",
       "english_answers": [
         "I'm getting more and more used to it."
       ],
@@ -644,7 +644,7 @@
     },
     {
       "hanzi": "越练越容易。",
-      "pinyin": "Yuè liàn yuè róngyì.",
+      "pinyin": "Yuèliànyuèróngyì.",
       "english_answers": [
         "The more you practice, the easier it gets."
       ],
@@ -653,7 +653,7 @@
     },
     {
       "hanzi": "虽然……但是……",
-      "pinyin": "suīrán… dànshì…",
+      "pinyin": "suīrán…dànshì…",
       "english_answers": [
         "although… nevertheless…"
       ],
@@ -662,7 +662,7 @@
     },
     {
       "hanzi": "如果……就……",
-      "pinyin": "rúguǒ… jiù…",
+      "pinyin": "rúguǒ…jiù…",
       "english_answers": [
         "if… then…"
       ],
@@ -671,7 +671,7 @@
     },
     {
       "hanzi": "只要……就……",
-      "pinyin": "zhǐyào… jiù…",
+      "pinyin": "zhǐyào…jiù…",
       "english_answers": [
         "as long as… then…"
       ],
@@ -680,7 +680,7 @@
     },
     {
       "hanzi": "除非……否则……",
-      "pinyin": "chúfēi… fǒuzé…",
+      "pinyin": "chúfēi…fǒuzé…",
       "english_answers": [
         "unless… otherwise…"
       ],
@@ -689,7 +689,7 @@
     },
     {
       "hanzi": "不但……而且……",
-      "pinyin": "búdàn… érqiě…",
+      "pinyin": "búdàn…érqiě…",
       "english_answers": [
         "not only… but also…"
       ],
@@ -698,7 +698,7 @@
     },
     {
       "hanzi": "既……又……",
-      "pinyin": "jì… yòu…",
+      "pinyin": "jì…yòu…",
       "english_answers": [
         "both… and…"
       ],
@@ -707,7 +707,7 @@
     },
     {
       "hanzi": "或者……或者……",
-      "pinyin": "huòzhě… huòzhě…",
+      "pinyin": "huòzhě…huòzhě…",
       "english_answers": [
         "either… or…"
       ],
@@ -716,7 +716,7 @@
     },
     {
       "hanzi": "不是……而是……",
-      "pinyin": "bú shì… ér shì…",
+      "pinyin": "búshì…érshì…",
       "english_answers": [
         "not… but rather…"
       ],
@@ -725,7 +725,7 @@
     },
     {
       "hanzi": "连……都……",
-      "pinyin": "lián… dōu…",
+      "pinyin": "lián…dōu…",
       "english_answers": [
         "even…"
       ],
@@ -734,7 +734,7 @@
     },
     {
       "hanzi": "除了……以外……",
-      "pinyin": "chúle… yǐwài…",
+      "pinyin": "chúle…yǐwài…",
       "english_answers": [
         "apart from…",
         "besides…"
@@ -744,7 +744,7 @@
     },
     {
       "hanzi": "尽管……还是……",
-      "pinyin": "jǐnguǎn… háishi…",
+      "pinyin": "jǐnguǎn…háishi…",
       "english_answers": [
         "although… still…"
       ],
@@ -753,7 +753,7 @@
     },
     {
       "hanzi": "即使……也……",
-      "pinyin": "jíshǐ… yě…",
+      "pinyin": "jíshǐ…yě…",
       "english_answers": [
         "even if… still…"
       ],
@@ -762,7 +762,7 @@
     },
     {
       "hanzi": "要是……就……",
-      "pinyin": "yàoshi… jiù…",
+      "pinyin": "yàoshi…jiù…",
       "english_answers": [
         "if… then…"
       ],
@@ -771,7 +771,7 @@
     },
     {
       "hanzi": "一边……一边……",
-      "pinyin": "yìbiān… yìbiān…",
+      "pinyin": "yìbiān…yìbiān…",
       "english_answers": [
         "doing… while doing…"
       ],
@@ -780,7 +780,7 @@
     },
     {
       "hanzi": "一……就……",
-      "pinyin": "yī… jiù…",
+      "pinyin": "yī…jiù…",
       "english_answers": [
         "as soon as… then…"
       ],
@@ -789,7 +789,7 @@
     },
     {
       "hanzi": "先……再……",
-      "pinyin": "xiān… zài…",
+      "pinyin": "xiān…zài…",
       "english_answers": [
         "first… then…"
       ],
@@ -798,7 +798,7 @@
     },
     {
       "hanzi": "先……然后……",
-      "pinyin": "xiān… ránhòu…",
+      "pinyin": "xiān…ránhòu…",
       "english_answers": [
         "first… and afterward…"
       ],
@@ -807,7 +807,7 @@
     },
     {
       "hanzi": "把……给……",
-      "pinyin": "bǎ… gěi…",
+      "pinyin": "bǎ…gěi…",
       "english_answers": [
         "take/handle something and do… to/for someone"
       ],
@@ -856,7 +856,7 @@
     },
     {
       "hanzi": "难道……吗？",
-      "pinyin": "nándào… ma?",
+      "pinyin": "nándào…ma?",
       "english_answers": [
         "could it really be that…?"
       ],
@@ -865,7 +865,7 @@
     },
     {
       "hanzi": "是不是",
-      "pinyin": "shì bu shì",
+      "pinyin": "shìbushì",
       "english_answers": [
         "whether",
         "is it or not"
@@ -875,7 +875,7 @@
     },
     {
       "hanzi": "有没有",
-      "pinyin": "yǒu méi yǒu",
+      "pinyin": "yǒuméiyǒu",
       "english_answers": [
         "whether there is/has been"
       ],
@@ -884,7 +884,7 @@
     },
     {
       "hanzi": "什么都",
-      "pinyin": "shénme dōu",
+      "pinyin": "shénmedōu",
       "english_answers": [
         "everything",
         "anything"
@@ -894,7 +894,7 @@
     },
     {
       "hanzi": "谁也不",
-      "pinyin": "shéi yě bù",
+      "pinyin": "shéiyěbù",
       "english_answers": [
         "nobody",
         "not anyone"
@@ -904,7 +904,7 @@
     },
     {
       "hanzi": "一点儿也不",
-      "pinyin": "yìdiǎnr yě bù",
+      "pinyin": "yìdiǎnryěbù",
       "english_answers": [
         "not at all"
       ],
@@ -913,7 +913,7 @@
     },
     {
       "hanzi": "根本不",
-      "pinyin": "gēnběn bù",
+      "pinyin": "gēnběnbù",
       "english_answers": [
         "simply not",
         "not at all"

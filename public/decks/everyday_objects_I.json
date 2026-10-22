@@ -16,7 +16,7 @@
     },
     {
       "hanzi": "一张纸",
-      "pinyin": "yì zhāng zhǐ",
+      "pinyin": "yìzhāngzhǐ",
       "english_answers": [
         "a sheet of paper"
       ],
@@ -52,7 +52,7 @@
     },
     {
       "hanzi": "自动铅笔",
-      "pinyin": "zìdòng qiānbǐ",
+      "pinyin": "zìdòngqiānbǐ",
       "english_answers": [
         "mechanical pencil"
       ],
@@ -106,7 +106,7 @@
     },
     {
       "hanzi": "彩色铅笔",
-      "pinyin": "cǎisè qiānbǐ",
+      "pinyin": "cǎisèqiānbǐ",
       "english_answers": [
         "coloured pencil"
       ],
@@ -214,7 +214,7 @@
     },
     {
       "hanzi": "透明胶带",
-      "pinyin": "tòumíng jiāodài",
+      "pinyin": "tòumíngjiāodài",
       "english_answers": [
         "clear tape"
       ],
@@ -412,7 +412,7 @@
     },
     {
       "hanzi": "丙烯颜料",
-      "pinyin": "bǐngxī yánliào",
+      "pinyin": "bǐngxīyánliào",
       "english_answers": [
         "acrylic paint"
       ],
@@ -421,7 +421,7 @@
     },
     {
       "hanzi": "油画颜料",
-      "pinyin": "yóuhuà yánliào",
+      "pinyin": "yóuhuàyánliào",
       "english_answers": [
         "oil paint"
       ],
@@ -862,7 +862,7 @@
     },
     {
       "hanzi": "胶皮手套",
-      "pinyin": "jiāopí shǒutào",
+      "pinyin": "jiāopíshǒutào",
       "english_answers": [
         "rubber gloves"
       ],

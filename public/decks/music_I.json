@@ -34,7 +34,7 @@
     },
     {
       "hanzi": "打击乐器",
-      "pinyin": "dǎjī yuèqì",
+      "pinyin": "dǎjīyuèqì",
       "english_answers": [
         "percussion instrument"
       ],
@@ -43,7 +43,7 @@
     },
     {
       "hanzi": "键盘乐器",
-      "pinyin": "jiànpán yuèqì",
+      "pinyin": "jiànpányuèqì",
       "english_answers": [
         "keyboard instrument"
       ],
@@ -52,7 +52,7 @@
     },
     {
       "hanzi": "木吉他",
-      "pinyin": "mù jítā",
+      "pinyin": "mùjítā",
       "english_answers": [
         "acoustic guitar"
       ],
@@ -61,7 +61,7 @@
     },
     {
       "hanzi": "电吉他",
-      "pinyin": "diàn jítā",
+      "pinyin": "diànjítā",
       "english_answers": [
         "electric guitar"
       ],
@@ -79,7 +79,7 @@
     },
     {
       "hanzi": "电贝斯",
-      "pinyin": "diàn bèisī",
+      "pinyin": "diànbèisī",
       "english_answers": [
         "electric bass"
       ],
@@ -88,7 +88,7 @@
     },
     {
       "hanzi": "原声贝斯",
-      "pinyin": "yuánshēng bèisī",
+      "pinyin": "yuánshēngbèisī",
       "english_answers": [
         "acoustic bass guitar"
       ],
@@ -97,7 +97,7 @@
     },
     {
       "hanzi": "低音提琴",
-      "pinyin": "dīyīn tíqín",
+      "pinyin": "dīyīntíqín",
       "english_answers": [
         "double bass",
         "upright bass"
@@ -197,7 +197,7 @@
     },
     {
       "hanzi": "重金属",
-      "pinyin": "zhòng jīnshǔ",
+      "pinyin": "zhòngjīnshǔ",
       "english_answers": [
         "heavy metal"
       ],
@@ -206,7 +206,7 @@
     },
     {
       "hanzi": "新金属",
-      "pinyin": "xīn jīnshǔ",
+      "pinyin": "xīnjīnshǔ",
       "english_answers": [
         "nu metal"
       ],
@@ -215,7 +215,7 @@
     },
     {
       "hanzi": "另类金属",
-      "pinyin": "lìnglèi jīnshǔ",
+      "pinyin": "lìnglèijīnshǔ",
       "english_answers": [
         "alternative metal"
       ],
@@ -224,7 +224,7 @@
     },
     {
       "hanzi": "另类摇滚",
-      "pinyin": "lìnglèi yáogǔn",
+      "pinyin": "lìnglèiyáogǔn",
       "english_answers": [
         "alternative rock"
       ],
@@ -233,7 +233,7 @@
     },
     {
       "hanzi": "工业金属",
-      "pinyin": "gōngyè jīnshǔ",
+      "pinyin": "gōngyèjīnshǔ",
       "english_answers": [
         "industrial metal"
       ],
@@ -242,7 +242,7 @@
     },
     {
       "hanzi": "工业摇滚",
-      "pinyin": "gōngyè yáogǔn",
+      "pinyin": "gōngyèyáogǔn",
       "english_answers": [
         "industrial rock"
       ],
@@ -251,7 +251,7 @@
     },
     {
       "hanzi": "硬核朋克",
-      "pinyin": "yìnghé péngkè",
+      "pinyin": "yìnghépéngkè",
       "english_answers": [
         "hardcore punk"
       ],
@@ -260,7 +260,7 @@
     },
     {
       "hanzi": "朋克摇滚",
-      "pinyin": "péngkè yáogǔn",
+      "pinyin": "péngkèyáogǔn",
       "english_answers": [
         "punk rock"
       ],
@@ -269,7 +269,7 @@
     },
     {
       "hanzi": "后硬核",
-      "pinyin": "hòu yìnghé",
+      "pinyin": "hòuyìnghé",
       "english_answers": [
         "post-hardcore"
       ],
@@ -287,7 +287,7 @@
     },
     {
       "hanzi": "说唱金属",
-      "pinyin": "shuōchàng jīnshǔ",
+      "pinyin": "shuōchàngjīnshǔ",
       "english_answers": [
         "rap metal"
       ],
@@ -296,7 +296,7 @@
     },
     {
       "hanzi": "电子音乐",
-      "pinyin": "diànzǐ yīnyuè",
+      "pinyin": "diànzǐyīnyuè",
       "english_answers": [
         "electronic music"
       ],
@@ -305,7 +305,7 @@
     },
     {
       "hanzi": "电子舞曲",
-      "pinyin": "diànzǐ wǔqǔ",
+      "pinyin": "diànzǐwǔqǔ",
       "english_answers": [
         "electronic dance music",
         "EDM"
@@ -315,7 +315,7 @@
     },
     {
       "hanzi": "回响贝斯",
-      "pinyin": "huíxiǎng bèisī",
+      "pinyin": "huíxiǎngbèisī",
       "english_answers": [
         "dubstep"
       ],
@@ -324,7 +324,7 @@
     },
     {
       "hanzi": "合成器流行",
-      "pinyin": "héchéngqì liúxíng",
+      "pinyin": "héchéngqìliúxíng",
       "english_answers": [
         "synth-pop"
       ],
@@ -360,7 +360,7 @@
     },
     {
       "hanzi": "古典音乐",
-      "pinyin": "gǔdiǎn yīnyuè",
+      "pinyin": "gǔdiǎnyīnyuè",
       "english_answers": [
         "classical music"
       ],
@@ -396,7 +396,7 @@
     },
     {
       "hanzi": "和声歌手",
-      "pinyin": "héshēng gēshǒu",
+      "pinyin": "héshēnggēshǒu",
       "english_answers": [
         "backing",
         "harmony singer"
@@ -442,7 +442,7 @@
     },
     {
       "hanzi": "主音吉他手",
-      "pinyin": "zhǔyīn jítāshǒu",
+      "pinyin": "zhǔyīnjítāshǒu",
       "english_answers": [
         "lead guitarist"
       ],
@@ -451,7 +451,7 @@
     },
     {
       "hanzi": "节奏吉他手",
-      "pinyin": "jiézòu jítāshǒu",
+      "pinyin": "jiézòujítāshǒu",
       "english_answers": [
         "rhythm guitarist"
       ],
@@ -460,7 +460,7 @@
     },
     {
       "hanzi": "乐队成员",
-      "pinyin": "yuèduì chéngyuán",
+      "pinyin": "yuèduìchéngyuán",
       "english_answers": [
         "band member"
       ],
@@ -469,7 +469,7 @@
     },
     {
       "hanzi": "乐队队长",
-      "pinyin": "yuèduì duìzhǎng",
+      "pinyin": "yuèduìduìzhǎng",
       "english_answers": [
         "bandleader"
       ],
@@ -478,7 +478,7 @@
     },
     {
       "hanzi": "词曲作者",
-      "pinyin": "cíqǔ zuòzhě",
+      "pinyin": "cíqǔzuòzhě",
       "english_answers": [
         "songwriter",
         "composer-lyricist"
@@ -497,7 +497,7 @@
     },
     {
       "hanzi": "作词人",
-      "pinyin": "zuòcí rén",
+      "pinyin": "zuòcírén",
       "english_answers": [
         "lyricist"
       ],
@@ -516,7 +516,7 @@
     },
     {
       "hanzi": "音乐制作人",
-      "pinyin": "yīnyuè zhìzuòrén",
+      "pinyin": "yīnyuèzhìzuòrén",
       "english_answers": [
         "music producer"
       ],
@@ -636,7 +636,7 @@
     },
     {
       "hanzi": "即兴演奏",
-      "pinyin": "jíxìng yǎnzòu",
+      "pinyin": "jíxìngyǎnzòu",
       "english_answers": [
         "improvisation",
         "improvise"
@@ -731,7 +731,7 @@
     },
     {
       "hanzi": "失真音色",
-      "pinyin": "shīzhēn yīnsè",
+      "pinyin": "shīzhēnyīnsè",
       "english_answers": [
         "distorted tone"
       ],
@@ -740,7 +740,7 @@
     },
     {
       "hanzi": "组乐队",
-      "pinyin": "zǔ yuèduì",
+      "pinyin": "zǔyuèduì",
       "english_answers": [
         "form a band"
       ],
@@ -749,7 +749,7 @@
     },
     {
       "hanzi": "加入乐队",
-      "pinyin": "jiārù yuèduì",
+      "pinyin": "jiārùyuèduì",
       "english_answers": [
         "join a band"
       ],
@@ -758,7 +758,7 @@
     },
     {
       "hanzi": "招募乐手",
-      "pinyin": "zhāomù yuèshǒu",
+      "pinyin": "zhāomùyuèshǒu",
       "english_answers": [
         "recruit musicians"
       ],
@@ -776,7 +776,7 @@
     },
     {
       "hanzi": "排练计划",
-      "pinyin": "páiliàn jìhuà",
+      "pinyin": "páiliànjìhuà",
       "english_answers": [
         "rehearsal schedule",
         "plan"
@@ -786,7 +786,7 @@
     },
     {
       "hanzi": "原创歌曲",
-      "pinyin": "yuánchuàng gēqǔ",
+      "pinyin": "yuánchuànggēqǔ",
       "english_answers": [
         "original song"
       ],
@@ -823,7 +823,7 @@
     },
     {
       "hanzi": "黑胶唱片",
-      "pinyin": "hēijiāo chàngpiàn",
+      "pinyin": "hēijiāochàngpiàn",
       "english_answers": [
         "vinyl record"
       ],
@@ -850,7 +850,7 @@
     },
     {
       "hanzi": "演出场地",
-      "pinyin": "yǎnchū chǎngdì",
+      "pinyin": "yǎnchūchǎngdì",
       "english_answers": [
         "performance venue"
       ],
@@ -877,7 +877,7 @@
     },
     {
       "hanzi": "音响系统",
-      "pinyin": "yīnxiǎng xìtǒng",
+      "pinyin": "yīnxiǎngxìtǒng",
       "english_answers": [
         "sound system",
         "PA"
@@ -887,7 +887,7 @@
     },
     {
       "hanzi": "返听音箱",
-      "pinyin": "fǎntīng yīnxiāng",
+      "pinyin": "fǎntīngyīnxiāng",
       "english_answers": [
         "stage monitor speaker"
       ],
@@ -915,7 +915,7 @@
     },
     {
       "hanzi": "演出曲目",
-      "pinyin": "yǎnchū qǔmù",
+      "pinyin": "yǎnchūqǔmù",
       "english_answers": [
         "performance setlist",
         "repertoire"

@@ -62,7 +62,7 @@
     },
     {
       "hanzi": "什么时候",
-      "pinyin": "shénme shíhou",
+      "pinyin": "shénmeshíhou",
       "english_answers": [
         "when"
       ],
@@ -434,7 +434,7 @@
     },
     {
       "hanzi": "第一次",
-      "pinyin": "dì-yī cì",
+      "pinyin": "dì-yīcì",
       "english_answers": [
         "first time"
       ],
@@ -561,7 +561,7 @@
     },
     {
       "hanzi": "麻烦了",
-      "pinyin": "máfan le",
+      "pinyin": "máfanle",
       "english_answers": [
         "we're in trouble",
         "this is a problem"
@@ -571,7 +571,7 @@
     },
     {
       "hanzi": "坏了",
-      "pinyin": "huài le",
+      "pinyin": "huàile",
       "english_answers": [
         "it's broken",
         "oh no"
@@ -581,7 +581,7 @@
     },
     {
       "hanzi": "没电了",
-      "pinyin": "méi diàn le",
+      "pinyin": "méidiànle",
       "english_answers": [
         "battery is dead",
         "no power"
@@ -591,7 +591,7 @@
     },
     {
       "hanzi": "断网了",
-      "pinyin": "duànwǎng le",
+      "pinyin": "duànwǎngle",
       "english_answers": [
         "internet disconnected"
       ],
@@ -600,7 +600,7 @@
     },
     {
       "hanzi": "没信号",
-      "pinyin": "méi xìnhào",
+      "pinyin": "méixìnhào",
       "english_answers": [
         "no signal"
       ],
@@ -742,7 +742,7 @@
     },
     {
       "hanzi": "电话号码",
-      "pinyin": "diànhuà hàomǎ",
+      "pinyin": "diànhuàhàomǎ",
       "english_answers": [
         "telephone number"
       ],
@@ -751,7 +751,7 @@
     },
     {
       "hanzi": "打电话",
-      "pinyin": "dǎ diànhuà",
+      "pinyin": "dǎdiànhuà",
       "english_answers": [
         "make a phone call"
       ],
@@ -760,7 +760,7 @@
     },
     {
       "hanzi": "发消息",
-      "pinyin": "fā xiāoxi",
+      "pinyin": "fāxiāoxi",
       "english_answers": [
         "send a message"
       ],
@@ -816,7 +816,7 @@
     },
     {
       "hanzi": "下一站",
-      "pinyin": "xià yí zhàn",
+      "pinyin": "xiàyízhàn",
       "english_answers": [
         "next stop"
       ],

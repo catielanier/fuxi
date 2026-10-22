@@ -186,7 +186,7 @@
     },
     {
       "hanzi": "不舒服",
-      "pinyin": "bù shūfu",
+      "pinyin": "bùshūfu",
       "english_answers": [
         "feel unwell",
         "uncomfortable"
@@ -391,7 +391,7 @@
     },
     {
       "hanzi": "拉肚子",
-      "pinyin": "lā dùzi",
+      "pinyin": "lādùzi",
       "english_answers": [
         "have diarrhea"
       ],
@@ -418,7 +418,7 @@
     },
     {
       "hanzi": "胃灼热",
-      "pinyin": "wèi zhuórè",
+      "pinyin": "wèizhuórè",
       "english_answers": [
         "heartburn",
         "stomach burning"
@@ -458,7 +458,7 @@
     },
     {
       "hanzi": "食欲不振",
-      "pinyin": "shíyù bùzhèn",
+      "pinyin": "shíyùbùzhèn",
       "english_answers": [
         "loss of appetite"
       ],
@@ -467,7 +467,7 @@
     },
     {
       "hanzi": "消化不良",
-      "pinyin": "xiāohuà bùliáng",
+      "pinyin": "xiāohuàbùliáng",
       "english_answers": [
         "indigestion"
       ],
@@ -512,7 +512,7 @@
     },
     {
       "hanzi": "流鼻涕",
-      "pinyin": "liú bítì",
+      "pinyin": "liúbítì",
       "english_answers": [
         "have a runny nose"
       ],
@@ -521,7 +521,7 @@
     },
     {
       "hanzi": "打喷嚏",
-      "pinyin": "dǎ pēntì",
+      "pinyin": "dǎpēntì",
       "english_answers": [
         "sneeze"
       ],
@@ -530,7 +530,7 @@
     },
     {
       "hanzi": "呼吸困难",
-      "pinyin": "hūxī kùnnan",
+      "pinyin": "hūxīkùnnan",
       "english_answers": [
         "difficulty breathing"
       ],
@@ -548,7 +548,7 @@
     },
     {
       "hanzi": "喉咙痛",
-      "pinyin": "hóulóng tòng",
+      "pinyin": "hóulóngtòng",
       "english_answers": [
         "sore throat"
       ],
@@ -585,7 +585,7 @@
     },
     {
       "hanzi": "惊恐发作",
-      "pinyin": "jīngkǒng fāzuò",
+      "pinyin": "jīngkǒngfāzuò",
       "english_answers": [
         "panic attack"
       ],
@@ -623,7 +623,7 @@
     },
     {
       "hanzi": "情绪波动",
-      "pinyin": "qíngxù bōdòng",
+      "pinyin": "qíngxùbōdòng",
       "english_answers": [
         "mood swings"
       ],
@@ -672,7 +672,7 @@
     },
     {
       "hanzi": "注意力不集中",
-      "pinyin": "zhùyìlì bù jízhōng",
+      "pinyin": "zhùyìlìbùjízhōng",
       "english_answers": [
         "difficulty concentrating"
       ],
@@ -755,7 +755,7 @@
     },
     {
       "hanzi": "看医生",
-      "pinyin": "kàn yīshēng",
+      "pinyin": "kànyīshēng",
       "english_answers": [
         "see a doctor"
       ],
@@ -917,7 +917,7 @@
     },
     {
       "hanzi": "既往病史",
-      "pinyin": "jìwǎng bìngshǐ",
+      "pinyin": "jìwǎngbìngshǐ",
       "english_answers": [
         "past medical history"
       ],

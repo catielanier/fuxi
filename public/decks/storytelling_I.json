@@ -36,7 +36,7 @@
     },
     {
       "hanzi": "那时候",
-      "pinyin": "nà shíhou",
+      "pinyin": "nàshíhou",
       "english_answers": [
         "back then"
       ],
@@ -94,7 +94,7 @@
     },
     {
       "hanzi": "不久前",
-      "pinyin": "bùjiǔ qián",
+      "pinyin": "bùjiǔqián",
       "english_answers": [
         "not long ago"
       ],
@@ -103,7 +103,7 @@
     },
     {
       "hanzi": "几年前",
-      "pinyin": "jǐ nián qián",
+      "pinyin": "jǐniánqián",
       "english_answers": [
         "a few years ago"
       ],
@@ -112,7 +112,7 @@
     },
     {
       "hanzi": "好多年前",
-      "pinyin": "hǎo duō nián qián",
+      "pinyin": "hǎoduōniánqián",
       "english_answers": [
         "many years ago"
       ],
@@ -121,7 +121,7 @@
     },
     {
       "hanzi": "从那以后",
-      "pinyin": "cóng nà yǐhòu",
+      "pinyin": "cóngnàyǐhòu",
       "english_answers": [
         "ever since then"
       ],
@@ -130,7 +130,7 @@
     },
     {
       "hanzi": "直到现在",
-      "pinyin": "zhídào xiànzài",
+      "pinyin": "zhídàoxiànzài",
       "english_answers": [
         "until now"
       ],
@@ -139,7 +139,7 @@
     },
     {
       "hanzi": "一开始",
-      "pinyin": "yì kāishǐ",
+      "pinyin": "yìkāishǐ",
       "english_answers": [
         "at first"
       ],
@@ -157,7 +157,7 @@
     },
     {
       "hanzi": "后来才发现",
-      "pinyin": "hòulái cái fāxiàn",
+      "pinyin": "hòuláicáifāxiàn",
       "english_answers": [
         "only later did I discover"
       ],
@@ -223,7 +223,7 @@
     },
     {
       "hanzi": "与此同时",
-      "pinyin": "yǔ cǐ tóngshí",
+      "pinyin": "yǔcǐtóngshí",
       "english_answers": [
         "meanwhile",
         "at the same time"
@@ -297,7 +297,7 @@
     },
     {
       "hanzi": "过了一会儿",
-      "pinyin": "guò le yíhuìr",
+      "pinyin": "guòleyíhuìr",
       "english_answers": [
         "after a little while"
       ],
@@ -306,7 +306,7 @@
     },
     {
       "hanzi": "过了几天",
-      "pinyin": "guò le jǐ tiān",
+      "pinyin": "guòlejǐtiān",
       "english_answers": [
         "a few days later"
       ],
@@ -315,7 +315,7 @@
     },
     {
       "hanzi": "有一天",
-      "pinyin": "yǒu yì tiān",
+      "pinyin": "yǒuyìtiān",
       "english_answers": [
         "one day"
       ],
@@ -324,7 +324,7 @@
     },
     {
       "hanzi": "有一次",
-      "pinyin": "yǒu yí cì",
+      "pinyin": "yǒuyícì",
       "english_answers": [
         "once",
         "on one occasion"
@@ -334,7 +334,7 @@
     },
     {
       "hanzi": "每次",
-      "pinyin": "měi cì",
+      "pinyin": "měicì",
       "english_answers": [
         "every time"
       ],
@@ -343,7 +343,7 @@
     },
     {
       "hanzi": "第一次",
-      "pinyin": "dì yī cì",
+      "pinyin": "dìyīcì",
       "english_answers": [
         "the first time"
       ],
@@ -352,7 +352,7 @@
     },
     {
       "hanzi": "上次",
-      "pinyin": "shàng cì",
+      "pinyin": "shàngcì",
       "english_answers": [
         "last time"
       ],
@@ -361,7 +361,7 @@
     },
     {
       "hanzi": "下次",
-      "pinyin": "xià cì",
+      "pinyin": "xiàcì",
       "english_answers": [
         "next time"
       ],
@@ -370,7 +370,7 @@
     },
     {
       "hanzi": "当……的时候",
-      "pinyin": "dāng… de shíhou",
+      "pinyin": "dāng…deshíhou",
       "english_answers": [
         "when",
         "at the time that"
@@ -380,7 +380,7 @@
     },
     {
       "hanzi": "自从……以来",
-      "pinyin": "zìcóng… yǐlái",
+      "pinyin": "zìcóng…yǐlái",
       "english_answers": [
         "ever since"
       ],
@@ -429,7 +429,7 @@
     },
     {
       "hanzi": "没想到",
-      "pinyin": "méi xiǎngdào",
+      "pinyin": "méixiǎngdào",
       "english_answers": [
         "unexpectedly",
         "I didn't expect"
@@ -546,7 +546,7 @@
     },
     {
       "hanzi": "差一点就……",
-      "pinyin": "chà yìdiǎn jiù…",
+      "pinyin": "chàyìdiǎnjiù…",
       "english_answers": [
         "came close to…"
       ],
@@ -555,7 +555,7 @@
     },
     {
       "hanzi": "没来得及",
-      "pinyin": "méi láidejí",
+      "pinyin": "méiláidejí",
       "english_answers": [
         "didn't have time to"
       ],
@@ -621,7 +621,7 @@
     },
     {
       "hanzi": "印象深刻",
-      "pinyin": "yìnxiàng shēnkè",
+      "pinyin": "yìnxiàngshēnkè",
       "english_answers": [
         "make a deep impression"
       ],
@@ -677,7 +677,7 @@
     },
     {
       "hanzi": "回想起来",
-      "pinyin": "huíxiǎng qǐlái",
+      "pinyin": "huíxiǎngqǐlái",
       "english_answers": [
         "looking back on it"
       ],
@@ -754,7 +754,7 @@
     },
     {
       "hanzi": "因为……所以……",
-      "pinyin": "yīnwèi… suǒyǐ…",
+      "pinyin": "yīnwèi…suǒyǐ…",
       "english_answers": [
         "because… therefore…"
       ],
@@ -793,7 +793,7 @@
     },
     {
       "hanzi": "没办法",
-      "pinyin": "méi bànfǎ",
+      "pinyin": "méibànfǎ",
       "english_answers": [
         "there was no way",
         "couldn't help it"
@@ -841,7 +841,7 @@
     },
     {
       "hanzi": "我以前住在青岛。",
-      "pinyin": "Wǒ yǐqián zhù zài Qīngdǎo.",
+      "pinyin": "WǒyǐqiánzhùzàiQīngdǎo.",
       "english_answers": [
         "I used to live in Qingdao."
       ],
@@ -850,7 +850,7 @@
     },
     {
       "hanzi": "后来我搬回加拿大了。",
-      "pinyin": "Hòulái wǒ bān huí Jiānádà le.",
+      "pinyin": "HòuláiwǒbānhuíJiānádàle.",
       "english_answers": [
         "Later I moved back to Canada."
       ],
@@ -859,7 +859,7 @@
     },
     {
       "hanzi": "那时候我在教英语。",
-      "pinyin": "Nà shíhou wǒ zài jiāo Yīngyǔ.",
+      "pinyin": "NàshíhouwǒzàijiāoYīngyǔ.",
       "english_answers": [
         "I was teaching English back then."
       ],
@@ -868,7 +868,7 @@
     },
     {
       "hanzi": "我已经忘了很多。",
-      "pinyin": "Wǒ yǐjīng wàng le hěn duō.",
+      "pinyin": "Wǒyǐjīngwànglehěnduō.",
       "english_answers": [
         "I've already forgotten a lot."
       ],
@@ -877,7 +877,7 @@
     },
     {
       "hanzi": "没想到我还记得。",
-      "pinyin": "Méi xiǎngdào wǒ hái jìde.",
+      "pinyin": "Méixiǎngdàowǒháijìde.",
       "english_answers": [
         "I didn't expect to still remember."
       ],
@@ -886,7 +886,7 @@
     },
     {
       "hanzi": "这件事让我改变了看法。",
-      "pinyin": "Zhè jiàn shì ràng wǒ gǎibiàn le kànfǎ.",
+      "pinyin": "Zhèjiànshìràngwǒgǎibiànlekànfǎ.",
       "english_answers": [
         "That experience changed my opinion."
       ],
@@ -895,7 +895,7 @@
     },
     {
       "hanzi": "回想起来挺有意思的。",
-      "pinyin": "Huíxiǎng qǐlái tǐng yǒu yìsi de.",
+      "pinyin": "Huíxiǎngqǐláitǐngyǒuyìside.",
       "english_answers": [
         "Looking back, it was pretty interesting."
       ],
@@ -904,7 +904,7 @@
     },
     {
       "hanzi": "如果有机会，我想再去一次。",
-      "pinyin": "Rúguǒ yǒu jīhuì, wǒ xiǎng zài qù yí cì.",
+      "pinyin": "Rúguǒyǒujīhuì,wǒxiǎngzàiqùyícì.",
       "english_answers": [
         "If I get the chance, I'd like to go again."
       ],
@@ -913,7 +913,7 @@
     },
     {
       "hanzi": "说来话长。",
-      "pinyin": "Shuō lái huà cháng.",
+      "pinyin": "Shuōláihuàcháng.",
       "english_answers": [
         "It's a long story."
       ],

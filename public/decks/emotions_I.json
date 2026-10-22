@@ -420,7 +420,7 @@
     },
     {
       "hanzi": "不耐烦",
-      "pinyin": "bú nàifán",
+      "pinyin": "búnàifán",
       "english_answers": [
         "impatient"
       ],
@@ -535,7 +535,7 @@
     },
     {
       "hanzi": "没关系",
-      "pinyin": "méi guānxi",
+      "pinyin": "méiguānxi",
       "english_answers": [
         "It's okay",
         "no problem"
@@ -545,7 +545,7 @@
     },
     {
       "hanzi": "没事",
-      "pinyin": "méi shì",
+      "pinyin": "méishì",
       "english_answers": [
         "It's fine",
         "nothing's wrong"
@@ -555,7 +555,7 @@
     },
     {
       "hanzi": "别担心。",
-      "pinyin": "Bié dānxīn.",
+      "pinyin": "Biédānxīn.",
       "english_answers": [
         "Don't worry."
       ],
@@ -564,7 +564,7 @@
     },
     {
       "hanzi": "别着急。",
-      "pinyin": "Bié zháojí.",
+      "pinyin": "Biézháojí.",
       "english_answers": [
         "Don't rush",
         "don't panic."
@@ -574,7 +574,7 @@
     },
     {
       "hanzi": "慢慢来。",
-      "pinyin": "Mànmàn lái.",
+      "pinyin": "Mànmànlái.",
       "english_answers": [
         "Take your time."
       ],
@@ -583,7 +583,7 @@
     },
     {
       "hanzi": "我有点紧张。",
-      "pinyin": "Wǒ yǒudiǎn jǐnzhāng.",
+      "pinyin": "Wǒyǒudiǎnjǐnzhāng.",
       "english_answers": [
         "I'm a little nervous."
       ],
@@ -592,7 +592,7 @@
     },
     {
       "hanzi": "我心情不好。",
-      "pinyin": "Wǒ xīnqíng bù hǎo.",
+      "pinyin": "Wǒxīnqíngbùhǎo.",
       "english_answers": [
         "I'm in a bad mood."
       ],
@@ -601,7 +601,7 @@
     },
     {
       "hanzi": "我今天心情不错。",
-      "pinyin": "Wǒ jīntiān xīnqíng búcuò.",
+      "pinyin": "Wǒjīntiānxīnqíngbúcuò.",
       "english_answers": [
         "I'm in a good mood today."
       ],
@@ -610,7 +610,7 @@
     },
     {
       "hanzi": "我真的很感动。",
-      "pinyin": "Wǒ zhēn de hěn gǎndòng.",
+      "pinyin": "Wǒzhēndehěngǎndòng.",
       "english_answers": [
         "I'm really touched."
       ],
@@ -619,7 +619,7 @@
     },
     {
       "hanzi": "我替你高兴。",
-      "pinyin": "Wǒ tì nǐ gāoxìng.",
+      "pinyin": "Wǒtìnǐgāoxìng.",
       "english_answers": [
         "I'm happy for you."
       ],
@@ -628,7 +628,7 @@
     },
     {
       "hanzi": "我理解你的感受。",
-      "pinyin": "Wǒ lǐjiě nǐ de gǎnshòu.",
+      "pinyin": "Wǒlǐjiěnǐdegǎnshòu.",
       "english_answers": [
         "I understand how you feel."
       ],
@@ -637,7 +637,7 @@
     },
     {
       "hanzi": "我能理解。",
-      "pinyin": "Wǒ néng lǐjiě.",
+      "pinyin": "Wǒnénglǐjiě.",
       "english_answers": [
         "I can understand."
       ],
@@ -646,7 +646,7 @@
     },
     {
       "hanzi": "听起来很难。",
-      "pinyin": "Tīng qǐlái hěn nán.",
+      "pinyin": "Tīngqǐláihěnnán.",
       "english_answers": [
         "That sounds difficult."
       ],
@@ -655,7 +655,7 @@
     },
     {
       "hanzi": "你辛苦了。",
-      "pinyin": "Nǐ xīnkǔ le.",
+      "pinyin": "Nǐxīnkǔle.",
       "english_answers": [
         "You've worked hard",
         "thanks for your effort."
@@ -665,7 +665,7 @@
     },
     {
       "hanzi": "委屈你了。",
-      "pinyin": "Wěiqu nǐ le.",
+      "pinyin": "Wěiqunǐle.",
       "english_answers": [
         "Sorry you had to put up with that."
       ],
@@ -674,7 +674,7 @@
     },
     {
       "hanzi": "我需要一点时间。",
-      "pinyin": "Wǒ xūyào yìdiǎn shíjiān.",
+      "pinyin": "Wǒxūyàoyìdiǎnshíjiān.",
       "english_answers": [
         "I need a little time."
       ],
@@ -683,7 +683,7 @@
     },
     {
       "hanzi": "我想一个人静一静。",
-      "pinyin": "Wǒ xiǎng yí ge rén jìng yí jìng.",
+      "pinyin": "Wǒxiǎngyígerénjìngyíjìng.",
       "english_answers": [
         "I want some time alone to calm down."
       ],
@@ -692,7 +692,7 @@
     },
     {
       "hanzi": "我们好好谈谈。",
-      "pinyin": "Wǒmen hǎohāo tántan.",
+      "pinyin": "Wǒmenhǎohāotántan.",
       "english_answers": [
         "Let's talk this through calmly."
       ],
@@ -701,7 +701,7 @@
     },
     {
       "hanzi": "我们之间有误会。",
-      "pinyin": "Wǒmen zhījiān yǒu wùhuì.",
+      "pinyin": "Wǒmenzhījiānyǒuwùhuì.",
       "english_answers": [
         "There's a misunderstanding between us."
       ],
@@ -925,7 +925,7 @@
     },
     {
       "hanzi": "不舒服",
-      "pinyin": "bù shūfu",
+      "pinyin": "bùshūfu",
       "english_answers": [
         "uncomfortable",
         "unwell"
@@ -935,7 +935,7 @@
     },
     {
       "hanzi": "我需要你尊重我。",
-      "pinyin": "Wǒ xūyào nǐ zūnzhòng wǒ.",
+      "pinyin": "Wǒxūyàonǐzūnzhòngwǒ.",
       "english_answers": [
         "I need you to respect me."
       ],
@@ -944,7 +944,7 @@
     },
     {
       "hanzi": "谢谢你告诉我。",
-      "pinyin": "Xièxie nǐ gàosu wǒ.",
+      "pinyin": "Xièxienǐgàosuwǒ.",
       "english_answers": [
         "Thank you for telling me."
       ],

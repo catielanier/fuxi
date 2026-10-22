@@ -25,7 +25,7 @@
     },
     {
       "hanzi": "拿起来",
-      "pinyin": "ná qǐlái",
+      "pinyin": "náqǐlái",
       "english_answers": [
         "pick it up"
       ],
@@ -34,7 +34,7 @@
     },
     {
       "hanzi": "放下",
-      "pinyin": "fàng xià",
+      "pinyin": "fàngxià",
       "english_answers": [
         "put it down"
       ],
@@ -43,7 +43,7 @@
     },
     {
       "hanzi": "放进去",
-      "pinyin": "fàng jìnqù",
+      "pinyin": "fàngjìnqù",
       "english_answers": [
         "put it inside"
       ],
@@ -52,7 +52,7 @@
     },
     {
       "hanzi": "拿出来",
-      "pinyin": "ná chūlái",
+      "pinyin": "náchūlái",
       "english_answers": [
         "take it out"
       ],
@@ -61,7 +61,7 @@
     },
     {
       "hanzi": "收起来",
-      "pinyin": "shōu qǐlái",
+      "pinyin": "shōuqǐlái",
       "english_answers": [
         "put away"
       ],
@@ -70,7 +70,7 @@
     },
     {
       "hanzi": "摆好",
-      "pinyin": "bǎi hǎo",
+      "pinyin": "bǎihǎo",
       "english_answers": [
         "arrange neatly"
       ],
@@ -79,7 +79,7 @@
     },
     {
       "hanzi": "移开",
-      "pinyin": "yí kāi",
+      "pinyin": "yíkāi",
       "english_answers": [
         "move out of the way"
       ],
@@ -88,7 +88,7 @@
     },
     {
       "hanzi": "挪一下",
-      "pinyin": "nuó yíxià",
+      "pinyin": "nuóyíxià",
       "english_answers": [
         "move it a little"
       ],
@@ -169,7 +169,7 @@
     },
     {
       "hanzi": "翻过来",
-      "pinyin": "fān guòlái",
+      "pinyin": "fānguòlái",
       "english_answers": [
         "turn it over"
       ],
@@ -178,7 +178,7 @@
     },
     {
       "hanzi": "倒过来",
-      "pinyin": "dào guòlái",
+      "pinyin": "dàoguòlái",
       "english_answers": [
         "turn upside down"
       ],
@@ -196,7 +196,7 @@
     },
     {
       "hanzi": "关上",
-      "pinyin": "guān shàng",
+      "pinyin": "guānshàng",
       "english_answers": [
         "close / shut"
       ],
@@ -205,7 +205,7 @@
     },
     {
       "hanzi": "盖上",
-      "pinyin": "gài shàng",
+      "pinyin": "gàishàng",
       "english_answers": [
         "put the lid on"
       ],
@@ -214,7 +214,7 @@
     },
     {
       "hanzi": "掀开",
-      "pinyin": "xiān kāi",
+      "pinyin": "xiānkāi",
       "english_answers": [
         "lift open / uncover"
       ],
@@ -223,7 +223,7 @@
     },
     {
       "hanzi": "拧开",
-      "pinyin": "nǐng kāi",
+      "pinyin": "nǐngkāi",
       "english_answers": [
         "unscrew / twist open"
       ],
@@ -232,7 +232,7 @@
     },
     {
       "hanzi": "拧紧",
-      "pinyin": "nǐng jǐn",
+      "pinyin": "nǐngjǐn",
       "english_answers": [
         "tighten by twisting"
       ],
@@ -241,7 +241,7 @@
     },
     {
       "hanzi": "松开",
-      "pinyin": "sōng kāi",
+      "pinyin": "sōngkāi",
       "english_answers": [
         "loosen / release"
       ],
@@ -259,7 +259,7 @@
     },
     {
       "hanzi": "按住",
-      "pinyin": "àn zhù",
+      "pinyin": "ànzhù",
       "english_answers": [
         "press and hold"
       ],
@@ -268,7 +268,7 @@
     },
     {
       "hanzi": "松手",
-      "pinyin": "sōng shǒu",
+      "pinyin": "sōngshǒu",
       "english_answers": [
         "let go"
       ],
@@ -277,7 +277,7 @@
     },
     {
       "hanzi": "插上",
-      "pinyin": "chā shàng",
+      "pinyin": "chāshàng",
       "english_answers": [
         "plug in / insert"
       ],
@@ -286,7 +286,7 @@
     },
     {
       "hanzi": "拔掉",
-      "pinyin": "bá diào",
+      "pinyin": "bádiào",
       "english_answers": [
         "unplug / pull out"
       ],
@@ -295,7 +295,7 @@
     },
     {
       "hanzi": "接上",
-      "pinyin": "jiē shàng",
+      "pinyin": "jiēshàng",
       "english_answers": [
         "connect / attach"
       ],
@@ -304,7 +304,7 @@
     },
     {
       "hanzi": "断开",
-      "pinyin": "duàn kāi",
+      "pinyin": "duànkāi",
       "english_answers": [
         "disconnect"
       ],
@@ -358,7 +358,7 @@
     },
     {
       "hanzi": "折起来",
-      "pinyin": "zhé qǐlái",
+      "pinyin": "zhéqǐlái",
       "english_answers": [
         "fold up"
       ],
@@ -367,7 +367,7 @@
     },
     {
       "hanzi": "展开",
-      "pinyin": "zhǎn kāi",
+      "pinyin": "zhǎnkāi",
       "english_answers": [
         "unfold / spread out"
       ],
@@ -385,7 +385,7 @@
     },
     {
       "hanzi": "撕下来",
-      "pinyin": "sī xiàlái",
+      "pinyin": "sīxiàlái",
       "english_answers": [
         "tear off"
       ],
@@ -403,7 +403,7 @@
     },
     {
       "hanzi": "剪开",
-      "pinyin": "jiǎn kāi",
+      "pinyin": "jiǎnkāi",
       "english_answers": [
         "cut open"
       ],
@@ -448,7 +448,7 @@
     },
     {
       "hanzi": "擦干",
-      "pinyin": "cā gān",
+      "pinyin": "cāgān",
       "english_answers": [
         "wipe dry"
       ],
@@ -457,7 +457,7 @@
     },
     {
       "hanzi": "擦掉",
-      "pinyin": "cā diào",
+      "pinyin": "cādiào",
       "english_answers": [
         "wipe away / erase"
       ],
@@ -511,7 +511,7 @@
     },
     {
       "hanzi": "晾干",
-      "pinyin": "liàng gān",
+      "pinyin": "liànggān",
       "english_answers": [
         "air-dry"
       ],
@@ -520,7 +520,7 @@
     },
     {
       "hanzi": "晒干",
-      "pinyin": "shài gān",
+      "pinyin": "shàigān",
       "english_answers": [
         "dry in the sun"
       ],
@@ -529,7 +529,7 @@
     },
     {
       "hanzi": "拧干",
-      "pinyin": "níng gān",
+      "pinyin": "nínggān",
       "english_answers": [
         "wring out"
       ],
@@ -547,7 +547,7 @@
     },
     {
       "hanzi": "拖地",
-      "pinyin": "tuō dì",
+      "pinyin": "tuōdì",
       "english_answers": [
         "mop the floor"
       ],
@@ -574,7 +574,7 @@
     },
     {
       "hanzi": "倒出来",
-      "pinyin": "dào chūlái",
+      "pinyin": "dàochūlái",
       "english_answers": [
         "pour out"
       ],
@@ -592,7 +592,7 @@
     },
     {
       "hanzi": "洒出来",
-      "pinyin": "sǎ chūlái",
+      "pinyin": "sǎchūlái",
       "english_answers": [
         "spill / splash out"
       ],
@@ -628,7 +628,7 @@
     },
     {
       "hanzi": "挤出来",
-      "pinyin": "jǐ chūlái",
+      "pinyin": "jǐchūlái",
       "english_answers": [
         "squeeze out"
       ],
@@ -664,7 +664,7 @@
     },
     {
       "hanzi": "摇一摇",
-      "pinyin": "yáo yi yáo",
+      "pinyin": "yáoyiyáo",
       "english_answers": [
         "give it a shake"
       ],
@@ -727,7 +727,7 @@
     },
     {
       "hanzi": "摔碎",
-      "pinyin": "shuāi suì",
+      "pinyin": "shuāisuì",
       "english_answers": [
         "drop and break into pieces"
       ],
@@ -736,7 +736,7 @@
     },
     {
       "hanzi": "弄坏",
-      "pinyin": "nòng huài",
+      "pinyin": "nònghuài",
       "english_answers": [
         "damage / break something"
       ],
@@ -745,7 +745,7 @@
     },
     {
       "hanzi": "修好",
-      "pinyin": "xiū hǎo",
+      "pinyin": "xiūhǎo",
       "english_answers": [
         "repair successfully"
       ],
@@ -754,7 +754,7 @@
     },
     {
       "hanzi": "坏了",
-      "pinyin": "huài le",
+      "pinyin": "huàile",
       "english_answers": [
         "it broke / stopped working"
       ],
@@ -763,7 +763,7 @@
     },
     {
       "hanzi": "卡住",
-      "pinyin": "kǎ zhù",
+      "pinyin": "kǎzhù",
       "english_answers": [
         "get stuck / jam"
       ],
@@ -772,7 +772,7 @@
     },
     {
       "hanzi": "堵住",
-      "pinyin": "dǔ zhù",
+      "pinyin": "dǔzhù",
       "english_answers": [
         "block / clog"
       ],
@@ -781,7 +781,7 @@
     },
     {
       "hanzi": "掉下来",
-      "pinyin": "diào xiàlái",
+      "pinyin": "diàoxiàlái",
       "english_answers": [
         "fall down / fall off"
       ],
@@ -790,7 +790,7 @@
     },
     {
       "hanzi": "松了",
-      "pinyin": "sōng le",
+      "pinyin": "sōngle",
       "english_answers": [
         "it became loose"
       ],
@@ -799,7 +799,7 @@
     },
     {
       "hanzi": "裂开",
-      "pinyin": "liè kāi",
+      "pinyin": "lièkāi",
       "english_answers": [
         "crack / split open"
       ],
@@ -817,7 +817,7 @@
     },
     {
       "hanzi": "换掉",
-      "pinyin": "huàn diào",
+      "pinyin": "huàndiào",
       "english_answers": [
         "replace / swap out"
       ],
@@ -826,7 +826,7 @@
     },
     {
       "hanzi": "装上",
-      "pinyin": "zhuāng shàng",
+      "pinyin": "zhuāngshàng",
       "english_answers": [
         "install / attach"
       ],
@@ -835,7 +835,7 @@
     },
     {
       "hanzi": "拆下来",
-      "pinyin": "chāi xiàlái",
+      "pinyin": "chāixiàlái",
       "english_answers": [
         "take apart / remove"
       ],
@@ -844,7 +844,7 @@
     },
     {
       "hanzi": "拧螺丝",
-      "pinyin": "nǐng luósī",
+      "pinyin": "nǐngluósī",
       "english_answers": [
         "turn a screw"
       ],
@@ -853,7 +853,7 @@
     },
     {
       "hanzi": "贴上",
-      "pinyin": "tiē shàng",
+      "pinyin": "tiēshàng",
       "english_answers": [
         "stick on / attach with adhesive"
       ],
@@ -862,7 +862,7 @@
     },
     {
       "hanzi": "撕掉标签",
-      "pinyin": "sī diào biāoqiān",
+      "pinyin": "sīdiàobiāoqiān",
       "english_answers": [
         "peel off the label"
       ],
@@ -889,7 +889,7 @@
     },
     {
       "hanzi": "量一下",
-      "pinyin": "liáng yíxià",
+      "pinyin": "liángyíxià",
       "english_answers": [
         "measure it quickly"
       ],
@@ -898,7 +898,7 @@
     },
     {
       "hanzi": "试试看",
-      "pinyin": "shì shi kàn",
+      "pinyin": "shìshikàn",
       "english_answers": [
         "give it a try"
       ],

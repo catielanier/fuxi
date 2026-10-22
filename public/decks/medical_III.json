@@ -126,7 +126,7 @@
     },
     {
       "hanzi": "专科医生",
-      "pinyin": "zhuānkē yīshēng",
+      "pinyin": "zhuānkēyīshēng",
       "english_answers": [
         "specialist doctor"
       ],
@@ -135,7 +135,7 @@
     },
     {
       "hanzi": "全科医生",
-      "pinyin": "quánkē yīshēng",
+      "pinyin": "quánkēyīshēng",
       "english_answers": [
         "general practitioner"
       ],
@@ -144,7 +144,7 @@
     },
     {
       "hanzi": "家庭医生",
-      "pinyin": "jiātíng yīshēng",
+      "pinyin": "jiātíngyīshēng",
       "english_answers": [
         "family doctor"
       ],
@@ -244,7 +244,7 @@
     },
     {
       "hanzi": "测血压",
-      "pinyin": "cè xuèyā",
+      "pinyin": "cèxuèyā",
       "english_answers": [
         "measure blood pressure"
       ],
@@ -253,7 +253,7 @@
     },
     {
       "hanzi": "量体温",
-      "pinyin": "liáng tǐwēn",
+      "pinyin": "liángtǐwēn",
       "english_answers": [
         "take temperature"
       ],
@@ -262,7 +262,7 @@
     },
     {
       "hanzi": "测心率",
-      "pinyin": "cè xīnlǜ",
+      "pinyin": "cèxīnlǜ",
       "english_answers": [
         "measure heart rate"
       ],
@@ -307,7 +307,7 @@
     },
     {
       "hanzi": "血常规",
-      "pinyin": "xuè chángguī",
+      "pinyin": "xuèchángguī",
       "english_answers": [
         "complete blood count"
       ],
@@ -335,7 +335,7 @@
     },
     {
       "hanzi": "肝功能",
-      "pinyin": "gān gōngnéng",
+      "pinyin": "gāngōngnéng",
       "english_answers": [
         "liver function"
       ],
@@ -344,7 +344,7 @@
     },
     {
       "hanzi": "肾功能",
-      "pinyin": "shèn gōngnéng",
+      "pinyin": "shèngōngnéng",
       "english_answers": [
         "kidney function"
       ],
@@ -391,7 +391,7 @@
     },
     {
       "hanzi": "正常范围",
-      "pinyin": "zhèngcháng fànwéi",
+      "pinyin": "zhèngchángfànwéi",
       "english_answers": [
         "normal reference range"
       ],
@@ -436,7 +436,7 @@
     },
     {
       "hanzi": "B超",
-      "pinyin": "B chāo",
+      "pinyin": "Bchāo",
       "english_answers": [
         "ultrasound scan"
       ],
@@ -445,7 +445,7 @@
     },
     {
       "hanzi": "X光",
-      "pinyin": "X guāng",
+      "pinyin": "Xguāng",
       "english_answers": [
         "X-ray"
       ],
@@ -454,7 +454,7 @@
     },
     {
       "hanzi": "CT检查",
-      "pinyin": "CT jiǎnchá",
+      "pinyin": "CTjiǎnchá",
       "english_answers": [
         "CT scan"
       ],
@@ -463,7 +463,7 @@
     },
     {
       "hanzi": "核磁共振",
-      "pinyin": "hécí gòngzhèn",
+      "pinyin": "hécígòngzhèn",
       "english_answers": [
         "MRI scan"
       ],
@@ -573,7 +573,7 @@
     },
     {
       "hanzi": "非处方药",
-      "pinyin": "fēi chǔfāng yào",
+      "pinyin": "fēichǔfāngyào",
       "english_answers": [
         "over-the-counter medication"
       ],
@@ -667,7 +667,7 @@
     },
     {
       "hanzi": "饭前服用",
-      "pinyin": "fànqián fúyòng",
+      "pinyin": "fànqiánfúyòng",
       "english_answers": [
         "take before meals"
       ],
@@ -676,7 +676,7 @@
     },
     {
       "hanzi": "饭后服用",
-      "pinyin": "fànhòu fúyòng",
+      "pinyin": "fànhòufúyòng",
       "english_answers": [
         "take after meals"
       ],
@@ -685,7 +685,7 @@
     },
     {
       "hanzi": "每天一次",
-      "pinyin": "měitiān yí cì",
+      "pinyin": "měitiānyícì",
       "english_answers": [
         "once per day"
       ],
@@ -694,7 +694,7 @@
     },
     {
       "hanzi": "每天两次",
-      "pinyin": "měitiān liǎng cì",
+      "pinyin": "měitiānliǎngcì",
       "english_answers": [
         "twice per day"
       ],
@@ -703,7 +703,7 @@
     },
     {
       "hanzi": "按时服药",
-      "pinyin": "ànshí fúyào",
+      "pinyin": "ànshífúyào",
       "english_answers": [
         "take medication on schedule"
       ],
@@ -730,7 +730,7 @@
     },
     {
       "hanzi": "药物过敏",
-      "pinyin": "yàowù guòmǐn",
+      "pinyin": "yàowùguòmǐn",
       "english_answers": [
         "drug allergy"
       ],
@@ -776,7 +776,7 @@
     },
     {
       "hanzi": "局部麻醉",
-      "pinyin": "júbù mázuì",
+      "pinyin": "júbùmázuì",
       "english_answers": [
         "local anesthesia"
       ],

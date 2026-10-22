@@ -441,7 +441,7 @@
     },
     {
       "hanzi": "还没",
-      "pinyin": "hái méi",
+      "pinyin": "háiméi",
       "english_answers": [
         "not yet"
       ],
@@ -711,7 +711,7 @@
     },
     {
       "hanzi": "不一样",
-      "pinyin": "bù yíyàng",
+      "pinyin": "bùyíyàng",
       "english_answers": [
         "different",
         "not the same"
@@ -730,7 +730,7 @@
     },
     {
       "hanzi": "不够",
-      "pinyin": "bú gòu",
+      "pinyin": "búgòu",
       "english_answers": [
         "not enough"
       ],
@@ -739,7 +739,7 @@
     },
     {
       "hanzi": "多一点",
-      "pinyin": "duō yìdiǎn",
+      "pinyin": "duōyìdiǎn",
       "english_answers": [
         "a little more"
       ],
@@ -748,7 +748,7 @@
     },
     {
       "hanzi": "少一点",
-      "pinyin": "shǎo yìdiǎn",
+      "pinyin": "shǎoyìdiǎn",
       "english_answers": [
         "a little less"
       ],
@@ -875,7 +875,7 @@
     },
     {
       "hanzi": "没关系",
-      "pinyin": "méi guānxi",
+      "pinyin": "méiguānxi",
       "english_answers": [
         "it’s okay",
         "no problem"
@@ -885,7 +885,7 @@
     },
     {
       "hanzi": "不好意思",
-      "pinyin": "bù hǎoyìsi",
+      "pinyin": "bùhǎoyìsi",
       "english_answers": [
         "excuse me",
         "sorry",
@@ -954,7 +954,7 @@
     },
     {
       "hanzi": "不方便",
-      "pinyin": "bù fāngbiàn",
+      "pinyin": "bùfāngbiàn",
       "english_answers": [
         "inconvenient",
         "not a good time"

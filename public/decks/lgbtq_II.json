@@ -7,7 +7,7 @@
   "cards": [
     {
       "hanzi": "出生时指定性别",
-      "pinyin": "chūshēng shí zhǐdìng xìngbié",
+      "pinyin": "chūshēngshízhǐdìngxìngbié",
       "english_answers": [
         "sex assigned at birth"
       ],
@@ -16,7 +16,7 @@
     },
     {
       "hanzi": "生理性别",
-      "pinyin": "shēnglǐ xìngbié",
+      "pinyin": "shēnglǐxìngbié",
       "english_answers": [
         "biological sex"
       ],
@@ -25,7 +25,7 @@
     },
     {
       "hanzi": "社会性别",
-      "pinyin": "shèhuì xìngbié",
+      "pinyin": "shèhuìxìngbié",
       "english_answers": [
         "socially constructed gender"
       ],
@@ -34,7 +34,7 @@
     },
     {
       "hanzi": "性别角色",
-      "pinyin": "xìngbié juésè",
+      "pinyin": "xìngbiéjuésè",
       "english_answers": [
         "gender roles"
       ],
@@ -43,7 +43,7 @@
     },
     {
       "hanzi": "性别规范",
-      "pinyin": "xìngbié guīfàn",
+      "pinyin": "xìngbiéguīfàn",
       "english_answers": [
         "gender norms"
       ],
@@ -52,7 +52,7 @@
     },
     {
       "hanzi": "真实性别",
-      "pinyin": "zhēnshí xìngbié",
+      "pinyin": "zhēnshíxìngbié",
       "english_answers": [
         "one's actual",
         "true gender"
@@ -62,7 +62,7 @@
     },
     {
       "hanzi": "做自己",
-      "pinyin": "zuò zìjǐ",
+      "pinyin": "zuòzìjǐ",
       "english_answers": [
         "be yourself"
       ],
@@ -71,7 +71,7 @@
     },
     {
       "hanzi": "活出自我",
-      "pinyin": "huó chū zìwǒ",
+      "pinyin": "huóchūzìwǒ",
       "english_answers": [
         "live authentically"
       ],
@@ -80,7 +80,7 @@
     },
     {
       "hanzi": "公开出柜",
-      "pinyin": "gōngkāi chūguì",
+      "pinyin": "gōngkāichūguì",
       "english_answers": [
         "come out publicly"
       ],
@@ -89,7 +89,7 @@
     },
     {
       "hanzi": "被迫出柜",
-      "pinyin": "bèipò chūguì",
+      "pinyin": "bèipòchūguì",
       "english_answers": [
         "be forced to come out"
       ],
@@ -98,7 +98,7 @@
     },
     {
       "hanzi": "未经同意出柜",
-      "pinyin": "wèi jīng tóngyì chūguì",
+      "pinyin": "wèijīngtóngyìchūguì",
       "english_answers": [
         "out someone without consent"
       ],
@@ -117,7 +117,7 @@
     },
     {
       "hanzi": "社会性别过渡",
-      "pinyin": "shèhuì xìngbié guòdù",
+      "pinyin": "shèhuìxìngbiéguòdù",
       "english_answers": [
         "social gender transition"
       ],
@@ -126,7 +126,7 @@
     },
     {
       "hanzi": "女性化表达",
-      "pinyin": "nǚxìnghuà biǎodá",
+      "pinyin": "nǚxìnghuàbiǎodá",
       "english_answers": [
         "feminine gender expression"
       ],
@@ -135,7 +135,7 @@
     },
     {
       "hanzi": "改称呼",
-      "pinyin": "gǎi chēnghu",
+      "pinyin": "gǎichēnghu",
       "english_answers": [
         "change how someone is addressed"
       ],
@@ -144,7 +144,7 @@
     },
     {
       "hanzi": "性别称谓",
-      "pinyin": "xìngbié chēngwèi",
+      "pinyin": "xìngbiéchēngwèi",
       "english_answers": [
         "gendered form of address"
       ],
@@ -153,7 +153,7 @@
     },
     {
       "hanzi": "称谓偏好",
-      "pinyin": "chēngwèi piānhào",
+      "pinyin": "chēngwèipiānhào",
       "english_answers": [
         "preferred form of address"
       ],
@@ -180,7 +180,7 @@
     },
     {
       "hanzi": "更改性别标记",
-      "pinyin": "gēnggǎi xìngbié biāojì",
+      "pinyin": "gēnggǎixìngbiébiāojì",
       "english_answers": [
         "change a legal gender marker"
       ],
@@ -189,7 +189,7 @@
     },
     {
       "hanzi": "跨性别医疗",
-      "pinyin": "kuàxìngbié yīliáo",
+      "pinyin": "kuàxìngbiéyīliáo",
       "english_answers": [
         "transgender healthcare"
       ],
@@ -198,7 +198,7 @@
     },
     {
       "hanzi": "激素水平",
-      "pinyin": "jīsù shuǐpíng",
+      "pinyin": "jīsùshuǐpíng",
       "english_answers": [
         "hormone levels"
       ],
@@ -243,7 +243,7 @@
     },
     {
       "hanzi": "睾酮抑制",
-      "pinyin": "gāotóng yìzhì",
+      "pinyin": "gāotóngyìzhì",
       "english_answers": [
         "testosterone suppression"
       ],
@@ -271,7 +271,7 @@
     },
     {
       "hanzi": "血液检测",
-      "pinyin": "xuèyè jiǎncè",
+      "pinyin": "xuèyèjiǎncè",
       "english_answers": [
         "blood testing"
       ],
@@ -307,7 +307,7 @@
     },
     {
       "hanzi": "皮下注射",
-      "pinyin": "píxià zhùshè",
+      "pinyin": "píxiàzhùshè",
       "english_answers": [
         "subcutaneous injection"
       ],
@@ -316,7 +316,7 @@
     },
     {
       "hanzi": "肌肉注射",
-      "pinyin": "jīròu zhùshè",
+      "pinyin": "jīròuzhùshè",
       "english_answers": [
         "intramuscular injection"
       ],
@@ -325,7 +325,7 @@
     },
     {
       "hanzi": "乳房发育",
-      "pinyin": "rǔfáng fāyù",
+      "pinyin": "rǔfángfāyù",
       "english_answers": [
         "breast development"
       ],
@@ -334,7 +334,7 @@
     },
     {
       "hanzi": "脂肪分布",
-      "pinyin": "zhīfáng fēnbù",
+      "pinyin": "zhīfángfēnbù",
       "english_answers": [
         "fat distribution"
       ],
@@ -343,7 +343,7 @@
     },
     {
       "hanzi": "嗓音训练",
-      "pinyin": "sǎngyīn xùnliàn",
+      "pinyin": "sǎngyīnxùnliàn",
       "english_answers": [
         "voice training"
       ],
@@ -361,7 +361,7 @@
     },
     {
       "hanzi": "生育能力保存",
-      "pinyin": "shēngyù nénglì bǎocún",
+      "pinyin": "shēngyùnénglìbǎocún",
       "english_answers": [
         "fertility preservation"
       ],
@@ -529,7 +529,7 @@
     },
     {
       "hanzi": "开放式关系",
-      "pinyin": "kāifàngshì guānxì",
+      "pinyin": "kāifàngshìguānxì",
       "english_answers": [
         "open relationship"
       ],
@@ -538,7 +538,7 @@
     },
     {
       "hanzi": "一夫一妻制",
-      "pinyin": "yīfū yīqī zhì",
+      "pinyin": "yīfūyīqīzhì",
       "english_answers": [
         "monogamous marriage system"
       ],
@@ -547,7 +547,7 @@
     },
     {
       "hanzi": "多元伴侣关系",
-      "pinyin": "duōyuán bànlǚ guānxì",
+      "pinyin": "duōyuánbànlǚguānxì",
       "english_answers": [
         "polyamorous relationships"
       ],
@@ -566,7 +566,7 @@
     },
     {
       "hanzi": "同志圈",
-      "pinyin": "tóngzhì quān",
+      "pinyin": "tóngzhìquān",
       "english_answers": [
         "gay",
         "queer community scene"
@@ -576,7 +576,7 @@
     },
     {
       "hanzi": "跨性别社群",
-      "pinyin": "kuàxìngbié shèqún",
+      "pinyin": "kuàxìngbiéshèqún",
       "english_answers": [
         "transgender community"
       ],
@@ -585,7 +585,7 @@
     },
     {
       "hanzi": "彩虹群体",
-      "pinyin": "cǎihóng qúntǐ",
+      "pinyin": "cǎihóngqúntǐ",
       "english_answers": [
         "LGBTQ+ community"
       ],
@@ -594,7 +594,7 @@
     },
     {
       "hanzi": "彩虹友善",
-      "pinyin": "cǎihóng yǒushàn",
+      "pinyin": "cǎihóngyǒushàn",
       "english_answers": [
         "LGBTQ+-friendly"
       ],
@@ -621,7 +621,7 @@
     },
     {
       "hanzi": "弯的",
-      "pinyin": "wān de",
+      "pinyin": "wānde",
       "english_answers": [
         "gay",
         "not straight"
@@ -631,7 +631,7 @@
     },
     {
       "hanzi": "直的",
-      "pinyin": "zhí de",
+      "pinyin": "zhíde",
       "english_answers": [
         "straight",
         "heterosexual"
@@ -707,7 +707,7 @@
     },
     {
       "hanzi": "嗑CP",
-      "pinyin": "kē CP",
+      "pinyin": "kēCP",
       "english_answers": [
         "ship a couple"
       ],
@@ -716,7 +716,7 @@
     },
     {
       "hanzi": "彩虹经济",
-      "pinyin": "cǎihóng jīngjì",
+      "pinyin": "cǎihóngjīngjì",
       "english_answers": [
         "pink",
         "rainbow economy"
@@ -726,7 +726,7 @@
     },
     {
       "hanzi": "友同人士",
-      "pinyin": "yǒutóng rénshì",
+      "pinyin": "yǒutóngrénshì",
       "english_answers": [
         "LGBTQ+-allied person"
       ],
@@ -744,7 +744,7 @@
     },
     {
       "hanzi": "个人隐私",
-      "pinyin": "gèrén yǐnsī",
+      "pinyin": "gèrényǐnsī",
       "english_answers": [
         "personal privacy"
       ],
@@ -771,7 +771,7 @@
     },
     {
       "hanzi": "未经允许",
-      "pinyin": "wèi jīng yǔnxǔ",
+      "pinyin": "wèijīngyǔnxǔ",
       "english_answers": [
         "without permission"
       ],
@@ -819,7 +819,7 @@
     },
     {
       "hanzi": "不尊重",
-      "pinyin": "bù zūnzhòng",
+      "pinyin": "bùzūnzhòng",
       "english_answers": [
         "disrespect"
       ],
@@ -838,7 +838,7 @@
     },
     {
       "hanzi": "不合适",
-      "pinyin": "bù héshì",
+      "pinyin": "bùhéshì",
       "english_answers": [
         "inappropriate",
         "unsuitable"
@@ -848,7 +848,7 @@
     },
     {
       "hanzi": "言语骚扰",
-      "pinyin": "yányǔ sāorǎo",
+      "pinyin": "yányǔsāorǎo",
       "english_answers": [
         "verbal harassment"
       ],
@@ -857,7 +857,7 @@
     },
     {
       "hanzi": "性骚扰",
-      "pinyin": "xìng sāorǎo",
+      "pinyin": "xìngsāorǎo",
       "english_answers": [
         "sexual harassment"
       ],
@@ -866,7 +866,7 @@
     },
     {
       "hanzi": "性别歧视",
-      "pinyin": "xìngbié qíshì",
+      "pinyin": "xìngbiéqíshì",
       "english_answers": [
         "gender discrimination"
       ],
@@ -884,7 +884,7 @@
     },
     {
       "hanzi": "不友善",
-      "pinyin": "bù yǒushàn",
+      "pinyin": "bùyǒushàn",
       "english_answers": [
         "unfriendly",
         "unwelcoming"
@@ -904,7 +904,7 @@
     },
     {
       "hanzi": "平等对待",
-      "pinyin": "píngděng duìdài",
+      "pinyin": "píngděngduìdài",
       "english_answers": [
         "treat equally"
       ],
@@ -913,7 +913,7 @@
     },
     {
       "hanzi": "维护权益",
-      "pinyin": "wéihù quányì",
+      "pinyin": "wéihùquányì",
       "english_answers": [
         "protect one's rights and interests"
       ],
@@ -922,7 +922,7 @@
     },
     {
       "hanzi": "寻求帮助",
-      "pinyin": "xúnqiú bāngzhù",
+      "pinyin": "xúnqiúbāngzhù",
       "english_answers": [
         "seek help"
       ],

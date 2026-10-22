@@ -452,6 +452,26 @@
       "cards": 100,
       "description": "Insults, profanity, vulgar slang, hostile expressions and verbal boundaries.",
       "printable": "mandarin_insults_I_100_cards.pdf"
+    },
+    {
+      "id": "basics_I",
+      "filename": "decks/basics_I.json",
+      "title": "Basics I",
+      "category": "basics",
+      "part": 1,
+      "cards": 100,
+      "description": "Essential Mandarin greetings, questions, numbers and beginner sentence patterns.",
+      "printable": "mandarin_basics_I_100_cards.pdf"
+    },
+    {
+      "id": "sexual_vocabulary_III",
+      "filename": "decks/sexual_vocabulary_III.json",
+      "title": "Sexual Vocabulary III",
+      "category": "sexual_vocabulary",
+      "part": 3,
+      "cards": 100,
+      "description": "Anatomical slang, vulgar language, sexual euphemisms and colloquial expressions.",
+      "printable": "mandarin_sexual_vocabulary_III_100_cards.pdf"
     }
   ]
 }

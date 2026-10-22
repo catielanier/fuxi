@@ -1,0 +1,990 @@
+{
+  "id": "sexual_vocabulary_III",
+  "title": "Sexual Vocabulary III",
+  "language": "zh-Hans",
+  "source": "Fuxi vocabulary curriculum",
+  "card_count": 100,
+  "cards": [
+    {
+      "hanzi": "鸡巴",
+      "pinyin": "jībā",
+      "english_answers": [
+        "dick",
+        "cock",
+        "penis"
+      ],
+      "english_gloss": "dick / cock / penis — very vulgar anatomical slang",
+      "audio": "鸡巴.mp3"
+    },
+    {
+      "hanzi": "屌",
+      "pinyin": "diǎo",
+      "english_answers": [
+        "dick",
+        "cock"
+      ],
+      "english_gloss": "dick / cock — vulgar; also used in slang insults",
+      "audio": "屌.mp3"
+    },
+    {
+      "hanzi": "逼",
+      "pinyin": "bī",
+      "english_answers": [
+        "cunt",
+        "pussy"
+      ],
+      "english_gloss": "cunt / pussy — extremely vulgar; also appears in insults",
+      "audio": "逼.mp3"
+    },
+    {
+      "hanzi": "屄",
+      "pinyin": "bī",
+      "english_answers": [
+        "cunt",
+        "pussy"
+      ],
+      "english_gloss": "cunt / pussy — explicit anatomical slang; uncommon written character",
+      "audio": "屄.mp3"
+    },
+    {
+      "hanzi": "屁眼",
+      "pinyin": "pìyǎn",
+      "english_answers": [
+        "asshole",
+        "anus"
+      ],
+      "english_gloss": "asshole / anus — crude informal anatomical term",
+      "audio": "屁眼.mp3"
+    },
+    {
+      "hanzi": "菊花",
+      "pinyin": "júhuā",
+      "english_answers": [
+        "asshole",
+        "anus"
+      ],
+      "english_gloss": "asshole / anus — euphemism in sexual slang; literally chrysanthemum",
+      "audio": "菊花.mp3"
+    },
+    {
+      "hanzi": "蛋蛋",
+      "pinyin": "dàndàn",
+      "english_answers": [
+        "balls",
+        "testicles"
+      ],
+      "english_gloss": "balls / testicles — playful euphemism",
+      "audio": "蛋蛋.mp3"
+    },
+    {
+      "hanzi": "卵蛋",
+      "pinyin": "luǎndàn",
+      "english_answers": [
+        "balls",
+        "testicles"
+      ],
+      "english_gloss": "balls / testicles — colloquial slang",
+      "audio": "卵蛋.mp3"
+    },
+    {
+      "hanzi": "小鸡鸡",
+      "pinyin": "xiǎo jījī",
+      "english_answers": [
+        "pee-pee",
+        "penis"
+      ],
+      "english_gloss": "pee-pee / penis — childish euphemism",
+      "audio": "小鸡鸡.mp3"
+    },
+    {
+      "hanzi": "小鸟",
+      "pinyin": "xiǎoniǎo",
+      "english_answers": [
+        "willy",
+        "penis"
+      ],
+      "english_gloss": "willy / penis — childish euphemism; literally small bird",
+      "audio": "小鸟.mp3"
+    },
+    {
+      "hanzi": "老二",
+      "pinyin": "lǎo'èr",
+      "english_answers": [
+        "dick",
+        "penis"
+      ],
+      "english_gloss": "dick / penis — male genital slang; literally second eldest",
+      "audio": "老二.mp3"
+    },
+    {
+      "hanzi": "小弟",
+      "pinyin": "xiǎodì",
+      "english_answers": [
+        "penis",
+        "willy"
+      ],
+      "english_gloss": "penis / willy — euphemism, context-dependent",
+      "audio": "小弟.mp3"
+    },
+    {
+      "hanzi": "那话儿",
+      "pinyin": "nà huàr",
+      "english_answers": [
+        "private parts",
+        "genitals"
+      ],
+      "english_gloss": "private parts / genitals — euphemistic expression",
+      "audio": "那话儿.mp3"
+    },
+    {
+      "hanzi": "下面",
+      "pinyin": "xiàmian",
+      "english_answers": [
+        "private parts",
+        "down there"
+      ],
+      "english_gloss": "private parts / down there — everyday euphemism; often otherwise means below",
+      "audio": "下面.mp3"
+    },
+    {
+      "hanzi": "下体",
+      "pinyin": "xiàtǐ",
+      "english_answers": [
+        "lower body",
+        "genitals"
+      ],
+      "english_gloss": "lower body / genitals — neutral clinical or euphemistic",
+      "audio": "下体.mp3"
+    },
+    {
+      "hanzi": "阴部",
+      "pinyin": "yīnbù",
+      "english_answers": [
+        "genital area",
+        "genitals"
+      ],
+      "english_gloss": "genital area / genitals — neutral anatomical term",
+      "audio": "阴部.mp3"
+    },
+    {
+      "hanzi": "阴唇",
+      "pinyin": "yīnchún",
+      "english_answers": [
+        "labia"
+      ],
+      "english_gloss": "labia — anatomical term",
+      "audio": "阴唇.mp3"
+    },
+    {
+      "hanzi": "阴道口",
+      "pinyin": "yīndàokǒu",
+      "english_answers": [
+        "vaginal opening"
+      ],
+      "english_gloss": "vaginal opening — medical term",
+      "audio": "阴道口.mp3"
+    },
+    {
+      "hanzi": "冠状沟",
+      "pinyin": "guānzhuànggōu",
+      "english_answers": [
+        "coronal sulcus"
+      ],
+      "english_gloss": "coronal sulcus — anatomical term",
+      "audio": "冠状沟.mp3"
+    },
+    {
+      "hanzi": "会阴",
+      "pinyin": "huìyīn",
+      "english_answers": [
+        "perineum"
+      ],
+      "english_gloss": "perineum — anatomical term",
+      "audio": "会阴.mp3"
+    },
+    {
+      "hanzi": "奶头",
+      "pinyin": "nǎitóu",
+      "english_answers": [
+        "nipple",
+        "teat"
+      ],
+      "english_gloss": "nipple / teat — informal; can refer to nipple",
+      "audio": "奶头.mp3"
+    },
+    {
+      "hanzi": "咪咪",
+      "pinyin": "mīmī",
+      "english_answers": [
+        "boobs",
+        "breasts"
+      ],
+      "english_gloss": "boobs / breasts — playful euphemism",
+      "audio": "咪咪.mp3"
+    },
+    {
+      "hanzi": "翘臀",
+      "pinyin": "qiàotún",
+      "english_answers": [
+        "perky butt",
+        "curvy butt"
+      ],
+      "english_gloss": "perky butt / curvy butt — colloquial appearance term",
+      "audio": "翘臀.mp3"
+    },
+    {
+      "hanzi": "翘屁股",
+      "pinyin": "qiào pìgu",
+      "english_answers": [
+        "perky butt"
+      ],
+      "english_gloss": "perky butt — informal appearance description",
+      "audio": "翘屁股.mp3"
+    },
+    {
+      "hanzi": "乳沟",
+      "pinyin": "rǔgōu",
+      "english_answers": [
+        "cleavage"
+      ],
+      "english_gloss": "cleavage — common appearance term",
+      "audio": "乳沟.mp3"
+    },
+    {
+      "hanzi": "事业线",
+      "pinyin": "shìyèxiàn",
+      "english_answers": [
+        "cleavage"
+      ],
+      "english_gloss": "cleavage — humorous slang; literally career line",
+      "audio": "事业线.mp3"
+    },
+    {
+      "hanzi": "露点",
+      "pinyin": "lòudiǎn",
+      "english_answers": [
+        "nipple exposure"
+      ],
+      "english_gloss": "nipple exposure — informal media/sexual term",
+      "audio": "露点.mp3"
+    },
+    {
+      "hanzi": "走光",
+      "pinyin": "zǒuguāng",
+      "english_answers": [
+        "wardrobe malfunction",
+        "accidental exposure"
+      ],
+      "english_gloss": "wardrobe malfunction / accidental exposure — colloquial",
+      "audio": "走光.mp3"
+    },
+    {
+      "hanzi": "全裸",
+      "pinyin": "quánluǒ",
+      "english_answers": [
+        "completely naked",
+        "fully nude"
+      ],
+      "english_gloss": "completely naked / fully nude — everyday word",
+      "audio": "全裸.mp3"
+    },
+    {
+      "hanzi": "半裸",
+      "pinyin": "bànluǒ",
+      "english_answers": [
+        "half naked",
+        "partially nude"
+      ],
+      "english_gloss": "half naked / partially nude — everyday word",
+      "audio": "半裸.mp3"
+    },
+    {
+      "hanzi": "一丝不挂",
+      "pinyin": "yì sī bú guà",
+      "english_answers": [
+        "stark naked"
+      ],
+      "english_gloss": "stark naked — idiomatic phrase",
+      "audio": "一丝不挂.mp3"
+    },
+    {
+      "hanzi": "赤身裸体",
+      "pinyin": "chìshēn luǒtǐ",
+      "english_answers": [
+        "naked",
+        "bare-bodied"
+      ],
+      "english_gloss": "naked / bare-bodied — literary or formal",
+      "audio": "赤身裸体.mp3"
+    },
+    {
+      "hanzi": "裸照",
+      "pinyin": "luǒzhào",
+      "english_answers": [
+        "nude photo",
+        "nudes"
+      ],
+      "english_gloss": "nude photo / nudes — neutral-colloquial",
+      "audio": "裸照.mp3"
+    },
+    {
+      "hanzi": "私密照",
+      "pinyin": "sīmìzhào",
+      "english_answers": [
+        "intimate photos",
+        "private photos"
+      ],
+      "english_gloss": "intimate photos / private photos — discreet euphemism",
+      "audio": "私密照.mp3"
+    },
+    {
+      "hanzi": "艳照",
+      "pinyin": "yànzhào",
+      "english_answers": [
+        "explicit photos",
+        "sexually explicit photos"
+      ],
+      "english_gloss": "explicit photos / sexually explicit photos — sensational or tabloid wording",
+      "audio": "艳照.mp3"
+    },
+    {
+      "hanzi": "色情片",
+      "pinyin": "sèqíngpiàn",
+      "english_answers": [
+        "porn film",
+        "pornography"
+      ],
+      "english_gloss": "porn film / pornography — common term",
+      "audio": "色情片.mp3"
+    },
+    {
+      "hanzi": "黄片",
+      "pinyin": "huángpiàn",
+      "english_answers": [
+        "porn",
+        "porn film"
+      ],
+      "english_gloss": "porn / porn film — colloquial; literally yellow film",
+      "audio": "黄片.mp3"
+    },
+    {
+      "hanzi": "成人视频",
+      "pinyin": "chéngrén shìpín",
+      "english_answers": [
+        "adult video",
+        "porn video"
+      ],
+      "english_gloss": "adult video / porn video — commercial euphemism",
+      "audio": "成人视频.mp3"
+    },
+    {
+      "hanzi": "看片",
+      "pinyin": "kàn piàn",
+      "english_answers": [
+        "watch porn",
+        "watch videos"
+      ],
+      "english_gloss": "watch porn / watch videos — can imply pornography in context",
+      "audio": "看片.mp3"
+    },
+    {
+      "hanzi": "带颜色的笑话",
+      "pinyin": "dài yánsè de xiàohua",
+      "english_answers": [
+        "dirty joke",
+        "off-color joke"
+      ],
+      "english_gloss": "dirty joke / off-color joke — euphemism",
+      "audio": "带颜色的笑话.mp3"
+    },
+    {
+      "hanzi": "荤话",
+      "pinyin": "hūnhuà",
+      "english_answers": [
+        "dirty talk",
+        "obscene language"
+      ],
+      "english_gloss": "dirty talk / obscene language — colloquial",
+      "audio": "荤话.mp3"
+    },
+    {
+      "hanzi": "下流话",
+      "pinyin": "xiàliúhuà",
+      "english_answers": [
+        "filthy talk",
+        "obscene talk"
+      ],
+      "english_gloss": "filthy talk / obscene talk — judgmental expression",
+      "audio": "下流话.mp3"
+    },
+    {
+      "hanzi": "骚话",
+      "pinyin": "sāohuà",
+      "english_answers": [
+        "suggestive talk",
+        "dirty talk"
+      ],
+      "english_gloss": "suggestive talk / dirty talk — slang; context dependent",
+      "audio": "骚话.mp3"
+    },
+    {
+      "hanzi": "骚",
+      "pinyin": "sāo",
+      "english_answers": [
+        "horny",
+        "flirtatious"
+      ],
+      "english_gloss": "horny / flirtatious — potentially insulting or objectifying depending on context",
+      "audio": "骚.mp3"
+    },
+    {
+      "hanzi": "发骚",
+      "pinyin": "fāsāo",
+      "english_answers": [
+        "act horny",
+        "act slutty"
+      ],
+      "english_gloss": "act horny / act slutty — derogatory or teasing depending on context",
+      "audio": "发骚.mp3"
+    },
+    {
+      "hanzi": "浪",
+      "pinyin": "làng",
+      "english_answers": [
+        "wild",
+        "promiscuous"
+      ],
+      "english_gloss": "wild / promiscuous — sexual slang; can be derogatory",
+      "audio": "浪.mp3"
+    },
+    {
+      "hanzi": "浪荡",
+      "pinyin": "làngdàng",
+      "english_answers": [
+        "promiscuous",
+        "dissolute"
+      ],
+      "english_gloss": "promiscuous / dissolute — derogatory",
+      "audio": "浪荡.mp3"
+    },
+    {
+      "hanzi": "淫荡",
+      "pinyin": "yíndàng",
+      "english_answers": [
+        "lewd",
+        "lustful"
+      ],
+      "english_gloss": "lewd / lustful — strongly derogatory sexual term",
+      "audio": "淫荡.mp3"
+    },
+    {
+      "hanzi": "色鬼",
+      "pinyin": "sèguǐ",
+      "english_answers": [
+        "pervert",
+        "horny creep"
+      ],
+      "english_gloss": "pervert / horny creep — insult, can be teasing",
+      "audio": "色鬼.mp3"
+    },
+    {
+      "hanzi": "变态佬",
+      "pinyin": "biàntàilǎo",
+      "english_answers": [
+        "pervert",
+        "creep"
+      ],
+      "english_gloss": "pervert / creep — insult; regional colloquial",
+      "audio": "变态佬.mp3"
+    },
+    {
+      "hanzi": "耍流氓",
+      "pinyin": "shuǎ liúmáng",
+      "english_answers": [
+        "behave indecently",
+        "act like a creep"
+      ],
+      "english_gloss": "behave indecently / act like a creep — accusation of harassment or vulgar behavior",
+      "audio": "耍流氓.mp3"
+    },
+    {
+      "hanzi": "吃豆腐",
+      "pinyin": "chī dòufu",
+      "english_answers": [
+        "grope",
+        "take liberties"
+      ],
+      "english_gloss": "grope / take liberties — idiom, sexual harassment in context",
+      "audio": "吃豆腐.mp3"
+    },
+    {
+      "hanzi": "揩油",
+      "pinyin": "kāiyóu",
+      "english_answers": [
+        "grope",
+        "take liberties"
+      ],
+      "english_gloss": "grope / take liberties — colloquial sexual harassment term",
+      "audio": "揩油.mp3"
+    },
+    {
+      "hanzi": "非礼",
+      "pinyin": "fēilǐ",
+      "english_answers": [
+        "molest",
+        "act indecently"
+      ],
+      "english_gloss": "molest / act indecently — formal/euphemistic",
+      "audio": "非礼.mp3"
+    },
+    {
+      "hanzi": "猥亵",
+      "pinyin": "wěixiè",
+      "english_answers": [
+        "molest",
+        "indecent assault"
+      ],
+      "english_gloss": "molest / indecent assault — legal/formal usage",
+      "audio": "猥亵.mp3"
+    },
+    {
+      "hanzi": "猥琐",
+      "pinyin": "wěisuǒ",
+      "english_answers": [
+        "creepy",
+        "lecherous"
+      ],
+      "english_gloss": "creepy / lecherous — derogatory; often about demeanor",
+      "audio": "猥琐.mp3"
+    },
+    {
+      "hanzi": "猥亵行为",
+      "pinyin": "wěixiè xíngwéi",
+      "english_answers": [
+        "indecent act",
+        "sexual misconduct"
+      ],
+      "english_gloss": "indecent act / sexual misconduct — legal/formal",
+      "audio": "猥亵行为.mp3"
+    },
+    {
+      "hanzi": "强奸",
+      "pinyin": "qiángjiān",
+      "english_answers": [
+        "rape"
+      ],
+      "english_gloss": "rape — serious legal term",
+      "audio": "强奸.mp3"
+    },
+    {
+      "hanzi": "性侵",
+      "pinyin": "xìngqīn",
+      "english_answers": [
+        "sexual assault"
+      ],
+      "english_gloss": "sexual assault — common journalistic/legal shorthand",
+      "audio": "性侵.mp3"
+    },
+    {
+      "hanzi": "性侵犯",
+      "pinyin": "xìng qīnfàn",
+      "english_answers": [
+        "sexual assault",
+        "sexual violation"
+      ],
+      "english_gloss": "sexual assault / sexual violation — standard term",
+      "audio": "性侵犯.mp3"
+    },
+    {
+      "hanzi": "性暴力",
+      "pinyin": "xìng bàolì",
+      "english_answers": [
+        "sexual violence"
+      ],
+      "english_gloss": "sexual violence — formal term",
+      "audio": "性暴力.mp3"
+    },
+    {
+      "hanzi": "猥亵罪",
+      "pinyin": "wěixièzuì",
+      "english_answers": [
+        "indecency offense"
+      ],
+      "english_gloss": "indecency offense — legal term; definitions vary by jurisdiction",
+      "audio": "猥亵罪.mp3"
+    },
+    {
+      "hanzi": "性剥削",
+      "pinyin": "xìng bōxuē",
+      "english_answers": [
+        "sexual exploitation"
+      ],
+      "english_gloss": "sexual exploitation — formal term",
+      "audio": "性剥削.mp3"
+    },
+    {
+      "hanzi": "偷拍裙底",
+      "pinyin": "tōupāi qúndǐ",
+      "english_answers": [
+        "upskirt filming"
+      ],
+      "english_gloss": "upskirt filming — violation of privacy",
+      "audio": "偷拍裙底.mp3"
+    },
+    {
+      "hanzi": "裸聊",
+      "pinyin": "luǒliáo",
+      "english_answers": [
+        "nude video chat",
+        "cybersex"
+      ],
+      "english_gloss": "nude video chat / cybersex — colloquial internet term",
+      "audio": "裸聊.mp3"
+    },
+    {
+      "hanzi": "色情聊天",
+      "pinyin": "sèqíng liáotiān",
+      "english_answers": [
+        "sex chat",
+        "sexual chat"
+      ],
+      "english_gloss": "sex chat / sexual chat — descriptive",
+      "audio": "色情聊天.mp3"
+    },
+    {
+      "hanzi": "擦边球",
+      "pinyin": "cābiānqiú",
+      "english_answers": [
+        "borderline content",
+        "skirting the rules"
+      ],
+      "english_gloss": "borderline content / skirting the rules — metaphor; can describe suggestive content",
+      "audio": "擦边球.mp3"
+    },
+    {
+      "hanzi": "黄网",
+      "pinyin": "huángwǎng",
+      "english_answers": [
+        "porn site",
+        "porn website"
+      ],
+      "english_gloss": "porn site / porn website — colloquial",
+      "audio": "黄网.mp3"
+    },
+    {
+      "hanzi": "成人网站",
+      "pinyin": "chéngrén wǎngzhàn",
+      "english_answers": [
+        "adult website"
+      ],
+      "english_gloss": "adult website — neutral/commercial",
+      "audio": "成人网站.mp3"
+    },
+    {
+      "hanzi": "约会软件",
+      "pinyin": "yuēhuì ruǎnjiàn",
+      "english_answers": [
+        "dating app"
+      ],
+      "english_gloss": "dating app — neutral",
+      "audio": "约会软件.mp3"
+    },
+    {
+      "hanzi": "附近的人",
+      "pinyin": "fùjìn de rén",
+      "english_answers": [
+        "people nearby"
+      ],
+      "english_gloss": "people nearby — app feature; may be used for hookups",
+      "audio": "附近的人.mp3"
+    },
+    {
+      "hanzi": "暧昧对象",
+      "pinyin": "àimèi duìxiàng",
+      "english_answers": [
+        "romantic interest",
+        "person you're talking to"
+      ],
+      "english_gloss": "romantic interest / person you're talking to — colloquial",
+      "audio": "暧昧对象.mp3"
+    },
+    {
+      "hanzi": "炮约",
+      "pinyin": "pào yuē",
+      "english_answers": [
+        "hookup arrangement"
+      ],
+      "english_gloss": "hookup arrangement — slang; less standard than 约炮",
+      "audio": "炮约.mp3"
+    },
+    {
+      "hanzi": "约起来",
+      "pinyin": "yuē qǐlái",
+      "english_answers": [
+        "let's meet up",
+        "let's get together"
+      ],
+      "english_gloss": "let's meet up / let's get together — can imply hooking up with context",
+      "audio": "约起来.mp3"
+    },
+    {
+      "hanzi": "双飞",
+      "pinyin": "shuāngfēi",
+      "english_answers": [
+        "threesome with two partners"
+      ],
+      "english_gloss": "threesome with two partners — explicit sexual slang, especially one person with two others",
+      "audio": "双飞.mp3"
+    },
+    {
+      "hanzi": "3P",
+      "pinyin": "sān pī",
+      "english_answers": [
+        "threesome",
+        "three-way"
+      ],
+      "english_gloss": "threesome / three-way — common borrowed sexual slang",
+      "audio": "3P.mp3"
+    },
+    {
+      "hanzi": "多人运动",
+      "pinyin": "duōrén yùndòng",
+      "english_answers": [
+        "group sex",
+        "group activity"
+      ],
+      "english_gloss": "group sex / group activity — internet euphemism; literally group exercise",
+      "audio": "多人运动.mp3"
+    },
+    {
+      "hanzi": "群P",
+      "pinyin": "qún pī",
+      "english_answers": [
+        "group sex",
+        "orgy"
+      ],
+      "english_gloss": "group sex / orgy — slang borrowed from English letter P",
+      "audio": "群P.mp3"
+    },
+    {
+      "hanzi": "群趴",
+      "pinyin": "qún pā",
+      "english_answers": [
+        "group party",
+        "group-sex party"
+      ],
+      "english_gloss": "group party / group-sex party — context-sensitive colloquial expression",
+      "audio": "群趴.mp3"
+    },
+    {
+      "hanzi": "乱交",
+      "pinyin": "luànjiāo",
+      "english_answers": [
+        "promiscuous sex",
+        "group sex"
+      ],
+      "english_gloss": "promiscuous sex / group sex — derogatory or moralizing label",
+      "audio": "乱交.mp3"
+    },
+    {
+      "hanzi": "性伴",
+      "pinyin": "xìngbàn",
+      "english_answers": [
+        "sex partner",
+        "sexual partner"
+      ],
+      "english_gloss": "sex partner / sexual partner — abbreviation",
+      "audio": "性伴.mp3"
+    },
+    {
+      "hanzi": "固定炮友",
+      "pinyin": "gùdìng pàoyǒu",
+      "english_answers": [
+        "regular hookup partner",
+        "regular friend with benefits"
+      ],
+      "english_gloss": "regular hookup partner / regular friend with benefits — colloquial",
+      "audio": "固定炮友.mp3"
+    },
+    {
+      "hanzi": "滚床单",
+      "pinyin": "gǔn chuángdān",
+      "english_answers": [
+        "have sex",
+        "sleep together"
+      ],
+      "english_gloss": "have sex / sleep together — playful euphemism; literally roll in sheets",
+      "audio": "滚床单.mp3"
+    },
+    {
+      "hanzi": "睡了",
+      "pinyin": "shuì le",
+      "english_answers": [
+        "slept together",
+        "had sex"
+      ],
+      "english_gloss": "slept together / had sex — euphemism; context-dependent",
+      "audio": "睡了.mp3"
+    },
+    {
+      "hanzi": "办事",
+      "pinyin": "bàn shì",
+      "english_answers": [
+        "do the deed",
+        "have sex"
+      ],
+      "english_gloss": "do the deed / have sex — euphemism; often otherwise means handle business",
+      "audio": "办事.mp3"
+    },
+    {
+      "hanzi": "做那事",
+      "pinyin": "zuò nà shì",
+      "english_answers": [
+        "do that thing",
+        "have sex"
+      ],
+      "english_gloss": "do that thing / have sex — euphemistic",
+      "audio": "做那事.mp3"
+    },
+    {
+      "hanzi": "做那种事",
+      "pinyin": "zuò nà zhǒng shì",
+      "english_answers": [
+        "do that kind of thing",
+        "have sex"
+      ],
+      "english_gloss": "do that kind of thing / have sex — euphemistic",
+      "audio": "做那种事.mp3"
+    },
+    {
+      "hanzi": "亲密行为",
+      "pinyin": "qīnmì xíngwéi",
+      "english_answers": [
+        "intimate activity",
+        "intimate act"
+      ],
+      "english_gloss": "intimate activity / intimate act — neutral",
+      "audio": "亲密行为.mp3"
+    },
+    {
+      "hanzi": "性暗示",
+      "pinyin": "xìng ànshì",
+      "english_answers": [
+        "sexual innuendo",
+        "sexual suggestion"
+      ],
+      "english_gloss": "sexual innuendo / sexual suggestion — neutral",
+      "audio": "性暗示.mp3"
+    },
+    {
+      "hanzi": "双关语",
+      "pinyin": "shuāngguānyǔ",
+      "english_answers": [
+        "double entendre",
+        "pun"
+      ],
+      "english_gloss": "double entendre / pun — general term, relevant to innuendo",
+      "audio": "双关语.mp3"
+    },
+    {
+      "hanzi": "挑逗性",
+      "pinyin": "tiǎodòuxìng",
+      "english_answers": [
+        "provocative",
+        "suggestive"
+      ],
+      "english_gloss": "provocative / suggestive — descriptive adjective",
+      "audio": "挑逗性.mp3"
+    },
+    {
+      "hanzi": "露骨",
+      "pinyin": "lùgǔ",
+      "english_answers": [
+        "explicit",
+        "blunt"
+      ],
+      "english_gloss": "explicit / blunt — about frank language or sexual content",
+      "audio": "露骨.mp3"
+    },
+    {
+      "hanzi": "肉麻",
+      "pinyin": "ròumá",
+      "english_answers": [
+        "sappy",
+        "cheesy"
+      ],
+      "english_gloss": "sappy / cheesy — often about excessive affection",
+      "audio": "肉麻.mp3"
+    },
+    {
+      "hanzi": "暧昧话",
+      "pinyin": "àimèi huà",
+      "english_answers": [
+        "flirtatious remarks",
+        "suggestive talk"
+      ],
+      "english_gloss": "flirtatious remarks / suggestive talk — colloquial",
+      "audio": "暧昧话.mp3"
+    },
+    {
+      "hanzi": "欲拒还迎",
+      "pinyin": "yù jù huán yíng",
+      "english_answers": [
+        "play hard to get",
+        "feign reluctance"
+      ],
+      "english_gloss": "play hard to get / feign reluctance — idiom; beware consent implications",
+      "audio": "欲拒还迎.mp3"
+    },
+    {
+      "hanzi": "勾引",
+      "pinyin": "gōuyǐn",
+      "english_answers": [
+        "seduce",
+        "entice"
+      ],
+      "english_gloss": "seduce / entice — sometimes judgmental",
+      "audio": "勾引.mp3"
+    },
+    {
+      "hanzi": "色诱",
+      "pinyin": "sèyòu",
+      "english_answers": [
+        "seduce sexually",
+        "use sex appeal"
+      ],
+      "english_gloss": "seduce sexually / use sex appeal — commonly judgmental",
+      "audio": "色诱.mp3"
+    },
+    {
+      "hanzi": "身材火辣",
+      "pinyin": "shēncái huǒlà",
+      "english_answers": [
+        "hot body",
+        "sexy figure"
+      ],
+      "english_gloss": "hot body / sexy figure — colloquial objectifying phrase",
+      "audio": "身材火辣.mp3"
+    },
+    {
+      "hanzi": "性感",
+      "pinyin": "xìnggǎn",
+      "english_answers": [
+        "sexy",
+        "sexually attractive"
+      ],
+      "english_gloss": "sexy / sexually attractive — common adjective",
+      "audio": "性感.mp3"
+    },
+    {
+      "hanzi": "撩妹",
+      "pinyin": "liáomèi",
+      "english_answers": [
+        "flirt with women",
+        "pick up girls"
+      ],
+      "english_gloss": "flirt with women / pick up girls — slang; gendered",
+      "audio": "撩妹.mp3"
+    }
+  ]
+}

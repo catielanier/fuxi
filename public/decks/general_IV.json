@@ -268,7 +268,7 @@
     },
     {
       "hanzi": "马上就",
-      "pinyin": "mǎshàng jiù",
+      "pinyin": "mǎshàngjiù",
       "english_answers": [
         "about to",
         "very soon"
@@ -481,7 +481,7 @@
     },
     {
       "hanzi": "够不够",
-      "pinyin": "gòu bu gòu",
+      "pinyin": "gòubugòu",
       "english_answers": [
         "is it enough?"
       ],
@@ -490,7 +490,7 @@
     },
     {
       "hanzi": "能不能",
-      "pinyin": "néng bu néng",
+      "pinyin": "néngbunéng",
       "english_answers": [
         "can or can't",
         "is it possible?"
@@ -500,7 +500,7 @@
     },
     {
       "hanzi": "要不要",
-      "pinyin": "yào bu yào",
+      "pinyin": "yàobuyào",
       "english_answers": [
         "want it or not?"
       ],
@@ -509,7 +509,7 @@
     },
     {
       "hanzi": "有没有",
-      "pinyin": "yǒu méi yǒu",
+      "pinyin": "yǒuméiyǒu",
       "english_answers": [
         "is there",
         "do you have?"
@@ -519,7 +519,7 @@
     },
     {
       "hanzi": "是不是",
-      "pinyin": "shì bu shì",
+      "pinyin": "shìbushì",
       "english_answers": [
         "is it or isn't it?"
       ],
@@ -528,7 +528,7 @@
     },
     {
       "hanzi": "对不对",
-      "pinyin": "duì bu duì",
+      "pinyin": "duìbuduì",
       "english_answers": [
         "right or not?"
       ],
@@ -547,7 +547,7 @@
     },
     {
       "hanzi": "忘了",
-      "pinyin": "wàng le",
+      "pinyin": "wàngle",
       "english_answers": [
         "forgot"
       ],
@@ -663,7 +663,7 @@
     },
     {
       "hanzi": "放回去",
-      "pinyin": "fàng huíqu",
+      "pinyin": "fànghuíqu",
       "english_answers": [
         "put back"
       ],
@@ -672,7 +672,7 @@
     },
     {
       "hanzi": "收起来",
-      "pinyin": "shōu qǐlái",
+      "pinyin": "shōuqǐlái",
       "english_answers": [
         "put away",
         "store"
@@ -760,7 +760,7 @@
     },
     {
       "hanzi": "经过这里",
-      "pinyin": "jīngguò zhèlǐ",
+      "pinyin": "jīngguòzhèlǐ",
       "english_answers": [
         "pass through here"
       ],
@@ -806,7 +806,7 @@
     },
     {
       "hanzi": "过马路",
-      "pinyin": "guò mǎlù",
+      "pinyin": "guòmǎlù",
       "english_answers": [
         "cross the street"
       ],
@@ -854,7 +854,7 @@
     },
     {
       "hanzi": "坐过站",
-      "pinyin": "zuò guòzhàn",
+      "pinyin": "zuòguòzhàn",
       "english_answers": [
         "ride past one's stop"
       ],

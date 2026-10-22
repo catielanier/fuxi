@@ -72,7 +72,7 @@
     },
     {
       "hanzi": "擦桌子",
-      "pinyin": "cā zhuōzi",
+      "pinyin": "cāzhuōzi",
       "english_answers": [
         "wipe the table"
       ],
@@ -81,7 +81,7 @@
     },
     {
       "hanzi": "擦窗户",
-      "pinyin": "cā chuānghu",
+      "pinyin": "cāchuānghu",
       "english_answers": [
         "clean the windows"
       ],
@@ -153,7 +153,7 @@
     },
     {
       "hanzi": "倒垃圾",
-      "pinyin": "dào lājī",
+      "pinyin": "dàolājī",
       "english_answers": [
         "take out the garbage"
       ],
@@ -162,7 +162,7 @@
     },
     {
       "hanzi": "垃圾分类",
-      "pinyin": "lājī fēnlèi",
+      "pinyin": "lājīfēnlèi",
       "english_answers": [
         "waste sorting"
       ],
@@ -190,7 +190,7 @@
     },
     {
       "hanzi": "洗衣服",
-      "pinyin": "xǐ yīfu",
+      "pinyin": "xǐyīfu",
       "english_answers": [
         "wash clothes"
       ],
@@ -199,7 +199,7 @@
     },
     {
       "hanzi": "晾衣服",
-      "pinyin": "liàng yīfu",
+      "pinyin": "liàngyīfu",
       "english_answers": [
         "hang laundry to dry"
       ],
@@ -208,7 +208,7 @@
     },
     {
       "hanzi": "晒衣服",
-      "pinyin": "shài yīfu",
+      "pinyin": "shàiyīfu",
       "english_answers": [
         "dry clothes in the sun"
       ],
@@ -217,7 +217,7 @@
     },
     {
       "hanzi": "叠衣服",
-      "pinyin": "dié yīfu",
+      "pinyin": "diéyīfu",
       "english_answers": [
         "fold clothes"
       ],
@@ -226,7 +226,7 @@
     },
     {
       "hanzi": "熨衣服",
-      "pinyin": "yùn yīfu",
+      "pinyin": "yùnyīfu",
       "english_answers": [
         "iron clothes"
       ],
@@ -289,7 +289,7 @@
     },
     {
       "hanzi": "洗碗",
-      "pinyin": "xǐ wǎn",
+      "pinyin": "xǐwǎn",
       "english_answers": [
         "wash dishes"
       ],
@@ -482,7 +482,7 @@
     },
     {
       "hanzi": "马桶堵了",
-      "pinyin": "mǎtǒng dǔ le",
+      "pinyin": "mǎtǒngdǔle",
       "english_answers": [
         "the toilet is clogged"
       ],
@@ -536,7 +536,7 @@
     },
     {
       "hanzi": "热水供应",
-      "pinyin": "rèshuǐ gōngyìng",
+      "pinyin": "rèshuǐgōngyìng",
       "english_answers": [
         "hot-water supply"
       ],
@@ -645,7 +645,7 @@
     },
     {
       "hanzi": "换灯泡",
-      "pinyin": "huàn dēngpào",
+      "pinyin": "huàndēngpào",
       "english_answers": [
         "replace a light bulb"
       ],
@@ -654,7 +654,7 @@
     },
     {
       "hanzi": "坏了",
-      "pinyin": "huài le",
+      "pinyin": "huàile",
       "english_answers": [
         "it's broken"
       ],
@@ -748,7 +748,7 @@
     },
     {
       "hanzi": "维修人员",
-      "pinyin": "wéixiū rényuán",
+      "pinyin": "wéixiūrényuán",
       "english_answers": [
         "repair technician"
       ],
@@ -757,7 +757,7 @@
     },
     {
       "hanzi": "上门维修",
-      "pinyin": "shàngmén wéixiū",
+      "pinyin": "shàngménwéixiū",
       "english_answers": [
         "repair service at home"
       ],
@@ -766,7 +766,7 @@
     },
     {
       "hanzi": "修好了",
-      "pinyin": "xiū hǎo le",
+      "pinyin": "xiūhǎole",
       "english_answers": [
         "it's been fixed"
       ],
@@ -775,7 +775,7 @@
     },
     {
       "hanzi": "还没修好",
-      "pinyin": "hái méi xiū hǎo",
+      "pinyin": "háiméixiūhǎo",
       "english_answers": [
         "it hasn't been fixed yet"
       ],
@@ -840,7 +840,7 @@
     },
     {
       "hanzi": "正常使用",
-      "pinyin": "zhèngcháng shǐyòng",
+      "pinyin": "zhèngchángshǐyòng",
       "english_answers": [
         "normal use"
       ],
@@ -849,7 +849,7 @@
     },
     {
       "hanzi": "维修费用",
-      "pinyin": "wéixiū fèiyòng",
+      "pinyin": "wéixiūfèiyòng",
       "english_answers": [
         "repair costs"
       ],

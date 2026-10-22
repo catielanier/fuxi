@@ -165,7 +165,7 @@
     },
     {
       "hanzi": "不规则",
-      "pinyin": "bù guīzé",
+      "pinyin": "bùguīzé",
       "english_answers": [
         "irregular"
       ],
@@ -483,7 +483,7 @@
     },
     {
       "hanzi": "有弹性",
-      "pinyin": "yǒu tánxìng",
+      "pinyin": "yǒutánxìng",
       "english_answers": [
         "elastic",
         "stretchy"
@@ -513,7 +513,7 @@
     },
     {
       "hanzi": "容易碎",
-      "pinyin": "róngyì suì",
+      "pinyin": "róngyìsuì",
       "english_answers": [
         "breaks easily",
         "fragile"
@@ -642,7 +642,7 @@
     },
     {
       "hanzi": "扎手",
-      "pinyin": "zhā shǒu",
+      "pinyin": "zhāshǒu",
       "english_answers": [
         "prickly to the touch"
       ],
@@ -737,7 +737,7 @@
     },
     {
       "hanzi": "半透明",
-      "pinyin": "bàn tòumíng",
+      "pinyin": "bàntòumíng",
       "english_answers": [
         "translucent"
       ],
@@ -746,7 +746,7 @@
     },
     {
       "hanzi": "不透明",
-      "pinyin": "bù tòumíng",
+      "pinyin": "bùtòumíng",
       "english_answers": [
         "opaque"
       ],
@@ -775,7 +775,7 @@
     },
     {
       "hanzi": "有光泽",
-      "pinyin": "yǒu guāngzé",
+      "pinyin": "yǒuguāngzé",
       "english_answers": [
         "glossy",
         "lustrous"
@@ -863,7 +863,7 @@
     },
     {
       "hanzi": "有棱有角",
-      "pinyin": "yǒu léng yǒu jiǎo",
+      "pinyin": "yǒuléngyǒujiǎo",
       "english_answers": [
         "angular",
         "with sharp edges"
@@ -873,7 +873,7 @@
     },
     {
       "hanzi": "凹凸不平",
-      "pinyin": "āotū bù píng",
+      "pinyin": "āotūbùpíng",
       "english_answers": [
         "uneven",
         "bumpy"
@@ -902,7 +902,7 @@
     },
     {
       "hanzi": "摸起来",
-      "pinyin": "mō qǐlái",
+      "pinyin": "mōqǐlái",
       "english_answers": [
         "to feel"
       ],
@@ -911,7 +911,7 @@
     },
     {
       "hanzi": "看起来",
-      "pinyin": "kàn qǐlái",
+      "pinyin": "kànqǐlái",
       "english_answers": [
         "to look",
         "to appear"
@@ -921,7 +921,7 @@
     },
     {
       "hanzi": "这个是空心的。",
-      "pinyin": "Zhège shì kōngxīn de.",
+      "pinyin": "Zhègeshìkōngxīnde.",
       "english_answers": [
         "This one is hollow."
       ],
@@ -930,7 +930,7 @@
     },
     {
       "hanzi": "表面很光滑。",
-      "pinyin": "Biǎomiàn hěn guānghuá.",
+      "pinyin": "Biǎomiànhěnguānghuá.",
       "english_answers": [
         "The surface is very smooth."
       ],
@@ -939,7 +939,7 @@
     },
     {
       "hanzi": "这块布很薄。",
-      "pinyin": "Zhè kuài bù hěn báo.",
+      "pinyin": "Zhèkuàibùhěnbáo.",
       "english_answers": [
         "This piece of fabric is thin."
       ],

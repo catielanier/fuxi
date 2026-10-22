@@ -7,7 +7,7 @@
   "cards": [
     {
       "hanzi": "三角内裤",
-      "pinyin": "sānjiǎo nèikù",
+      "pinyin": "sānjiǎonèikù",
       "english_answers": [
         "briefs",
         "bikini-cut underwear"
@@ -17,7 +17,7 @@
     },
     {
       "hanzi": "比基尼内裤",
-      "pinyin": "bǐjīní nèikù",
+      "pinyin": "bǐjīnínèikù",
       "english_answers": [
         "bikini panties"
       ],
@@ -26,7 +26,7 @@
     },
     {
       "hanzi": "高腰内裤",
-      "pinyin": "gāoyāo nèikù",
+      "pinyin": "gāoyāonèikù",
       "english_answers": [
         "high-waisted panties"
       ],
@@ -35,7 +35,7 @@
     },
     {
       "hanzi": "低腰内裤",
-      "pinyin": "dīyāo nèikù",
+      "pinyin": "dīyāonèikù",
       "english_answers": [
         "low-rise panties"
       ],
@@ -44,7 +44,7 @@
     },
     {
       "hanzi": "中腰内裤",
-      "pinyin": "zhōngyāo nèikù",
+      "pinyin": "zhōngyāonèikù",
       "english_answers": [
         "mid-rise panties"
       ],
@@ -53,7 +53,7 @@
     },
     {
       "hanzi": "平角内裤",
-      "pinyin": "píngjiǎo nèikù",
+      "pinyin": "píngjiǎonèikù",
       "english_answers": [
         "boyshorts",
         "boxer-style underwear"
@@ -72,7 +72,7 @@
     },
     {
       "hanzi": "无痕内裤",
-      "pinyin": "wúhén nèikù",
+      "pinyin": "wúhénnèikù",
       "english_answers": [
         "seamless panties"
       ],
@@ -81,7 +81,7 @@
     },
     {
       "hanzi": "蕾丝内裤",
-      "pinyin": "lěisī nèikù",
+      "pinyin": "lěisīnèikù",
       "english_answers": [
         "lace panties"
       ],
@@ -90,7 +90,7 @@
     },
     {
       "hanzi": "棉质内裤",
-      "pinyin": "miánzhì nèikù",
+      "pinyin": "miánzhìnèikù",
       "english_answers": [
         "cotton panties"
       ],
@@ -99,7 +99,7 @@
     },
     {
       "hanzi": "性感内衣",
-      "pinyin": "xìnggǎn nèiyī",
+      "pinyin": "xìnggǎnnèiyī",
       "english_answers": [
         "sexy lingerie"
       ],
@@ -108,7 +108,7 @@
     },
     {
       "hanzi": "情趣内衣",
-      "pinyin": "qíngqù nèiyī",
+      "pinyin": "qíngqùnèiyī",
       "english_answers": [
         "erotic lingerie"
       ],
@@ -126,7 +126,7 @@
     },
     {
       "hanzi": "吊带睡裙",
-      "pinyin": "diàodài shuìqún",
+      "pinyin": "diàodàishuìqún",
       "english_answers": [
         "slip nightdress"
       ],
@@ -164,7 +164,7 @@
     },
     {
       "hanzi": "半身衬裙",
-      "pinyin": "bànshēn chènqún",
+      "pinyin": "bànshēnchènqún",
       "english_answers": [
         "half-slip"
       ],
@@ -173,7 +173,7 @@
     },
     {
       "hanzi": "吊带衬裙",
-      "pinyin": "diàodài chènqún",
+      "pinyin": "diàodàichènqún",
       "english_answers": [
         "full slip"
       ],
@@ -249,7 +249,7 @@
     },
     {
       "hanzi": "无肩带款",
-      "pinyin": "wú jiāndài kuǎn",
+      "pinyin": "wújiāndàikuǎn",
       "english_answers": [
         "strapless style"
       ],
@@ -258,7 +258,7 @@
     },
     {
       "hanzi": "无钢圈款",
-      "pinyin": "wú gāngquān kuǎn",
+      "pinyin": "wúgāngquānkuǎn",
       "english_answers": [
         "wireless style"
       ],
@@ -267,7 +267,7 @@
     },
     {
       "hanzi": "钢圈款",
-      "pinyin": "gāngquān kuǎn",
+      "pinyin": "gāngquānkuǎn",
       "english_answers": [
         "underwire style"
       ],
@@ -276,7 +276,7 @@
     },
     {
       "hanzi": "聚拢款",
-      "pinyin": "jùlǒng kuǎn",
+      "pinyin": "jùlǒngkuǎn",
       "english_answers": [
         "push-up style"
       ],
@@ -312,7 +312,7 @@
     },
     {
       "hanzi": "四分之三杯",
-      "pinyin": "sìfēnzhīsān bēi",
+      "pinyin": "sìfēnzhīsānbēi",
       "english_answers": [
         "three-quarter cup"
       ],
@@ -330,7 +330,7 @@
     },
     {
       "hanzi": "低胸款",
-      "pinyin": "dīxiōng kuǎn",
+      "pinyin": "dīxiōngkuǎn",
       "english_answers": [
         "plunge",
         "low-cut style"
@@ -358,7 +358,7 @@
     },
     {
       "hanzi": "肩带可调",
-      "pinyin": "jiāndài kě tiáo",
+      "pinyin": "jiāndàikětiáo",
       "english_answers": [
         "adjustable straps"
       ],
@@ -367,7 +367,7 @@
     },
     {
       "hanzi": "可拆肩带",
-      "pinyin": "kěchāi jiāndài",
+      "pinyin": "kěchāijiāndài",
       "english_answers": [
         "detachable straps"
       ],
@@ -497,7 +497,7 @@
     },
     {
       "hanzi": "肉色丝袜",
-      "pinyin": "ròusè sīwà",
+      "pinyin": "ròusèsīwà",
       "english_answers": [
         "nude-colored stockings"
       ],
@@ -599,7 +599,7 @@
     },
     {
       "hanzi": "小外套",
-      "pinyin": "xiǎo wàitào",
+      "pinyin": "xiǎowàitào",
       "english_answers": [
         "light jacket",
         "bolero-style jacket"
@@ -609,7 +609,7 @@
     },
     {
       "hanzi": "短外套",
-      "pinyin": "duǎn wàitào",
+      "pinyin": "duǎnwàitào",
       "english_answers": [
         "cropped jacket"
       ],
@@ -618,7 +618,7 @@
     },
     {
       "hanzi": "长款外套",
-      "pinyin": "chángkuǎn wàitào",
+      "pinyin": "chángkuǎnwàitào",
       "english_answers": [
         "long coat",
         "long jacket"
@@ -628,7 +628,7 @@
     },
     {
       "hanzi": "毛呢大衣",
-      "pinyin": "máoní dàyī",
+      "pinyin": "máonídàyī",
       "english_answers": [
         "wool coat"
       ],
@@ -657,7 +657,7 @@
     },
     {
       "hanzi": "针织连衣裙",
-      "pinyin": "zhēnzhī liányīqún",
+      "pinyin": "zhēnzhīliányīqún",
       "english_answers": [
         "knit dress"
       ],
@@ -706,7 +706,7 @@
     },
     {
       "hanzi": "不规则裙",
-      "pinyin": "bù guīzé qún",
+      "pinyin": "bùguīzéqún",
       "english_answers": [
         "asymmetrical skirt"
       ],
@@ -856,7 +856,7 @@
     },
     {
       "hanzi": "亮片装饰",
-      "pinyin": "liàngpiàn zhuāngshì",
+      "pinyin": "liàngpiànzhuāngshì",
       "english_answers": [
         "sequin decoration"
       ],
@@ -912,7 +912,7 @@
     },
     {
       "hanzi": "显身材",
-      "pinyin": "xiǎn shēncái",
+      "pinyin": "xiǎnshēncái",
       "english_answers": [
         "shows off the figure"
       ],
@@ -921,7 +921,7 @@
     },
     {
       "hanzi": "显胸",
-      "pinyin": "xiǎn xiōng",
+      "pinyin": "xiǎnxiōng",
       "english_answers": [
         "emphasizes the bust"
       ],
@@ -930,7 +930,7 @@
     },
     {
       "hanzi": "显腰",
-      "pinyin": "xiǎn yāo",
+      "pinyin": "xiǎnyāo",
       "english_answers": [
         "emphasizes the waist"
       ],

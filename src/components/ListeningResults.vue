@@ -5,10 +5,7 @@ import { getAuth, onAuthStateChanged } from 'firebase/auth'
 import { getDatabase, get, ref as dbRef } from 'firebase/database'
 import firebase from '@/utils/firebase'
 import ListeningResultCard from '@/components/SubComponents/ListeningResultCard.vue'
-import {
-  calculateListeningScore,
-  getAudioUrl,
-} from '@/utils/listening'
+import { calculateListeningScore, getAudioUrl } from '@/utils/listening'
 import type { ListeningQuizResult } from '@/data/types'
 
 const props = defineProps<{
@@ -20,6 +17,7 @@ const route = useRoute()
 const auth = getAuth(firebase)
 const db = getDatabase(firebase)
 
+// eslint-disable-next-line vue/no-dupe-keys
 const result = ref<ListeningQuizResult | null>(null)
 const isLoading = ref(true)
 const error = ref('')
@@ -38,9 +36,7 @@ const correctCount = computed(
   () => result.value?.results.filter((answer) => answer.correct).length ?? 0,
 )
 
-const percentage = computed(() =>
-  result.value ? calculateListeningScore(result.value) : 0,
-)
+const percentage = computed(() => (result.value ? calculateListeningScore(result.value) : 0))
 
 const formatDate = (date: string): string =>
   new Intl.DateTimeFormat('en-CA', {
@@ -101,12 +97,7 @@ const loadResult = async (): Promise<void> => {
         throw new Error('Please log in to view this result.')
       }
 
-      const snapshot = await get(
-        dbRef(
-          db,
-          `users/${user.uid}/results/${activeResultId.value}`,
-        ),
-      )
+      const snapshot = await get(dbRef(db, `users/${user.uid}/results/${activeResultId.value}`))
 
       if (!snapshot.exists()) {
         throw new Error('Listening result not found.')
@@ -131,10 +122,7 @@ const loadResult = async (): Promise<void> => {
   } catch (err) {
     if (version !== requestVersion) return
 
-    error.value =
-      err instanceof Error
-        ? err.message
-        : 'Unable to load listening results.'
+    error.value = err instanceof Error ? err.message : 'Unable to load listening results.'
   } finally {
     if (version === requestVersion) {
       isLoading.value = false
@@ -161,14 +149,11 @@ onMounted(() => {
   )
 })
 
-watch(
-  [activeResultId, () => props.result],
-  () => {
-    if (auth.currentUser || !activeResultId.value) {
-      void loadResult()
-    }
-  },
-)
+watch([activeResultId, () => props.result], () => {
+  if (auth.currentUser || !activeResultId.value) {
+    void loadResult()
+  }
+})
 
 onUnmounted(() => {
   ++requestVersion
@@ -190,9 +175,7 @@ onUnmounted(() => {
     <section class="content-container listening-results">
       <h3><span>听力结果</span> · Listening Results</h3>
 
-      <p v-if="isLoading" role="status">
-        Loading listening results...
-      </p>
+      <p v-if="isLoading" role="status">Loading listening results...</p>
 
       <p v-else-if="error" role="alert">
         {{ error }}
@@ -245,9 +228,7 @@ onUnmounted(() => {
             Back to Listening Decks
           </RouterLink>
 
-          <RouterLink to="/history" class="action-button secondary">
-            View History
-          </RouterLink>
+          <RouterLink to="/history" class="action-button secondary"> View History </RouterLink>
         </div>
       </template>
     </section>

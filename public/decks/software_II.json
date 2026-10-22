@@ -44,7 +44,7 @@
     },
     {
       "hanzi": "项目经理",
-      "pinyin": "xiàngmù jīnglǐ",
+      "pinyin": "xiàngmùjīnglǐ",
       "english_answers": [
         "project manager"
       ],
@@ -53,7 +53,7 @@
     },
     {
       "hanzi": "产品经理",
-      "pinyin": "chǎnpǐn jīnglǐ",
+      "pinyin": "chǎnpǐnjīnglǐ",
       "english_answers": [
         "product manager"
       ],
@@ -80,7 +80,7 @@
     },
     {
       "hanzi": "利益相关者",
-      "pinyin": "lìyì xiāngguānzhě",
+      "pinyin": "lìyìxiāngguānzhě",
       "english_answers": [
         "stakeholder"
       ],
@@ -126,7 +126,7 @@
     },
     {
       "hanzi": "远程会议",
-      "pinyin": "yuǎnchéng huìyì",
+      "pinyin": "yuǎnchénghuìyì",
       "english_answers": [
         "remote meeting"
       ],
@@ -135,7 +135,7 @@
     },
     {
       "hanzi": "视频会议",
-      "pinyin": "shìpín huìyì",
+      "pinyin": "shìpínhuìyì",
       "english_answers": [
         "video conference"
       ],
@@ -144,7 +144,7 @@
     },
     {
       "hanzi": "会议纪要",
-      "pinyin": "huìyì jìyào",
+      "pinyin": "huìyìjìyào",
       "english_answers": [
         "meeting minutes"
       ],
@@ -282,7 +282,7 @@
     },
     {
       "hanzi": "同步进度",
-      "pinyin": "tóngbù jìndù",
+      "pinyin": "tóngbùjìndù",
       "english_answers": [
         "sync on progress"
       ],
@@ -366,7 +366,7 @@
     },
     {
       "hanzi": "依赖关系",
-      "pinyin": "yīlài guānxì",
+      "pinyin": "yīlàiguānxì",
       "english_answers": [
         "dependency"
       ],
@@ -384,7 +384,7 @@
     },
     {
       "hanzi": "业务需求",
-      "pinyin": "yèwù xūqiú",
+      "pinyin": "yèwùxūqiú",
       "english_answers": [
         "business requirement"
       ],
@@ -393,7 +393,7 @@
     },
     {
       "hanzi": "功能需求",
-      "pinyin": "gōngnéng xūqiú",
+      "pinyin": "gōngnéngxūqiú",
       "english_answers": [
         "functional requirement"
       ],
@@ -402,7 +402,7 @@
     },
     {
       "hanzi": "用户故事",
-      "pinyin": "yònghù gùshì",
+      "pinyin": "yònghùgùshì",
       "english_answers": [
         "user story"
       ],
@@ -411,7 +411,7 @@
     },
     {
       "hanzi": "验收标准",
-      "pinyin": "yànshōu biāozhǔn",
+      "pinyin": "yànshōubiāozhǔn",
       "english_answers": [
         "acceptance criteria"
       ],
@@ -420,7 +420,7 @@
     },
     {
       "hanzi": "项目范围",
-      "pinyin": "xiàngmù fànwéi",
+      "pinyin": "xiàngmùfànwéi",
       "english_answers": [
         "project scope"
       ],
@@ -429,7 +429,7 @@
     },
     {
       "hanzi": "范围变更",
-      "pinyin": "fànwéi biàngēng",
+      "pinyin": "fànwéibiàngēng",
       "english_answers": [
         "scope change"
       ],
@@ -447,7 +447,7 @@
     },
     {
       "hanzi": "待办事项",
-      "pinyin": "dàibàn shìxiàng",
+      "pinyin": "dàibànshìxiàng",
       "english_answers": [
         "to-do item"
       ],
@@ -456,7 +456,7 @@
     },
     {
       "hanzi": "任务分配",
-      "pinyin": "rènwu fēnpèi",
+      "pinyin": "rènwufēnpèi",
       "english_answers": [
         "task assignment"
       ],
@@ -465,7 +465,7 @@
     },
     {
       "hanzi": "截止日期",
-      "pinyin": "jiézhǐ rìqī",
+      "pinyin": "jiézhǐrìqī",
       "english_answers": [
         "deadline"
       ],
@@ -530,7 +530,7 @@
     },
     {
       "hanzi": "冲刺计划",
-      "pinyin": "chōngcì jìhuà",
+      "pinyin": "chōngcìjìhuà",
       "english_answers": [
         "sprint planning"
       ],
@@ -539,7 +539,7 @@
     },
     {
       "hanzi": "待办列表",
-      "pinyin": "dàibàn lièbiǎo",
+      "pinyin": "dàibànlièbiǎo",
       "english_answers": [
         "backlog",
         "task list"
@@ -549,7 +549,7 @@
     },
     {
       "hanzi": "回顾会议",
-      "pinyin": "huígù huìyì",
+      "pinyin": "huígùhuìyì",
       "english_answers": [
         "retrospective meeting"
       ],
@@ -558,7 +558,7 @@
     },
     {
       "hanzi": "代码审查",
-      "pinyin": "dàimǎ shěnchá",
+      "pinyin": "dàimǎshěnchá",
       "english_answers": [
         "code review"
       ],
@@ -567,7 +567,7 @@
     },
     {
       "hanzi": "审查意见",
-      "pinyin": "shěnchá yìjiàn",
+      "pinyin": "shěncháyìjiàn",
       "english_answers": [
         "review comment"
       ],
@@ -576,7 +576,7 @@
     },
     {
       "hanzi": "修改意见",
-      "pinyin": "xiūgǎi yìjiàn",
+      "pinyin": "xiūgǎiyìjiàn",
       "english_answers": [
         "requested changes",
         "feedback"
@@ -595,7 +595,7 @@
     },
     {
       "hanzi": "合并请求",
-      "pinyin": "hébìng qǐngqiú",
+      "pinyin": "hébìngqǐngqiú",
       "english_answers": [
         "merge request"
       ],
@@ -604,7 +604,7 @@
     },
     {
       "hanzi": "提交记录",
-      "pinyin": "tíjiāo jìlù",
+      "pinyin": "tíjiāojìlù",
       "english_answers": [
         "commit history"
       ],
@@ -622,7 +622,7 @@
     },
     {
       "hanzi": "解决冲突",
-      "pinyin": "jiějué chōngtū",
+      "pinyin": "jiějuéchōngtū",
       "english_answers": [
         "resolve conflicts"
       ],
@@ -631,7 +631,7 @@
     },
     {
       "hanzi": "重现问题",
-      "pinyin": "chóngxiàn wèntí",
+      "pinyin": "chóngxiànwèntí",
       "english_answers": [
         "reproduce an issue"
       ],
@@ -640,7 +640,7 @@
     },
     {
       "hanzi": "复现步骤",
-      "pinyin": "fùxiàn bùzhòu",
+      "pinyin": "fùxiànbùzhòu",
       "english_answers": [
         "steps to reproduce"
       ],
@@ -649,7 +649,7 @@
     },
     {
       "hanzi": "预期结果",
-      "pinyin": "yùqī jiéguǒ",
+      "pinyin": "yùqījiéguǒ",
       "english_answers": [
         "expected result"
       ],
@@ -658,7 +658,7 @@
     },
     {
       "hanzi": "实际结果",
-      "pinyin": "shíjì jiéguǒ",
+      "pinyin": "shíjìjiéguǒ",
       "english_answers": [
         "actual result"
       ],
@@ -677,7 +677,7 @@
     },
     {
       "hanzi": "根本原因",
-      "pinyin": "gēnběn yuányīn",
+      "pinyin": "gēnběnyuányīn",
       "english_answers": [
         "root cause"
       ],
@@ -686,7 +686,7 @@
     },
     {
       "hanzi": "临时解决方案",
-      "pinyin": "línshí jiějué fāngàn",
+      "pinyin": "línshíjiějuéfāngàn",
       "english_answers": [
         "workaround"
       ],
@@ -705,7 +705,7 @@
     },
     {
       "hanzi": "回归测试",
-      "pinyin": "huíguī cèshì",
+      "pinyin": "huíguīcèshì",
       "english_answers": [
         "regression testing"
       ],
@@ -752,7 +752,7 @@
     },
     {
       "hanzi": "居家办公",
-      "pinyin": "jūjiā bàngōng",
+      "pinyin": "jūjiābàngōng",
       "english_answers": [
         "work from home"
       ],
@@ -761,7 +761,7 @@
     },
     {
       "hanzi": "混合办公",
-      "pinyin": "hùnhé bàngōng",
+      "pinyin": "hùnhébàngōng",
       "english_answers": [
         "hybrid work"
       ],
@@ -825,7 +825,7 @@
     },
     {
       "hanzi": "工作时间",
-      "pinyin": "gōngzuò shíjiān",
+      "pinyin": "gōngzuòshíjiān",
       "english_answers": [
         "working hours"
       ],
@@ -843,7 +843,7 @@
     },
     {
       "hanzi": "工作效率",
-      "pinyin": "gōngzuò xiàolǜ",
+      "pinyin": "gōngzuòxiàolǜ",
       "english_answers": [
         "work efficiency"
       ],
@@ -861,7 +861,7 @@
     },
     {
       "hanzi": "绩效评估",
-      "pinyin": "jìxiào pínggū",
+      "pinyin": "jìxiàopínggū",
       "english_answers": [
         "performance review"
       ],
@@ -870,7 +870,7 @@
     },
     {
       "hanzi": "职业发展",
-      "pinyin": "zhíyè fāzhǎn",
+      "pinyin": "zhíyèfāzhǎn",
       "english_answers": [
         "career development"
       ],
@@ -879,7 +879,7 @@
     },
     {
       "hanzi": "技能提升",
-      "pinyin": "jìnéng tíshēng",
+      "pinyin": "jìnéngtíshēng",
       "english_answers": [
         "skill development"
       ],

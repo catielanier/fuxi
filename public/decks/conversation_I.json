@@ -17,7 +17,7 @@
     },
     {
       "hanzi": "说实话",
-      "pinyin": "shuō shíhuà",
+      "pinyin": "shuōshíhuà",
       "english_answers": [
         "to be honest"
       ],
@@ -85,7 +85,7 @@
     },
     {
       "hanzi": "还有",
-      "pinyin": "hái yǒu",
+      "pinyin": "háiyǒu",
       "english_answers": [
         "also",
         "furthermore"
@@ -104,7 +104,7 @@
     },
     {
       "hanzi": "比如说",
-      "pinyin": "bǐrú shuō",
+      "pinyin": "bǐrúshuō",
       "english_answers": [
         "for instance"
       ],
@@ -133,7 +133,7 @@
     },
     {
       "hanzi": "总的来说",
-      "pinyin": "zǒng de lái shuō",
+      "pinyin": "zǒngdeláishuō",
       "english_answers": [
         "generally speaking"
       ],
@@ -142,7 +142,7 @@
     },
     {
       "hanzi": "简单来说",
-      "pinyin": "jiǎndān de lái shuō",
+      "pinyin": "jiǎndāndeláishuō",
       "english_answers": [
         "to put it simply"
       ],
@@ -151,7 +151,7 @@
     },
     {
       "hanzi": "换句话说",
-      "pinyin": "huàn jù huà shuō",
+      "pinyin": "huànjùhuàshuō",
       "english_answers": [
         "in other words"
       ],
@@ -160,7 +160,7 @@
     },
     {
       "hanzi": "也就是说",
-      "pinyin": "yě jiù shì shuō",
+      "pinyin": "yějiùshìshuō",
       "english_answers": [
         "that is to say"
       ],
@@ -169,7 +169,7 @@
     },
     {
       "hanzi": "问题是",
-      "pinyin": "wèntí shì",
+      "pinyin": "wèntíshì",
       "english_answers": [
         "the problem is"
       ],
@@ -178,7 +178,7 @@
     },
     {
       "hanzi": "关键是",
-      "pinyin": "guānjiàn shì",
+      "pinyin": "guānjiànshì",
       "english_answers": [
         "the key is"
       ],
@@ -452,7 +452,7 @@
     },
     {
       "hanzi": "其实我觉得……",
-      "pinyin": "Qíshí wǒ juéde…",
+      "pinyin": "Qíshíwǒjuéde…",
       "english_answers": [
         "Actually, I think…"
       ],
@@ -461,7 +461,7 @@
     },
     {
       "hanzi": "我不太确定。",
-      "pinyin": "Wǒ bú tài quèdìng.",
+      "pinyin": "Wǒbútàiquèdìng.",
       "english_answers": [
         "I'm not quite sure."
       ],
@@ -470,7 +470,7 @@
     },
     {
       "hanzi": "我也这么觉得。",
-      "pinyin": "Wǒ yě zhème juéde.",
+      "pinyin": "Wǒyězhèmejuéde.",
       "english_answers": [
         "I feel the same way."
       ],
@@ -479,7 +479,7 @@
     },
     {
       "hanzi": "有可能。",
-      "pinyin": "Yǒu kěnéng.",
+      "pinyin": "Yǒukěnéng.",
       "english_answers": [
         "It's possible."
       ],
@@ -488,7 +488,7 @@
     },
     {
       "hanzi": "不一定。",
-      "pinyin": "Bù yídìng.",
+      "pinyin": "Bùyídìng.",
       "english_answers": [
         "Not necessarily."
       ],
@@ -507,7 +507,7 @@
     },
     {
       "hanzi": "看情况吧。",
-      "pinyin": "Kàn qíngkuàng ba.",
+      "pinyin": "Kànqíngkuàngba.",
       "english_answers": [
         "It depends."
       ],
@@ -516,7 +516,7 @@
     },
     {
       "hanzi": "你说得有道理。",
-      "pinyin": "Nǐ shuō de yǒu dàolǐ.",
+      "pinyin": "Nǐshuōdeyǒudàolǐ.",
       "english_answers": [
         "You have a point."
       ],
@@ -525,7 +525,7 @@
     },
     {
       "hanzi": "这倒也是。",
-      "pinyin": "Zhè dào yě shì.",
+      "pinyin": "Zhèdàoyěshì.",
       "english_answers": [
         "That's true, actually."
       ],
@@ -534,7 +534,7 @@
     },
     {
       "hanzi": "我明白你的意思。",
-      "pinyin": "Wǒ míngbai nǐ de yìsi.",
+      "pinyin": "Wǒmíngbainǐdeyìsi.",
       "english_answers": [
         "I see what you mean."
       ],
@@ -543,7 +543,7 @@
     },
     {
       "hanzi": "我懂了。",
-      "pinyin": "Wǒ dǒng le.",
+      "pinyin": "Wǒdǒngle.",
       "english_answers": [
         "I get it now."
       ],
@@ -552,7 +552,7 @@
     },
     {
       "hanzi": "明白了。",
-      "pinyin": "Míngbai le.",
+      "pinyin": "Míngbaile.",
       "english_answers": [
         "Got it."
       ],
@@ -561,7 +561,7 @@
     },
     {
       "hanzi": "没听清楚。",
-      "pinyin": "Méi tīng qīngchu.",
+      "pinyin": "Méitīngqīngchu.",
       "english_answers": [
         "I didn't hear clearly."
       ],
@@ -570,7 +570,7 @@
     },
     {
       "hanzi": "再说一遍。",
-      "pinyin": "Zài shuō yí biàn.",
+      "pinyin": "Zàishuōyíbiàn.",
       "english_answers": [
         "Say it again."
       ],
@@ -579,7 +579,7 @@
     },
     {
       "hanzi": "你能再说一遍吗？",
-      "pinyin": "Nǐ néng zài shuō yí biàn ma?",
+      "pinyin": "Nǐnéngzàishuōyíbiànma?",
       "english_answers": [
         "Could you say it again?"
       ],
@@ -588,7 +588,7 @@
     },
     {
       "hanzi": "你能说慢一点吗？",
-      "pinyin": "Nǐ néng shuō màn yìdiǎn ma?",
+      "pinyin": "Nǐnéngshuōmànyìdiǎnma?",
       "english_answers": [
         "Could you speak more slowly?"
       ],
@@ -597,7 +597,7 @@
     },
     {
       "hanzi": "这是什么意思？",
-      "pinyin": "Zhè shì shénme yìsi?",
+      "pinyin": "Zhèshìshénmeyìsi?",
       "english_answers": [
         "What does this mean?"
       ],
@@ -606,7 +606,7 @@
     },
     {
       "hanzi": "你指的是什么？",
-      "pinyin": "Nǐ zhǐ de shì shénme?",
+      "pinyin": "Nǐzhǐdeshìshénme?",
       "english_answers": [
         "What are you referring to?"
       ],
@@ -615,7 +615,7 @@
     },
     {
       "hanzi": "你是说……吗？",
-      "pinyin": "Nǐ shì shuō… ma?",
+      "pinyin": "Nǐshìshuō…ma?",
       "english_answers": [
         "Do you mean…?"
       ],
@@ -624,7 +624,7 @@
     },
     {
       "hanzi": "怎么说呢？",
-      "pinyin": "Zěnme shuō ne?",
+      "pinyin": "Zěnmeshuōne?",
       "english_answers": [
         "How should I put it?"
       ],
@@ -633,7 +633,7 @@
     },
     {
       "hanzi": "我想想。",
-      "pinyin": "Wǒ xiǎngxiang.",
+      "pinyin": "Wǒxiǎngxiang.",
       "english_answers": [
         "Let me think."
       ],
@@ -642,7 +642,7 @@
     },
     {
       "hanzi": "等一下。",
-      "pinyin": "Děng yíxià.",
+      "pinyin": "Děngyíxià.",
       "english_answers": [
         "Wait a moment."
       ],
@@ -651,7 +651,7 @@
     },
     {
       "hanzi": "稍等一下。",
-      "pinyin": "Shāo děng yíxià.",
+      "pinyin": "Shāoděngyíxià.",
       "english_answers": [
         "Hold on a second."
       ],
@@ -660,7 +660,7 @@
     },
     {
       "hanzi": "我忘了怎么说。",
-      "pinyin": "Wǒ wàng le zěnme shuō.",
+      "pinyin": "Wǒwànglezěnmeshuō.",
       "english_answers": [
         "I forgot how to say it."
       ],
@@ -669,7 +669,7 @@
     },
     {
       "hanzi": "这个词怎么说？",
-      "pinyin": "Zhège cí zěnme shuō?",
+      "pinyin": "Zhègecízěnmeshuō?",
       "english_answers": [
         "How do you say this word?"
       ],
@@ -678,7 +678,7 @@
     },
     {
       "hanzi": "你能举个例子吗？",
-      "pinyin": "Nǐ néng jǔ ge lìzi ma?",
+      "pinyin": "Nǐnéngjǔgelìzima?",
       "english_answers": [
         "Can you give an example?"
       ],
@@ -687,7 +687,7 @@
     },
     {
       "hanzi": "让我解释一下。",
-      "pinyin": "Ràng wǒ jiěshì yíxià.",
+      "pinyin": "Ràngwǒjiěshìyíxià.",
       "english_answers": [
         "Let me explain."
       ],
@@ -696,7 +696,7 @@
     },
     {
       "hanzi": "我的意思是……",
-      "pinyin": "Wǒ de yìsi shì…",
+      "pinyin": "Wǒdeyìsishì…",
       "english_answers": [
         "What I mean is…"
       ],
@@ -705,7 +705,7 @@
     },
     {
       "hanzi": "原来如此。",
-      "pinyin": "Yuánlái rúcǐ.",
+      "pinyin": "Yuánláirúcǐ.",
       "english_answers": [
         "Oh, so that's how it is."
       ],
@@ -732,7 +732,7 @@
     },
     {
       "hanzi": "真的吗？",
-      "pinyin": "Zhēn de ma?",
+      "pinyin": "Zhēndema?",
       "english_answers": [
         "Really?"
       ],
@@ -741,7 +741,7 @@
     },
     {
       "hanzi": "真的假的？",
-      "pinyin": "Zhēn de jiǎ de?",
+      "pinyin": "Zhēndejiǎde?",
       "english_answers": [
         "Seriously? For real?"
       ],
@@ -750,7 +750,7 @@
     },
     {
       "hanzi": "不会吧！",
-      "pinyin": "Bú huì ba!",
+      "pinyin": "Búhuìba!",
       "english_answers": [
         "No way!"
       ],
@@ -759,7 +759,7 @@
     },
     {
       "hanzi": "太巧了！",
-      "pinyin": "Tài qiǎo le!",
+      "pinyin": "Tàiqiǎole!",
       "english_answers": [
         "What a coincidence!"
       ],
@@ -768,7 +768,7 @@
     },
     {
       "hanzi": "没办法。",
-      "pinyin": "Méi bànfǎ.",
+      "pinyin": "Méibànfǎ.",
       "english_answers": [
         "Can't be helped."
       ],
@@ -777,7 +777,7 @@
     },
     {
       "hanzi": "算了。",
-      "pinyin": "Suàn le.",
+      "pinyin": "Suànle.",
       "english_answers": [
         "Forget it",
         "never mind."
@@ -787,7 +787,7 @@
     },
     {
       "hanzi": "随便吧。",
-      "pinyin": "Suíbiàn ba.",
+      "pinyin": "Suíbiànba.",
       "english_answers": [
         "Whatever",
         "either way."
@@ -797,7 +797,7 @@
     },
     {
       "hanzi": "你说呢？",
-      "pinyin": "Nǐ shuō ne?",
+      "pinyin": "Nǐshuōne?",
       "english_answers": [
         "What do you think?"
       ],
@@ -806,7 +806,7 @@
     },
     {
       "hanzi": "你怎么看？",
-      "pinyin": "Nǐ zěnme kàn?",
+      "pinyin": "Nǐzěnmekàn?",
       "english_answers": [
         "What's your take?"
       ],
@@ -815,7 +815,7 @@
     },
     {
       "hanzi": "对了，……",
-      "pinyin": "Duì le,…",
+      "pinyin": "Duìle,…",
       "english_answers": [
         "Oh, right",
         "by the way…"
@@ -825,7 +825,7 @@
     },
     {
       "hanzi": "话说回来，……",
-      "pinyin": "Huà shuō huílái,…",
+      "pinyin": "Huàshuōhuílái,…",
       "english_answers": [
         "Getting back to the point…"
       ],
@@ -834,7 +834,7 @@
     },
     {
       "hanzi": "顺便问一下。",
-      "pinyin": "Shùnbiàn wèn yíxià.",
+      "pinyin": "Shùnbiànwènyíxià.",
       "english_answers": [
         "By the way, can I ask…?"
       ],
@@ -843,7 +843,7 @@
     },
     {
       "hanzi": "说起来，……",
-      "pinyin": "Shuō qǐlái,…",
+      "pinyin": "Shuōqǐlái,…",
       "english_answers": [
         "Speaking of which…"
       ],
@@ -852,7 +852,7 @@
     },
     {
       "hanzi": "我差点忘了。",
-      "pinyin": "Wǒ chàdiǎn wàng le.",
+      "pinyin": "Wǒchàdiǎnwàngle.",
       "english_answers": [
         "I almost forgot."
       ],
@@ -861,7 +861,7 @@
     },
     {
       "hanzi": "先这样吧。",
-      "pinyin": "Xiān zhèyàng ba.",
+      "pinyin": "Xiānzhèyàngba.",
       "english_answers": [
         "Let's leave it at that for now."
       ],
@@ -870,7 +870,7 @@
     },
     {
       "hanzi": "回头再说。",
-      "pinyin": "Huítóu zài shuō.",
+      "pinyin": "Huítóuzàishuō.",
       "english_answers": [
         "Let's talk about it later."
       ],
@@ -879,7 +879,7 @@
     },
     {
       "hanzi": "我再确认一下。",
-      "pinyin": "Wǒ zài quèrèn yíxià.",
+      "pinyin": "Wǒzàiquèrènyíxià.",
       "english_answers": [
         "Let me double-check."
       ],
@@ -888,7 +888,7 @@
     },
     {
       "hanzi": "说得也是。",
-      "pinyin": "Shuō de yě shì.",
+      "pinyin": "Shuōdeyěshì.",
       "english_answers": [
         "That's a fair point."
       ],
@@ -897,7 +897,7 @@
     },
     {
       "hanzi": "没错。",
-      "pinyin": "Méi cuò.",
+      "pinyin": "Méicuò.",
       "english_answers": [
         "Exactly",
         "that's right."
@@ -907,7 +907,7 @@
     },
     {
       "hanzi": "不完全是。",
-      "pinyin": "Bù wánquán shì.",
+      "pinyin": "Bùwánquánshì.",
       "english_answers": [
         "Not exactly."
       ],
@@ -916,7 +916,7 @@
     },
     {
       "hanzi": "我不是那个意思。",
-      "pinyin": "Wǒ bú shì nàge yìsi.",
+      "pinyin": "Wǒbúshìnàgeyìsi.",
       "english_answers": [
         "That's not what I meant."
       ],
@@ -925,7 +925,7 @@
     },
     {
       "hanzi": "先不说这个。",
-      "pinyin": "Xiān bù shuō zhège.",
+      "pinyin": "Xiānbùshuōzhège.",
       "english_answers": [
         "Let's set that aside for now."
       ],
